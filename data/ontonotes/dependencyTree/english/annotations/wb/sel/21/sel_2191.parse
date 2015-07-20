@@ -1,0 +1,19 @@
+1	Individuals	individual	NOUN	NNS	_	7	nsubj	_	_
+2	or	or	CONJ	CC	_	1	cc	_	_
+3	small	small	ADJ	JJ	_	4	amod	_	_
+4	groups	group	NOUN	NNS	_	1	conj	_	_
+5	of	of	ADP	IN	_	4	prep	_	_
+6	scientists	scientist	NOUN	NNS	_	5	pobj	_	_
+7	write	write	VERB	VBP	_	0	root	_	_
+8	proposals	proposal	NOUN	NNS	_	7	dobj	_	_
+9	that	that	DET	WDT	_	11	dobj	_	_
+10	*T*-1	*t*-1	NOUN	NN	_	11	nsubj	_	_
+11	compete	compete	VERB	VBP	_	8	rcmod	_	_
+12	with	with	ADP	IN	_	11	prep	_	_
+13	other	other	ADJ	JJ	_	14	amod	_	_
+14	scientists	scientist	NOUN	NNS	_	16	poss	_	_
+15	'	'	PART	POS	_	14	possessive	_	_
+16	proposals	proposal	NOUN	NNS	_	12	pobj	_	_
+17	.	.	PUNCT	.	_	7	punct	_	_
+18	"	"	PUNCT	''	_	7	punct	_	_
+

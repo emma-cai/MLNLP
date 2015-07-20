@@ -1,0 +1,22 @@
+1	Now	now	ADV	RB	_	3	advmod	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	punch	punch	VERB	VB	_	0	root	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	tiny	tiny	ADJ	JJ	_	6	amod	_	_
+6	hole	hole	NOUN	NN	_	3	dobj	_	_
+7	in	in	ADP	IN	_	3	prep	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	pipe	pipe	NOUN	NN	_	7	pobj	_	_
+10	and	and	CONJ	CC	_	3	cc	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	leak	leak	NOUN	NN	_	17	nsubj	_	_
+13	0	0	X	X	_	15	dobj	_	_
+14	you	you	PRON	PRP	_	15	nsubj	_	_
+15	have	have	VERB	VBP	_	12	rcmod	_	_
+16	*T*-1	*t*-1	NOUN	NN	_	15	dobj	_	_
+17	is	be	VERB	VBZ	_	3	conj	_	_
+18	the	the	DET	DT	_	20	det	_	_
+19	base	base	ADJ	JJ	_	20	amod	_	_
+20	current	current	NOUN	NN	_	17	xcomp	_	_
+21	.	.	PUNCT	.	_	3	punct	_	_
+

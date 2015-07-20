@@ -1,0 +1,24 @@
+1	Then	then	ADV	RB	_	4	advmod	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	click	click	NOUN	NN	_	0	root	_	_
+5	on	on	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	8	det	_	_
+7	highlighted	highlight	VERB	VBN	_	8	amod	_	_
+8	text	text	NOUN	NN	_	5	pobj	_	_
+9	and	and	CONJ	CC	_	4	cc	_	_
+10	it	it	PRON	PRP	_	12	nsubj	_	_
+11	'll	'll	AUX	MD	_	12	aux	_	_
+12	give	give	VERB	VB	_	4	conj	_	_
+13	you	you	PRON	PRP	_	12	iobj	_	_
+14	correctly	correctly	ADV	RB	_	15	advmod	_	_
+15	spelled	spell	VERB	VBN	_	16	amod	_	_
+16	options	option	NOUN	NNS	_	12	dobj	_	_
+17	0	0	X	X	_	20	dobj	_	_
+18	*PRO*	*pro*	NOUN	NN	_	20	nsubj	_	_
+19	to	to	ADP	TO	_	20	aux	_	_
+20	choose	choose	VERB	VB	_	16	rcmod	_	_
+21	from	from	ADP	IN	_	20	prep	_	_
+22	*T*-1	*t*-1	NOUN	NN	_	21	pobj	_	_
+23	.	.	PUNCT	.	_	4	punct	_	_
+

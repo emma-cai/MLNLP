@@ -1,0 +1,8 @@
+1	Disco	Disco	PROPN	NNP	_	2	nsubj	_	_
+2	make	make	VERB	VBP	_	0	root	_	_
+3	a	a	DET	DT	_	6	det	_	_
+4	very	very	ADV	RB	_	5	advmod	_	_
+5	valid	valid	ADJ	JJ	_	6	amod	_	_
+6	point	point	NOUN	NN	_	2	dobj	_	_
+7	!	!	PUNCT	.	_	2	punct	_	_
+

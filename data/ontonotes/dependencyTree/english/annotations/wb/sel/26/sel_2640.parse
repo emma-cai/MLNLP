@@ -1,0 +1,23 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	you	you	PRON	PRP	_	3	nsubj	_	_
+3	pump	pump	VERB	VBP	_	9	advcl	_	_
+4	4.5	4.5	NUM	CD	_	5	num	_	_
+5	gallons	gallon	NOUN	NNS	_	3	dobj	_	_
+6	,	,	PUNCT	,	_	9	punct	_	_
+7	you	you	PRON	PRP	_	9	nsubj	_	_
+8	've	have	VERB	VBP	_	9	aux	_	_
+9	filled	fill	VERB	VBN	_	0	root	_	_
+10	your	you	PRON	PRP$	_	11	poss	_	_
+11	tank	tank	NOUN	NN	_	9	dobj	_	_
+12	with	with	ADP	IN	_	9	prep	_	_
+13	0.45	0.45	NUM	CD	_	14	num	_	_
+14	gallons	gallon	NOUN	NNS	_	12	pobj	_	_
+15	of	of	ADP	IN	_	14	prep	_	_
+16	ethanol	ethanol	NOUN	NN	_	15	pobj	_	_
+17	and	and	CONJ	CC	_	14	cc	_	_
+18	4.05	4.05	NUM	CD	_	19	num	_	_
+19	gallons	gallon	NOUN	NNS	_	14	conj	_	_
+20	of	of	ADP	IN	_	19	prep	_	_
+21	gasoline	gasoline	NOUN	NN	_	20	pobj	_	_
+22	.	.	PUNCT	.	_	9	punct	_	_
+

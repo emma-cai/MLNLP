@@ -1,0 +1,12 @@
+(S (: -)
+            (NP (NN *PRO*))
+            (VP (VB Soak)
+                (NP (PRP$ your)
+                    (NNS feet))
+                (PP (IN in)
+                        (NP (ADJP (RB very)
+                                  (JJ diluted))
+                            (NN chamomile)
+                            (NN tea))))
+            (. .))
+

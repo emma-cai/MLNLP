@@ -1,0 +1,18 @@
+1	Lithotripsy	lithotripsy	NOUN	NN	_	0	root	_	_
+2	:	:	PUNCT	:	_	1	punct	_	_
+3	Ocean	ocean	NOUN	NN	_	1	dep	_	_
+4	where	where	ADV	WRB	_	6	advmod	_	_
+5	you	you	PRON	PRP	_	6	nsubj	_	_
+6	fall	fall	VERB	VBP	_	3	rcmod	_	_
+7	over	over	ADP	IN	_	6	prep	_	_
+8	smashed	smash	VERB	VBN	_	10	amod	_	_
+9	up	up	PART	RP	_	8	prt	_	_
+10	lumps	lump	NOUN	NNS	_	7	pobj	_	_
+11	of	of	ADP	IN	_	10	prep	_	_
+12	people	people	NOUN	NNS	_	15	poss	_	_
+13	's	's	PART	POS	_	12	possessive	_	_
+14	kidney	kidney	NOUN	NN	_	15	nn	_	_
+15	stones	stone	NOUN	NNS	_	11	pobj	_	_
+16	*T*-1	*t*-1	X	X	_	6	advmod	_	_
+17	.	.	PUNCT	.	_	1	punct	_	_
+

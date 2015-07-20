@@ -1,0 +1,26 @@
+1	In	in	ADP	IN	_	10	prep	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	absence	absence	NOUN	NN	_	1	pobj	_	_
+4	of	of	ADP	IN	_	3	prep	_	_
+5	such	such	ADJ	JJ	_	8	amod	_	_
+6	third	third	ADJ	JJ	_	7	amod	_	_
+7	party	party	NOUN	NN	_	8	nn	_	_
+8	certification	certification	NOUN	NN	_	4	pobj	_	_
+9	you	you	PRON	PRP	_	10	nsubj	_	_
+10	have	have	VERB	VBP	_	0	root	_	_
+11	*-1	*-1	NOUN	NN	_	10	dobj	_	_
+12	to	to	ADP	TO	_	13	aux	_	_
+13	follow	follow	VERB	VB	_	10	ccomp	_	_
+14	some	some	DET	DT	_	16	det	_	_
+15	indirect	indirect	ADJ	JJ	_	16	amod	_	_
+16	methods	method	NOUN	NNS	_	13	dobj	_	_
+17	and	and	CONJ	CC	_	16	cc	_	_
+18	precautions	precaution	NOUN	NNS	_	16	conj	_	_
+19	that	that	DET	WDT	_	21	dobj	_	_
+20	*T*-2	*t*-2	NOUN	NN	_	21	nsubj	_	_
+21	render	render	VERB	VBP	_	16	rcmod	_	_
+22	your	you	PRON	PRP$	_	23	poss	_	_
+23	site	site	NOUN	NN	_	24	nsubj	_	_
+24	reliable	reliable	ADJ	JJ	_	21	xcomp	_	_
+25	.	.	PUNCT	.	_	10	punct	_	_
+

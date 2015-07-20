@@ -1,0 +1,13 @@
+1	How	how	ADV	WRB	_	3	advmod	_	_
+2	leaders	leader	NOUN	NNS	_	3	nsubj	_	_
+3	spend	spend	VERB	VBP	_	8	csubj	_	_
+4	their	they	PRON	PRP$	_	5	poss	_	_
+5	time	time	NOUN	NN	_	3	dobj	_	_
+6	*T*-1	*t*-1	X	X	_	3	advmod	_	_
+7	may	may	AUX	MD	_	8	aux	_	_
+8	be	be	VERB	VB	_	0	root	_	_
+9	disproportionate	disproportionate	ADJ	JJ	_	11	amod	_	_
+10	to	to	ADP	TO	_	11	dep	_	_
+11	optimum	optimum	ADJ	JJ	_	8	acomp	_	_
+12	.	.	PUNCT	.	_	8	punct	_	_
+

@@ -1,0 +1,11 @@
+(S (NP (DT No)
+                  (NN assistant))
+        (VP (VBN needed)
+            (NP (NN *-1))
+            (S (NP (NN *PRO*))
+                   (VP (TO to)
+                       (VP (VB pump)
+                           (NP (NN brake)
+                               (NN pedal))))))
+        (. .))
+

@@ -1,0 +1,19 @@
+1	Nope	nope	INTJ	UH	_	5	discourse	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	ticking	ticking	NOUN	NN	_	5	nsubj	_	_
+5	is	be	VERB	VBZ	_	0	root	_	_
+6	just	just	ADV	RB	_	5	advmod	_	_
+7	the	the	DET	DT	_	8	det	_	_
+8	drive	drive	NOUN	NN	_	9	nsubj	_	_
+9	recalibrating	recalibrate	VERB	VBG	_	5	dep	_	_
+10	when	when	ADV	WRB	_	14	advmod	_	_
+11	it	it	PRON	PRP	_	14	nsubj	_	_
+12	ca	can	AUX	MD	_	14	aux	_	_
+13	nt	nt	ADV	RB	_	14	neg	_	_
+14	read	read	VERB	VB	_	9	advcl	_	_
+15	the	the	DET	DT	_	16	det	_	_
+16	platter	platter	NOUN	NN	_	14	dobj	_	_
+17	*T*-1	*t*-1	X	X	_	14	advmod	_	_
+18	.	.	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,10 @@
+(NP (JJ Strong)
+         (NN ability)
+         (S (NP (NN *PRO*))
+            (VP (TO to)
+                (VP (VB handle)
+                    (NP (JJ multiple)
+                        (NNS projects))
+                    (ADVP (RB simultaneously)))))
+         (. .))
+

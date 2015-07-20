@@ -1,0 +1,3492 @@
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	tell	tell	VERB	VB	_	0	root	_	_
+4	me	I	PRON	PRP	_	3	iobj	_	_
+5	a	a	DET	DT	_	7	det	_	_
+6	little	little	ADJ	JJ	_	7	amod	_	_
+7	bit	bit	NOUN	NN	_	3	dobj	_	_
+8	about	about	ADP	IN	_	3	prep	_	_
+9	the	the	DET	DT	_	10	det	_	_
+10	day	day	NOUN	NN	_	8	pobj	_	_
+11	0	0	X	X	_	14	advmod	_	_
+12	she	she	PRON	PRP	_	14	nsubjpass	_	_
+13	was	be	VERB	VBD	_	14	auxpass	_	_
+14	born	bear	VERB	VBN	_	10	dep	_	_
+15	*-1	*-1	NOUN	NN	_	14	dobj	_	_
+16	*T*-2	*t*-2	X	X	_	14	advmod	_	_
+17	.	.	PUNCT	.	_	3	punct	_	_
+
+1	When	when	ADV	WRB	_	5	advmod	_	_
+2	did	do	VERB	VBD	_	5	aux	_	_
+3	you	you	PRON	PRP	_	5	nsubj	_	_
+4	first	first	ADV	RB	_	5	advmod	_	_
+5	see	see	VERB	VB	_	0	root	_	_
+6	her	she	PRON	PRP	_	5	dobj	_	_
+7	*T*-1	*t*-1	X	X	_	5	advmod	_	_
+8	?	?	PUNCT	.	_	5	punct	_	_
+
+1	%um	%um	INTJ	UH	_	5	discourse	_	_
+2	what	what	PRON	WP	_	4	dobj	_	_
+3	*T*-1	*t*-1	NOUN	NN	_	4	nsubj	_	_
+4	happened	happen	VERB	VBD	_	5	csubj	_	_
+5	is	be	VERB	VBZ	_	0	root	_	_
+6	0	0	X	X	_	8	dep	_	_
+7	we	we	PRON	PRP	_	8	nsubj	_	_
+8	went	go	VERB	VBD	_	5	ccomp	_	_
+9	to	to	ADP	IN	_	8	prep	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	hospital	hospital	NOUN	NN	_	9	pobj	_	_
+12	,	,	PUNCT	,	_	5	punct	_	_
+
+1	she	she	PRON	PRP	_	3	nsubjpass	_	_
+2	was	be	VERB	VBD	_	3	auxpass	_	_
+3	induced	induce	VERB	VBN	_	0	root	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	we	we	PRON	PRP	_	3	nsubj	_	_
+3	get	get	VERB	VBP	_	0	root	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	phone	phone	NOUN	NN	_	6	nn	_	_
+6	call	call	NOUN	NN	_	3	dobj	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	called	call	VERB	VBD	_	0	root	_	_
+
+1	and	and	CONJ	CC	_	5	cc	_	_
+2	they	they	PRON	PRP	_	5	nsubj	_	_
+3	did	do	VERB	VBD	_	5	aux	_	_
+4	n't	not	ADV	RB	_	5	neg	_	_
+5	have	have	VERB	VB	_	0	root	_	_
+6	any	any	DET	DT	_	7	det	_	_
+7	beds	bed	NOUN	NNS	_	5	dobj	_	_
+8	.	.	PUNCT	.	_	5	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	no	no	INTJ	UH	_	1	dep	_	_
+3	.	.	PUNCT	.	_	1	punct	_	_
+
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	called	call	VERB	VBD	_	0	root	_	_
+4	us	we	PRON	PRP	_	3	dobj	_	_
+5	and	and	CONJ	CC	_	3	cc	_	_
+6	told	tell	VERB	VBD	_	3	conj	_	_
+7	us	we	PRON	PRP	_	6	iobj	_	_
+8	that	that	DET	DT	_	6	dobj	_	_
+9	,	,	PUNCT	,	_	3	punct	_	_
+
+1	but	but	CONJ	CC	_	5	cc	_	_
+2	then	then	ADV	RB	_	5	advmod	_	_
+3	they	they	PRON	PRP	_	5	nsubj	_	_
+4	did	do	VERB	VBD	_	5	aux	_	_
+5	get	get	VERB	VB	_	0	root	_	_
+6	a	a	DET	DT	_	7	det	_	_
+7	bed	bed	NOUN	NN	_	5	dobj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	went	go	VERB	VBD	_	0	root	_	_
+4	in	in	ADV	RB	_	3	advmod	_	_
+5	at	at	ADP	IN	_	3	prep	_	_
+6	eight	eight	NUM	CD	_	5	pobj	_	_
+7	.	.	PUNCT	.	_	6	punct	_	_
+8	mhm	mhm	INTJ	UH	_	6	dep	_	_
+9	.	.	PUNCT	.	_	8	punct	_	_
+10	Or	or	CONJ	CC	_	6	cc	_	_
+11	seven	seven	NUM	CD	_	12	num	_	_
+12	thirty	thirty	NUM	CD	_	6	conj	_	_
+13	or	or	CONJ	CC	_	6	cc	_	_
+14	,	,	PUNCT	,	_	3	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	guess	guess	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	she	she	PRON	PRP	_	5	nsubj	_	_
+5	went	go	VERB	VBD	_	2	ccomp	_	_
+6	in	in	ADV	RB	_	5	advmod	_	_
+7	at	at	ADP	IN	_	5	prep	_	_
+8	seven	seven	NUM	CD	_	9	num	_	_
+9	thirty	thirty	NUM	CD	_	7	pobj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	they	they	PRON	PRP	_	3	nsubj	_	_
+3	started	start	VERB	VBD	_	0	root	_	_
+4	her	she	PRON	PRP	_	3	dobj	_	_
+5	at	at	ADP	IN	_	3	prep	_	_
+6	eight	eight	NUM	CD	_	5	pobj	_	_
+7	or	or	CONJ	CC	_	6	cc	_	_
+
+1	so	so	ADV	RB	_	4	advmod	_	_
+2	so	so	ADV	RB	_	4	advmod	_	_
+3	we	we	PRON	PRP	_	4	nsubj	_	_
+4	hopped	hop	VERB	VBD	_	0	root	_	_
+5	in	in	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	car	car	NOUN	NN	_	5	pobj	_	_
+8	and	and	CONJ	CC	_	4	cc	_	_
+9	drove	drive	VERB	VBD	_	4	conj	_	_
+10	down	down	ADV	RB	_	9	advmod	_	_
+11	*PRO*-1	*pro*-1	NOUN	NN	_	9	dobj	_	_
+12	to	to	ADP	TO	_	13	aux	_	_
+13	be	be	VERB	VB	_	9	xcomp	_	_
+14	there	there	ADV	RB	_	13	advmod	_	_
+15	mhm	mhm	INTJ	UH	_	13	dep	_	_
+16	.	.	PUNCT	.	_	15	punct	_	_
+17	%mm	%mm	INTJ	UH	_	15	dep	_	_
+18	mhm	mhm	INTJ	UH	_	17	discourse	_	_
+19	.	.	PUNCT	.	_	17	punct	_	_
+20	for	for	ADP	IN	_	13	prep	_	_
+21	the	the	DET	DT	_	22	det	_	_
+22	day	day	NOUN	NN	_	20	pobj	_	_
+23	.	.	PUNCT	.	_	4	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	5	cc	_	_
+2	%um	%um	INTJ	UH	_	5	discourse	_	_
+3	,	,	PUNCT	,	_	5	punct	_	_
+4	we	we	PRON	PRP	_	5	nsubj	_	_
+5	hung	hang	VERB	VBD	_	0	root	_	_
+6	out	out	PART	RP	_	5	prt	_	_
+7	all	all	DET	DT	_	8	det	_	_
+8	day	day	NOUN	NN	_	5	tmod	_	_
+9	.	.	PUNCT	.	_	5	punct	_	_
+
+1	We	we	PRON	PRP	_	2	nsubj	_	_
+2	had	have	VERB	VBD	_	5	dep	_	_
+3	%uh	%uh	INTJ	UH	_	5	discourse	_	_
+4	we	we	PRON	PRP	_	5	nsubj	_	_
+5	had	have	VERB	VBD	_	0	root	_	_
+6	some	some	DET	DT	_	8	det	_	_
+7	difficult	difficult	ADJ	JJ	_	8	amod	_	_
+8	times	time	NOUN	NNS	_	5	dobj	_	_
+9	with	with	ADP	IN	_	5	prep	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	lawyer	lawyer	NOUN	NN	_	9	pobj	_	_
+12	down	down	ADV	RB	_	13	advmod	_	_
+13	there	there	ADV	RB	_	5	advmod	_	_
+14	.	.	PUNCT	.	_	5	punct	_	_
+
+1	He	he	PRON	PRP	_	3	nsubjpass	_	_
+2	was	be	VERB	VBD	_	3	auxpass	_	_
+3	supposed	suppose	VERB	VBN	_	0	root	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	show	show	VERB	VB	_	3	xcomp	_	_
+7	up	up	PART	RP	_	6	prt	_	_
+
+1	%mm	%mm	INTJ	UH	_	0	root	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	we	we	PRON	PRP	_	3	nsubj	_	_
+3	waited	wait	VERB	VBD	_	0	root	_	_
+4	all	all	DET	DT	_	5	det	_	_
+5	day	day	NOUN	NN	_	3	tmod	_	_
+
+1	and	and	CONJ	CC	_	5	cc	_	_
+2	he	he	PRON	PRP	_	5	nsubj	_	_
+3	never	never	ADV	RBR	_	5	advmod	_	_
+4	bloody	bloody	INTJ	UH	_	5	discourse	_	_
+5	showed	show	VERB	VBD	_	0	root	_	_
+6	up	up	PART	RP	_	5	prt	_	_
+7	.	.	PUNCT	.	_	5	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	no	no	INTJ	UH	_	1	dep	_	_
+3	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	4	cc	_	_
+2	%um	%um	INTJ	UH	_	4	discourse	_	_
+3	,	,	PUNCT	,	_	4	punct	_	_
+4	he	he	PRON	PRP	_	9	dep	_	_
+5	and	and	CONJ	CC	_	9	cc	_	_
+6	also	also	ADV	RB	_	7	advmod	_	_
+7	she	she	PRON	PRP	_	9	conj	_	_
+8	was	be	VERB	VBD	_	9	aux	_	_
+9	expecting	expect	VERB	VBG	_	0	root	_	_
+10	him	he	PRON	PRP	_	9	dobj	_	_
+11	too	too	ADV	RB	_	9	advmod	_	_
+12	.	.	PUNCT	.	_	9	punct	_	_
+13	mhm	mhm	INTJ	UH	_	9	dep	_	_
+14	.	.	PUNCT	.	_	13	punct	_	_
+15	You	you	PRON	PRP	_	16	nsubj	_	_
+16	know	know	VERB	VBP	_	9	parataxis	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	so	so	ADV	RB	_	4	advmod	_	_
+3	that	that	DET	DT	_	4	nsubj	_	_
+4	was	be	VERB	VBD	_	0	root	_	_
+5	frustrating	frustrating	ADJ	JJ	_	4	acomp	_	_
+6	.	.	PUNCT	.	_	4	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	But	but	CONJ	CC	_	4	cc	_	_
+2	anyway	anyway	INTJ	UH	_	4	discourse	_	_
+3	we	we	PRON	PRP	_	4	nsubj	_	_
+4	waited	wait	VERB	VBD	_	0	root	_	_
+5	all	all	DET	DT	_	6	det	_	_
+6	day	day	NOUN	NN	_	4	tmod	_	_
+
+1	and	and	CONJ	CC	_	10	cc	_	_
+2	%um	%um	INTJ	UH	_	10	discourse	_	_
+3	But	but	CONJ	CC	_	10	cc	_	_
+4	then	then	ADV	RB	_	10	advmod	_	_
+5	five	five	NUM	CD	_	7	num	_	_
+6	twenty	twenty	NUM	CD	_	7	num	_	_
+7	five	five	NUM	CD	_	10	conj	_	_
+8	Mae	Mae	PROPN	NNP	_	10	nsubjpass	_	_
+9	was	be	VERB	VBD	_	10	auxpass	_	_
+10	born	bear	VERB	VBN	_	0	root	_	_
+11	*-1	*-1	NOUN	NN	_	10	dobj	_	_
+12	.	.	PUNCT	.	_	10	punct	_	_
+
+1	Right	right	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	7	cc	_	_
+2	the	the	DET	DT	_	4	det	_	_
+3	birth	birth	NOUN	NN	_	4	nn	_	_
+4	mother	mother	NOUN	NN	_	6	poss	_	_
+5	's	's	PART	POS	_	4	possessive	_	_
+6	mother	mother	NOUN	NN	_	7	nsubj	_	_
+7	was	be	VERB	VBD	_	0	root	_	_
+8	with	with	ADP	IN	_	7	prep	_	_
+9	her	she	PRON	PRP	_	8	pobj	_	_
+10	through	through	ADP	IN	_	7	prep	_	_
+11	the	the	DET	DT	_	13	det	_	_
+12	whole	whole	ADJ	JJ	_	13	amod	_	_
+13	thing	thing	NOUN	NN	_	10	pobj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	fantastic	fantastic	ADJ	JJ	_	3	acomp	_	_
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	just	just	ADV	RB	_	4	advmod	_	_
+4	great	great	ADJ	JJ	_	2	acomp	_	_
+5	.	.	PUNCT	.	_	2	punct	_	_
+
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	so	so	ADV	RB	_	4	advmod	_	_
+4	nice	nice	ADJ	JJ	_	2	acomp	_	_
+5	to	to	ADP	IN	_	4	prep	_	_
+6	us	we	PRON	PRP	_	5	pobj	_	_
+7	and	and	CONJ	CC	_	4	cc	_	_
+8	so	so	ADV	RB	_	9	advmod	_	_
+9	solid	solid	ADJ	JJ	_	4	conj	_	_
+10	there	there	ADV	RB	_	9	advmod	_	_
+11	for	for	ADP	IN	_	9	prep	_	_
+12	her	she	PRON	PRP$	_	13	poss	_	_
+13	daughter	daughter	NOUN	NN	_	11	pobj	_	_
+14	and	and	CONJ	CC	_	4	cc	_	_
+15	just	just	ADV	RB	_	23	advmod	_	_
+16	a	a	DET	DT	_	23	det	_	_
+17	wonderful	wonderful	ADJ	JJ	_	23	amod	_	_
+18	uh-huh	uh-huh	ADJ	JJ	_	20	discourse	_	_
+19	.	.	PUNCT	.	_	18	punct	_	_
+20	mhm	mhm	INTJ	UH	_	23	dep	_	_
+21	.	.	PUNCT	.	_	20	punct	_	_
+22	Woman	woman	NOUN	NN	_	20	dep	_	_
+23	person	person	NOUN	NN	_	4	conj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	%um	%um	INTJ	UH	_	3	discourse	_	_
+3	She	she	PRON	PRP	_	0	root	_	_
+4	was	be	VERB	VBD	_	3	vmod	_	_
+5	great	great	ADJ	JJ	_	4	acomp	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	came	come	VERB	VBD	_	0	root	_	_
+3	out	out	ADV	RB	_	2	advmod	_	_
+4	,	,	PUNCT	,	_	2	punct	_	_
+5	you	you	PRON	PRP	_	6	nsubj	_	_
+6	know	know	VERB	VBP	_	2	parataxis	_	_
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	a	a	DET	DT	_	10	det	_	_
+9	couple	couple	NOUN	NN	_	10	nn	_	_
+10	times	time	NOUN	NNS	_	2	dobj	_	_
+11	during	during	ADP	IN	_	10	prep	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	day	day	NOUN	NN	_	11	pobj	_	_
+
+1	she	she	PRON	PRP	_	2	nsubj	_	_
+2	came	come	VERB	VBD	_	0	root	_	_
+3	out	out	ADV	RB	_	2	advmod	_	_
+4	and	and	CONJ	CC	_	2	cc	_	_
+5	gave	give	VERB	VBD	_	2	conj	_	_
+6	us	we	PRON	PRP	_	5	iobj	_	_
+7	little	little	ADJ	JJ	_	9	amod	_	_
+8	progress	progress	NOUN	NN	_	9	nn	_	_
+9	reports	report	NOUN	NNS	_	5	dobj	_	_
+10	of	of	ADP	IN	_	9	prep	_	_
+11	how	how	ADV	WRB	_	14	advmod	_	_
+12	things	thing	NOUN	NNS	_	14	nsubj	_	_
+13	were	be	VERB	VBD	_	14	aux	_	_
+14	going	go	VERB	VBG	_	10	pcomp	_	_
+15	*T*-1	*t*-1	X	X	_	14	advmod	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	actually	actually	ADV	RB	_	4	advmod	_	_
+3	it	it	PRON	PRP	_	4	nsubj	_	_
+4	was	be	VERB	VBD	_	0	root	_	_
+5	very	very	ADV	RB	_	6	advmod	_	_
+6	funny	funny	ADJ	JJ	_	4	acomp	_	_
+7	uh-huh	uh-huh	INTJ	UH	_	4	dep	_	_
+8	.	.	PUNCT	.	_	7	punct	_	_
+9	because	because	ADP	IN	_	13	mark	_	_
+10	the	the	DET	DT	_	12	det	_	_
+11	first	first	ADJ	JJ	_	12	amod	_	_
+12	time	time	NOUN	NN	_	13	dep	_	_
+13	she	she	PRON	PRP	_	4	advcl	_	_
+14	out	out	PART	RP	_	13	dep	_	_
+15	,	,	PUNCT	,	_	4	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	mean	mean	VERB	VBP	_	5	parataxis	_	_
+3	here	here	ADV	RB	_	5	advmod	_	_
+4	we	we	PRON	PRP	_	5	nsubj	_	_
+5	're	be	VERB	VBP	_	0	root	_	_
+6	out	out	ADV	RB	_	7	advmod	_	_
+7	there	there	ADV	RB	_	5	advmod	_	_
+8	*PRO*-1	*pro*-1	NOUN	NN	_	11	nsubj	_	_
+9	sort	sort	ADV	RB	_	10	advmod	_	_
+10	of	of	ADV	RB	_	11	advmod	_	_
+11	ringing	ring	VERB	VBG	_	5	ccomp	_	_
+12	our	we	PRON	PRP$	_	13	poss	_	_
+13	hands	hand	NOUN	NNS	_	11	dobj	_	_
+14	and	and	CONJ	CC	_	11	cc	_	_
+15	uh-huh	uh-huh	INTJ	UH	_	11	conj	_	_
+16	.	.	PUNCT	.	_	15	punct	_	_
+17	sweating	sweat	VERB	VBG	_	11	dep	_	_
+18	it	it	PRON	PRP	_	17	dobj	_	_
+19	out	out	PART	RP	_	17	prt	_	_
+20	and	and	CONJ	CC	_	11	cc	_	_
+21	wondering	wonder	VERB	VBG	_	11	conj	_	_
+22	how	how	ADV	WRB	_	25	advmod	_	_
+23	everybody	everybody	NOUN	NN	_	25	nsubj	_	_
+24	is	be	VERB	VBZ	_	25	aux	_	_
+25	going	go	VERB	VBG	_	21	ccomp	_	_
+26	*T*-2	*t*-2	X	X	_	25	advmod	_	_
+27	and	and	CONJ	CC	_	11	cc	_	_
+28	everything	everything	NOUN	NN	_	11	conj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	came	come	VERB	VBD	_	0	root	_	_
+4	out	out	ADV	RB	_	3	advmod	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	could	could	AUX	MD	_	4	aux	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	go	go	VERB	VB	_	0	root	_	_
+5	downstairs	downstairs	ADV	RB	_	4	advmod	_	_
+6	because	because	ADP	IN	_	11	mark	_	_
+7	%um	%um	INTJ	UH	_	11	discourse	_	_
+8	,	,	PUNCT	,	_	11	punct	_	_
+9	her	she	PRON	PRP$	_	10	poss	_	_
+10	daughter	daughter	NOUN	NN	_	11	nsubj	_	_
+11	wanted	want	VERB	VBD	_	4	advcl	_	_
+12	playing	playing	NOUN	NN	_	13	nn	_	_
+13	cards	card	NOUN	NNS	_	11	dobj	_	_
+14	.	.	PUNCT	.	_	4	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	guess	guess	VERB	VBP	_	0	root	_	_
+4	0	0	X	X	_	6	dep	_	_
+5	she	she	PRON	PRP	_	6	nsubj	_	_
+6	was	be	VERB	VBD	_	3	ccomp	_	_
+7	bored	bored	ADJ	JJ	_	6	acomp	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	You	you	PRON	PRP	_	2	nsubj	_	_
+2	know	know	VERB	VBP	_	4	dep	_	_
+3	*PRO*	*pro*	NOUN	NN	_	4	nsubj	_	_
+4	passing	pass	VERB	VBG	_	0	root	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	time	time	NOUN	NN	_	4	dobj	_	_
+
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	went	go	VERB	VBD	_	0	root	_	_
+4	downstairs	downstairs	ADV	RB	_	3	advmod	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	3	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	get	get	VERB	VB	_	3	xcomp	_	_
+8	playing	playing	NOUN	NN	_	9	nn	_	_
+9	cards	card	NOUN	NNS	_	7	dobj	_	_
+10	with	with	ADP	IN	_	3	prep	_	_
+11	her	she	PRON	PRP$	_	10	pobj	_	_
+
+1	and	and	CONJ	CC	_	9	cc	_	_
+2	uh-huh	uh-huh	INTJ	UH	_	9	dep	_	_
+3	.	.	PUNCT	.	_	2	punct	_	_
+4	and	and	CONJ	CC	_	9	cc	_	_
+5	then	then	ADV	RB	_	9	advmod	_	_
+6	later	later	ADV	RB	_	7	advmod	_	_
+7	on	on	ADV	RB	_	9	advmod	_	_
+8	she	she	PRON	PRP	_	9	nsubj	_	_
+9	came	come	VERB	VBD	_	0	root	_	_
+10	out	out	ADV	RB	_	9	advmod	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	wanted	want	VERB	VBD	_	0	root	_	_
+4	some	some	DET	DT	_	6	det	_	_
+5	chewing	chewing	NOUN	NN	_	6	nn	_	_
+6	gum	gum	NOUN	NN	_	3	dobj	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	%um	%um	INTJ	UH	_	4	discourse	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	guess	guess	VERB	VBP	_	0	root	_	_
+5	0	0	X	X	_	9	dep	_	_
+6	your	you	PRON	PRP$	_	7	poss	_	_
+7	mouth	mouth	NOUN	NN	_	9	nsubj	_	_
+8	gets	get	VERB	VBZ	_	9	dep	_	_
+9	dry	dry	ADJ	JJ	_	4	ccomp	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	you	you	PRON	PRP	_	4	nsubj	_	_
+3	just	just	ADV	RB	_	4	advmod	_	_
+4	want	want	VERB	VBP	_	0	root	_	_
+5	something	something	NOUN	NN	_	4	dobj	_	_
+6	.	.	PUNCT	.	_	4	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	'm	be	VERB	VBP	_	0	root	_	_
+3	sure	sure	ADJ	JJ	_	2	acomp	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+1	So	so	ADV	RB	_	10	advmod	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	know	know	VERB	VBP	_	10	parataxis	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	it	it	PRON	PRP	_	7	nsubj	_	_
+7	was	be	VERB	VBD	_	10	ccomp	_	_
+8	,	,	PUNCT	,	_	10	punct	_	_
+9	it	it	PRON	PRP	_	10	nsubj	_	_
+10	was	be	VERB	VBD	_	0	root	_	_
+11	kind	kind	ADV	RB	_	12	advmod	_	_
+12	of	of	ADV	RB	_	13	advmod	_	_
+13	funny	funny	ADJ	JJ	_	10	acomp	_	_
+14	these	these	DET	DT	_	15	det	_	_
+15	very	very	ADV	RB	_	10	xcomp	_	_
+
+1	Reassuring	reassuring	ADJ	JJ	_	7	dep	_	_
+2	in	in	ADP	IN	_	1	prep	_	_
+3	a	a	DET	DT	_	4	det	_	_
+4	way	way	NOUN	NN	_	2	pobj	_	_
+5	I	I	PRON	PRP	_	7	nsubj	_	_
+6	would	would	AUX	MD	_	7	aux	_	_
+7	think	think	VERB	VB	_	0	root	_	_
+8	*T*-1	*t*-1	X	X	_	7	dep	_	_
+9	.	.	PUNCT	.	_	7	punct	_	_
+
+1	y-	y-	INTJ	UH	_	0	root	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	yeah	yeah	INTJ	UH	_	1	dep	_	_
+4	,	,	PUNCT	,	_	1	punct	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	these	these	DET	DT	_	3	det	_	_
+3	very	very	ADV	RB	_	0	root	_	_
+4	%um	%um	INTJ	UH	_	3	discourse	_	_
+5	,	,	PUNCT	,	_	3	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	you	you	PRON	PRP	_	2	nsubj	_	_
+2	know	know	VERB	VBP	_	4	parataxis	_	_
+3	they	they	PRON	PRP	_	4	nsubj	_	_
+4	're	be	VERB	VBP	_	0	root	_	_
+5	such	such	ADJ	JJ	_	10	amod	_	_
+6	sort	sort	ADV	RB	_	7	advmod	_	_
+7	of	of	ADV	RB	_	8	advmod	_	_
+8	specific	specific	ADJ	JJ	_	10	amod	_	_
+9	little	little	ADJ	JJ	_	10	amod	_	_
+10	things	thing	NOUN	NNS	_	4	xcomp	_	_
+11	.	.	PUNCT	.	_	4	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	9	cc	_	_
+2	%um	%um	INTJ	UH	_	9	discourse	_	_
+3	,	,	PUNCT	,	_	9	punct	_	_
+4	then	then	ADV	RB	_	9	advmod	_	_
+5	but	but	CONJ	CC	_	9	cc	_	_
+6	they	they	PRON	PRP	_	9	conj	_	_
+7	kind	kind	ADV	RB	_	8	advmod	_	_
+8	of	of	ADV	RB	_	9	advmod	_	_
+9	held	hold	VERB	VBD	_	0	root	_	_
+10	her	she	PRON	PRP	_	9	dobj	_	_
+11	back	back	ADV	RB	_	9	advmod	_	_
+12	.	.	PUNCT	.	_	9	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	8	dep	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	baby	baby	NOUN	NN	_	8	nsubj	_	_
+6	would	would	AUX	MD	_	8	aux	_	_
+7	've	have	VERB	VB	_	8	aux	_	_
+8	born	bear	VERB	VBN	_	2	ccomp	_	_
+9	,	,	PUNCT	,	_	8	punct	_	_
+10	been	be	VERB	VBN	_	11	auxpass	_	_
+11	born	bear	VERB	VBN	_	8	dep	_	_
+12	*-1	*-1	NOUN	NN	_	11	dobj	_	_
+13	sooner	sooner	ADV	RBR	_	11	advmod	_	_
+
+1	but	but	CONJ	CC	_	6	cc	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	doctor	doctor	NOUN	NN	_	6	nsubj	_	_
+4	did	do	VERB	VBD	_	6	aux	_	_
+5	n't	not	ADV	RB	_	6	neg	_	_
+6	get	get	VERB	VB	_	0	root	_	_
+7	there	there	ADV	RB	_	6	advmod	_	_
+8	till	till	ADP	IN	_	6	prep	_	_
+9	around	around	ADV	RB	_	10	advmod	_	_
+10	three	three	NUM	CD	_	8	pobj	_	_
+11	.	.	PUNCT	.	_	6	punct	_	_
+
+1	So	so	ADV	RB	_	0	root	_	_
+
+1	so	so	ADV	RB	_	3	advmod	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	thought	think	VERB	VBD	_	0	root	_	_
+4	0	0	X	X	_	11	dep	_	_
+5	once	once	ADP	IN	_	8	mark	_	_
+6	it	it	PRON	PRP	_	8	nsubjpass	_	_
+7	was	be	VERB	VBD	_	8	auxpass	_	_
+8	induced	induce	VERB	VBN	_	11	advcl	_	_
+9	*-1	*-1	NOUN	NN	_	8	dobj	_	_
+10	there	there	DET	EX	_	11	expl	_	_
+11	was	be	VERB	VBD	_	3	ccomp	_	_
+12	like	like	INTJ	UH	_	11	discourse	_	_
+13	no	no	DET	DT	_	11	nsubj	_	_
+14	*PRO*	*pro*	NOUN	NN	_	15	nsubj	_	_
+15	stopping	stop	VERB	VBG	_	13	dep	_	_
+16	it	it	PRON	PRP	_	15	dobj	_	_
+17	.	.	PUNCT	.	_	3	punct	_	_
+
+1	No	no	INTJ	UH	_	4	discourse	_	_
+2	they	they	PRON	PRP	_	4	nsubj	_	_
+3	can	can	AUX	MD	_	4	aux	_	_
+4	hold	hold	VERB	VB	_	0	root	_	_
+5	you	you	PRON	PRP	_	4	dobj	_	_
+6	back	back	ADV	RB	_	4	advmod	_	_
+7	%hm	%hm	INTJ	UH	_	4	dep	_	_
+8	.	.	PUNCT	.	_	7	punct	_	_
+9	a	a	DET	DT	_	11	det	_	_
+10	little	little	ADJ	JJ	_	11	amod	_	_
+11	bit	bit	NOUN	NN	_	4	dobj	_	_
+12	,	,	PUNCT	,	_	4	punct	_	_
+13	you	you	PRON	PRP	_	14	nsubj	_	_
+14	know	know	VERB	VBP	_	4	parataxis	_	_
+15	.	.	PUNCT	.	_	4	punct	_	_
+
+1	%hm	%hm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Once	once	ADP	IN	_	0	root	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	depends	depend	VERB	VBZ	_	0	root	_	_
+3	how	how	ADV	WRB	_	4	advmod	_	_
+4	much	much	ADJ	JJ	_	5	amod	_	_
+5	stuff	stuff	NOUN	NN	_	7	dobj	_	_
+6	they	they	PRON	PRP	_	7	nsubj	_	_
+7	give	give	VERB	VBP	_	2	ccomp	_	_
+8	you	you	PRON	PRP	_	7	iobj	_	_
+9	*T*-1	*t*-1	NOUN	NN	_	7	dobj	_	_
+10	.	.	PUNCT	.	_	2	punct	_	_
+
+1	How	how	ADV	WRB	_	2	advmod	_	_
+2	much	much	ADJ	JJ	_	3	amod	_	_
+3	stuff	stuff	NOUN	NN	_	5	dobj	_	_
+4	they	they	PRON	PRP	_	5	nsubj	_	_
+5	give	give	VERB	VBP	_	0	root	_	_
+6	you	you	PRON	PRP	_	5	iobj	_	_
+7	*T*-1	*t*-1	NOUN	NN	_	5	dobj	_	_
+8	.	.	PUNCT	.	_	5	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Stuff	stuff	NOUN	NN	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	But	but	CONJ	CC	_	4	cc	_	_
+2	anyway	anyway	INTJ	UH	_	4	discourse	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	think	think	VERB	VBP	_	0	root	_	_
+5	0	0	X	X	_	8	dep	_	_
+6	they	they	PRON	PRP	_	8	nsubj	_	_
+7	were	be	VERB	VBD	_	8	aux	_	_
+8	holding	hold	VERB	VBG	_	4	ccomp	_	_
+9	her	she	PRON	PRP	_	8	dobj	_	_
+10	back	back	ADV	RB	_	8	advmod	_	_
+11	a	a	DET	DT	_	13	det	_	_
+12	little	little	ADJ	JJ	_	13	amod	_	_
+13	bit	bit	NOUN	NN	_	8	dobj	_	_
+14	because	because	ADP	IN	_	16	mark	_	_
+15	they	they	PRON	PRP	_	16	nsubj	_	_
+16	wanted	want	VERB	VBD	_	8	advcl	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	doctor	doctor	NOUN	NN	_	16	dep	_	_
+19	there	there	ADV	RB	_	18	advmod	_	_
+20	.	.	PUNCT	.	_	4	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	%um	%um	INTJ	UH	_	6	discourse	_	_
+2	,	,	PUNCT	,	_	6	punct	_	_
+3	and	and	CONJ	CC	_	6	cc	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	doctor	doctor	NOUN	NN	_	6	conj	_	_
+6	showed	show	VERB	VBD	_	0	root	_	_
+7	up	up	PART	RP	_	6	prt	_	_
+8	around	around	ADV	RB	_	9	advmod	_	_
+9	three	three	NUM	CD	_	6	dobj	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	Mae	Mae	PROPN	NNP	_	4	nsubjpass	_	_
+3	was	be	VERB	VBD	_	4	auxpass	_	_
+4	born	bear	VERB	VBN	_	0	root	_	_
+5	*-1	*-1	NOUN	NN	_	4	dobj	_	_
+6	at	at	ADP	IN	_	4	prep	_	_
+7	five	five	NUM	CD	_	9	num	_	_
+8	twenty	twenty	NUM	CD	_	9	num	_	_
+9	five	five	NUM	CD	_	6	pobj	_	_
+10	.	.	PUNCT	.	_	4	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Eight	eight	NUM	CD	_	2	num	_	_
+2	pounds	pound	NOUN	NNS	_	0	root	_	_
+3	eight	eight	NUM	CD	_	4	num	_	_
+4	ounces	ounce	NOUN	NNS	_	2	dep	_	_
+5	.	.	PUNCT	.	_	2	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	3	cc	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	screaming	scream	VERB	VBG	_	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+2	Really	really	ADV	RB	_	3	advmod	_	_
+3	screaming	scream	VERB	VBG	_	0	root	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	little	little	ADJ	JJ	_	6	npadvmod	_	_
+6	scared	scared	ADJ	JJ	_	3	acomp	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	thought	think	VERB	VBD	_	0	root	_	_
+3	oh	oh	INTJ	UH	_	9	discourse	_	_
+4	my	my	INTJ	UH	_	3	dep	_	_
+5	god	god	INTJ	UH	_	3	dep	_	_
+6	what	what	PRON	WP	_	9	dep	_	_
+7	have	have	VERB	VBP	_	9	aux	_	_
+8	we	we	PRON	PRP	_	9	nsubj	_	_
+9	wrought	work	VERB	VBN	_	2	ccomp	_	_
+10	*T*-1	*t*-1	NOUN	NN	_	9	dobj	_	_
+11	.	.	PUNCT	.	_	2	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	3	cc	_	_
+2	there	there	DET	EX	_	3	expl	_	_
+3	were	be	VERB	VBD	_	0	root	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	lot	lot	NOUN	NN	_	3	nsubj	_	_
+6	of	of	ADP	IN	_	5	prep	_	_
+7	babies	baby	NOUN	NNS	_	6	pobj	_	_
+8	being	be	VERB	VBG	_	9	auxpass	_	_
+9	born	bear	VERB	VBN	_	7	vmod	_	_
+10	*	*	NOUN	NN	_	9	dobj	_	_
+11	.	.	PUNCT	.	_	3	punct	_	_
+
+1	You	you	PRON	PRP	_	4	nsubj	_	_
+2	did	do	VERB	VBD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	hear	hear	VERB	VB	_	0	root	_	_
+5	them	they	PRON	PRP	_	4	dobj	_	_
+6	all	all	DET	DT	_	5	det	_	_
+7	.	.	PUNCT	.	_	4	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	2	cc	_	_
+2	I	I	PRON	PRP	_	0	root	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	guess	guess	VERB	VBP	_	0	root	_	_
+3	%um	%um	INTJ	UH	_	2	discourse	_	_
+4	,	,	PUNCT	,	_	2	punct	_	_
+
+1	that	that	DET	DT	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	right	right	ADJ	JJ	_	2	acomp	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+1	Her	she	PRON	PRP$	_	2	poss	_	_
+2	mom	mom	NOUN	NN	_	3	nsubj	_	_
+3	came	come	VERB	VBD	_	0	root	_	_
+4	*PRO*-1	*pro*-1	NOUN	NN	_	5	nsubj	_	_
+5	running	run	VERB	VBG	_	3	dep	_	_
+6	out	out	ADV	RB	_	5	advmod	_	_
+7	*PRO*-1	*pro*-1	NOUN	NN	_	3	dobj	_	_
+8	to	to	ADP	TO	_	9	aux	_	_
+9	tell	tell	VERB	VB	_	3	xcomp	_	_
+10	us	we	PRON	PRP	_	9	dobj	_	_
+11	0	0	X	X	_	15	dep	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	baby	baby	NOUN	NN	_	15	nsubjpass	_	_
+14	was	be	VERB	VBD	_	15	auxpass	_	_
+15	born	bear	VERB	VBN	_	9	ccomp	_	_
+16	*-2	*-2	NOUN	NN	_	15	dobj	_	_
+17	.	.	PUNCT	.	_	3	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	4	cc	_	_
+2	then	then	ADV	RB	_	4	advmod	_	_
+3	she	she	PRON	PRP	_	4	nsubj	_	_
+4	said	say	VERB	VBD	_	0	root	_	_
+5	that	that	DET	DT	_	6	nsubj	_	_
+6	's	be	VERB	VBZ	_	4	ccomp	_	_
+7	her	she	PRON	PRP	_	6	xcomp	_	_
+8	.	.	PUNCT	.	_	4	punct	_	_
+
+1	You	you	PRON	PRP	_	3	nsubj	_	_
+2	can	can	AUX	MD	_	3	aux	_	_
+3	hear	hear	VERB	VB	_	0	root	_	_
+4	her	she	PRON	PRP	_	3	dobj	_	_
+
+1	And	and	CONJ	CC	_	5	cc	_	_
+2	%um	%um	INTJ	UH	_	5	discourse	_	_
+3	,	,	PUNCT	,	_	5	punct	_	_
+4	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+5	said	say	VERB	VBD	_	0	root	_	_
+6	0	0	X	X	_	8	dep	_	_
+7	it	it	PRON	PRP	_	8	nsubj	_	_
+8	was	be	VERB	VBD	_	5	ccomp	_	_
+9	a	a	DET	DT	_	11	det	_	_
+10	beautiful	beautiful	ADJ	JJ	_	11	amod	_	_
+11	birth	birth	NOUN	NN	_	8	xcomp	_	_
+12	.	.	PUNCT	.	_	5	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	mean	mean	VERB	VBP	_	0	root	_	_
+3	two	two	NUM	CD	_	4	num	_	_
+4	pushes	push	NOUN	NNS	_	2	conj	_	_
+5	and	and	CONJ	CC	_	2	cc	_	_
+6	she	she	PRON	PRP	_	7	nsubj	_	_
+7	was	be	VERB	VBD	_	2	conj	_	_
+8	out	out	ADV	RB	_	7	advmod	_	_
+9	which	which	DET	WDT	_	11	dobj	_	_
+10	*T*-1	*t*-1	NOUN	NN	_	11	nsubj	_	_
+11	is	be	VERB	VBZ	_	2	dep	_	_
+12	really	really	ADV	RB	_	13	advmod	_	_
+13	great	great	ADJ	JJ	_	11	acomp	_	_
+
+1	so	so	ADV	RB	_	3	advmod	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	very	very	ADV	RB	_	8	advmod	_	_
+5	unsquashed	unsquashed	ADJ	JJ	_	8	dep	_	_
+6	and	and	CONJ	CC	_	8	cc	_	_
+7	unbattered	unbattered	ADJ	JJ	_	8	conj	_	_
+8	looking	looking	ADJ	JJ	_	3	acomp	_	_
+9	for	for	ADP	IN	_	3	prep	_	_
+10	a	a	DET	DT	_	12	det	_	_
+11	new	new	ADJ	JJ	_	12	amod	_	_
+12	baby	baby	NOUN	NN	_	9	pobj	_	_
+13	.	.	PUNCT	.	_	3	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	mhm	mhm	INTJ	UH	_	1	discourse	_	_
+3	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Right	right	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Usually	usually	ADV	RB	_	3	advmod	_	_
+2	they	they	PRON	PRP	_	3	nsubj	_	_
+3	look	look	VERB	VBP	_	0	root	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	bit	bit	NOUN	NN	_	6	npadvmod	_	_
+6	bashed	bashed	ADJ	JJ	_	3	acomp	_	_
+7	up	up	PART	RP	_	6	dep	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	A	a	DET	DT	_	2	det	_	_
+2	bit	bit	NOUN	NN	_	3	npadvmod	_	_
+3	worn	worn	ADJ	JJ	_	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	_
+
+1	But	but	CONJ	CC	_	4	cc	_	_
+2	she	she	PRON	PRP	_	4	nsubjpass	_	_
+3	's	be	VERB	VBZ	_	4	auxpass	_	_
+4	got	get	VERB	VBD	_	0	root	_	_
+5	a	a	DET	DT	_	8	det	_	_
+6	nice	nice	ADV	RB	_	7	advmod	_	_
+7	shaped	shape	VERB	VBN	_	8	amod	_	_
+8	head	head	NOUN	NN	_	4	dobj	_	_
+
+1	and	and	CONJ	CC	_	8	cc	_	_
+2	,	,	PUNCT	,	_	8	punct	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	know	know	VERB	VBP	_	8	parataxis	_	_
+5	she	she	PRON	PRP	_	8	nsubj	_	_
+6	does	do	VERB	VBZ	_	8	aux	_	_
+7	n't	not	ADV	RB	_	8	neg	_	_
+8	look	look	VERB	VB	_	0	root	_	_
+9	like	like	ADP	IN	_	11	mark	_	_
+10	she	she	PRON	PRP	_	11	nsubj	_	_
+11	was	be	VERB	VBD	_	8	advcl	_	_
+12	%um	%um	INTJ	UH	_	11	discourse	_	_
+13	,	,	PUNCT	,	_	8	punct	_	_
+
+1	you	you	PRON	PRP	_	2	nsubj	_	_
+2	know	know	VERB	VBP	_	4	parataxis	_	_
+3	she	she	PRON	PRP	_	4	nsubj	_	_
+4	's	be	VERB	VBZ	_	0	root	_	_
+5	not	not	ADV	RB	_	4	neg	_	_
+6	a	a	DET	DT	_	8	det	_	_
+7	cone	cone	NOUN	NN	_	8	nn	_	_
+8	head	head	NOUN	NN	_	4	xcomp	_	_
+9	.	.	PUNCT	.	_	4	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	But	but	CONJ	CC	_	4	cc	_	_
+2	did	do	VERB	VBD	_	4	aux	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	get	get	VERB	VB	_	0	root	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	see	see	VERB	VB	_	4	xcomp	_	_
+8	her	she	PRON	PRP	_	7	dobj	_	_
+9	in	in	ADP	IN	_	7	prep	_	_
+10	a	a	DET	DT	_	11	quantmod	_	_
+11	few	few	ADJ	JJ	_	12	num	_	_
+12	hours	hour	NOUN	NNS	_	9	pobj	_	_
+
+1	or	or	CONJ	CC	_	0	root	_	_
+
+1	Well	well	INTJ	UH	_	4	discourse	_	_
+2	what	what	PRON	WP	_	4	dobj	_	_
+3	*T*-1	*t*-1	NOUN	NN	_	4	nsubj	_	_
+4	happened	happen	VERB	VBD	_	0	root	_	_
+
+1	no	no	INTJ	UH	_	0	root	_	_
+
+1	right	right	ADV	RB	_	2	advmod	_	_
+2	away	away	ADV	RB	_	6	advmod	_	_
+3	there	there	DET	EX	_	6	expl	_	_
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	there	there	DET	EX	_	6	expl	_	_
+6	was	be	VERB	VBD	_	0	root	_	_
+7	a	a	DET	DT	_	12	det	_	_
+8	very	very	ADV	RB	_	9	advmod	_	_
+9	nice	nice	ADJ	JJ	_	12	amod	_	_
+10	%um	%um	INTJ	UH	_	12	dep	_	_
+11	delivery	delivery	NOUN	NN	_	12	nn	_	_
+12	nurse	nurse	NOUN	NN	_	6	nsubj	_	_
+13	who	who	PRON	WP	_	16	dobj	_	_
+14	we	we	PRON	PRP	_	16	nsubj	_	_
+15	had	have	VERB	VBD	_	16	aux	_	_
+16	spoken	speak	VERB	VBN	_	12	rcmod	_	_
+17	to	to	ADP	IN	_	16	prep	_	_
+18	*T*-1	*t*-1	NOUN	NN	_	17	pobj	_	_
+19	earlier	earlier	ADV	RBR	_	16	advmod	_	_
+20	in	in	ADP	IN	_	19	prep	_	_
+21	the	the	DET	DT	_	22	det	_	_
+22	day	day	NOUN	NN	_	20	pobj	_	_
+23	named	name	VERB	VBN	_	12	vmod	_	_
+24	*	*	NOUN	NN	_	23	dobj	_	_
+25	*PRO*-2	*pro*-2	NOUN	NN	_	26	nsubj	_	_
+26	Tina	Tina	PROPN	NNP	_	23	xcomp	_	_
+27	.	.	PUNCT	.	_	6	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	6	cc	_	_
+2	what	what	PRON	WP	_	4	dobj	_	_
+3	they	they	PRON	PRP	_	4	nsubj	_	_
+4	do	do	VERB	VBP	_	6	csubj	_	_
+5	*T*-1	*t*-1	NOUN	NN	_	4	dobj	_	_
+6	is	be	VERB	VBZ	_	0	root	_	_
+7	they	they	PRON	PRP	_	8	nsubj	_	_
+8	take	take	VERB	VBP	_	6	ccomp	_	_
+9	the	the	DET	DT	_	10	det	_	_
+10	baby	baby	NOUN	NN	_	8	dobj	_	_
+11	from	from	ADP	IN	_	8	prep	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	delivery	delivery	NOUN	NN	_	14	nn	_	_
+14	room	room	NOUN	NN	_	11	pobj	_	_
+15	to	to	ADP	IN	_	8	prep	_	_
+16	the	the	DET	DT	_	17	det	_	_
+17	nursery	nursery	NOUN	NN	_	15	pobj	_	_
+18	.	.	PUNCT	.	_	6	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Normally	normally	ADV	RB	_	3	advmod	_	_
+2	they	they	PRON	PRP	_	3	nsubj	_	_
+3	go	go	VERB	VBP	_	0	root	_	_
+4	directly	directly	ADV	RB	_	3	advmod	_	_
+
+1	and	and	CONJ	CC	_	7	cc	_	_
+2	Tina	Tina	PROPN	NNP	_	7	nsubj	_	_
+3	very	very	ADV	RB	_	6	advmod	_	_
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	very	very	ADV	RB	_	6	advmod	_	_
+6	sweetly	sweetly	ADV	RB	_	7	advmod	_	_
+7	zipped	zip	VERB	VBD	_	0	root	_	_
+8	past	past	ADP	IN	_	7	prep	_	_
+9	the	the	DET	DT	_	10	det	_	_
+10	door	door	NOUN	NN	_	8	pobj	_	_
+11	to	to	ADP	IN	_	10	prep	_	_
+12	the	the	DET	DT	_	16	det	_	_
+13	out	out	ADV	RB	_	16	advmod	_	_
+14	,	,	PUNCT	,	_	16	punct	_	_
+15	outer	outer	ADJ	JJ	_	16	amod	_	_
+16	part	part	NOUN	NN	_	11	pobj	_	_
+17	of	of	ADP	IN	_	16	prep	_	_
+18	the	the	DET	DT	_	19	det	_	_
+19	nursery	nursery	NOUN	NN	_	17	pobj	_	_
+20	where	where	ADV	WRB	_	23	advmod	_	_
+21	we	we	PRON	PRP	_	23	nsubj	_	_
+22	were	be	VERB	VBD	_	23	aux	_	_
+23	waiting	wait	VERB	VBG	_	16	rcmod	_	_
+24	*T*-1	*t*-1	X	X	_	23	advmod	_	_
+25	mhm	mhm	INTJ	UH	_	29	discourse	_	_
+26	.	.	PUNCT	.	_	25	punct	_	_
+27	mhm	mhm	INTJ	UH	_	28	discourse	_	_
+28	outside	outside	ADV	RB	_	29	dep	_	_
+29	mhm	mhm	INTJ	UH	_	7	dep	_	_
+30	.	.	PUNCT	.	_	29	punct	_	_
+31	and	and	CONJ	CC	_	7	cc	_	_
+32	let	let	VERB	VBD	_	7	conj	_	_
+33	us	we	PRON	PRP	_	34	nsubj	_	_
+34	hold	hold	VERB	VB	_	32	ccomp	_	_
+35	her	she	PRON	PRP	_	34	dobj	_	_
+36	.	.	PUNCT	.	_	7	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	just	just	ADV	RB	_	5	advmod	_	_
+5	minutes	minute	NOUN	NNS	_	6	npadvmod	_	_
+6	old	old	ADJ	JJ	_	3	acomp	_	_
+7	then	then	ADV	RB	_	3	advmod	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+1	Wow	wow	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	we	we	PRON	PRP	_	3	nsubj	_	_
+3	held	hold	VERB	VBD	_	0	root	_	_
+4	her	she	PRON	PRP	_	3	dobj	_	_
+5	for	for	ADP	IN	_	3	prep	_	_
+6	just	just	ADV	RB	_	8	quantmod	_	_
+7	a	a	DET	DT	_	8	quantmod	_	_
+8	couple	couple	NOUN	NN	_	9	num	_	_
+9	minutes	minute	NOUN	NNS	_	5	pobj	_	_
+
+1	and	and	CONJ	CC	_	5	cc	_	_
+2	uh-huh	uh-huh	INTJ	UH	_	5	dep	_	_
+3	.	.	PUNCT	.	_	2	punct	_	_
+4	it	it	PRON	PRP	_	5	nsubj	_	_
+5	was	be	VERB	VBD	_	0	root	_	_
+6	really	really	ADV	RB	_	7	advmod	_	_
+7	funny	funny	ADJ	JJ	_	5	acomp	_	_
+8	because	because	ADP	IN	_	11	mark	_	_
+9	you	you	PRON	PRP	_	11	nsubj	_	_
+10	could	could	AUX	MD	_	11	aux	_	_
+11	hear	hear	VERB	VB	_	5	advcl	_	_
+12	her	she	PRON	PRP	_	13	nsubj	_	_
+13	coming	come	VERB	VBG	_	11	dep	_	_
+14	up	up	ADP	IN	_	13	prep	_	_
+15	the	the	DET	DT	_	16	det	_	_
+16	hall	hall	NOUN	NN	_	14	pobj	_	_
+17	*PRO*-1	*pro*-1	NOUN	NN	_	18	nsubj	_	_
+18	screaming	scream	VERB	VBG	_	13	vmod	_	_
+19	uh-huh	uh-huh	INTJ	UH	_	18	dep	_	_
+20	.	.	PUNCT	.	_	19	punct	_	_
+21	loudly	loudly	ADV	RB	_	18	advmod	_	_
+22	.	.	PUNCT	.	_	5	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	.	.	PUNCT	.	_	0	root	_	_
+
+1	She	she	PRON	PRP	_	2	nsubj	_	_
+2	handed	hand	VERB	VBD	_	0	root	_	_
+3	her	she	PRON	PRP	_	2	dobj	_	_
+4	to	to	ADP	IN	_	2	prep	_	_
+5	me	I	PRON	PRP	_	4	pobj	_	_
+6	*PRO*-1	*pro*-1	NOUN	NN	_	7	nsubj	_	_
+7	screaming	scream	VERB	VBG	_	2	dep	_	_
+8	loudly	loudly	ADV	RB	_	7	advmod	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	said	say	VERB	VBD	_	0	root	_	_
+4	to	to	ADP	IN	_	3	prep	_	_
+5	Tina	Tina	PROPN	NNP	_	4	pobj	_	_
+6	and	and	CONJ	CC	_	4	cc	_	_
+7	also	also	ADV	RB	_	8	advmod	_	_
+8	to	to	ADP	IN	_	4	conj	_	_
+9	the	the	DET	DT	_	8	pobj	_	_
+10	,	,	PUNCT	,	_	8	punct	_	_
+11	uh-huh	uh-huh	INTJ	UH	_	8	dep	_	_
+12	.	.	PUNCT	.	_	11	punct	_	_
+13	the	the	DET	DT	_	15	det	_	_
+14	birth	birth	NOUN	NN	_	15	nn	_	_
+15	mother	mother	NOUN	NN	_	17	poss	_	_
+16	's	's	PART	POS	_	15	possessive	_	_
+17	mother	mother	NOUN	NN	_	8	pobj	_	_
+18	there	there	ADV	RB	_	3	advmod	_	_
+19	,	,	PUNCT	,	_	3	punct	_	_
+20	you	you	PRON	PRP	_	21	nsubj	_	_
+21	know	know	VERB	VBP	_	3	parataxis	_	_
+22	oh	oh	INTJ	UH	_	24	discourse	_	_
+23	Robert	Robert	PROPN	NNP	_	24	nsubj	_	_
+24	has	have	VERB	VBZ	_	3	ccomp	_	_
+25	the	the	DET	DT	_	27	det	_	_
+26	magic	magic	ADJ	JJ	_	27	amod	_	_
+27	touch	touch	NOUN	NN	_	24	dobj	_	_
+28	.	.	PUNCT	.	_	3	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	handed	hand	VERB	VBD	_	0	root	_	_
+3	her	she	PRON	PRP	_	2	dobj	_	_
+4	to	to	ADP	IN	_	2	prep	_	_
+5	Robert	Robert	PROPN	NNP	_	4	pobj	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+1	Instant	instant	ADJ	JJ	_	2	amod	_	_
+2	silence	silence	NOUN	NN	_	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Instant	instant	ADJ	JJ	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	She	she	PRON	PRP	_	3	nsubj	_	_
+2	just	just	ADV	RB	_	3	advmod	_	_
+3	stopped	stop	VERB	VBD	_	0	root	_	_
+4	*-1	*-1	NOUN	NN	_	5	nsubj	_	_
+5	screaming	scream	VERB	VBG	_	3	dep	_	_
+6	immediately	immediately	ADV	RB	_	5	advmod	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	he	he	PRON	PRP	_	3	nsubj	_	_
+3	held	hold	VERB	VBD	_	0	root	_	_
+4	her	she	PRON	PRP	_	3	dobj	_	_
+5	for	for	ADP	IN	_	3	prep	_	_
+6	a	a	DET	DT	_	8	det	_	_
+7	little	little	ADJ	JJ	_	8	amod	_	_
+8	while	while	NOUN	NN	_	5	pobj	_	_
+9	.	.	PUNCT	.	_	3	punct	_	_
+
+1	And	and	CONJ	CC	_	5	cc	_	_
+2	then	then	ADV	RB	_	5	advmod	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	nurse	nurse	NOUN	NN	_	5	nsubj	_	_
+5	was	be	VERB	VBD	_	0	root	_	_
+6	afraid	afraid	ADJ	JJ	_	5	acomp	_	_
+7	*PRO*-1	*pro*-1	NOUN	NN	_	9	nsubj	_	_
+8	to	to	ADP	TO	_	9	aux	_	_
+9	take	take	VERB	VB	_	6	dep	_	_
+10	her	she	PRON	PRP	_	9	dobj	_	_
+11	back	back	ADV	RB	_	9	prt	_	_
+12	.	.	PUNCT	.	_	5	punct	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Said	say	VERB	VBD	_	0	root	_	_
+3	oh	oh	INTJ	UH	_	6	discourse	_	_
+4	she	she	PRON	PRP	_	6	nsubj	_	_
+5	's	be	VERB	VBZ	_	6	aux	_	_
+6	going	go	VERB	VBG	_	2	ccomp	_	_
+7	*-1	*-1	NOUN	NN	_	6	dobj	_	_
+8	to	to	ADP	TO	_	9	aux	_	_
+9	scream	scream	VERB	VB	_	6	xcomp	_	_
+10	again	again	ADV	RB	_	9	advmod	_	_
+11	.	.	PUNCT	.	_	2	punct	_	_
+
+1	uh-	uh-	INTJ	UH	_	0	root	_	_
+2	uh-huh	uh-huh	INTJ	UH	_	1	dep	_	_
+3	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	4	cc	_	_
+2	she	she	PRON	PRP	_	4	nsubj	_	_
+3	did	do	VERB	VBD	_	4	aux	_	_
+4	*?*	*?*	X	X	_	0	root	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	4	cc	_	_
+2	off	off	ADV	RB	_	4	advmod	_	_
+3	they	they	PRON	PRP	_	4	nsubj	_	_
+4	went	go	VERB	VBD	_	0	root	_	_
+5	to	to	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	nursery	nursery	NOUN	NN	_	5	pobj	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	then	then	ADV	RB	_	4	advmod	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	watched	watch	VERB	VBD	_	0	root	_	_
+5	through	through	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	glass	glass	NOUN	NN	_	5	pobj	_	_
+
+1	That	that	DET	DT	_	4	nsubj	_	_
+2	must	must	AUX	MD	_	4	aux	_	_
+3	have	have	VERB	VB	_	4	aux	_	_
+4	been	be	VERB	VBN	_	0	root	_	_
+5	very	very	ADV	RB	_	6	advmod	_	_
+6	reassuring	reassuring	ADJ	JJ	_	4	acomp	_	_
+7	for	for	ADP	IN	_	6	prep	_	_
+8	Robert	Robert	PROPN	NNP	_	7	pobj	_	_
+9	.	.	PUNCT	.	_	4	punct	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	8	dep	_	_
+3	very	very	ADV	RB	_	4	advmod	_	_
+4	nice	nice	ADJ	JJ	_	2	acomp	_	_
+5	was	be	VERB	VBD	_	8	cop	_	_
+6	n't	not	ADV	RB	_	8	neg	_	_
+7	it	it	PRON	PRP	_	8	nsubj	_	_
+8	*?*	*?*	X	X	_	0	root	_	_
+9	.	.	PUNCT	.	_	8	punct	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	very	very	ADV	RB	_	4	advmod	_	_
+4	wonderful	wonderful	ADJ	JJ	_	2	acomp	_	_
+5	for	for	ADP	IN	_	4	prep	_	_
+6	Robert	Robert	PROPN	NNP	_	5	pobj	_	_
+7	and	and	CONJ	CC	_	5	cc	_	_
+8	for	for	ADP	IN	_	5	conj	_	_
+9	me	I	PRON	PRP	_	8	pobj	_	_
+10	too	too	ADV	RB	_	9	advmod	_	_
+11	0	0	X	X	_	15	dobj	_	_
+12	*PRO*	*pro*	NOUN	NN	_	15	nsubj	_	_
+13	just	just	ADV	RB	_	15	advmod	_	_
+14	to	to	ADP	TO	_	15	aux	_	_
+15	see	see	VERB	VB	_	4	ccomp	_	_
+16	*T*-1	*t*-1	NOUN	NN	_	15	dobj	_	_
+17	,	,	PUNCT	,	_	2	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	knew	know	VERB	VBD	_	0	root	_	_
+3	0	0	X	X	_	6	dep	_	_
+4	it	it	PRON	PRP	_	6	nsubj	_	_
+5	would	would	AUX	MD	_	6	aux	_	_
+6	work	work	VERB	VB	_	2	ccomp	_	_
+7	too	too	ADV	RB	_	6	advmod	_	_
+8	.	.	PUNCT	.	_	2	punct	_	_
+
+1	Very	very	ADV	RB	_	2	advmod	_	_
+2	nice	nice	ADJ	JJ	_	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	do	do	VERB	VBP	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	know	know	VERB	VB	_	0	root	_	_
+5	what	what	PRON	WP	_	7	dobj	_	_
+6	it	it	PRON	PRP	_	7	nsubj	_	_
+7	is	be	VERB	VBZ	_	4	ccomp	_	_
+8	*T*-1	*t*-1	NOUN	NN	_	7	xcomp	_	_
+9	.	.	PUNCT	.	_	4	punct	_	_
+
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	has	have	VERB	VBZ	_	0	root	_	_
+3	some	some	DET	DT	_	2	dobj	_	_
+4	,	,	PUNCT	,	_	2	punct	_	_
+
+1	you	you	PRON	PRP	_	2	nsubj	_	_
+2	have	have	VERB	VBP	_	0	root	_	_
+3	a	a	DET	DT	_	4	det	_	_
+4	theory	theory	NOUN	NN	_	2	dobj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	_
+
+1	Body	body	NOUN	NN	_	2	nn	_	_
+2	warmth	warmth	NOUN	NN	_	0	root	_	_
+3	or	or	CONJ	CC	_	2	cc	_	_
+4	something	something	NOUN	NN	_	2	conj	_	_
+
+1	but	but	CONJ	CC	_	2	cc	_	_
+2	anyway	anyway	INTJ	UH	_	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	it	it	PRON	PRP	_	5	nsubj	_	_
+5	's	be	VERB	VBZ	_	2	ccomp	_	_
+6	partly	partly	ADV	RB	_	5	advmod	_	_
+7	it	it	PRON	PRP	_	5	xcomp	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	there	there	DET	EX	_	3	expl	_	_
+3	're	be	VERB	VBP	_	0	root	_	_
+4	certain	certain	ADJ	JJ	_	5	amod	_	_
+5	kind	kind	NOUN	NN	_	3	nsubj	_	_
+6	of	of	ADP	IN	_	5	prep	_	_
+7	men	man	NOUN	NNS	_	6	pobj	_	_
+8	who	who	PRON	WP	_	5	rcmod	_	_
+9	,	,	PUNCT	,	_	3	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	it	it	PRON	PRP	_	5	nsubj	_	_
+5	's	be	VERB	VBZ	_	2	ccomp	_	_
+6	men	man	NOUN	NNS	_	5	xcomp	_	_
+7	who	who	PRON	WP	_	9	dobj	_	_
+8	*T*-1	*t*-1	NOUN	NN	_	9	nsubj	_	_
+9	have	have	VERB	VBP	_	6	rcmod	_	_
+10	like	like	INTJ	UH	_	9	discourse	_	_
+11	these	these	DET	DT	_	12	det	_	_
+12	big	big	ADJ	JJ	_	9	dobj	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	have	have	VERB	VBP	_	0	root	_	_
+3	this	this	DET	DT	_	4	det	_	_
+4	theory	theory	NOUN	NN	_	2	dobj	_	_
+5	that	that	ADP	IN	_	7	mark	_	_
+6	it	it	PRON	PRP	_	7	nsubj	_	_
+7	's	be	VERB	VBZ	_	4	ccomp	_	_
+8	men	man	NOUN	NNS	_	7	xcomp	_	_
+9	who	who	PRON	WP	_	20	pobj	_	_
+10	*T*-1	*t*-1	NOUN	NN	_	11	nsubj	_	_
+11	are	be	VERB	VBP	_	8	rcmod	_	_
+12	very	very	ADV	RB	_	13	advmod	_	_
+13	broad	broad	ADJ	JJ	_	11	acomp	_	_
+14	right	right	ADV	RB	_	15	advmod	_	_
+15	under	under	ADP	IN	_	11	prep	_	_
+16	the	the	DET	DT	_	17	det	_	_
+17	elbow	elbow	NOUN	NN	_	15	pobj	_	_
+18	you	you	PRON	PRP	_	19	nsubj	_	_
+19	know	know	VERB	VBP	_	11	parataxis	_	_
+20	like	like	ADP	IN	_	11	prep	_	_
+21	,	,	PUNCT	,	_	2	punct	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Wait	wait	VERB	VB	_	0	root	_	_
+3	a	a	DET	DT	_	4	det	_	_
+4	minute	minute	NOUN	NN	_	2	dobj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	_
+
+1	Broad	broad	ADJ	JJ	_	0	root	_	_
+2	under	under	ADP	IN	_	1	prep	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	elbow	elbow	NOUN	NN	_	2	pobj	_	_
+5	.	.	PUNCT	.	_	1	punct	_	_
+
+1	You	you	PRON	PRP	_	2	nsubj	_	_
+2	mean	mean	VERB	VB	_	0	root	_	_
+3	in	in	ADP	IN	_	2	prep	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	chest	chest	NOUN	NN	_	3	pobj	_	_
+6	?	?	PUNCT	.	_	2	punct	_	_
+
+1	like	like	INTJ	UH	_	0	root	_	_
+
+1	No	no	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	From	from	ADP	IN	_	0	root	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	elbow	elbow	ADJ	JJ	_	1	pobj	_	_
+4	down	down	ADV	RB	_	5	advmod	_	_
+5	towards	towards	ADP	IN	_	1	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	wrist	wrist	NOUN	NN	_	5	pobj	_	_
+8	.	.	PUNCT	.	_	1	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Who	who	PRON	WP	_	3	dobj	_	_
+2	*T*-1	*t*-1	NOUN	NN	_	3	nsubj	_	_
+3	have	have	VERB	VBP	_	0	root	_	_
+4	like	like	INTJ	UH	_	3	discourse	_	_
+5	these	these	DET	DT	_	8	det	_	_
+6	big	big	ADJ	JJ	_	8	amod	_	_
+7	broad	broad	ADJ	JJ	_	8	amod	_	_
+8	forearms	forearm	NOUN	NNS	_	3	dobj	_	_
+9	.	.	PUNCT	.	_	3	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	babies	baby	NOUN	NNS	_	5	nsubj	_	_
+5	like	like	VERB	VBP	_	2	ccomp	_	_
+6	that	that	DET	DT	_	5	dobj	_	_
+7	.	.	PUNCT	.	_	2	punct	_	_
+
+1	You	you	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	it	it	PRON	PRP	_	5	nsubj	_	_
+5	gives	give	VERB	VBZ	_	2	ccomp	_	_
+6	,	,	PUNCT	,	_	5	punct	_	_
+7	it	it	PRON	PRP	_	8	nsubj	_	_
+8	gives	give	VERB	VBZ	_	5	dep	_	_
+9	security	security	NOUN	NN	_	8	dobj	_	_
+10	.	.	PUNCT	.	_	2	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	suppose	suppose	VERB	VBP	_	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	_
+
+1	Do	do	VERB	VBP	_	3	aux	_	_
+2	you	you	PRON	PRP	_	3	nsubj	_	_
+3	remember	remember	VERB	VB	_	0	root	_	_
+4	Otto	Otto	PROPN	NNP	_	3	dobj	_	_
+5	who	who	PRON	WP	_	7	dobj	_	_
+6	*T*-1	*t*-1	NOUN	NN	_	7	nsubj	_	_
+7	moved	move	VERB	VBD	_	4	rcmod	_	_
+8	my	my	PRON	PRP$	_	10	poss	_	_
+9	filing	filing	NOUN	NN	_	10	nn	_	_
+10	cabinet	cabinet	NOUN	NN	_	7	dep	_	_
+11	that	that	DET	DT	_	12	det	_	_
+12	time	time	NOUN	NN	_	7	dobj	_	_
+13	in	in	ADP	IN	_	7	prep	_	_
+14	Philadelphia	Philadelphia	PROPN	NNP	_	13	pobj	_	_
+
+1	he	he	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	another	another	DET	DT	_	4	det	_	_
+4	one	one	NOUN	NN	_	2	xcomp	_	_
+5	?	?	PUNCT	.	_	4	punct	_	_
+6	Yes	yes	INTJ	UH	_	12	discourse	_	_
+7	.	.	PUNCT	.	_	6	punct	_	_
+8	uh-huh	uh-huh	INTJ	UH	_	12	discourse	_	_
+9	.	.	PUNCT	.	_	8	punct	_	_
+10	uh-huh	uh-huh	INTJ	UH	_	12	discourse	_	_
+11	.	.	PUNCT	.	_	10	punct	_	_
+12	yeah	yeah	INTJ	UH	_	4	dep	_	_
+13	.	.	PUNCT	.	_	12	punct	_	_
+14	He	he	PRON	PRP	_	15	nsubj	_	_
+15	's	be	VERB	VBZ	_	12	dep	_	_
+16	big	big	ADJ	JJ	_	15	acomp	_	_
+17	.	.	PUNCT	.	_	15	punct	_	_
+18	He	he	PRON	PRP	_	19	nsubj	_	_
+19	's	be	VERB	VBZ	_	12	dep	_	_
+20	sort	sort	ADV	RB	_	21	advmod	_	_
+21	of	of	ADV	RB	_	22	advmod	_	_
+22	solid	solid	ADJ	JJ	_	19	acomp	_	_
+23	to	to	ADP	IN	_	22	prep	_	_
+24	me	I	PRON	PRP	_	23	pobj	_	_
+25	.	.	PUNCT	.	_	19	punct	_	_
+26	who	who	PRON	WP	_	4	rcmod	_	_
+
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	sort	sort	ADV	RB	_	4	advmod	_	_
+4	of	of	ADV	RB	_	6	advmod	_	_
+5	very	very	ADV	RB	_	6	advmod	_	_
+6	solid	solid	ADJ	JJ	_	2	acomp	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	they	they	PRON	PRP	_	4	nsubj	_	_
+3	just	just	ADV	RB	_	4	advmod	_	_
+4	love	love	VERB	VBP	_	0	root	_	_
+5	it	it	PRON	PRP	_	4	dobj	_	_
+6	.	.	PUNCT	.	_	4	punct	_	_
+
+1	But	but	CONJ	CC	_	3	cc	_	_
+2	Robert	Robert	PROPN	NNP	_	3	nsubj	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	not	not	ADV	RB	_	3	neg	_	_
+5	big	big	ADJ	JJ	_	3	acomp	_	_
+6	like	like	ADP	IN	_	3	prep	_	_
+7	that	that	DET	DT	_	6	pobj	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+
+1	No	no	INTJ	UH	_	0	root	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+
+1	but	but	CONJ	CC	_	6	cc	_	_
+2	he	he	PRON	PRP	_	6	nsubj	_	_
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	but	but	CONJ	CC	_	6	cc	_	_
+5	Robert	Robert	PROPN	NNP	_	6	conj	_	_
+6	is	be	VERB	VBZ	_	0	root	_	_
+7	big	big	ADJ	JJ	_	6	acomp	_	_
+8	below	below	ADP	IN	_	6	prep	_	_
+9	the	the	DET	DT	_	10	det	_	_
+10	elbows	elbow	NOUN	NNS	_	8	pobj	_	_
+11	I	I	PRON	PRP	_	13	nsubj	_	_
+12	'll	'll	AUX	MD	_	13	aux	_	_
+13	bet	bet	VERB	VB	_	6	parataxis	_	_
+14	*?*	*?*	X	X	_	13	dep	_	_
+15	if	if	ADP	IN	_	17	mark	_	_
+16	you	you	PRON	PRP	_	17	nsubj	_	_
+17	check	check	VERB	VBP	_	6	dep	_	_
+18	.	.	PUNCT	.	_	6	punct	_	_
+
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	'll	'll	AUX	MD	_	3	aux	_	_
+3	have	have	VERB	VB	_	0	root	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	check	check	VERB	VB	_	3	ccomp	_	_
+7	out	out	ADP	IN	_	6	prt	_	_
+8	below	below	ADP	IN	_	6	prep	_	_
+9	Robert	Robert	PROPN	NNP	_	11	poss	_	_
+10	's	's	PART	POS	_	9	possessive	_	_
+11	elbows	elbow	NOUN	NNS	_	8	pobj	_	_
+
+1	At	at	ADP	IN	_	5	dep	_	_
+2	any	any	DET	DT	_	3	det	_	_
+3	rate	rate	NOUN	NN	_	1	pobj	_	_
+4	,	,	PUNCT	,	_	5	punct	_	_
+5	%um	%um	INTJ	UH	_	0	root	_	_
+
+1	So	so	ADV	RB	_	3	advmod	_	_
+2	that	that	DET	DT	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	nice	nice	ADJ	JJ	_	3	acomp	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	then	then	ADV	RB	_	4	advmod	_	_
+3	we	we	PRON	PRP	_	4	nsubj	_	_
+4	watched	watch	VERB	VBD	_	0	root	_	_
+5	through	through	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	nursery	nursery	NOUN	NN	_	5	pobj	_	_
+8	while	while	ADP	IN	_	10	mark	_	_
+9	they	they	PRON	PRP	_	10	nsubj	_	_
+10	do	do	VERB	VBP	_	4	advcl	_	_
+11	,	,	PUNCT	,	_	4	punct	_	_
+
+1	if	if	ADP	IN	_	3	mark	_	_
+2	you	you	PRON	PRP	_	3	nsubj	_	_
+3	survive	survive	VERB	VBP	_	15	advcl	_	_
+4	the	the	DET	DT	_	7	det	_	_
+5	first	first	ADJ	JJ	_	7	amod	_	_
+6	four	four	NUM	CD	_	7	num	_	_
+7	hours	hour	NOUN	NNS	_	3	dobj	_	_
+8	of	of	ADP	IN	_	7	prep	_	_
+9	life	life	NOUN	NN	_	8	pobj	_	_
+10	in	in	ADP	IN	_	7	prep	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	nursery	nursery	NOUN	NN	_	10	pobj	_	_
+13	you	you	PRON	PRP	_	15	nsubj	_	_
+14	'll	'll	AUX	MD	_	15	aux	_	_
+15	survive	survive	VERB	VB	_	0	root	_	_
+16	anything	anything	NOUN	NN	_	15	dobj	_	_
+17	after	after	ADV	RB	_	16	advmod	_	_
+18	.	.	PUNCT	.	_	15	punct	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	the	the	DET	DT	_	8	det	_	_
+4	most	most	ADV	RBS	_	7	advmod	_	_
+5	sort	sort	ADV	RB	_	6	advmod	_	_
+6	of	of	ADV	RB	_	7	advmod	_	_
+7	appalling	appalling	ADJ	JJ	_	8	amod	_	_
+8	introduction	introduction	NOUN	NN	_	2	xcomp	_	_
+9	to	to	ADP	IN	_	8	prep	_	_
+10	life	life	NOUN	NN	_	9	pobj	_	_
+11	.	.	PUNCT	.	_	2	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	But	but	CONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	kind	kind	ADV	RB	_	5	advmod	_	_
+5	of	of	ADV	RB	_	6	advmod	_	_
+6	scared	scared	ADJ	JJ	_	3	acomp	_	_
+7	at	at	ADP	IN	_	3	prep	_	_
+8	that	that	DET	DT	_	9	det	_	_
+9	point	point	NOUN	NN	_	7	pobj	_	_
+10	because	because	ADP	IN	_	13	mark	_	_
+11	we	we	PRON	PRP	_	13	nsubj	_	_
+12	're	be	VERB	VBP	_	13	aux	_	_
+13	looking	look	VERB	VBG	_	3	advcl	_	_
+14	in	in	ADV	RB	_	13	advmod	_	_
+15	and	and	CONJ	CC	_	13	cc	_	_
+16	there	there	DET	EX	_	17	expl	_	_
+17	're	be	VERB	VBP	_	13	conj	_	_
+18	all	all	DET	PDT	_	24	predet	_	_
+19	these	these	DET	DT	_	24	det	_	_
+20	nice	nice	ADJ	JJ	_	24	amod	_	_
+21	sweet	sweet	ADJ	JJ	_	24	amod	_	_
+22	little	little	ADJ	JJ	_	24	amod	_	_
+23	pale	pale	ADJ	JJ	_	24	amod	_	_
+24	babies	baby	NOUN	NNS	_	17	nsubj	_	_
+25	lying	lie	VERB	VBG	_	24	vmod	_	_
+26	there	there	ADV	RB	_	25	advmod	_	_
+27	*PRO*	*pro*	NOUN	NN	_	28	nsubj	_	_
+28	limp	limp	ADJ	JJ	_	25	xcomp	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	there	there	DET	EX	_	3	expl	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	Mae	Mae	PROPN	NNP	_	3	nsubj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	big	big	ADJ	JJ	_	3	acomp	_	_
+5	compared	compare	VERB	VBN	_	3	prep	_	_
+6	to	to	ADP	IN	_	5	pcomp	_	_
+7	the	the	DET	DT	_	8	det	_	_
+8	rest	rest	NOUN	NN	_	6	pobj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	bright	bright	ADJ	JJ	_	5	amod	_	_
+5	red	red	ADJ	JJ	_	3	acomp	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	she	she	PRON	PRP	_	4	nsubj	_	_
+3	is	be	VERB	VBZ	_	4	aux	_	_
+4	screaming	scream	VERB	VBG	_	0	root	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	screamed	scream	VERB	VBD	_	0	root	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	screamed	scream	VERB	VBD	_	0	root	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	screamed	scream	VERB	VBD	_	0	root	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	all	all	DET	PDT	_	4	predet	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	rest	rest	NOUN	NN	_	0	root	_	_
+5	of	of	ADP	IN	_	4	prep	_	_
+6	them	they	PRON	PRP	_	5	pobj	_	_
+7	as	as	ADV	RB	_	8	advmod	_	_
+8	soon	soon	ADV	RB	_	4	advmod	_	_
+9	as	as	ADP	IN	_	10	mark	_	_
+10	they	they	PRON	PRP	_	8	advcl	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Um	um	INTJ	UH	_	0	root	_	_
+2	-	-	PUNCT	HYPH	_	1	punct	_	_
+3	huh	huh	INTJ	UH	_	1	dep	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+
+1	they	they	PRON	PRP	_	5	nsubj	_	_
+2	sort	sort	ADV	RB	_	3	advmod	_	_
+3	of	of	ADV	RB	_	5	advmod	_	_
+4	get	get	VERB	VBP	_	5	dep	_	_
+5	exhausted	exhausted	ADJ	JJ	_	0	root	_	_
+6	after	after	ADP	IN	_	5	prep	_	_
+7	two	two	NUM	CD	_	8	num	_	_
+8	screams	scream	NOUN	NNS	_	6	pobj	_	_
+9	and	and	CONJ	CC	_	5	cc	_	_
+10	collapse	collapse	VERB	VBP	_	5	conj	_	_
+11	.	.	PUNCT	.	_	5	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	3	cc	_	_
+2	she	she	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	healthy	healthy	ADJ	JJ	_	3	acomp	_	_
+5	I	I	PRON	PRP	_	6	nsubj	_	_
+6	guess	guess	VERB	VBP	_	3	parataxis	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	4	cc	_	_
+2	she	she	PRON	PRP	_	4	nsubj	_	_
+3	just	just	ADV	RB	_	4	advmod	_	_
+4	screamed	scream	VERB	VBD	_	0	root	_	_
+5	and	and	CONJ	CC	_	4	cc	_	_
+6	screamed	scream	VERB	VBD	_	4	conj	_	_
+7	and	and	CONJ	CC	_	4	cc	_	_
+8	screamed	scream	VERB	VBD	_	4	conj	_	_
+9	and	and	CONJ	CC	_	4	cc	_	_
+10	screamed	scream	VERB	VBD	_	4	conj	_	_
+11	and	and	CONJ	CC	_	4	cc	_	_
+12	screamed	scream	VERB	VBD	_	4	conj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	thought	think	VERB	VBD	_	0	root	_	_
+4	oh	oh	INTJ	UH	_	10	discourse	_	_
+5	my	my	INTJ	UH	_	4	dep	_	_
+6	god	god	INTJ	UH	_	4	dep	_	_
+7	what	what	PRON	WP	_	10	dep	_	_
+8	have	have	VERB	VBP	_	10	aux	_	_
+9	we	we	PRON	PRP	_	10	nsubj	_	_
+10	wrought	work	VERB	VBN	_	3	ccomp	_	_
+11	*T*-1	*t*-1	NOUN	NN	_	10	dobj	_	_
+12	here	here	ADV	RB	_	10	advmod	_	_
+13	.	.	PUNCT	.	_	3	punct	_	_
+
+1	Did	do	VERB	VBD	_	3	aux	_	_
+2	they	they	PRON	PRP	_	3	nsubj	_	_
+3	tell	tell	VERB	VB	_	0	root	_	_
+4	you	you	PRON	PRP	_	3	iobj	_	_
+5	her	she	PRON	PRP$	_	6	poss	_	_
+6	apgar	apgar	NOUN	NN	_	3	dobj	_	_
+7	or	or	CONJ	CC	_	6	cc	_	_
+8	whatever	whatever	DET	WDT	_	10	dobj	_	_
+9	they	they	PRON	PRP	_	10	nsubj	_	_
+10	call	call	VERB	VBP	_	6	conj	_	_
+11	that	that	DET	DT	_	10	dobj	_	_
+12	*PRO*-2	*pro*-2	NOUN	NN	_	13	nsubj	_	_
+13	*T*-1	*t*-1	NOUN	NN	_	10	xcomp	_	_
+14	?	?	PUNCT	.	_	3	punct	_	_
+
+1	How	how	ADV	WRB	_	0	root	_	_
+
+1	They	they	PRON	PRP	_	4	nsubj	_	_
+2	did	do	VERB	VBD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	tell	tell	VERB	VB	_	0	root	_	_
+5	us	we	PRON	PRP	_	4	iobj	_	_
+6	anything	anything	NOUN	NN	_	4	dobj	_	_
+7	.	.	PUNCT	.	_	4	punct	_	_
+
+1	In	in	ADP	IN	_	25	prep	_	_
+2	fact	fact	NOUN	NN	_	1	pobj	_	_
+3	,	,	PUNCT	,	_	25	punct	_	_
+4	at	at	ADP	IN	_	25	prep	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	hospital	hospital	NOUN	NN	_	4	pobj	_	_
+7	they	they	PRON	PRP	_	8	nsubj	_	_
+8	were	be	VERB	VBD	_	25	dep	_	_
+9	n't	not	ADV	RB	_	8	neg	_	_
+10	the	the	PRON	PRP	_	25	nsubj	_	_
+11	,	,	PUNCT	,	_	25	punct	_	_
+12	there	there	DET	EX	_	13	expl	_	_
+13	were	be	VERB	VBD	_	25	parataxis	_	_
+14	someth-	someth-_NN	NOUN	NN	_	13	nsubj	_	_
+15	,	,	PUNCT	,	_	25	punct	_	_
+16	the	the	DET	DT	_	18	det	_	_
+17	individual	individual	ADJ	JJ	_	18	amod	_	_
+18	people	people	NOUN	NNS	_	25	nsubj	_	_
+19	0	0	X	X	_	21	dobj	_	_
+20	we	we	PRON	PRP	_	21	nsubj	_	_
+21	had	have	VERB	VBD	_	18	rcmod	_	_
+22	contact	contact	NOUN	NN	_	21	dobj	_	_
+23	with	with	ADP	IN	_	21	prep	_	_
+24	*T*-1	*t*-1	NOUN	NN	_	23	pobj	_	_
+25	were	be	VERB	VBD	_	0	root	_	_
+26	,	,	PUNCT	,	_	25	punct	_	_
+27	were	be	VERB	VBD	_	25	dep	_	_
+28	decent	decent	ADJ	JJ	_	27	acomp	_	_
+29	to	to	ADP	IN	_	28	prep	_	_
+30	us	we	PRON	PRP	_	29	pobj	_	_
+31	and	and	CONJ	CC	_	28	cc	_	_
+32	friendly	friendly	ADJ	JJ	_	28	conj	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Were	be	VERB	VBD	_	0	root	_	_
+3	nice	nice	ADJ	JJ	_	2	acomp	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+1	but	but	CONJ	CC	_	6	cc	_	_
+2	%um	%um	INTJ	UH	_	6	discourse	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	hospital	hospital	NOUN	NN	_	5	nn	_	_
+5	policy	policy	NOUN	NN	_	6	nsubj	_	_
+6	was	be	VERB	VBD	_	0	root	_	_
+7	rather	rather	ADV	RB	_	8	advmod	_	_
+8	unfriendly	unfriendly	ADJ	JJ	_	6	acomp	_	_
+9	to	to	ADP	IN	_	8	prep	_	_
+10	us	we	PRON	PRP	_	9	pobj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	they	they	PRON	PRP	_	3	nsubj	_	_
+3	would	would	AUX	MD	_	0	root	_	_
+4	n't	not	ADV	RB	_	3	neg	_	_
+5	,	,	PUNCT	,	_	3	punct	_	_
+
+1	like	like	INTJ	UH	_	5	discourse	_	_
+2	we	we	PRON	PRP	_	5	nsubjpass	_	_
+3	had	have	VERB	VBD	_	5	aux	_	_
+4	been	be	VERB	VBN	_	5	auxpass	_	_
+5	told	tell	VERB	VBN	_	0	root	_	_
+6	*-1	*-1	NOUN	NN	_	5	dobj	_	_
+7	,	,	PUNCT	,	_	5	punct	_	_
+
+1	we	we	PRON	PRP	_	3	nsubj	_	_
+2	they	they	PRON	PRP	_	3	nsubj	_	_
+3	have	have	VERB	VBP	_	0	root	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	room	room	NOUN	NN	_	3	dobj	_	_
+6	called	call	VERB	VBN	_	5	vmod	_	_
+7	*	*	NOUN	NN	_	6	dobj	_	_
+8	*PRO*-1	*pro*-1	NOUN	NN	_	11	nsubj	_	_
+9	the	the	DET	DT	_	11	det	_	_
+10	bonding	bonding	NOUN	NN	_	11	nn	_	_
+11	room	room	NOUN	NN	_	6	xcomp	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	and	and	CONJ	CC	_	8	cc	_	_
+2	the	the	DET	DT	_	4	det	_	_
+3	whole	whole	ADJ	JJ	_	4	amod	_	_
+4	purpose	purpose	NOUN	NN	_	8	nsubj	_	_
+5	of	of	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	room	room	NOUN	NN	_	5	pobj	_	_
+8	is	be	VERB	VBZ	_	0	root	_	_
+9	*PRO*	*pro*	NOUN	NN	_	8	dobj	_	_
+10	to	to	ADP	TO	_	11	aux	_	_
+11	let	let	VERB	VB	_	8	xcomp	_	_
+12	people	people	NOUN	NNS	_	14	nsubj	_	_
+13	*ICH*-1	*ich*-1	X	X	_	12	dep	_	_
+14	be	be	VERB	VB	_	11	ccomp	_	_
+15	in	in	ADP	IN	_	14	prep	_	_
+16	it	it	PRON	PRP	_	15	pobj	_	_
+17	with	with	ADP	IN	_	14	prep	_	_
+18	the	the	DET	DT	_	19	det	_	_
+19	baby	baby	NOUN	NN	_	17	pobj	_	_
+20	,	,	PUNCT	,	_	14	punct	_	_
+21	who	who	PRON	WP	_	28	dobj	_	_
+22	--	--	PUNCT	:	_	28	punct	_	_
+23	uh-huh	uh-huh	INTJ	UH	_	28	dep	_	_
+24	.	.	PUNCT	.	_	23	punct	_	_
+25	--	--	PUNCT	:	_	28	punct	_	_
+26	*T*-2	*t*-2	NOUN	NN	_	28	nsubj	_	_
+27	are	be	VERB	VBP	_	28	aux	_	_
+28	going	go	VERB	VBG	_	14	ccomp	_	_
+29	*-3	*-3	NOUN	NN	_	28	dobj	_	_
+30	to	to	ADP	TO	_	31	aux	_	_
+31	be	be	VERB	VB	_	28	xcomp	_	_
+32	with	with	ADP	IN	_	31	prep	_	_
+33	the	the	DET	DT	_	34	det	_	_
+34	baby	baby	NOUN	NN	_	32	pobj	_	_
+35	.	.	PUNCT	.	_	8	punct	_	_
+
+1	Right	right	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	5	cc	_	_
+2	they	they	PRON	PRP	_	5	nsubj	_	_
+3	would	would	AUX	MD	_	5	aux	_	_
+4	n't	not	ADV	RB	_	5	neg	_	_
+5	let	let	VERB	VB	_	0	root	_	_
+6	us	we	PRON	PRP	_	5	dobj	_	_
+7	in	in	ADV	RB	_	8	advmod	_	_
+8	there	there	ADV	RB	_	5	advmod	_	_
+
+1	They	they	PRON	PRP	_	4	nsubj	_	_
+2	would	would	AUX	MD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	let	let	VERB	VB	_	0	root	_	_
+5	us	we	PRON	PRP	_	6	nsubj	_	_
+6	*?*	*?*	X	X	_	4	ccomp	_	_
+7	,	,	PUNCT	,	_	4	punct	_	_
+
+1	they	they	PRON	PRP	_	4	nsubj	_	_
+2	did	do	VERB	VBD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	*?*	*?*	X	X	_	0	root	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+
+1	they	they	PRON	PRP	_	3	nsubj	_	_
+2	they	they	PRON	PRP	_	3	nsubj	_	_
+3	gave	give	VERB	VBD	_	0	root	_	_
+4	us	we	PRON	PRP	_	3	dobj	_	_
+
+1	but	but	CONJ	CC	_	5	cc	_	_
+2	they	they	PRON	PRP	_	5	nsubj	_	_
+3	did	do	VERB	VBD	_	5	aux	_	_
+4	n't	not	ADV	RB	_	5	neg	_	_
+5	tell	tell	VERB	VB	_	0	root	_	_
+6	us	we	PRON	PRP	_	5	iobj	_	_
+7	beans	bean	NOUN	NNS	_	5	dobj	_	_
+8	.	.	PUNCT	.	_	5	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	mean	mean	VERB	VBP	_	7	parataxis	_	_
+3	they	they	PRON	PRP	_	7	nsubj	_	_
+4	really	really	ADV	RB	_	7	advmod	_	_
+5	did	do	VERB	VBD	_	7	aux	_	_
+6	n't	not	ADV	RB	_	7	neg	_	_
+7	talk	talk	VERB	VB	_	0	root	_	_
+8	to	to	ADP	IN	_	7	prep	_	_
+9	us	we	PRON	PRP	_	8	pobj	_	_
+10	.	.	PUNCT	.	_	7	punct	_	_
+
+1	They	they	PRON	PRP	_	4	nsubj	_	_
+2	did	do	VERB	VBD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	offer	offer	VERB	VB	_	0	root	_	_
+5	us	we	PRON	PRP	_	4	iobj	_	_
+6	that	that	DET	DT	_	8	det	_	_
+7	parenting	parenting	NOUN	NN	_	8	nn	_	_
+8	class	class	NOUN	NN	_	4	dobj	_	_
+9	that	that	DET	WDT	_	11	dobj	_	_
+10	they	they	PRON	PRP	_	11	nsubj	_	_
+11	offer	offer	VERB	VBP	_	8	rcmod	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	11	dobj	_	_
+13	to	to	ADP	IN	_	11	prep	_	_
+14	most	most	ADJ	JJS	_	15	amod	_	_
+15	people	people	NOUN	NNS	_	13	pobj	_	_
+16	.	.	PUNCT	.	_	4	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	We	we	PRON	PRP	_	4	nsubj	_	_
+2	would	would	AUX	MD	_	4	aux	_	_
+3	have	have	VERB	VB	_	4	aux	_	_
+4	had	have	VERB	VBN	_	0	root	_	_
+5	*-1	*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	come	come	VERB	VB	_	4	ccomp	_	_
+8	back	back	ADV	RB	_	7	advmod	_	_
+9	*ICH*-2	*ich*-2	X	X	_	8	prep	_	_
+10	the	the	DET	DT	_	12	det	_	_
+11	next	next	ADJ	JJ	_	12	amod	_	_
+12	day	day	NOUN	NN	_	7	tmod	_	_
+13	to	to	ADP	IN	_	7	prep	_	_
+14	the	the	DET	DT	_	15	det	_	_
+15	hospital	hospital	NOUN	NN	_	13	pobj	_	_
+16	which	which	DET	WDT	_	22	dobj	_	_
+17	of	of	ADV	RB	_	18	advmod	_	_
+18	course	course	ADV	RB	_	22	advmod	_	_
+19	we	we	PRON	PRP	_	22	nsubj	_	_
+20	were	be	VERB	VBD	_	22	aux	_	_
+21	n't	not	ADV	RB	_	22	neg	_	_
+22	going	go	VERB	VBG	_	7	dep	_	_
+23	*-3	*-3	NOUN	NN	_	22	dobj	_	_
+24	to	to	ADP	TO	_	25	aux	_	_
+25	do	do	VERB	VB	_	22	xcomp	_	_
+26	*T*-4	*t*-4	NOUN	NN	_	25	dobj	_	_
+27	.	.	PUNCT	.	_	4	punct	_	_
+
+1	%hm	%hm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	%um	%um	INTJ	UH	_	7	discourse	_	_
+2	,	,	PUNCT	,	_	7	punct	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	know	know	VERB	VBP	_	7	parataxis	_	_
+5	they	they	PRON	PRP	_	7	nsubj	_	_
+6	really	really	ADV	RB	_	7	advmod	_	_
+7	were	be	VERB	VBD	_	0	root	_	_
+8	n't	not	ADV	RB	_	7	neg	_	_
+9	very	very	ADV	RB	_	10	advmod	_	_
+10	nice	nice	ADJ	JJ	_	7	acomp	_	_
+
+1	and	and	CONJ	CC	_	5	cc	_	_
+2	yeah	yeah	INTJ	UH	_	5	dep	_	_
+3	.	.	PUNCT	.	_	2	punct	_	_
+4	I	I	PRON	PRP	_	5	nsubj	_	_
+5	guess	guess	VERB	VBP	_	0	root	_	_
+6	0	0	X	X	_	8	dep	_	_
+7	they	they	PRON	PRP	_	8	nsubj	_	_
+8	have	have	VERB	VBP	_	5	ccomp	_	_
+9	,	,	PUNCT	,	_	5	punct	_	_
+
+1	their	they	PRON	PRP$	_	2	poss	_	_
+2	rules	rule	NOUN	NNS	_	3	nsubj	_	_
+3	are	be	VERB	VBP	_	0	root	_	_
+4	just	just	ADV	RB	_	3	advmod	_	_
+5	very	very	ADV	RB	_	6	advmod	_	_
+6	rigid	rigid	ADJ	JJ	_	3	acomp	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
+
+1	%mm	%mm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	4	cc	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	problem	problem	NOUN	NN	_	4	nsubj	_	_
+4	is	be	VERB	VBZ	_	0	root	_	_
+5	0	0	X	X	_	9	dep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	lawyer	lawyer	NOUN	NN	_	9	nsubjpass	_	_
+8	was	be	VERB	VBD	_	9	auxpass	_	_
+9	supposed	suppose	VERB	VBN	_	4	ccomp	_	_
+10	*-1	*-1	NOUN	NN	_	9	dobj	_	_
+11	to	to	ADP	TO	_	13	aux	_	_
+12	have	have	VERB	VB	_	13	aux	_	_
+13	arranged	arrange	VERB	VBN	_	9	xcomp	_	_
+14	for	for	ADP	IN	_	13	prep	_	_
+15	%um	%um	INTJ	UH	_	14	discourse	_	_
+16	Right	right	INTJ	UH	_	14	dep	_	_
+17	.	.	PUNCT	.	_	16	punct	_	_
+18	an	a	DET	DT	_	20	det	_	_
+19	additional	additional	ADJ	JJ	_	20	amod	_	_
+20	bracelet	bracelet	NOUN	NN	_	14	pobj	_	_
+21	.	.	PUNCT	.	_	20	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	In	in	ADP	IN	_	8	prep	_	_
+2	other	other	ADJ	JJ	_	3	amod	_	_
+3	words	word	NOUN	NNS	_	1	pobj	_	_
+4	,	,	PUNCT	,	_	8	punct	_	_
+5	what	what	PRON	WP	_	7	dobj	_	_
+6	*T*-1	*t*-1	NOUN	NN	_	7	nsubj	_	_
+7	happens	happen	VERB	VBZ	_	8	csubj	_	_
+8	is	be	VERB	VBZ	_	0	root	_	_
+9	0	0	X	X	_	11	dep	_	_
+10	they	they	PRON	PRP	_	11	nsubj	_	_
+11	put	put	VERB	VBP	_	8	ccomp	_	_
+12	one	one	NUM	CD	_	11	dobj	_	_
+13	on	on	ADP	IN	_	11	prep	_	_
+14	the	the	DET	DT	_	15	det	_	_
+15	wrist	wrist	NOUN	NN	_	13	pobj	_	_
+16	of	of	ADP	IN	_	15	prep	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	baby	baby	NOUN	NN	_	16	pobj	_	_
+19	,	,	PUNCT	,	_	11	punct	_	_
+20	one	one	NUM	CD	_	11	dep	_	_
+21	on	on	ADP	IN	_	20	prep	_	_
+22	the	the	DET	DT	_	23	det	_	_
+23	ankle	ankle	NOUN	NN	_	21	pobj	_	_
+24	,	,	PUNCT	,	_	11	punct	_	_
+25	one	one	NUM	CD	_	11	dep	_	_
+26	on	on	ADP	IN	_	25	prep	_	_
+27	the	the	DET	DT	_	29	det	_	_
+28	birth	birth	NOUN	NN	_	29	nn	_	_
+29	mother	mother	NOUN	NN	_	26	pobj	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	then	then	ADV	RB	_	4	advmod	_	_
+3	she	she	PRON	PRP	_	4	nsubj	_	_
+4	has	have	VERB	VBZ	_	0	root	_	_
+5	a	a	DET	DT	_	4	dobj	_	_
+6	,	,	PUNCT	,	_	4	punct	_	_
+7	what	what	PRON	WP	_	9	dobj	_	_
+8	you	you	PRON	PRP	_	9	nsubj	_	_
+9	call	call	VERB	VBP	_	4	dobj	_	_
+10	*T*-1	*t*-1	NOUN	NN	_	9	dobj	_	_
+11	*-2	*-2	NOUN	NN	_	14	nsubj	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	fourth	fourth	ADJ	JJ	_	14	amod	_	_
+14	bracelet	bracelet	NOUN	NN	_	9	xcomp	_	_
+15	which	which	DET	WDT	_	18	dobj	_	_
+16	she	she	PRON	PRP	_	18	nsubj	_	_
+17	can	can	AUX	MD	_	18	aux	_	_
+18	give	give	VERB	VB	_	9	dep	_	_
+19	*T*-3	*t*-3	NOUN	NN	_	18	dobj	_	_
+20	to	to	ADP	IN	_	18	prep	_	_
+21	whoever	whoever	PRON	WP	_	24	dobj	_	_
+22	*T*-4	*t*-4	NOUN	NN	_	24	nsubj	_	_
+23	will	will	AUX	MD	_	24	aux	_	_
+24	be	be	VERB	VB	_	20	pcomp	_	_
+25	her	she	PRON	PRP$	_	26	poss	_	_
+26	coach	coach	NOUN	NN	_	24	xcomp	_	_
+27	through	through	ADP	IN	_	26	prep	_	_
+28	the	the	DET	DT	_	29	det	_	_
+29	birth	birth	NOUN	NN	_	27	pobj	_	_
+30	and	and	CONJ	CC	_	29	cc	_	_
+31	stuff	stuff	NOUN	NN	_	29	conj	_	_
+
+1	and	and	CONJ	CC	_	6	cc	_	_
+2	of	of	ADV	RB	_	3	advmod	_	_
+3	course	course	ADV	RB	_	6	advmod	_	_
+4	she	she	PRON	PRP	_	6	nsubj	_	_
+5	had	have	VERB	VBD	_	6	aux	_	_
+6	given	give	VERB	VBN	_	0	root	_	_
+7	it	it	PRON	PRP	_	6	dobj	_	_
+8	to	to	ADP	IN	_	6	prep	_	_
+9	her	she	PRON	PRP$	_	10	poss	_	_
+10	mother	mother	NOUN	NN	_	8	pobj	_	_
+11	,	,	PUNCT	,	_	6	punct	_	_
+12	%hm	%hm	INTJ	UH	_	16	discourse	_	_
+13	.	.	PUNCT	.	_	12	punct	_	_
+14	mhm	mhm	INTJ	UH	_	16	discourse	_	_
+15	.	.	PUNCT	.	_	14	punct	_	_
+16	%hm	%hm	INTJ	UH	_	6	dep	_	_
+17	.	.	PUNCT	.	_	16	punct	_	_
+18	I	I	PRON	PRP	_	19	nsubj	_	_
+19	see	see	VERB	VBP	_	16	dep	_	_
+20	.	.	PUNCT	.	_	19	punct	_	_
+21	I	I	PRON	PRP	_	22	nsubj	_	_
+22	see	see	VERB	VBP	_	16	dep	_	_
+23	.	.	PUNCT	.	_	22	punct	_	_
+24	which	which	DET	WDT	_	26	dobj	_	_
+25	*T*-1	*t*-1	NOUN	NN	_	26	nsubj	_	_
+26	makes	make	VERB	VBZ	_	6	dep	_	_
+27	perfect	perfect	ADJ	JJ	_	28	amod	_	_
+28	sense	sense	NOUN	NN	_	26	dobj	_	_
+29	.	.	PUNCT	.	_	6	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Well	well	INTJ	UH	_	5	discourse	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	only	only	ADJ	JJ	_	5	amod	_	_
+5	way	way	NOUN	NN	_	0	root	_	_
+6	,	,	PUNCT	,	_	5	punct	_	_
+
+1	they	they	PRON	PRP	_	4	nsubj	_	_
+2	could	could	AUX	MD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	get	get	VERB	VB	_	0	root	_	_
+5	their	they	PRON	PRP$	_	6	poss	_	_
+6	minds	mind	NOUN	NNS	_	4	dobj	_	_
+7	around	around	ADP	IN	_	4	prep	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	notion	notion	NOUN	NN	_	7	pobj	_	_
+10	of	of	ADP	IN	_	9	prep	_	_
+11	a	a	DET	DT	_	13	det	_	_
+12	fifth	fifth	ADJ	JJ	_	13	amod	_	_
+13	bracelet	bracelet	NOUN	NN	_	10	pobj	_	_
+14	for	for	ADP	IN	_	13	prep	_	_
+15	us	we	PRON	PRP	_	14	pobj	_	_
+16	.	.	PUNCT	.	_	4	punct	_	_
+
+1	Right	right	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	So	so	ADV	RB	_	14	advmod	_	_
+2	the	the	DET	DT	_	4	det	_	_
+3	only	only	ADJ	JJ	_	4	amod	_	_
+4	way	way	NOUN	NN	_	14	nsubj	_	_
+5	that	that	ADV	WRB	_	9	advmod	_	_
+6	they	they	PRON	PRP	_	9	nsubj	_	_
+7	would	would	AUX	MD	_	9	aux	_	_
+8	have	have	VERB	VB	_	9	aux	_	_
+9	let	let	VERB	VBN	_	4	dep	_	_
+10	us	we	PRON	PRP	_	9	dobj	_	_
+11	in	in	ADV	RB	_	12	advmod	_	_
+12	there	there	ADV	RB	_	9	advmod	_	_
+13	*T*-1	*t*-1	X	X	_	9	advmod	_	_
+14	was	be	VERB	VBD	_	0	root	_	_
+15	*PRO*	*pro*	NOUN	NN	_	14	dobj	_	_
+16	to	to	ADP	TO	_	17	aux	_	_
+17	take	take	VERB	VB	_	14	xcomp	_	_
+18	her	she	PRON	PRP$	_	19	poss	_	_
+19	mothers	mother	NOUN	NNS	_	17	dobj	_	_
+20	away	away	ADV	RB	_	17	advmod	_	_
+21	,	,	PUNCT	,	_	17	punct	_	_
+22	Right	right	INTJ	UH	_	17	dep	_	_
+23	.	.	PUNCT	.	_	22	punct	_	_
+24	which	which	DET	WDT	_	28	dobj	_	_
+25	we	we	PRON	PRP	_	28	nsubj	_	_
+26	would	would	AUX	MD	_	28	aux	_	_
+27	n't	not	ADV	RB	_	28	neg	_	_
+28	ask	ask	VERB	VB	_	17	dep	_	_
+29	*T*-2	*t*-2	NOUN	NN	_	28	dobj	_	_
+30	and	and	CONJ	CC	_	28	cc	_	_
+31	which	which	DET	WDT	_	35	dobj	_	_
+32	she	she	PRON	PRP	_	35	nsubj	_	_
+33	would	would	AUX	MD	_	35	aux	_	_
+34	n't	not	ADV	RB	_	35	neg	_	_
+35	do	do	VERB	VB	_	28	conj	_	_
+36	*T*-3	*t*-3	NOUN	NN	_	35	dobj	_	_
+37	.	.	PUNCT	.	_	14	punct	_	_
+
+1	Right	right	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Right	right	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	6	cc	_	_
+2	%um	%um	INTJ	UH	_	6	discourse	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	lawyer	lawyer	NOUN	NN	_	6	nsubj	_	_
+5	had	have	VERB	VBD	_	6	aux	_	_
+6	told	tell	VERB	VBN	_	0	root	_	_
+7	us	we	PRON	PRP	_	6	dobj	_	_
+8	0	0	X	X	_	11	dep	_	_
+9	he	he	PRON	PRP	_	11	nsubj	_	_
+10	had	have	VERB	VBD	_	11	aux	_	_
+11	arranged	arrange	VERB	VBN	_	6	ccomp	_	_
+12	everything	everything	NOUN	NN	_	11	dobj	_	_
+13	ahead	ahead	ADV	RB	_	11	advmod	_	_
+14	of	of	ADP	IN	_	13	prep	_	_
+15	time	time	NOUN	NN	_	14	pobj	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	there	there	DET	EX	_	4	expl	_	_
+3	was	be	VERB	VBD	_	4	auxpass	_	_
+4	supposed	suppose	VERB	VBN	_	0	root	_	_
+5	*-1	*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	be	be	VERB	VB	_	4	xcomp	_	_
+8	I	I	NOUN	NN	_	9	nn	_	_
+9	D	d	NOUN	NN	_	7	xcomp	_	_
+10	there	there	ADV	RB	_	9	advmod	_	_
+11	at	at	ADP	IN	_	10	prep	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	hospital	hospital	NOUN	NN	_	11	pobj	_	_
+14	for	for	ADP	IN	_	9	prep	_	_
+15	us	we	PRON	PRP	_	14	pobj	_	_
+
+1	and	and	CONJ	CC	_	3	cc	_	_
+2	it	it	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	all	all	ADV	RB	_	5	advmod	_	_
+5	set	set	ADJ	JJ	_	3	acomp	_	_
+
+1	and	and	CONJ	CC	_	7	cc	_	_
+2	of	of	ADV	RB	_	3	advmod	_	_
+3	course	course	ADV	RB	_	7	advmod	_	_
+4	he	he	PRON	PRP	_	7	nsubj	_	_
+5	had	have	VERB	VBD	_	7	aux	_	_
+6	n't	not	ADV	RB	_	7	neg	_	_
+7	done	do	VERB	VBN	_	0	root	_	_
+8	anything	anything	NOUN	NN	_	7	dobj	_	_
+9	.	.	PUNCT	.	_	7	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	see	see	VERB	VBP	_	0	root	_	_
+3	.	.	PUNCT	.	_	2	punct	_	_
+
+1	He	he	PRON	PRP	_	4	nsubj	_	_
+2	had	have	VERB	VBD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	done	do	VERB	VBN	_	0	root	_	_
+5	that	that	DET	DT	_	4	dobj	_	_
+6	,	,	PUNCT	,	_	4	punct	_	_
+7	%hm	%hm	INTJ	UH	_	4	discourse	_	_
+8	.	.	PUNCT	.	_	4	punct	_	_
+
+1	No	no	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	He	he	PRON	PRP	_	4	nsubj	_	_
+2	had	have	VERB	VBD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	done	do	VERB	VBN	_	0	root	_	_
+5	anything	anything	NOUN	NN	_	4	dobj	_	_
+6	.	.	PUNCT	.	_	4	punct	_	_
+
+1	He	he	PRON	PRP	_	3	nsubjpass	_	_
+2	's	be	VERB	VBZ	_	3	auxpass	_	_
+3	been	be	VERB	VBN	_	0	root	_	_
+4	just	just	ADV	RB	_	5	advmod	_	_
+5	hopeless	hopeless	ADJ	JJ	_	3	acomp	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+1	%hm	%hm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	mean	mean	VERB	VBP	_	4	parataxis	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	think	think	VERB	VBP	_	0	root	_	_
+5	0	0	X	X	_	8	dep	_	_
+6	legally	legally	ADV	RB	_	8	advmod	_	_
+7	he	he	PRON	PRP	_	8	nsubj	_	_
+8	's	be	VERB	VBZ	_	4	ccomp	_	_
+9	not	not	ADV	RB	_	8	neg	_	_
+10	hopeless	hopeless	ADJ	JJ	_	8	acomp	_	_
+11	.	.	PUNCT	.	_	4	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	6	dep	_	_
+4	he	he	PRON	PRP	_	6	nsubjpass	_	_
+5	's	be	VERB	VBZ	_	6	auxpass	_	_
+6	done	do	VERB	VBN	_	2	ccomp	_	_
+7	all	all	DET	PDT	_	11	predet	_	_
+8	the	the	DET	DT	_	11	det	_	_
+9	necessary	necessary	ADJ	JJ	_	11	amod	_	_
+10	legal	legal	ADJ	JJ	_	11	amod	_	_
+11	things	thing	NOUN	NNS	_	6	dobj	_	_
+
+1	but	but	CONJ	CC	_	7	cc	_	_
+2	%um	%um	INTJ	UH	_	7	discourse	_	_
+3	yeah	yeah	INTJ	UH	_	7	dep	_	_
+4	.	.	PUNCT	.	_	3	punct	_	_
+5	you	you	PRON	PRP	_	6	nsubj	_	_
+6	know	know	VERB	VBP	_	7	dep	_	_
+7	in	in	ADP	IN	_	0	root	_	_
+8	terms	term	NOUN	NNS	_	7	pobj	_	_
+9	of	of	ADP	IN	_	8	prep	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	things	thing	NOUN	NNS	_	9	pobj	_	_
+12	,	,	PUNCT	,	_	7	punct	_	_
+
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	an	a	DET	DT	_	6	det	_	_
+4	S	s	NOUN	NN	_	6	nn	_	_
+5	O	o	NOUN	NN	_	6	nn	_	_
+6	B	b	NOUN	NN	_	2	xcomp	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	forgive	forgive	VERB	VB	_	0	root	_	_
+3	me	I	PRON	PRP	_	2	iobj	_	_
+4	tape	tape	NOUN	NN	_	2	dobj	_	_
+5	whoever	whoever	PRON	WP	_	7	dobj	_	_
+6	you	you	PRON	PRP	_	7	nsubj	_	_
+7	are	be	VERB	VBP	_	4	rcmod	_	_
+8	*T*-1	*t*-1	NOUN	NN	_	7	xcomp	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	he	he	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	fucker	fucker	NOUN	NN	_	3	xcomp	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	No	no	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	4	cc	_	_
+2	%um	%um	INTJ	UH	_	4	discourse	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	'm	be	VERB	VBP	_	0	root	_	_
+5	sorry	sorry	ADJ	JJ	_	4	acomp	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	he	he	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	*?*	*?*	NOUN	NN	_	3	xcomp	_	_
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	they	they	PRON	PRP	_	5	nsubj	_	_
+5	said	say	VERB	VBD	_	2	ccomp	_	_
+6	published	publish	VERB	VBN	_	5	dep	_	_
+7	actually	actually	ADV	RB	_	5	advmod	_	_
+8	.	.	PUNCT	.	_	2	punct	_	_
+
+1	oh	oh	INTJ	UH	_	9	discourse	_	_
+2	well	well	INTJ	UH	_	1	dep	_	_
+3	they	they	PRON	PRP	_	5	nsubj	_	_
+4	can	can	AUX	MD	_	5	aux	_	_
+5	edit	edit	VERB	VB	_	9	dep	_	_
+6	that	that	DET	DT	_	7	det	_	_
+7	word	word	NOUN	NN	_	5	dobj	_	_
+8	I	I	PRON	PRP	_	9	nsubj	_	_
+9	guess	guess	VERB	VBP	_	0	root	_	_
+10	0	0	X	X	_	11	dep	_	_
+11	*T*-1	*t*-1	X	X	_	9	dep	_	_
+
+1	Anyway	anyway	INTJ	UH	_	3	discourse	_	_
+2	it	it	PRON	PRP	_	3	nsubj	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	English	English	PROPN	NNP	_	3	xcomp	_	_
+
+1	so	so	ADV	RB	_	0	root	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	American	american	ADJ	JJ	_	4	amod	_	_
+4	English	English	PROPN	NNP	_	2	xcomp	_	_
+5	.	.	PUNCT	.	_	2	punct	_	_
+
+1	%um	%um	INTJ	UH	_	0	root	_	_
+
+1	You	you	PRON	PRP	_	2	nsubj	_	_
+2	know	know	VERB	VBP	_	6	parataxis	_	_
+3	he	he	PRON	PRP	_	6	nsubj	_	_
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	he	he	PRON	PRP	_	6	nsubj	_	_
+6	said	say	VERB	VBD	_	0	root	_	_
+7	things	thing	NOUN	NNS	_	6	dobj	_	_
+8	*ICH*-1	*ich*-1	X	X	_	7	dep	_	_
+9	to	to	ADP	IN	_	6	prep	_	_
+10	me	I	PRON	PRP	_	9	pobj	_	_
+11	like	like	ADP	IN	_	15	mark	_	_
+12	well	well	INTJ	UH	_	15	discourse	_	_
+13	you	you	PRON	PRP	_	15	nsubj	_	_
+14	'll	'll	AUX	MD	_	15	aux	_	_
+15	have	have	VERB	VB	_	6	advcl	_	_
+16	her	she	PRON	PRP	_	15	dobj	_	_
+17	for	for	ADP	IN	_	15	prep	_	_
+18	the	the	DET	DT	_	19	det	_	_
+19	rest	rest	NOUN	NN	_	17	pobj	_	_
+20	of	of	ADP	IN	_	19	prep	_	_
+21	your	you	PRON	PRP$	_	22	poss	_	_
+22	life	life	NOUN	NN	_	20	pobj	_	_
+23	,	,	PUNCT	,	_	15	punct	_	_
+24	you	you	PRON	PRP	_	25	nsubj	_	_
+25	know	know	VERB	VBP	_	15	parataxis	_	_
+26	.	.	PUNCT	.	_	15	punct	_	_
+27	yeah	yeah	INTJ	UH	_	15	dep	_	_
+28	.	.	PUNCT	.	_	27	punct	_	_
+29	*PRO*	*pro*	NOUN	NN	_	32	nsubj	_	_
+30	Do	do	VERB	VB	_	32	aux	_	_
+31	n't	not	ADV	RB	_	32	neg	_	_
+32	worry	worry	VERB	VB	_	15	parataxis	_	_
+33	about	about	ADP	IN	_	32	prep	_	_
+34	it	it	PRON	PRP	_	33	pobj	_	_
+35	,	,	PUNCT	,	_	15	punct	_	_
+36	which	which	DET	WDT	_	38	dobj	_	_
+37	*T*-2	*t*-2	NOUN	NN	_	38	nsubj	_	_
+38	is	be	VERB	VBZ	_	15	dep	_	_
+39	really	really	ADV	RB	_	38	advmod	_	_
+40	an	a	DET	DT	_	42	det	_	_
+41	arrogant	arrogant	ADJ	JJ	_	42	amod	_	_
+42	attitude	attitude	NOUN	NN	_	38	xcomp	_	_
+43	0	0	X	X	_	46	dobj	_	_
+44	*PRO*	*pro*	NOUN	NN	_	46	nsubj	_	_
+45	to	to	ADP	TO	_	46	aux	_	_
+46	take	take	VERB	VB	_	42	rcmod	_	_
+47	*T*-3	*t*-3	NOUN	NN	_	46	dobj	_	_
+48	,	,	PUNCT	,	_	38	punct	_	_
+49	you	you	PRON	PRP	_	50	nsubj	_	_
+50	know	know	VERB	VBP	_	38	parataxis	_	_
+51	.	.	PUNCT	.	_	6	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+
+1	Man	man	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	6	ccomp	_	_
+3	really	really	ADV	RB	_	2	advmod	_	_
+4	,	,	PUNCT	,	_	6	punct	_	_
+5	he	he	PRON	PRP	_	6	nsubj	_	_
+6	was	be	VERB	VBD	_	0	root	_	_
+7	a	a	DET	DT	_	12	det	_	_
+8	real	real	ADJ	JJ	_	12	amod	_	_
+9	arrogant	arrogant	ADJ	JJ	_	12	amod	_	_
+10	S	s	NOUN	NN	_	12	nn	_	_
+11	O	o	NOUN	NN	_	12	nn	_	_
+12	B	b	NOUN	NN	_	6	xcomp	_	_
+13	,	,	PUNCT	,	_	6	punct	_	_
+
+1	so	so	ADV	RB	_	0	root	_	_
+
+1	How	how	ADV	WRB	_	2	advmod	_	_
+2	old	old	ADJ	JJ	_	5	dep	_	_
+3	was	be	VERB	VBD	_	5	cop	_	_
+4	he	he	PRON	PRP	_	5	nsubj	_	_
+5	*T*-1	*t*-1	X	X	_	0	root	_	_
+6	?	?	PUNCT	.	_	5	punct	_	_
+
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	do	do	VERB	VBP	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	know	know	VERB	VB	_	0	root	_	_
+
+1	we	we	PRON	PRP	_	3	nsubj	_	_
+2	never	never	ADV	RB	_	3	neg	_	_
+3	met	meet	VERB	VBD	_	0	root	_	_
+4	him	he	PRON	PRP	_	3	dobj	_	_
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+1	He	he	PRON	PRP	_	3	nsubj	_	_
+2	never	never	ADV	RB	_	3	neg	_	_
+3	showed	show	VERB	VBD	_	0	root	_	_
+4	up	up	PART	RP	_	3	prt	_	_
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	W-	w-	PRON	PRP	_	4	nsubj	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	he	he	PRON	PRP	_	4	nsubj	_	_
+4	ended	end	VERB	VBD	_	0	root	_	_
+5	up	up	PART	RP	_	4	prt	_	_
+
+1	in	in	ADP	IN	_	9	prep	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	end	end	NOUN	NN	_	1	pobj	_	_
+4	,	,	PUNCT	,	_	9	punct	_	_
+5	his	he	PRON	PRP$	_	6	poss	_	_
+6	par-	par-_NN	NOUN	NN	_	9	nsubj	_	_
+7	,	,	PUNCT	,	_	9	punct	_	_
+8	he	he	PRON	PRP	_	9	nsubj	_	_
+9	sent	send	VERB	VBD	_	0	root	_	_
+10	his	he	PRON	PRP$	_	11	poss	_	_
+11	partner	partner	NOUN	NN	_	9	dobj	_	_
+12	*ICH*-2	*ich*-2	X	X	_	11	dep	_	_
+13	*PRO*-1	*pro*-1	NOUN	NN	_	9	dobj	_	_
+14	to	to	ADP	TO	_	16	aux	_	_
+15	actually	actually	ADV	RB	_	16	advmod	_	_
+16	sign	sign	VERB	VB	_	9	vmod	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	papers	papers	NOUN	NNS	_	16	dobj	_	_
+19	who	who	PRON	WP	_	21	dobj	_	_
+20	*T*-3	*t*-3	NOUN	NN	_	21	nsubj	_	_
+21	's	be	VERB	VBZ	_	9	dep	_	_
+22	not	not	ADV	RB	_	21	neg	_	_
+23	even	even	ADV	RB	_	21	advmod	_	_
+24	an	a	DET	DT	_	26	det	_	_
+25	adoption	adoption	NOUN	NN	_	26	nn	_	_
+26	attorney	attorney	NOUN	NN	_	21	xcomp	_	_
+27	.	.	PUNCT	.	_	9	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	does	do	VERB	VBZ	_	0	root	_	_
+3	litigation	litigation	NOUN	NN	_	2	dobj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	4	nsubj	_	_
+2	Does	do	VERB	VBZ	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	know	know	VERB	VB	_	0	root	_	_
+5	what	what	PRON	WP	_	8	dobj	_	_
+6	he	he	PRON	PRP	_	8	nsubj	_	_
+7	's	be	VERB	VBZ	_	8	aux	_	_
+8	doing	do	VERB	VBG	_	4	ccomp	_	_
+9	*T*-1	*t*-1	NOUN	NN	_	8	dobj	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	hope	hope	VERB	VBP	_	0	root	_	_
+4	0	0	X	X	_	6	dep	_	_
+5	he	he	PRON	PRP	_	6	nsubj	_	_
+6	did	do	VERB	VBD	_	3	ccomp	_	_
+7	what	what	PRON	WP	_	10	dobj	_	_
+8	his	he	PRON	PRP$	_	9	poss	_	_
+9	partner	partner	NOUN	NN	_	10	nsubj	_	_
+10	told	tell	VERB	VBD	_	6	ccomp	_	_
+11	him	he	PRON	PRP	_	10	dobj	_	_
+12	*PRO*-2	*pro*-2	NOUN	NN	_	10	dobj	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	do	do	VERB	VB	_	10	xcomp	_	_
+15	*T*-1	*t*-1	NOUN	NN	_	14	dobj	_	_
+16	.	.	PUNCT	.	_	3	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	%mm	%mm	INTJ	UH	_	0	root	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	But	but	CONJ	CC	_	5	cc	_	_
+2	he	he	PRON	PRP	_	5	nsubj	_	_
+3	at	at	ADV	RB	_	4	advmod	_	_
+4	least	least	ADV	RBS	_	5	advmod	_	_
+5	was	be	VERB	VBD	_	0	root	_	_
+6	a	a	DET	DT	_	9	det	_	_
+7	sensitive	sensitive	ADJ	JJ	_	9	amod	_	_
+8	human	human	NOUN	NN	_	9	nn	_	_
+9	being	being	NOUN	NN	_	5	xcomp	_	_
+10	.	.	PUNCT	.	_	5	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	8	cc	_	_
+2	%um	%um	INTJ	UH	_	8	discourse	_	_
+3	,	,	PUNCT	,	_	8	punct	_	_
+4	you	you	PRON	PRP	_	5	nsubj	_	_
+5	know	know	VERB	VBP	_	8	parataxis	_	_
+6	so	so	ADV	RB	_	8	advmod	_	_
+7	that	that	DET	DT	_	8	nsubj	_	_
+8	was	be	VERB	VBD	_	0	root	_	_
+9	nice	nice	ADJ	JJ	_	8	acomp	_	_
+10	.	.	PUNCT	.	_	8	punct	_	_
+
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	had	have	VERB	VBD	_	0	root	_	_
+3	some	some	DET	DT	_	4	det	_	_
+4	sensitivity	sensitivity	NOUN	NN	_	2	dobj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	_
+
+1	We	we	PRON	PRP	_	3	nsubj	_	_
+2	're	be	VERB	VBP	_	3	aux	_	_
+3	going	go	VERB	VBG	_	0	root	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	7	aux	_	_
+6	get	get	VERB	VB	_	7	auxpass	_	_
+7	cut	cut	VERB	VBN	_	3	xcomp	_	_
+8	off	off	PART	RP	_	7	prt	_	_
+9	soon	soon	ADV	RB	_	7	advmod	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	no	no	INTJ	UH	_	1	dep	_	_
+
+1	And	and	CONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	want	want	VERB	VBP	_	0	root	_	_
+4	*PRO*-1	*pro*-1	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	3	xcomp	_	_
+6	,	,	PUNCT	,	_	3	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	hope	hope	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	4	dep	_	_
+4	you	you	PRON	PRP	_	2	dep	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Tell	tell	VERB	VB	_	0	root	_	_
+3	me	I	PRON	PRP	_	2	iobj	_	_
+4	something	something	NOUN	NN	_	2	dobj	_	_
+5	then	then	ADV	RB	_	2	advmod	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	'll	'll	AUX	MD	_	3	aux	_	_
+3	shut	shut	VERB	VB	_	0	root	_	_
+4	up	up	PART	RP	_	3	prt	_	_
+5	.	.	PUNCT	.	_	3	punct	_	_
+
+1	You	you	PRON	PRP	_	3	nsubj	_	_
+2	can	can	AUX	MD	_	3	aux	_	_
+3	tell	tell	VERB	VB	_	0	root	_	_
+4	me	I	PRON	PRP	_	3	iobj	_	_
+5	something	something	NOUN	NN	_	3	dobj	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
+
+1	What	what	PRON	WP	_	0	root	_	_
+2	?	?	PUNCT	.	_	1	punct	_	_
+
+1	okay	okay	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	No	no	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	'm	be	VERB	VBP	_	3	aux	_	_
+3	worrying	worry	VERB	VBG	_	9	ccomp	_	_
+4	ab-	ab-	ADP	IN	_	3	prep	_	_
+5	,	,	PUNCT	,	_	9	punct	_	_
+6	I	I	PRON	PRP	_	9	nsubj	_	_
+7	'm	be	VERB	VBP	_	9	aux	_	_
+8	not	not	ADV	RB	_	9	neg	_	_
+9	worrying	worry	VERB	VBG	_	0	root	_	_
+
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	'm	be	VERB	VBP	_	3	aux	_	_
+3	feeling	feel	VERB	VBG	_	0	root	_	_
+4	like	like	ADP	IN	_	12	dep	_	_
+5	oh	oh	INTJ	UH	_	12	discourse	_	_
+6	my	my	INTJ	UH	_	5	dep	_	_
+7	gosh	gosh	INTJ	UH	_	5	dep	_	_
+8	should	should	AUX	MD	_	12	aux	_	_
+9	all	all	DET	DT	_	12	nsubj	_	_
+10	of	of	ADP	IN	_	9	prep	_	_
+11	this	this	DET	DT	_	10	pobj	_	_
+12	be	be	VERB	VB	_	3	advcl	_	_
+13	in	in	ADP	IN	_	12	prep	_	_
+14	the	the	DET	DT	_	16	det	_	_
+15	public	public	ADJ	JJ	_	16	amod	_	_
+16	record	record	NOUN	NN	_	13	pobj	_	_
+17	or	or	CONJ	CC	_	16	cc	_	_
+18	something	something	NOUN	NN	_	16	conj	_	_
+19	.	.	PUNCT	.	_	3	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	yes	yes	INTJ	UH	_	1	dep	_	_
+3	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Well	well	INTJ	UH	_	4	discourse	_	_
+2	they	they	PRON	PRP	_	4	nsubj	_	_
+3	just	just	ADV	RB	_	4	advmod	_	_
+4	beeped	beep	VERB	VBD	_	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	6	dep	_	_
+4	that	that	DET	DT	_	6	nsubj	_	_
+5	might	might	AUX	MD	_	6	aux	_	_
+6	mean	mean	VERB	VB	_	2	ccomp	_	_
+7	0	0	X	X	_	9	dep	_	_
+8	we	we	PRON	PRP	_	9	nsubj	_	_
+9	have	have	VERB	VBP	_	6	ccomp	_	_
+10	*-1	*-1	NOUN	NN	_	9	dobj	_	_
+11	to	to	ADP	TO	_	12	aux	_	_
+12	hang	hang	VERB	VB	_	9	ccomp	_	_
+13	up	up	PART	RP	_	12	prt	_	_
+14	.	.	PUNCT	.	_	2	punct	_	_
+
+1	okay	okay	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	We	we	PRON	PRP	_	2	nsubj	_	_
+2	have	have	VERB	VBP	_	0	root	_	_
+3	a	a	DET	DT	_	4	det	_	_
+4	minute	minute	NOUN	NN	_	2	dobj	_	_
+5	.	.	PUNCT	.	_	2	punct	_	_
+
+1	%um	%um	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	want	want	VERB	VBP	_	0	root	_	_
+3	*PRO*-1	*pro*-1	NOUN	NN	_	2	dobj	_	_
+4	to	to	ADP	TO	_	5	aux	_	_
+5	tell	tell	VERB	VB	_	2	xcomp	_	_
+6	you	you	PRON	PRP	_	5	dobj	_	_
+7	0	0	X	X	_	9	dep	_	_
+8	I	I	PRON	PRP	_	9	nsubj	_	_
+9	saw	see	VERB	VBD	_	5	ccomp	_	_
+10	four	four	NUM	CD	_	11	num	_	_
+11	parakeets	parakeet	NOUN	NNS	_	12	nsubj	_	_
+12	fly	fly	VERB	VB	_	9	ccomp	_	_
+13	across	across	ADP	IN	_	12	prep	_	_
+14	the	the	DET	DT	_	15	det	_	_
+15	street	street	NOUN	NN	_	13	pobj	_	_
+16	in	in	ADP	IN	_	12	prep	_	_
+17	Barcelona	Barcelona	PROPN	NNP	_	16	pobj	_	_
+18	.	.	PUNCT	.	_	2	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	neat	neat	INTJ	UH	_	1	dep	_	_
+3	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Is	be	VERB	VBZ	_	0	root	_	_
+2	it	it	PRON	PRP	_	1	nsubj	_	_
+3	thirty	thirty	NUM	CD	_	4	num	_	_
+4	minutes	minute	NOUN	NNS	_	1	dep	_	_
+5	?	?	PUNCT	.	_	1	punct	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	beautiful	beautiful	ADJ	JJ	_	2	acomp	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+1	Is	be	VERB	VBZ	_	0	root	_	_
+2	it	it	PRON	PRP	_	1	nsubj	_	_
+3	*?*	*?*	NOUN	NN	_	1	dep	_	_
+
+1	It	it	PRON	PRP	_	3	nsubj	_	_
+2	's	be	VERB	VBZ	_	3	aux	_	_
+3	going	go	VERB	VBG	_	14	dep	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	be	be	VERB	VB	_	3	xcomp	_	_
+7	thirty	thirty	NUM	CD	_	8	num	_	_
+8	minutes	minute	NOUN	NNS	_	6	xcomp	_	_
+9	in	in	ADP	IN	_	3	prep	_	_
+10	about	about	ADV	RB	_	11	quantmod	_	_
+11	five	five	NUM	CD	_	12	num	_	_
+12	minutes	minute	NOUN	NNS	_	9	pobj	_	_
+13	I	I	PRON	PRP	_	14	nsubj	_	_
+14	think	think	VERB	VBP	_	0	root	_	_
+15	0	0	X	X	_	16	dep	_	_
+16	*T*-2	*t*-2	X	X	_	14	dep	_	_
+17	.	.	PUNCT	.	_	14	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	okay	okay	INTJ	UH	_	1	dep	_	_
+
+1	because	because	ADP	IN	_	3	mark	_	_
+2	there	there	DET	EX	_	3	expl	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	beep	beep	NOUN	NN	_	3	nsubj	_	_
+6	coming	come	VERB	VBG	_	5	vmod	_	_
+7	on	on	ADP	IN	_	6	prep	_	_
+8	my	my	PRON	PRP$	_	9	poss	_	_
+9	end	end	NOUN	NN	_	7	pobj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	You	you	PRON	PRP	_	4	nsubj	_	_
+2	do	do	VERB	VBP	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	hear	hear	VERB	VB	_	0	root	_	_
+5	it	it	PRON	PRP	_	4	dobj	_	_
+6	?	?	PUNCT	.	_	4	punct	_	_
+
+1	No	no	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	okay	okay	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Well	well	INTJ	UH	_	3	discourse	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	ignore	ignore	VERB	VB	_	0	root	_	_
+4	it	it	PRON	PRP	_	3	dobj	_	_
+
+1	so	so	ADV	RB	_	4	advmod	_	_
+2	we	we	PRON	PRP	_	4	nsubj	_	_
+3	'll	'll	AUX	MD	_	4	aux	_	_
+4	let	let	VERB	VB	_	0	root	_	_
+5	them	they	PRON	PRP	_	6	nsubj	_	_
+6	go	go	VERB	VB	_	4	ccomp	_	_
+7	on	on	PART	RP	_	6	prt	_	_
+8	.	.	PUNCT	.	_	4	punct	_	_
+
+1	Well	well	INTJ	UH	_	3	discourse	_	_
+2	Well	well	INTJ	UH	_	3	discourse	_	_
+3	anyway	anyway	ADV	RB	_	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	_
+
+1	oh	oh	INTJ	UH	_	4	discourse	_	_
+2	so	so	ADV	RB	_	4	advmod	_	_
+3	that	that	DET	DT	_	4	nsubj	_	_
+4	sounds	sound	VERB	VBZ	_	0	root	_	_
+5	very	very	ADV	RB	_	6	advmod	_	_
+6	nice	nice	ADJ	JJ	_	4	acomp	_	_
+7	.	.	PUNCT	.	_	4	punct	_	_
+
+1	They	they	PRON	PRP	_	2	nsubj	_	_
+2	were	be	VERB	VBD	_	0	root	_	_
+3	loose	loose	ADJ	JJ	_	2	acomp	_	_
+4	or	or	CONJ	CC	_	3	cc	_	_
+5	in	in	ADP	IN	_	3	conj	_	_
+6	a	a	DET	DT	_	5	pobj	_	_
+
+1	Well	well	INTJ	UH	_	4	discourse	_	_
+2	I	I	PRON	PRP	_	4	nsubj	_	_
+3	they	they	PRON	PRP	_	4	nsubj	_	_
+4	were	be	VERB	VBD	_	0	root	_	_
+5	loose	loose	ADJ	JJ	_	4	acomp	_	_
+
+1	they	they	PRON	PRP	_	2	nsubj	_	_
+2	were	be	VERB	VBD	_	0	root	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	said	say	VERB	VBD	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	Sheila	Sheila	PROPN	NNP	_	2	dobj	_	_
+5	I	I	PRON	PRP	_	6	nsubj	_	_
+6	think	think	VERB	VBP	_	2	dep	_	_
+7	0	0	X	X	_	9	dep	_	_
+8	I	I	PRON	PRP	_	9	nsubj	_	_
+9	hear	hear	VERB	VBP	_	6	ccomp	_	_
+10	a	a	DET	DT	_	11	det	_	_
+11	parakeet	parakeet	NOUN	NN	_	9	dobj	_	_
+12	.	.	PUNCT	.	_	2	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+
+1	And	and	CONJ	CC	_	4	cc	_	_
+2	you	you	PRON	PRP	_	4	nsubj	_	_
+3	could	could	AUX	MD	_	4	aux	_	_
+4	tell	tell	VERB	VB	_	0	root	_	_
+5	0	0	X	X	_	7	dep	_	_
+6	he	he	PRON	PRP	_	7	nsubj	_	_
+7	thought	think	VERB	VBD	_	4	ccomp	_	_
+8	that	that	ADP	IN	_	10	mark	_	_
+9	it	it	PRON	PRP	_	10	nsubj	_	_
+10	was	be	VERB	VBD	_	7	dep	_	_
+11	nonsense	nonsense	ADJ	JJ	_	10	acomp	_	_
+12	that	that	ADP	IN	_	14	mark	_	_
+13	it	it	PRON	PRP	_	14	nsubj	_	_
+14	was	be	VERB	VBD	_	10	dep	_	_
+15	a	a	DET	DT	_	17	det	_	_
+16	uh-huh	uh-huh	INTJ	UH	_	17	dep	_	_
+17	crow	crow	NOUN	NN	_	14	xcomp	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	then	then	ADV	RB	_	4	advmod	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	saw	see	VERB	VBD	_	0	root	_	_
+5	it	it	PRON	PRP	_	4	dobj	_	_
+
+1	but	but	CONJ	CC	_	4	cc	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	sun	sun	NOUN	NN	_	4	nsubj	_	_
+4	was	be	VERB	VBD	_	0	root	_	_
+5	against	against	ADP	IN	_	4	prep	_	_
+6	my	my	PRON	PRP$	_	7	poss	_	_
+7	eyes	eye	NOUN	NNS	_	5	pobj	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	how	how	ADV	WRB	_	3	advmod	_	_
+3	neat	neat	ADJ	JJ	_	1	dep	_	_
+
+1	so	so	ADV	RB	_	5	advmod	_	_
+2	I	I	PRON	PRP	_	5	nsubj	_	_
+3	could	could	AUX	MD	_	5	aux	_	_
+4	n't	not	ADV	RB	_	5	neg	_	_
+5	tell	tell	VERB	VB	_	0	root	_	_
+
+1	and	and	CONJ	CC	_	4	cc	_	_
+2	then	then	ADV	RB	_	4	advmod	_	_
+3	it	it	PRON	PRP	_	4	nsubj	_	_
+4	flew	fly	VERB	VBD	_	0	root	_	_
+
+1	and	and	CONJ	CC	_	10	cc	_	_
+2	when	when	ADV	WRB	_	4	advmod	_	_
+3	it	it	PRON	PRP	_	4	nsubj	_	_
+4	flew	fly	VERB	VBD	_	10	advcl	_	_
+5	*T*-1	*t*-1	X	X	_	4	advmod	_	_
+6	three	three	NUM	CD	_	10	nsubj	_	_
+7	more	more	ADJ	JJR	_	6	quantmod	_	_
+8	of	of	ADP	IN	_	6	prep	_	_
+9	them	they	PRON	PRP	_	8	pobj	_	_
+10	flew	fly	VERB	VBD	_	0	root	_	_
+11	out	out	ADP	IN	_	10	prep	_	_
+12	of	of	ADP	IN	_	11	pcomp	_	_
+13	the	the	DET	DT	_	15	det	_	_
+14	same	same	ADJ	JJ	_	15	amod	_	_
+15	tree	tree	NOUN	NN	_	12	pobj	_	_
+16	.	.	PUNCT	.	_	10	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	how	how	ADV	WRB	_	3	advmod	_	_
+3	neat	neat	ADJ	JJ	_	1	dep	_	_
+4	.	.	PUNCT	.	_	1	punct	_	_
+
+1	There	there	DET	EX	_	2	expl	_	_
+2	was	be	VERB	VBD	_	10	dep	_	_
+3	a	a	DET	DT	_	4	det	_	_
+4	street	street	NOUN	NN	_	2	nsubj	_	_
+5	They	they	PRON	PRP	_	6	nsubj	_	_
+6	were	be	VERB	VBD	_	10	dep	_	_
+7	beautiful	beautiful	ADJ	JJ	_	6	acomp	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
+9	there	there	DET	EX	_	10	expl	_	_
+10	was	be	VERB	VBD	_	0	root	_	_
+11	a	a	DET	DT	_	12	det	_	_
+12	street	street	NOUN	NN	_	10	nsubj	_	_
+13	0	0	X	X	_	15	dobj	_	_
+14	I	I	PRON	PRP	_	15	nsubj	_	_
+15	walked	walk	VERB	VBD	_	12	rcmod	_	_
+16	down	down	ADP	IN	_	15	prep	_	_
+17	*T*-1	*t*-1	NOUN	NN	_	16	pobj	_	_
+18	in	in	ADP	IN	_	15	prep	_	_
+19	Barcelona	Barcelona	PROPN	NNP	_	18	pobj	_	_
+20	big	big	ADJ	JJ	_	21	amod	_	_
+21	wide	wide	ADJ	JJ	_	12	amod	_	_
+
+1	with	with	ADP	IN	_	0	root	_	_
+2	all	all	DET	PDT	_	5	predet	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	bird	bird	NOUN	NN	_	5	nn	_	_
+5	sellers	seller	NOUN	NNS	_	1	pobj	_	_
+
+1	Yes	yes	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	They	they	PRON	PRP	_	2	nsubj	_	_
+2	were	be	VERB	VBD	_	0	root	_	_
+3	closed	closed	ADJ	JJ	_	2	acomp	_	_
+4	up	up	PART	RP	_	3	dep	_	_
+5	that	that	DET	DT	_	6	det	_	_
+6	day	day	NOUN	NN	_	2	tmod	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	'm	be	VERB	VBP	_	0	root	_	_
+4	sure	sure	ADJ	JJ	_	3	acomp	_	_
+5	that	that	ADP	IN	_	10	mark	_	_
+6	what	what	PRON	WP	_	8	dobj	_	_
+7	these	these	DET	DT	_	8	nsubj	_	_
+8	were	be	VERB	VBD	_	10	csubj	_	_
+9	*T*-1	*t*-1	NOUN	NN	_	8	xcomp	_	_
+10	is	be	VERB	VBZ	_	4	ccomp	_	_
+11	Well	well	INTJ	UH	_	16	discourse	_	_
+12	it	it	PRON	PRP	_	13	nsubj	_	_
+13	was	be	VERB	VBD	_	16	dep	_	_
+14	g-	g-	ADJ	JJ	_	13	acomp	_	_
+15	it	it	PRON	PRP	_	16	nsubj	_	_
+16	was	be	VERB	VBD	_	37	dep	_	_
+17	a	a	DET	DT	_	19	det	_	_
+18	wonderful	wonderful	ADJ	JJ	_	19	amod	_	_
+19	place	place	NOUN	NN	_	16	xcomp	_	_
+20	I	I	PRON	PRP	_	21	nsubj	_	_
+21	mean	mean	VERB	VBP	_	23	parataxis	_	_
+22	I	I	PRON	PRP	_	23	nsubj	_	_
+23	guess	guess	VERB	VBP	_	37	dep	_	_
+24	0	0	X	X	_	26	dep	_	_
+25	you	you	PRON	PRP	_	26	nsubj	_	_
+26	have	have	VERB	VBP	_	23	ccomp	_	_
+27	*-2	*-2	NOUN	NN	_	26	dobj	_	_
+28	to	to	ADP	TO	_	31	aux	_	_
+29	sort	sort	ADV	RB	_	30	advmod	_	_
+30	of	of	ADV	RB	_	31	advmod	_	_
+31	discount	discount	VERB	VB	_	26	ccomp	_	_
+32	that	that	ADP	IN	_	34	mark	_	_
+33	they	they	PRON	PRP	_	34	nsubj	_	_
+34	're	be	VERB	VBP	_	31	ccomp	_	_
+35	in	in	ADP	IN	_	34	prep	_	_
+36	cages	cage	NOUN	NNS	_	35	pobj	_	_
+37	but	but	CONJ	CC	_	10	dep	_	_
+38	Escapees	escapee	NOUN	NNS	_	10	xcomp	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	4	dep	_	_
+3	it	it	PRON	PRP	_	4	nsubj	_	_
+4	's	be	VERB	VBZ	_	0	root	_	_
+5	part	part	NOUN	NN	_	4	xcomp	_	_
+6	of	of	ADP	IN	_	5	prep	_	_
+
+1	it	it	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	beautiful	beautiful	ADJ	JJ	_	2	acomp	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	mean	mean	VERB	VBP	_	4	parataxis	_	_
+3	it	it	PRON	PRP	_	4	nsubj	_	_
+4	was	be	VERB	VBD	_	0	root	_	_
+5	just	just	ADV	RB	_	4	advmod	_	_
+6	so	so	ADV	RB	_	7	advmod	_	_
+7	beautiful	beautiful	ADJ	JJ	_	4	acomp	_	_
+8	with	with	ADP	IN	_	7	prep	_	_
+9	all	all	DET	PDT	_	14	predet	_	_
+10	these	these	DET	DT	_	14	det	_	_
+11	amazing	amazing	ADJ	JJ	_	14	amod	_	_
+12	yeah	yeah	INTJ	UH	_	14	dep	_	_
+13	.	.	PUNCT	.	_	12	punct	_	_
+14	birds	bird	NOUN	NNS	_	8	pobj	_	_
+15	and	and	CONJ	CC	_	14	cc	_	_
+16	colors	color	NOUN	NNS	_	14	conj	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+
+1	And	and	CONJ	CC	_	3	cc	_	_
+2	also	also	ADV	RB	_	3	advmod	_	_
+3	in	in	ADP	IN	_	0	root	_	_
+4	parts	part	NOUN	NNS	_	3	pobj	_	_
+5	of	of	ADP	IN	_	4	prep	_	_
+6	Spain	Spain	PROPN	NNP	_	5	pobj	_	_
+7	,	,	PUNCT	,	_	3	punct	_	_
+
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	do	do	VERB	VBP	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	know	know	VERB	VB	_	0	root	_	_
+5	if	if	ADP	IN	_	7	mark	_	_
+6	they	they	PRON	PRP	_	7	nsubj	_	_
+7	have	have	VERB	VBP	_	4	advcl	_	_
+8	this	this	DET	DT	_	7	dobj	_	_
+9	in	in	ADP	IN	_	7	prep	_	_
+10	parts	part	NOUN	NNS	_	9	pobj	_	_
+11	of	of	ADP	IN	_	10	prep	_	_
+12	France	france	NOUN	NN	_	11	pobj	_	_
+13	,	,	PUNCT	,	_	4	punct	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	Probably	probably	ADV	RB	_	3	advmod	_	_
+3	not	not	ADV	RB	_	0	root	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	saw	see	VERB	VBD	_	0	root	_	_
+3	parts	part	NOUN	NNS	_	2	dobj	_	_
+4	of	of	ADP	IN	_	3	prep	_	_
+5	Spain	Spain	PROPN	NNP	_	4	pobj	_	_
+6	where	where	ADV	WRB	_	8	advmod	_	_
+7	they	they	PRON	PRP	_	8	nsubj	_	_
+8	had	have	VERB	VBD	_	3	rcmod	_	_
+9	birds	bird	NOUN	NNS	_	8	dobj	_	_
+10	on	on	ADP	IN	_	8	prep	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	shutters	shutter	NOUN	NNS	_	10	pobj	_	_
+13	*T*-1	*t*-1	X	X	_	8	advmod	_	_
+14	and	and	CONJ	CC	_	8	cc	_	_
+15	they	they	PRON	PRP	_	16	nsubj	_	_
+16	put	put	VERB	VBD	_	8	conj	_	_
+17	them	they	PRON	PRP	_	16	dobj	_	_
+18	out	out	PART	RP	_	16	prt	_	_
+19	during	during	ADP	IN	_	16	prep	_	_
+20	the	the	DET	DT	_	21	det	_	_
+21	day	day	NOUN	NN	_	19	pobj	_	_
+22	.	.	PUNCT	.	_	2	punct	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	very	very	ADV	RB	_	4	advmod	_	_
+4	popular	popular	ADJ	JJ	_	2	acomp	_	_
+5	in	in	ADP	IN	_	2	prep	_	_
+6	Spain	Spain	PROPN	NNP	_	5	pobj	_	_
+
+1	but	but	CONJ	CC	_	3	cc	_	_
+2	it	it	PRON	PRP	_	3	nsubj	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	not	not	ADV	RB	_	3	neg	_	_
+5	so	so	ADV	RB	_	6	advmod	_	_
+6	popular	popular	ADJ	JJ	_	3	acomp	_	_
+7	here	here	ADV	RB	_	3	advmod	_	_
+8	in	in	ADP	IN	_	7	prep	_	_
+9	France	France	PROPN	NNP	_	8	pobj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	a	a	DET	DT	_	5	det	_	_
+4	nice	nice	ADJ	JJ	_	5	amod	_	_
+5	thing	thing	NOUN	NN	_	2	xcomp	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	%um	%um	INTJ	UH	_	4	discourse	_	_
+2	I	I	PRON	PRP	_	4	nsubj	_	_
+3	've	have	VERB	VBP	_	4	aux	_	_
+4	seen	see	VERB	VBN	_	0	root	_	_
+5	very	very	ADV	RB	_	6	advmod	_	_
+6	little	little	ADJ	JJ	_	4	dobj	_	_
+7	of	of	ADP	IN	_	6	prep	_	_
+8	it	it	PRON	PRP	_	7	pobj	_	_
+9	.	.	PUNCT	.	_	4	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	y-	y-	INTJ	UH	_	0	root	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	had	have	VERB	VBD	_	0	root	_	_
+3	friends	friend	NOUN	NNS	_	2	dobj	_	_
+4	in	in	ADP	IN	_	3	prep	_	_
+5	Madrid	Madrid	PROPN	NNP	_	4	pobj	_	_
+6	whose	whose	PRON	WP$	_	7	poss	_	_
+7	father	father	NOUN	NN	_	9	dobj	_	_
+8	*T*-1	*t*-1	NOUN	NN	_	9	nsubj	_	_
+9	bred	breed	VERB	VBD	_	3	rcmod	_	_
+10	birds	bird	NOUN	NNS	_	9	dobj	_	_
+11	actually	actually	ADV	RB	_	9	advmod	_	_
+12	.	.	PUNCT	.	_	2	punct	_	_
+
+1	oh	oh	INTJ	UH	_	2	discourse	_	_
+2	really	really	ADV	RB	_	0	root	_	_
+3	?	?	PUNCT	.	_	2	punct	_	_
+
+1	In	in	ADP	IN	_	0	root	_	_
+2	their	they	PRON	PRP$	_	3	poss	_	_
+3	apartment	apartment	NOUN	NN	_	1	pobj	_	_
+4	.	.	PUNCT	.	_	1	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	quite	quite	DET	PDT	_	6	predet	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	big	big	ADJ	JJ	_	6	amod	_	_
+6	hobby	hobby	NOUN	NN	_	2	xcomp	_	_
+7	.	.	PUNCT	.	_	2	punct	_	_
+
+1	Parakeets	parakeet	NOUN	NNS	_	0	root	_	_
+2	or	or	CONJ	CC	_	1	cc	_	_
+3	?	?	PUNCT	.	_	1	punct	_	_
+
+1	No	no	INTJ	UH	_	4	discourse	_	_
+2	little	little	ADJ	JJ	_	4	amod	_	_
+3	tiny	tiny	ADJ	JJ	_	4	amod	_	_
+4	birds	bird	NOUN	NNS	_	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	_
+
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	do	do	VERB	VBP	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	know	know	VERB	VB	_	0	root	_	_
+5	what	what	PRON	WP	_	7	dobj	_	_
+6	they	they	PRON	PRP	_	7	nsubj	_	_
+7	were	be	VERB	VBD	_	4	ccomp	_	_
+8	*T*-1	*t*-1	NOUN	NN	_	7	xcomp	_	_
+9	.	.	PUNCT	.	_	4	punct	_	_
+
+1	Little	little	ADJ	JJ	_	0	root	_	_
+
+1	Finches	finch	NOUN	NNS	_	0	root	_	_
+2	maybe	maybe	ADV	RB	_	1	dep	_	_
+3	.	.	PUNCT	.	_	1	punct	_	_
+
+1	yeah	yeah	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	Song	song	ADJ	JJ	_	2	amod	_	_
+2	birds	bird	NOUN	NNS	_	0	root	_	_
+3	of	of	ADP	IN	_	2	prep	_	_
+4	some	some	DET	DT	_	5	det	_	_
+5	kind	kind	NOUN	NN	_	3	pobj	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	neat	neat	INTJ	UH	_	1	dep	_	_
+3	.	.	PUNCT	.	_	1	punct	_	_
+
+1	And	and	CONJ	CC	_	3	cc	_	_
+2	he	he	PRON	PRP	_	3	nsubj	_	_
+3	was	be	VERB	VBD	_	0	root	_	_
+4	good	good	ADJ	JJ	_	3	acomp	_	_
+5	at	at	ADP	IN	_	4	prep	_	_
+6	*PRO*	*pro*	NOUN	NN	_	7	nsubj	_	_
+7	breeding	breed	VERB	VBG	_	5	pcomp	_	_
+8	them	they	PRON	PRP	_	7	dobj	_	_
+9	.	.	PUNCT	.	_	3	punct	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	so	so	ADV	RB	_	0	root	_	_
+
+1	oh	oh	INTJ	UH	_	4	discourse	_	_
+2	well	well	INTJ	UH	_	1	dep	_	_
+3	that	that	DET	DT	_	4	nsubj	_	_
+4	's	be	VERB	VBZ	_	0	root	_	_
+5	good	good	ADJ	JJ	_	4	acomp	_	_
+
+1	So	so	ADV	RB	_	0	root	_	_
+
+1	but	but	CONJ	CC	_	11	cc	_	_
+2	when	when	ADV	WRB	_	4	advmod	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	went	go	VERB	VBD	_	11	advcl	_	_
+5	up	up	ADP	IN	_	4	prep	_	_
+6	to	to	ADP	IN	_	5	pcomp	_	_
+7	Connecticut	Connecticut	PROPN	NNP	_	6	pobj	_	_
+8	*T*-1	*t*-1	X	X	_	4	advmod	_	_
+9	,	,	PUNCT	,	_	11	punct	_	_
+10	all	all	DET	DT	_	11	nsubj	_	_
+11	was	be	VERB	VBD	_	0	root	_	_
+12	well	well	ADJ	JJ	_	11	acomp	_	_
+13	?	?	PUNCT	.	_	11	punct	_	_
+
+1	Or	or	CONJ	CC	_	2	cc	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	that	that	DET	DT	_	2	nsubj	_	_
+4	another	another	DET	DT	_	5	det	_	_
+5	adventure	adventure	NOUN	NN	_	2	dep	_	_
+6	?	?	PUNCT	.	_	2	punct	_	_
+
+1	up	up	ADP	IN	_	0	root	_	_
+2	to	to	ADP	IN	_	1	pcomp	_	_
+3	Connecticut	Connecticut	PROPN	NNP	_	2	pobj	_	_
+4	?	?	PUNCT	.	_	1	punct	_	_
+
+1	Did	do	VERB	VBD	_	3	aux	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	go	go	VERB	VB	_	0	root	_	_
+4	to	to	ADP	IN	_	3	prep	_	_
+
+1	Then	then	ADV	RB	_	3	advmod	_	_
+2	you	you	PRON	PRP	_	3	nsubj	_	_
+3	had	have	VERB	VBD	_	0	root	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	go	go	VERB	VB	_	3	ccomp	_	_
+7	up	up	ADV	RB	_	6	advmod	_	_
+8	and	and	CONJ	CC	_	6	cc	_	_
+9	get	get	VERB	VB	_	6	conj	_	_
+10	Jack	Jack	PROPN	NNP	_	9	dobj	_	_
+11	and	and	CONJ	CC	_	6	cc	_	_
+12	everything	everything	NOUN	NN	_	6	conj	_	_
+13	after	after	ADP	IN	_	3	prep	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	yeah	yeah	INTJ	UH	_	1	dep	_	_
+
+1	it	it	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	4	dep	_	_
+3	it	it	PRON	PRP	_	4	nsubj	_	_
+4	's	be	VERB	VBZ	_	0	root	_	_
+5	New	New	PROPN	NNP	_	6	nn	_	_
+6	York	York	PROPN	NNP	_	4	xcomp	_	_
+7	still	still	ADV	RB	_	4	advmod	_	_
+
+1	but	but	CONJ	CC	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	oh	oh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	%um	%um	INTJ	UH	_	0	root	_	_
+2	yeah	yeah	INTJ	UH	_	1	discourse	_	_
+
+1	we	we	PRON	PRP	_	2	nsubj	_	_
+2	got	get	VERB	VBD	_	0	root	_	_
+3	up	up	PART	RP	_	2	prt	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+1	We	we	PRON	PRP	_	2	nsubj	_	_
+2	got	get	VERB	VBD	_	0	root	_	_
+3	Jack	Jack	PROPN	NNP	_	2	dobj	_	_
+4	.	.	PUNCT	.	_	2	punct	_	_
+
+1	We	we	PRON	PRP	_	2	nsubj	_	_
+2	went	go	VERB	VBD	_	0	root	_	_
+3	to	to	ADP	IN	_	2	prep	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	lawyer	lawyer	NOUN	NN	_	3	pobj	_	_
+6	our	we	PRON	PRP$	_	7	poss	_	_
+7	lawyer	lawyer	NOUN	NN	_	3	dep	_	_
+8	who	who	PRON	WP	_	11	dobj	_	_
+9	*T*-1	*t*-1	NOUN	NN	_	11	nsubjpass	_	_
+10	's	be	VERB	VBZ	_	11	auxpass	_	_
+11	been	be	VERB	VBN	_	7	rcmod	_	_
+12	mhm	mhm	INTJ	UH	_	11	dep	_	_
+13	.	.	PUNCT	.	_	12	punct	_	_
+14	Absolutely	absolutely	ADV	RB	_	15	advmod	_	_
+15	fantastic	fantastic	ADJ	JJ	_	11	acomp	_	_
+16	start	start	NOUN	NN	_	11	xcomp	_	_
+17	to	to	ADP	IN	_	16	prep	_	_
+18	finish	finish	NOUN	NN	_	17	pobj	_	_
+19	.	.	PUNCT	.	_	2	punct	_	_
+
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	think	think	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	she	she	PRON	PRP	_	5	nsubj	_	_
+5	's	be	VERB	VBZ	_	2	ccomp	_	_
+6	great	great	ADJ	JJ	_	5	acomp	_	_
+7	.	.	PUNCT	.	_	2	punct	_	_
+
+1	mhm	mhm	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+3	mhm	mhm	INTJ	UH	_	1	discourse	_	_
+4	.	.	PUNCT	.	_	1	punct	_	_
+
+1	%um	%um	INTJ	UH	_	5	discourse	_	_
+2	and	and	CONJ	CC	_	5	cc	_	_
+3	then	then	ADV	RB	_	5	advmod	_	_
+4	*PRO*	*pro*	NOUN	NN	_	5	conj	_	_
+5	came	come	VERB	VBD	_	0	root	_	_
+6	home	home	ADV	RB	_	5	advmod	_	_
+
+1	and	and	CONJ	CC	_	10	cc	_	_
+2	that	that	DET	DT	_	3	nsubj	_	_
+3	's	be	VERB	VBZ	_	10	dep	_	_
+4	when	when	ADV	WRB	_	3	advcl	_	_
+5	yeah	yeah	INTJ	UH	_	10	discourse	_	_
+6	then	then	ADV	RB	_	10	advmod	_	_
+7	Robert	Robert	PROPN	NNP	_	9	poss	_	_
+8	's	's	PART	POS	_	7	possessive	_	_
+9	mom	mom	NOUN	NN	_	10	nsubj	_	_
+10	crashed	crash	VERB	VBD	_	0	root	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	car	car	NOUN	NN	_	10	dobj	_	_
+13	.	.	PUNCT	.	_	10	punct	_	_
+
+1	oh	oh	INTJ	UH	_	3	discourse	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	see	see	VERB	VBP	_	0	root	_	_
+
+1	it	it	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	after	after	ADP	IN	_	2	prep	_	_
+4	that	that	DET	DT	_	3	pobj	_	_
+5	that	that	ADV	WRB	_	7	advmod	_	_
+6	she	she	PRON	PRP	_	7	nsubj	_	_
+7	did	do	VERB	VBD	_	2	advcl	_	_
+8	that	that	DET	DT	_	7	dobj	_	_
+9	*T*-1	*t*-1	X	X	_	7	advmod	_	_
+10	.	.	PUNCT	.	_	2	punct	_	_
+
+1	So	so	ADV	RB	_	2	advmod	_	_
+2	yeah	yeah	INTJ	UH	_	0	root	_	_
+
+1	actually	actually	ADV	RB	_	3	advmod	_	_
+2	we	we	PRON	PRP	_	3	nsubj	_	_
+3	had	have	VERB	VBD	_	0	root	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	do	do	VERB	VB	_	3	ccomp	_	_
+7	that	that	DET	DT	_	6	dobj	_	_
+8	at	at	ADP	IN	_	6	prep	_	_
+9	like	like	INTJ	UH	_	8	discourse	_	_
+10	eight	eight	NUM	CD	_	11	num	_	_
+11	o'clock	o'clock	NOUN	NN	_	8	pobj	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	next	next	ADJ	JJ	_	14	amod	_	_
+14	morning	morning	NOUN	NN	_	11	dep	_	_
+15	because	because	ADP	IN	_	18	mark	_	_
+16	Martha	Martha	PROPN	NNP	_	18	nsubj	_	_
+17	was	be	VERB	VBD	_	18	aux	_	_
+18	leaving	leave	VERB	VBG	_	3	advcl	_	_
+19	by	by	ADP	IN	_	18	prep	_	_
+20	nine	nine	NUM	CD	_	19	pobj	_	_
+21	.	.	PUNCT	.	_	3	punct	_	_
+
+1	So	so	ADV	RB	_	5	advmod	_	_
+2	mom	mom	NOUN	NN	_	5	nsubj	_	_
+3	and	and	CONJ	CC	_	2	cc	_	_
+4	dad	dad	NOUN	NN	_	2	conj	_	_
+5	were	be	VERB	VBD	_	0	root	_	_
+6	down	down	ADV	RB	_	7	advmod	_	_
+7	there	there	ADV	RB	_	5	advmod	_	_
+8	for	for	ADP	IN	_	5	prep	_	_
+9	how	how	ADV	WRB	_	10	advmod	_	_
+10	long	long	ADV	RB	_	8	pcomp	_	_
+11	?	?	PUNCT	.	_	5	punct	_	_
+
+1	They	they	PRON	PRP	_	2	nsubj	_	_
+2	came	come	VERB	VBD	_	0	root	_	_
+3	Saturday	Saturday	PROPN	NNP	_	2	tmod	_	_
+4	and	and	CONJ	CC	_	2	cc	_	_
+5	stayed	stay	VERB	VBD	_	2	conj	_	_
+6	Saturday	Saturday	PROPN	NNP	_	7	nn	_	_
+7	night	night	NOUN	NN	_	5	dobj	_	_
+8	and	and	CONJ	CC	_	7	cc	_	_
+9	Sunday	Sunday	PROPN	NNP	_	7	conj	_	_
+10	and	and	CONJ	CC	_	2	cc	_	_
+11	left	leave	VERB	VBD	_	2	conj	_	_
+12	Monday	Monday	PROPN	NNP	_	11	tmod	_	_
+
+1	uh-huh	uh-huh	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+
+1	This	this	DET	DT	_	3	det	_	_
+2	past	past	ADJ	JJ	_	3	amod	_	_
+3	Monday	Monday	PROPN	NNP	_	0	root	_	_
+4	like	like	INTJ	UH	_	3	discourse	_	_
+

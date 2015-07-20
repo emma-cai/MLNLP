@@ -1,0 +1,26 @@
+1	Red	red	ADJ	JJ	_	2	amod	_	_
+2	heart	heart	NOUN	NN	_	3	nsubj	_	_
+3	beats	beat	VERB	VBZ	_	0	root	_	_
+4	faster	faster	ADV	RBR	_	3	advmod	_	_
+5	,	,	PUNCT	,	_	3	punct	_	_
+6	pumps	pump	VERB	VBZ	_	3	dep	_	_
+7	rich	rich	ADJ	JJ	_	10	amod	_	_
+8	,	,	PUNCT	,	_	10	punct	_	_
+9	red	red	ADJ	JJ	_	10	amod	_	_
+10	blood	blood	NOUN	NN	_	6	dobj	_	_
+11	through	through	ADP	IN	_	6	prep	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	connected	connected	ADJ	JJ	_	14	amod	_	_
+14	veins	vein	NOUN	NNS	_	11	pobj	_	_
+15	of	of	ADP	IN	_	14	prep	_	_
+16	our	we	PRON	PRP$	_	17	poss	_	_
+17	lives	life	NOUN	NNS	_	15	pobj	_	_
+18	,	,	PUNCT	,	_	6	punct	_	_
+19	*PRO*-1	*pro*-1	NOUN	NN	_	20	nsubj	_	_
+20	nurturing	nurture	VERB	VBG	_	6	vmod	_	_
+21	and	and	CONJ	CC	_	20	cc	_	_
+22	nourishing	nourish	VERB	VBG	_	20	conj	_	_
+23	us	we	PRON	PRP	_	20	dobj	_	_
+24	all	all	DET	DT	_	23	det	_	_
+25	.	.	PUNCT	.	_	3	punct	_	_
+

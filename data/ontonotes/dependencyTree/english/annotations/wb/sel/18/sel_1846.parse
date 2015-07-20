@@ -1,0 +1,8 @@
+1	Few	few	ADJ	JJ	_	2	amod	_	_
+2	prisoners	prisoner	NOUN	NNS	_	3	nsubj	_	_
+3	serve	serve	VERB	VBP	_	0	root	_	_
+4	the	the	DET	DT	_	6	det	_	_
+5	entire	entire	ADJ	JJ	_	6	amod	_	_
+6	term	term	NOUN	NN	_	3	dobj	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
+

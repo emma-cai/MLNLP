@@ -1,0 +1,20 @@
+1	Users	user	NOUN	NNS	_	5	nsubj	_	_
+2	with	with	ADP	IN	_	1	prep	_	_
+3	this	this	DET	DT	_	4	det	_	_
+4	problem	problem	NOUN	NN	_	2	pobj	_	_
+5	report	report	VERB	VBP	_	0	root	_	_
+6	dark	dark	ADJ	JJ	_	9	amod	_	_
+7	muddy	muddy	ADJ	JJ	_	8	dep	_	_
+8	looking	look	VERB	VBG	_	9	amod	_	_
+9	prints	print	NOUN	NNS	_	5	dobj	_	_
+10	that	that	DET	WDT	_	15	dobj	_	_
+11	*T*-1	*t*-1	NOUN	NN	_	15	nsubj	_	_
+12	in	in	ADP	IN	_	15	prep	_	_
+13	no	no	DET	DT	_	14	neg	_	_
+14	way	way	NOUN	NN	_	12	pobj	_	_
+15	matches	match	VERB	VBZ	_	9	rcmod	_	_
+16	the	the	DET	DT	_	18	det	_	_
+17	screen	screen	NOUN	NN	_	18	nn	_	_
+18	image	image	NOUN	NN	_	15	dobj	_	_
+19	.	.	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,26 @@
+1	Are	be	VERB	VBP	_	4	aux	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	monkeys	monkey	NOUN	NNS	_	4	nsubj	_	_
+4	adapting	adapt	VERB	VBG	_	0	root	_	_
+5	to	to	ADP	IN	_	4	prep	_	_
+6	their	they	PRON	PRP$	_	8	poss	_	_
+7	restricted	restrict	VERB	VBN	_	8	amod	_	_
+8	habitats	habitat	NOUN	NNS	_	5	pobj	_	_
+9	with	with	ADP	IN	_	8	prep	_	_
+10	their	they	PRON	PRP$	_	13	poss	_	_
+11	limited	limit	VERB	VBN	_	13	amod	_	_
+12	food	food	NOUN	NN	_	13	nn	_	_
+13	sources	source	NOUN	NNS	_	9	pobj	_	_
+14	or	or	CONJ	CC	_	4	cc	_	_
+15	are	be	VERB	VBP	_	17	aux	_	_
+16	we	we	PRON	PRP	_	17	nsubj	_	_
+17	seeing	see	VERB	VBG	_	4	conj	_	_
+18	them	they	PRON	PRP	_	20	nsubjpass	_	_
+19	being	be	VERB	VBG	_	20	auxpass	_	_
+20	edged	edge	VERB	VBN	_	17	vmod	_	_
+21	*-1	*-1	NOUN	NN	_	20	dobj	_	_
+22	closer	closer	ADV	RBR	_	20	advmod	_	_
+23	to	to	ADP	IN	_	22	prep	_	_
+24	extinction	extinction	NOUN	NN	_	23	pobj	_	_
+25	?	?	PUNCT	.	_	4	punct	_	_
+

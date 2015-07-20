@@ -1,0 +1,13 @@
+(S (SBAR (IN If)
+                  (S (NP (PRP they))
+                     (VP (VBP match))))
+        (NP (PRP we))
+        (VP (VP (VBP report)
+                (NP (NN success)))
+            (CC and)
+            (VP (VBP return)
+                (NP (DT the)
+                    (VBG corresponding)
+                    (NN value))))
+        (. .))
+

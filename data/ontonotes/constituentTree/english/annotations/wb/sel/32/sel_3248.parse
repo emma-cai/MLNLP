@@ -1,0 +1,10 @@
+(S (NP (PRP I))
+        (VP (VBP 've)
+            (VP (VBN seen)
+                (S (NP (PRP it))
+                   (VP (VBN spelled)
+                       (NP (NN *-1))
+                       (NP (DT both)
+                               (NNS ways))))))
+        (. .))
+

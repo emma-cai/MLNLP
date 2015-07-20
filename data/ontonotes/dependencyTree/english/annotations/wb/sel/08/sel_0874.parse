@@ -1,0 +1,11 @@
+1	Einstein	Einstein	PROPN	NNP	_	4	nsubj	_	_
+2	did	do	VERB	VBD	_	4	aux	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	think	think	VERB	VB	_	0	root	_	_
+5	0	0	X	X	_	9	dep	_	_
+6	nukes	nuke	NOUN	NNS	_	9	nsubj	_	_
+7	could	could	AUX	MD	_	9	aux	_	_
+8	ever	ever	ADV	RB	_	9	advmod	_	_
+9	fly	fly	VERB	VB	_	4	ccomp	_	_
+10	.	.	PUNCT	.	_	4	punct	_	_
+

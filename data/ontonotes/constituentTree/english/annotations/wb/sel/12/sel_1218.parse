@@ -1,0 +1,7 @@
+(NP (NP (NN reminder))
+         (S (NP (PRP I))
+            (VP (VBP own)
+                (NP (DT this)
+                    (NN group))))
+         (. !))
+

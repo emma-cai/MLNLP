@@ -1,0 +1,14 @@
+1	One	one	PRON	PRP	_	2	nsubj	_	_
+2	needs	need	VERB	VBZ	_	0	root	_	_
+3	*-1	*-1	NOUN	NN	_	2	dobj	_	_
+4	to	to	ADP	TO	_	5	aux	_	_
+5	recognise	recognise	VERB	VB	_	2	xcomp	_	_
+6	the	the	DET	DT	_	8	det	_	_
+7	different	different	ADJ	JJ	_	8	amod	_	_
+8	standards	standard	NOUN	NNS	_	5	dobj	_	_
+9	that	that	DET	WDT	_	11	dobj	_	_
+10	*T*-2	*t*-2	NOUN	NN	_	11	nsubj	_	_
+11	apply	apply	VERB	VBP	_	8	rcmod	_	_
+12	...	...	X	NFP	_	2	punct	_	_
+13	...	...	PUNCT	:	_	2	punct	_	_
+

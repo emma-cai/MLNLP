@@ -1,0 +1,10 @@
+(UCP (FRAG (INTJ (UH thanks))
+                (NP (NNP Chet)))
+          (S (NP (NN *PRO*))
+                 (ADVP (RB Just))
+                 (VP (VB point)
+                     (NP (PRP$ your)
+                         (NN browser))
+                     (ADVP-LOC (ADVP (RB here))
+                                   (NP (ADD http:www.fordvehicles.comdealerships))))))
+

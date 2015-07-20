@@ -1,0 +1,13 @@
+(S (S (NP (NP (JJ Fake)
+                       (NNS marks))
+                   (NP (NN *ICH*-1)))
+           (VP (VBP abound)
+               (NP (ADVP (RB especially))
+                     (NNP Nippon))))
+        (CC and)
+        (S (NP (JJ sticky)
+                   (NNS labels))
+           (VP (VBP fall)
+               (PRT (RP off))))
+        (. .))
+

@@ -1,0 +1,13 @@
+1	They	they	PRON	PRP	_	10	nsubj	_	_
+2	who	who	PRON	WP	_	5	dobj	_	_
+3	*T*-1	*t*-1	NOUN	NN	_	5	nsubj	_	_
+4	honestly	honestly	ADV	RB	_	5	advmod	_	_
+5	serve	serve	VERB	VBP	_	1	rcmod	_	_
+6	other	other	ADJ	JJ	_	7	amod	_	_
+7	gods	god	NOUN	NNS	_	5	dobj	_	_
+8	,	,	PUNCT	,	_	10	punct	_	_
+9	involuntarily	involuntarily	ADV	RB	_	10	advmod	_	_
+10	worship	worship	VERB	VBP	_	0	root	_	_
+11	me	I	PRON	PRP	_	10	dobj	_	_
+12	.	.	PUNCT	.	_	10	punct	_	_
+

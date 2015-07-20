@@ -1,0 +1,23 @@
+1	For	for	ADP	IN	_	5	prep	_	_
+2	instance	instance	NOUN	NN	_	1	pobj	_	_
+3	:	:	PUNCT	:	_	5	punct	_	_
+4	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+5	try	try	VERB	VB	_	0	root	_	_
+6	*PRO*-1	*pro*-1	NOUN	NN	_	7	nsubj	_	_
+7	wandering	wander	VERB	VBG	_	5	dep	_	_
+8	around	around	ADP	IN	_	7	prep	_	_
+9	Tehran	Tehran	PROPN	NNP	_	8	pobj	_	_
+10	*PRO*-2	*pro*-2	NOUN	NN	_	11	nsubj	_	_
+11	wearing	wear	VERB	VBG	_	7	vmod	_	_
+12	a	a	DET	DT	_	14	det	_	_
+13	large	large	ADJ	JJ	_	14	amod	_	_
+14	pectorale	pectorale	NOUN	NN	_	11	dobj	_	_
+15	and	and	CONJ	CC	_	5	cc	_	_
+16	see	see	VERB	VB	_	5	conj	_	_
+17	how	how	ADV	WRB	_	18	advmod	_	_
+18	far	far	ADV	RB	_	20	advmod	_	_
+19	you	you	PRON	PRP	_	20	nsubj	_	_
+20	get	get	VERB	VBP	_	16	ccomp	_	_
+21	*T*-3	*t*-3	X	X	_	20	advmod	_	_
+22	.	.	PUNCT	.	_	5	punct	_	_
+

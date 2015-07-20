@@ -1,0 +1,8 @@
+(S (NP (NN *PRO*))
+            (VP (VB Pick)
+                (CC and)
+                (VB choose)
+                (NP (PRP$ your)
+                    (NNS battles)))
+            (. .))
+

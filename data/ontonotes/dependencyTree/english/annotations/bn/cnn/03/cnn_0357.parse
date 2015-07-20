@@ -1,0 +1,74 @@
+1	Judith	Judith	PROPN	NNP	_	2	nn	_	_
+2	Nathan	Nathan	PROPN	NNP	_	4	nsubj	_	_
+3	will	will	AUX	MD	_	4	aux	_	_
+4	wake	wake	VERB	VB	_	0	root	_	_
+5	up	up	PART	RP	_	4	prt	_	_
+6	tomorrow	tomorrow	NOUN	NN	_	4	tmod	_	_
+7	*PRO*-1	*pro*-1	NOUN	NN	_	9	nsubj	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	wife	wife	NOUN	NN	_	4	xcomp	_	_
+10	of	of	ADP	IN	_	9	prep	_	_
+11	Rudy	Rudy	PROPN	NNP	_	12	nn	_	_
+12	Giuliani	Giuliani	PROPN	NNP	_	10	pobj	_	_
+13	.	.	PUNCT	.	_	4	punct	_	_
+
+1	The	the	DET	DT	_	2	det	_	_
+2	couple	couple	NOUN	NN	_	4	nsubj	_	_
+3	is	be	VERB	VBZ	_	4	aux	_	_
+4	preparing	prepare	VERB	VBG	_	0	root	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	tie	tie	VERB	VB	_	4	xcomp	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	knot	knot	NOUN	NN	_	7	dobj	_	_
+10	at	at	ADP	IN	_	7	prep	_	_
+11	Gracie	Gracie	PROPN	NNP	_	12	nn	_	_
+12	Mansion	Mansion	PROPN	NNP	_	10	pobj	_	_
+13	in	in	ADP	IN	_	12	prep	_	_
+14	New	New	PROPN	NNP	_	15	nn	_	_
+15	York	York	PROPN	NNP	_	13	pobj	_	_
+16	tonight	tonight	NOUN	NN	_	7	dobj	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+
+1	Mayor	Mayor	PROPN	NNP	_	3	nn	_	_
+2	Michael	Michael	PROPN	NNP	_	3	nn	_	_
+3	Bloomberg	Bloomberg	PROPN	NNP	_	5	nsubj	_	_
+4	will	will	AUX	MD	_	5	aux	_	_
+5	perform	perform	VERB	VB	_	0	root	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	ceremony	ceremony	NOUN	NN	_	5	dobj	_	_
+8	.	.	PUNCT	.	_	5	punct	_	_
+
+1	Hundreds	hundred	NOUN	NNS	_	4	nsubjpass	_	_
+2	have	have	VERB	VBP	_	4	aux	_	_
+3	been	be	VERB	VBN	_	4	auxpass	_	_
+4	invited	invite	VERB	VBN	_	0	root	_	_
+5	*-1	*-1	NOUN	NN	_	4	dobj	_	_
+6	and	and	CONJ	CC	_	4	cc	_	_
+7	Placido	Placido	PROPN	NNP	_	8	nn	_	_
+8	Domgo	Domgo	PROPN	NNP	_	10	nsubj	_	_
+9	will	will	AUX	MD	_	10	aux	_	_
+10	provide	provide	VERB	VB	_	4	conj	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	music	music	NOUN	NN	_	10	dobj	_	_
+13	.	.	PUNCT	.	_	4	punct	_	_
+
+1	More	more	ADJ	JJR	_	3	amod	_	_
+2	top	top	ADJ	JJ	_	3	amod	_	_
+3	stories	story	NOUN	NNS	_	0	root	_	_
+4	at	at	ADP	IN	_	3	prep	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	top	top	NOUN	NN	_	4	pobj	_	_
+7	of	of	ADP	IN	_	6	prep	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	hour	hour	NOUN	NN	_	7	pobj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+
+1	Now	now	ADV	RB	_	0	root	_	_
+2	back	back	ADV	RB	_	1	dep	_	_
+3	to	to	ADP	IN	_	2	prep	_	_
+4	``	``	PUNCT	``	_	3	punct	_	_
+5	next@cnn	next@cnn	X	ADD	_	3	pobj	_	_
+6	.	.	PUNCT	.	_	1	punct	_	_
+7	''	''	PUNCT	''	_	1	punct	_	_
+

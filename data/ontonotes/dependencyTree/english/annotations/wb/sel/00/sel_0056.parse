@@ -1,0 +1,22 @@
+1	If	if	ADP	IN	_	9	mark	_	_
+2	such	such	ADJ	JJ	_	8	amod	_	_
+3	"	"	PUNCT	``	_	4	punct	_	_
+4	on	on	ADP	IN	_	8	nn	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	cheap	cheap	ADJ	JJ	_	4	pobj	_	_
+7	"	"	PUNCT	''	_	4	punct	_	_
+8	services	service	NOUN	NNS	_	9	nsubj	_	_
+9	are	be	VERB	VBP	_	20	advcl	_	_
+10	not	not	ADV	RB	_	9	neg	_	_
+11	available	available	ADJ	JJ	_	9	acomp	_	_
+12	where	where	ADV	WRB	_	14	advmod	_	_
+13	you	you	PRON	PRP	_	14	nsubj	_	_
+14	are	be	VERB	VBP	_	9	advcl	_	_
+15	*T*-1	*t*-1	X	X	_	14	advmod	_	_
+16	,	,	PUNCT	,	_	20	punct	_	_
+17	my	my	PRON	PRP$	_	18	poss	_	_
+18	comments	comment	NOUN	NNS	_	20	nsubj	_	_
+19	above	above	ADV	RB	_	18	advmod	_	_
+20	apply	apply	VERB	VBP	_	0	root	_	_
+21	.	.	PUNCT	.	_	20	punct	_	_
+

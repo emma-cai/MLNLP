@@ -1,0 +1,10 @@
+1	No	no	INTJ	UH	_	5	discourse	_	_
+2	?	?	PUNCT	,	_	5	punct	_	_
+3	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+4	Just	just	ADV	RB	_	5	advmod	_	_
+5	read	read	VERB	VB	_	0	root	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	headlines	headline	NOUN	NNS	_	5	dobj	_	_
+8	tomorrow	tomorrow	NOUN	NN	_	5	tmod	_	_
+9	.	.	PUNCT	.	_	5	punct	_	_
+

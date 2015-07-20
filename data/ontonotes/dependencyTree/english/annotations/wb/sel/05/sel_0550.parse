@@ -1,0 +1,21 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Waiting	wait	VERB	VBG	_	7	dep	_	_
+3	for	for	ADP	IN	_	2	prep	_	_
+4	reply	reply	NOUN	NN	_	3	pobj	_	_
+5	Thanks	thanks	INTJ	UH	_	7	discourse	_	_
+6	,	,	PUNCT	,	_	7	punct	_	_
+7	Deepak	Deepak	PROPN	NNP	_	0	root	_	_
+8	A	a	DET	DT	_	11	det	_	_
+9	strong	strong	ADJ	JJ	_	11	amod	_	_
+10	mental	mental	ADJ	JJ	_	11	amod	_	_
+11	attitude	attitude	NOUN	NN	_	13	nsubj	_	_
+12	will	will	AUX	MD	_	13	aux	_	_
+13	create	create	VERB	VB	_	7	dep	_	_
+14	more	more	ADJ	JJR	_	15	amod	_	_
+15	miracles	miracle	NOUN	NNS	_	13	dobj	_	_
+16	than	than	ADP	IN	_	15	prep	_	_
+17	any	any	DET	DT	_	19	det	_	_
+18	wonder	wonder	NOUN	NN	_	19	nn	_	_
+19	drug	drug	NOUN	NN	_	16	pobj	_	_
+20	.	.	PUNCT	.	_	7	punct	_	_
+

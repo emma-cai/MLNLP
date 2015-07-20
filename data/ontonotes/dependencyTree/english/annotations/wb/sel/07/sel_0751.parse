@@ -1,0 +1,11 @@
+1	That	that	DET	DT	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	harsh	harsh	ADJ	JJ	_	5	amod	_	_
+5	reality	reality	NOUN	NN	_	2	xcomp	_	_
+6	0	0	X	X	_	8	dobj	_	_
+7	you	you	PRON	PRP	_	8	nsubj	_	_
+8	face	face	VERB	VBP	_	5	rcmod	_	_
+9	*T*-1	*t*-1	NOUN	NN	_	8	dobj	_	_
+10	.	.	PUNCT	.	_	2	punct	_	_
+

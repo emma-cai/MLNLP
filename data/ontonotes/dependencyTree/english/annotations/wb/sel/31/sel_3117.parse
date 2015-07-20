@@ -1,0 +1,13 @@
+1	IF	if	ADP	IN	_	3	mark	_	_
+2	Alonso	Alonso	PROPN	NNP	_	3	nsubj	_	_
+3	smashes	smash	VERB	VBZ	_	9	advcl	_	_
+4	into	into	ADP	IN	_	3	prep	_	_
+5	Hamilton	Hamilton	PROPN	NNP	_	4	pobj	_	_
+6	,	,	PUNCT	,	_	9	punct	_	_
+7	Massa	Massa	PROPN	NNP	_	9	nsubj	_	_
+8	can	can	AUX	MD	_	9	aux	_	_
+9	win	win	VERB	VB	_	0	root	_	_
+10	at	at	ADP	IN	_	9	prep	_	_
+11	home	home	NOUN	NN	_	10	pobj	_	_
+12	.	.	PUNCT	.	_	9	punct	_	_
+

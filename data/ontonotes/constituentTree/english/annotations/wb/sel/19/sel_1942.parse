@@ -1,0 +1,11 @@
+(S (NP (PRP We))
+        (VP (MD must)
+            (VP (VB vote)
+                (PP (IN for)
+                        (NP (NN Rudy)))
+                (S (NP (NN *PRO*-1))
+                       (VP (TO to)
+                           (VP (VB stop)
+                               (NP (NNP Hillary)))))))
+        (. .))
+

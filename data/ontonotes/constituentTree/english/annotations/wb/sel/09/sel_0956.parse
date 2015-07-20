@@ -1,0 +1,7 @@
+(S (NP (PRP I))
+        (VP (VBP give)
+            (NP (PRP myself))
+            (PRT (RP away))
+            (ADVP (RB here)))
+        (. !))
+

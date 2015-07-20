@@ -1,0 +1,9 @@
+(S (NP (DT The)
+                (VBN printed)
+                (NNS specs))
+        (VP (VBP cover)
+            (PP (ADVP (RB only))
+                    (IN through)
+                    (NP (CD 1996))))
+        (. .))
+

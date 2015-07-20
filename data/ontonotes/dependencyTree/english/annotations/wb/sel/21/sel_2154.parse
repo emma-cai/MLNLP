@@ -1,0 +1,26 @@
+1	Can	can	AUX	MD	_	3	aux	_	_
+2	someone	someone	NOUN	NN	_	3	nsubj	_	_
+3	lead	lead	VERB	VB	_	0	root	_	_
+4	me	I	PRON	PRP	_	3	dobj	_	_
+5	to	to	ADP	IN	_	3	prep	_	_
+6	some	some	DET	DT	_	7	det	_	_
+7	tutorial	tutorial	NOUN	NN	_	5	pobj	_	_
+8	or	or	CONJ	CC	_	7	cc	_	_
+9	some	some	DET	DT	_	11	det	_	_
+10	sample	sample	NOUN	NN	_	11	nn	_	_
+11	codes	code	NOUN	NNS	_	7	conj	_	_
+12	*PRO*	*pro*	NOUN	NN	_	14	nsubj	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	write	write	VERB	VB	_	7	vmod	_	_
+15	data	datum	NOUN	NNS	_	14	dobj	_	_
+16	into	into	ADP	IN	_	14	prep	_	_
+17	my	my	PRON	PRP$	_	18	poss	_	_
+18	MMC	mmc	NOUN	NN	_	16	pobj	_	_
+19	,	,	PUNCT	,	_	14	punct	_	_
+20	read	read	VERB	VB	_	14	dep	_	_
+21	&	&	CONJ	CC	_	20	cc	_	_
+22	display	display	VERB	VB	_	20	conj	_	_
+23	onto	onto	ADP	IN	_	20	prep	_	_
+24	LCD	lcd	NOUN	NN	_	23	pobj	_	_
+25	.	.	PUNCT	.	_	3	punct	_	_
+

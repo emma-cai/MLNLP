@@ -1,0 +1,27 @@
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	seems	seem	VERB	VBZ	_	0	root	_	_
+3	that	that	ADP	IN	_	22	mark	_	_
+4	when	when	ADV	WRB	_	6	advmod	_	_
+5	they	they	PRON	PRP	_	6	nsubj	_	_
+6	catch	catch	VERB	VBP	_	22	advcl	_	_
+7	the	the	DET	DT	_	8	det	_	_
+8	officers	officer	NOUN	NNS	_	6	dobj	_	_
+9	*PRO*-1	*pro*-1	NOUN	NN	_	10	nsubj	_	_
+10	doing	do	VERB	VBG	_	6	dep	_	_
+11	something	something	NOUN	NN	_	10	dobj	_	_
+12	bad	bad	ADJ	JJ	_	11	amod	_	_
+13	or	or	CONJ	CC	_	12	cc	_	_
+14	wrong	wrong	ADJ	JJ	_	12	conj	_	_
+15	*T*-2	*t*-2	X	X	_	6	advmod	_	_
+16	,	,	PUNCT	,	_	22	punct	_	_
+17	the	the	DET	DT	_	20	det	_	_
+18	law	law	NOUN	NN	_	19	nn	_	_
+19	suit	suit	NOUN	NN	_	20	nn	_	_
+20	payouts	payout	NOUN	NNS	_	22	nsubj	_	_
+21	can	can	AUX	MD	_	22	aux	_	_
+22	cost	cost	VERB	VB	_	2	ccomp	_	_
+23	the	the	DET	DT	_	24	det	_	_
+24	city	city	NOUN	NN	_	22	dobj	_	_
+25	too	too	ADV	RB	_	22	advmod	_	_
+26	.	.	PUNCT	.	_	2	punct	_	_
+

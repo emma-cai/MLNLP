@@ -1,0 +1,20 @@
+1	As	as	ADP	IN	_	16	prep	_	_
+2	a	a	DET	DT	_	3	det	_	_
+3	result	result	NOUN	NN	_	1	pobj	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	inside	inside	NOUN	NN	_	16	nsubj	_	_
+6	of	of	ADP	IN	_	5	prep	_	_
+7	an	a	DET	DT	_	8	det	_	_
+8	egg	egg	NOUN	NN	_	6	pobj	_	_
+9	being	be	VERB	VBG	_	10	auxpass	_	_
+10	boiled	boil	VERB	VBN	_	8	vmod	_	_
+11	*	*	NOUN	NN	_	10	dobj	_	_
+12	,	,	PUNCT	,	_	16	punct	_	_
+13	wo	will	AUX	MD	_	16	aux	_	_
+14	nt	nt	ADV	RB	_	16	neg	_	_
+15	itself	itself	PRON	PRP	_	16	dobj	_	_
+16	reach	reach	VERB	VB	_	0	root	_	_
+17	boiling	boiling	NOUN	NN	_	18	nn	_	_
+18	point	point	NOUN	NN	_	16	dobj	_	_
+19	.	.	PUNCT	.	_	16	punct	_	_
+

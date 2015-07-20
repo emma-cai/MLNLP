@@ -1,0 +1,12 @@
+1	The	the	DET	DT	_	4	det	_	_
+2	little	little	ADJ	JJ	_	4	amod	_	_
+3	rubber	rubber	NOUN	NN	_	4	nn	_	_
+4	seal	seal	NOUN	NN	_	6	nsubj	_	_
+5	only	only	ADV	RB	_	6	advmod	_	_
+6	cost	cost	VERB	VBD	_	0	root	_	_
+7	50	50	NUM	CD	_	10	num	_	_
+8	or	or	CONJ	CC	_	7	cc	_	_
+9	so	so	ADV	RB	_	7	conj	_	_
+10	cents	cent	NOUN	NNS	_	6	dobj	_	_
+11	.	.	PUNCT	.	_	6	punct	_	_
+

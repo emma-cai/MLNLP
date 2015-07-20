@@ -1,0 +1,24 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	successful	successful	ADJ	JJ	_	3	amod	_	_
+3	candidate	candidate	NOUN	NN	_	5	nsubj	_	_
+4	will	will	AUX	MD	_	5	aux	_	_
+5	teach	teach	VERB	VB	_	0	root	_	_
+6	calculus	calculus	NOUN	NN	_	8	dep	_	_
+7	-	-	PUNCT	HYPH	_	8	punct	_	_
+8	based	base	VERB	VBN	_	14	amod	_	_
+9	and	and	CONJ	CC	_	8	cc	_	_
+10	non-calculus	non-calculus	NOUN	NN	_	12	dep	_	_
+11	-	-	PUNCT	HYPH	_	12	punct	_	_
+12	based	base	VERB	VBN	_	8	conj	_	_
+13	physics	physics	NOUN	NN	_	14	nn	_	_
+14	courses	course	NOUN	NNS	_	5	dobj	_	_
+15	,	,	PUNCT	,	_	5	punct	_	_
+16	develop	develop	VERB	VB	_	5	dep	_	_
+17	a	a	DET	DT	_	20	det	_	_
+18	sophomore	sophomore	NOUN	NN	_	19	nn	_	_
+19	level	level	NOUN	NN	_	20	nn	_	_
+20	course	course	NOUN	NN	_	16	dobj	_	_
+21	for	for	ADP	IN	_	16	prep	_	_
+22	science	science	NOUN	NN	_	21	pobj	_	_
+23	...	...	PUNCT	.	_	5	punct	_	_
+

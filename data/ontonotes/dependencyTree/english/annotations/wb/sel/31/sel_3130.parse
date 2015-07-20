@@ -1,0 +1,27 @@
+1	Local	local	ADJ	JJ	_	2	amod	_	_
+2	residents	resident	NOUN	NNS	_	3	nsubj	_	_
+3	told	tell	VERB	VBD	_	0	root	_	_
+4	reporters	reporter	NOUN	NNS	_	3	dobj	_	_
+5	that	that	ADP	IN	_	9	mark	_	_
+6	a	a	DET	DT	_	8	det	_	_
+7	fiery	fiery	ADJ	JJ	_	8	amod	_	_
+8	ball	ball	NOUN	NN	_	9	nsubj	_	_
+9	fell	fall	VERB	VBD	_	3	ccomp	_	_
+10	from	from	ADP	IN	_	9	prep	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	sky	sky	NOUN	NN	_	10	pobj	_	_
+13	and	and	CONJ	CC	_	9	cc	_	_
+14	smashed	smash	VERB	VBD	_	9	conj	_	_
+15	into	into	ADP	IN	_	14	prep	_	_
+16	the	the	DET	DT	_	19	det	_	_
+17	desolate	desolate	ADJ	JJ	_	19	amod	_	_
+18	Andean	andean	ADJ	JJ	_	19	amod	_	_
+19	plain	plain	NOUN	NN	_	15	pobj	_	_
+20	near	near	ADP	IN	_	19	prep	_	_
+21	the	the	DET	DT	_	23	det	_	_
+22	Bolivian	bolivian	ADJ	JJ	_	23	amod	_	_
+23	border	border	NOUN	NN	_	20	pobj	_	_
+24	Saturday	Saturday	PROPN	NNP	_	25	nn	_	_
+25	morning	morning	NOUN	NN	_	9	tmod	_	_
+26	.	.	PUNCT	.	_	3	punct	_	_
+

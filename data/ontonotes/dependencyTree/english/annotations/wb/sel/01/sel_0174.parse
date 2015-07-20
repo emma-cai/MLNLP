@@ -1,0 +1,10 @@
+1	Please	please	INTJ	UH	_	3	discourse	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	bring	bring	VERB	VB	_	0	root	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	RECENT	recent	ADJ	JJ	_	6	amod	_	_
+6	picture	picture	NOUN	NN	_	3	dobj	_	_
+7	and	and	CONJ	CC	_	6	cc	_	_
+8	resume	resume	NOUN	NN	_	6	conj	_	_
+9	.	.	PUNCT	.	_	3	punct	_	_
+

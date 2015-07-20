@@ -1,0 +1,14 @@
+1	Decadent	decadent	ADJ	JJ	_	6	amod	_	_
+2	,	,	PUNCT	,	_	6	punct	_	_
+3	easy	easy	ADJ	JJ	_	5	amod	_	_
+4	-	-	PUNCT	HYPH	_	5	punct	_	_
+5	going	going	ADJ	JJ	_	6	amod	_	_
+6	Muslims	Muslims	PROPN	NNPS	_	9	nsubj	_	_
+7	do	do	VERB	VBP	_	9	aux	_	_
+8	n't	not	ADV	RB	_	9	neg	_	_
+9	fly	fly	VERB	VB	_	0	root	_	_
+10	planes	plane	NOUN	NNS	_	9	dobj	_	_
+11	into	into	ADP	IN	_	9	prep	_	_
+12	skyscrapers	skyscraper	NOUN	NNS	_	11	pobj	_	_
+13	.	.	PUNCT	.	_	9	punct	_	_
+

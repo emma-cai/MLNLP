@@ -1,0 +1,15 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	used	use	VERB	VBD	_	0	root	_	_
+3	guns	gun	NOUN	NNS	_	2	dobj	_	_
+4	because	because	ADP	IN	_	6	mark	_	_
+5	this	this	DET	DT	_	6	nsubj	_	_
+6	boils	boil	VERB	VBZ	_	2	advcl	_	_
+7	down	down	PART	RP	_	6	prt	_	_
+8	neatly	neatly	ADV	RB	_	6	advmod	_	_
+9	into	into	ADP	IN	_	6	prep	_	_
+10	the	the	DET	DT	_	13	det	_	_
+11	gun	gun	NOUN	NN	_	12	nn	_	_
+12	control	control	NOUN	NN	_	13	nn	_	_
+13	debate	debate	NOUN	NN	_	9	pobj	_	_
+14	.	.	PUNCT	.	_	2	punct	_	_
+

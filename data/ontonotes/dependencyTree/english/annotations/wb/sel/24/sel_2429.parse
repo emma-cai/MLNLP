@@ -1,0 +1,23 @@
+1	All	all	DET	DT	_	6	nsubj	_	_
+2	0	0	X	X	_	4	dobj	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	need	need	VERB	VBP	_	1	rcmod	_	_
+5	*T*-1	*t*-1	NOUN	NN	_	4	dobj	_	_
+6	is	be	VERB	VBZ	_	0	root	_	_
+7	an	a	DET	DT	_	9	det	_	_
+8	alligator	alligator	NOUN	NN	_	9	nn	_	_
+9	clip	clip	NOUN	NN	_	6	xcomp	_	_
+10	0	0	X	X	_	13	dobj	_	_
+11	*T*-2	*t*-2	NOUN	NN	_	13	nsubj	_	_
+12	to	to	ADP	TO	_	13	aux	_	_
+13	ground	grind	VERB	VB	_	9	rcmod	_	_
+14	the	the	DET	DT	_	18	det	_	_
+15	brown	brown	ADJ	JJ	_	17	amod	_	_
+16	/	/	SYM	SYM	_	17	dep	_	_
+17	tan	tan	ADJ	JJ	_	18	amod	_	_
+18	connector	connector	NOUN	NN	_	13	dobj	_	_
+19	behind	behind	ADP	IN	_	18	prep	_	_
+20	the	the	DET	DT	_	21	det	_	_
+21	battery	battery	NOUN	NN	_	19	pobj	_	_
+22	.	.	PUNCT	.	_	6	punct	_	_
+

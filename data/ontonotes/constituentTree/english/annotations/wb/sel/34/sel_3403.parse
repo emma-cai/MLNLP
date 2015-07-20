@@ -1,0 +1,13 @@
+(S (NP (NNP Jesus))
+        (VP (VP (VBD touched)
+                (NP (PRP them)))
+            (CC and)
+            (VP (VBD told)
+                (NP (PRP them))
+                (S (NP (NN *PRO*-1))
+                   (VP (TO to)
+                       (RB not)
+                       (VP (VB be)
+                           (ADJP (JJ afraid)))))))
+        (. .))
+

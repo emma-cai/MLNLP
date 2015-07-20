@@ -1,0 +1,23 @@
+1	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+2	Ever	ever	ADV	RB	_	3	advmod	_	_
+3	try	try	VERB	VB	_	0	root	_	_
+4	*PRO*-1	*pro*-1	NOUN	NN	_	5	nsubj	_	_
+5	taking	take	VERB	VBG	_	3	dep	_	_
+6	a	a	DET	DT	_	7	det	_	_
+7	bike	bike	NOUN	NN	_	5	dobj	_	_
+8	on	on	ADP	IN	_	5	prep	_	_
+9	the	the	DET	DT	_	12	det	_	_
+10	NJTransit	NJTransit	PROPN	NNP	_	12	nn	_	_
+11	NE	NE	PROPN	NNP	_	12	nn	_	_
+12	Corridor	Corridor	PROPN	NNP	_	8	pobj	_	_
+13	on	on	ADP	IN	_	5	prep	_	_
+14	a	a	DET	DT	_	15	det	_	_
+15	Friday	Friday	PROPN	NNP	_	13	pobj	_	_
+16	after	after	ADP	IN	_	21	mark	_	_
+17	off	off	NOUN	NN	_	19	nn	_	_
+18	-	-	PUNCT	HYPH	_	19	punct	_	_
+19	peak	peak	NOUN	NN	_	21	nsubj	_	_
+20	have	have	VERB	VBP	_	21	aux	_	_
+21	started	start	VERB	VBN	_	5	advcl	_	_
+22	?	?	PUNCT	.	_	3	punct	_	_
+

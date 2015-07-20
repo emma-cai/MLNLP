@@ -1,0 +1,21 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	wonder	wonder	VERB	VBP	_	0	root	_	_
+3	how	how	ADV	WRB	_	4	advmod	_	_
+4	much	much	ADJ	JJ	_	8	advmod	_	_
+5	beta	beta	NOUN	NN	_	6	nn	_	_
+6	testers	tester	NOUN	NNS	_	8	nsubjpass	_	_
+7	get	get	VERB	VBP	_	8	auxpass	_	_
+8	paid	pay	VERB	VBN	_	2	ccomp	_	_
+9	*T*-1	*t*-1	NOUN	NN	_	8	dobj	_	_
+10	for	for	ADP	IN	_	8	prep	_	_
+11	software	software	NOUN	NN	_	12	nn	_	_
+12	companys	company	NOUN	NNS	_	10	pobj	_	_
+13	do	do	VERB	VBP	_	18	aux	_	_
+14	nt	nt	ADV	RB	_	18	neg	_	_
+15	alpha	alpha	NOUN	NN	_	16	nn	_	_
+16	testers	tester	NOUN	NNS	_	18	nsubjpass	_	_
+17	get	get	VERB	VB	_	18	auxpass	_	_
+18	paid	pay	VERB	VBN	_	2	dep	_	_
+19	*-2	*-2	NOUN	NN	_	18	dobj	_	_
+20	?	?	PUNCT	.	_	2	punct	_	_
+

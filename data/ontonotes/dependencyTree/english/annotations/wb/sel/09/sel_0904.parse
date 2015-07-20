@@ -1,0 +1,19 @@
+1	And	and	CONJ	CC	_	5	cc	_	_
+2	yes	yes	INTJ	UH	_	5	discourse	_	_
+3	I	I	PRON	PRP	_	5	nsubj	_	_
+4	do	do	VERB	VBP	_	5	aux	_	_
+5	get	get	VERB	VB	_	0	root	_	_
+6	my	my	PRON	PRP$	_	7	poss	_	_
+7	glands	gland	NOUN	NNS	_	8	nsubj	_	_
+8	swollen	swollen	ADJ	JJ	_	5	xcomp	_	_
+9	and	and	CONJ	CC	_	8	cc	_	_
+10	painful	painful	ADJ	JJ	_	8	conj	_	_
+11	when	when	ADV	WRB	_	14	advmod	_	_
+12	I	I	PRON	PRP	_	14	nsubj	_	_
+13	've	have	VERB	VBP	_	14	aux	_	_
+14	done	do	VERB	VBN	_	5	advcl	_	_
+15	too	too	ADV	RB	_	16	advmod	_	_
+16	much	much	ADJ	JJ	_	14	dobj	_	_
+17	*T*-1	*t*-1	X	X	_	14	advmod	_	_
+18	.	.	PUNCT	.	_	5	punct	_	_
+

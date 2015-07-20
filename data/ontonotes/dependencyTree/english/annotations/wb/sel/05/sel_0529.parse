@@ -1,0 +1,13 @@
+1	Web	web	NOUN	NN	_	3	dep	_	_
+2	-	-	PUNCT	HYPH	_	3	punct	_	_
+3	based	base	VERB	VBN	_	4	amod	_	_
+4	applications	application	NOUN	NNS	_	5	nsubj	_	_
+5	create	create	VERB	VBP	_	0	root	_	_
+6	Web	web	NOUN	NN	_	7	nn	_	_
+7	content	content	NOUN	NN	_	5	dobj	_	_
+8	for	for	ADP	IN	_	7	prep	_	_
+9	Web	web	NOUN	NN	_	10	nn	_	_
+10	browser	browser	NOUN	NN	_	11	nn	_	_
+11	clients	client	NOUN	NNS	_	8	pobj	_	_
+12	.	.	PUNCT	.	_	5	punct	_	_
+

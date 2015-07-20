@@ -1,0 +1,11 @@
+(S (INTJ (UH Well))
+        (NP (PRP I))
+        (VP (VBP suppose)
+            (SBAR (X 0)
+                  (S (NP (CD one)
+                             (NN atom))
+                     (VP (VBZ helps)
+                         (NP (DT a)
+                             (NN flower))))))
+        (. .))
+

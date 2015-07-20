@@ -1,0 +1,9 @@
+(S (ADVP (RB Generally))
+        (NP (PRP we))
+        (VP (VBP buy)
+            (NP (NNP Ghirardelli)
+                (NML (JJ dark)
+                     (NN chocolate))
+                (NNS squares)))
+        (. .))
+

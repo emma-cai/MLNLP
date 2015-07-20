@@ -1,0 +1,25 @@
+1	Once	once	ADP	IN	_	4	mark	_	_
+2	I	I	PRON	PRP	_	4	nsubj	_	_
+3	've	have	VERB	VBP	_	4	aux	_	_
+4	got	get	VERB	VBN	_	11	advcl	_	_
+5	something	something	NOUN	NN	_	4	dobj	_	_
+6	reasonably	reasonably	ADV	RB	_	7	advmod	_	_
+7	close	close	ADJ	JJ	_	5	amod	_	_
+8	I	I	PRON	PRP	_	11	nsubj	_	_
+9	can	can	AUX	MD	_	11	aux	_	_
+10	then	then	ADV	RB	_	11	advmod	_	_
+11	scale	scale	VERB	VB	_	0	root	_	_
+12	it	it	PRON	PRP	_	11	dobj	_	_
+13	to	to	ADP	IN	_	11	prep	_	_
+14	8	8	NUM	CD	_	15	num	_	_
+15	bits	bit	NOUN	NNS	_	13	pobj	_	_
+16	and	and	CONJ	CC	_	11	cc	_	_
+17	do	do	VERB	VB	_	11	conj	_	_
+18	the	the	DET	DT	_	20	det	_	_
+19	final	final	ADJ	JJ	_	20	amod	_	_
+20	tweaks	tweak	NOUN	NNS	_	17	dobj	_	_
+21	in	in	ADP	IN	_	17	prep	_	_
+22	the	the	DET	DT	_	23	det	_	_
+23	Gimp	Gimp	PROPN	NNP	_	21	pobj	_	_
+24	.	.	PUNCT	.	_	11	punct	_	_
+

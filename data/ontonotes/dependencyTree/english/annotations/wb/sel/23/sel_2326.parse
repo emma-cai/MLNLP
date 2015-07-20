@@ -1,0 +1,23 @@
+1	-LSB-	-lsb-	PUNCT	-LRB-	_	2	punct	_	_
+2	6	6	NUM	CD	_	0	root	_	_
+3	-RSB-	-rsb-	PUNCT	-RRB-	_	2	punct	_	_
+4	Jonathan	Jonathan	PROPN	NNP	_	5	nn	_	_
+5	Steele	Steele	PROPN	NNP	_	2	dep	_	_
+6	,	,	PUNCT	,	_	2	punct	_	_
+7	*PRO*-1	*pro*-1	NOUN	NN	_	8	dep	_	_
+8	Unseen	unseen	ADJ	JJ	_	14	ccomp	_	_
+9	by	by	ADP	IN	_	8	prep	_	_
+10	western	western	ADJ	JJ	_	11	amod	_	_
+11	hysteria	hysteria	NOUN	NN	_	9	pobj	_	_
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	Darfur	Darfur	PROPN	NNP	_	14	nsubj	_	_
+14	edges	edge	VERB	VBZ	_	2	dep	_	_
+15	closer	closer	ADV	RBR	_	14	advmod	_	_
+16	to	to	ADP	IN	_	15	prep	_	_
+17	peace	peace	NOUN	NN	_	16	pobj	_	_
+18	,	,	PUNCT	,	_	2	punct	_	_
+19	10	10	NUM	CD	_	20	num	_	_
+20	August	August	PROPN	NNP	_	2	dep	_	_
+21	2007	2007	NUM	CD	_	20	dep	_	_
+22	.	.	PUNCT	.	_	2	punct	_	_
+

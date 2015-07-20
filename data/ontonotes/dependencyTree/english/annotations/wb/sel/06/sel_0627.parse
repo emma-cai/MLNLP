@@ -1,0 +1,21 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Review	review	VERB	VB	_	0	root	_	_
+3	current	current	NOUN	NN	_	4	nn	_	_
+4	processes	process	NOUN	NNS	_	2	dobj	_	_
+5	*PRO*	*pro*	NOUN	NN	_	2	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	determine	determine	VERB	VB	_	2	vmod	_	_
+8	requirements	requirement	NOUN	NNS	_	7	dobj	_	_
+9	and	and	CONJ	CC	_	7	cc	_	_
+10	develop	develop	VERB	VB	_	7	conj	_	_
+11	best	best	ADJ	JJS	_	12	amod	_	_
+12	practices	practice	NOUN	NNS	_	10	dobj	_	_
+13	*PRO*	*pro*	NOUN	NN	_	10	dobj	_	_
+14	to	to	ADP	TO	_	15	aux	_	_
+15	establish	establish	VERB	VB	_	10	vmod	_	_
+16	world	world	NOUN	NN	_	18	nn	_	_
+17	-	-	PUNCT	HYPH	_	18	punct	_	_
+18	class	class	NOUN	NN	_	19	nn	_	_
+19	function	function	NOUN	NN	_	15	dobj	_	_
+20	.	.	PUNCT	.	_	2	punct	_	_
+

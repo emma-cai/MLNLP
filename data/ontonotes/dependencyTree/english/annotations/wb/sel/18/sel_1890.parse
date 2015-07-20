@@ -1,0 +1,25 @@
+1	By	by	ADP	IN	_	20	prep	_	_
+2	*PRO*-1	*pro*-1	NOUN	NN	_	3	nsubj	_	_
+3	spending	spend	VERB	VBG	_	1	pcomp	_	_
+4	less	less	ADJ	JJR	_	3	dobj	_	_
+5	on	on	ADP	IN	_	3	prep	_	_
+6	poorly	poorly	ADV	RB	_	7	advmod	_	_
+7	converting	convert	VERB	VBG	_	8	amod	_	_
+8	keywords	keyword	NOUN	NNS	_	5	pobj	_	_
+9	and	and	CONJ	CC	_	3	cc	_	_
+10	increasing	increase	VERB	VBG	_	3	conj	_	_
+11	your	you	PRON	PRP$	_	12	poss	_	_
+12	spend	spend	NOUN	NN	_	10	dobj	_	_
+13	on	on	ADP	IN	_	12	prep	_	_
+14	high	high	ADJ	JJ	_	15	amod	_	_
+15	conversion	conversion	NOUN	NN	_	16	nn	_	_
+16	ones	one	NOUN	NNS	_	13	pobj	_	_
+17	,	,	PUNCT	,	_	20	punct	_	_
+18	you	you	PRON	PRP	_	20	nsubj	_	_
+19	'll	'll	AUX	MD	_	20	aux	_	_
+20	optimize	optimize	VERB	VB	_	0	root	_	_
+21	your	you	PRON	PRP$	_	23	poss	_	_
+22	overall	overall	ADJ	JJ	_	23	amod	_	_
+23	ROI	rous	NOUN	NN	_	20	dobj	_	_
+24	.	.	PUNCT	.	_	20	punct	_	_
+

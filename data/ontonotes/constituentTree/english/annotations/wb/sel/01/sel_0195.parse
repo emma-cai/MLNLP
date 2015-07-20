@@ -1,0 +1,13 @@
+(S (NP (DT The)
+                (NNS authors))
+        (VP (VBP bring)
+            (ADVP (RB together))
+            (NP (NP (ADJP (RB very)
+                          (JJ credible))
+                    (NNS voices))
+                (PP (IN in)
+                    (NP (JJ corporate)
+                        (NN story)
+                        (NN telling)))))
+        (. .))
+

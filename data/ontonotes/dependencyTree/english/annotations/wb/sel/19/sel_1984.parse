@@ -1,0 +1,25 @@
+1	They	they	PRON	PRP	_	2	nsubj	_	_
+2	support	support	VERB	VBP	_	0	root	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	racist	racist	ADJ	JJ	_	5	amod	_	_
+5	view	view	NOUN	NN	_	2	dobj	_	_
+6	that	that	ADP	IN	_	17	mark	_	_
+7	Cherokees	Cherokees	PROPN	NNPS	_	17	nsubj	_	_
+8	of	of	ADP	IN	_	7	prep	_	_
+9	African	african	ADJ	JJ	_	10	amod	_	_
+10	descent	descent	NOUN	NN	_	8	pobj	_	_
+11	listed	list	VERB	VBN	_	7	vmod	_	_
+12	*	*	NOUN	NN	_	11	dobj	_	_
+13	on	on	ADP	IN	_	11	prep	_	_
+14	the	the	DET	DT	_	16	det	_	_
+15	Freedmen	Freedmen	PROPN	NNP	_	16	nn	_	_
+16	Roll	Roll	PROPN	NNP	_	13	pobj	_	_
+17	are	be	VERB	VBP	_	5	ccomp	_	_
+18	not	not	ADV	RB	_	17	neg	_	_
+19	welcome	welcome	ADJ	JJ	_	17	acomp	_	_
+20	in	in	ADP	IN	_	17	prep	_	_
+21	the	the	DET	DT	_	23	det	_	_
+22	Cherokee	Cherokee	PROPN	NNP	_	23	nn	_	_
+23	Nation	Nation	PROPN	NNP	_	20	pobj	_	_
+24	.	.	PUNCT	.	_	2	punct	_	_
+

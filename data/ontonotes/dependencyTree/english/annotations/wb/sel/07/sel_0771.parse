@@ -1,0 +1,13 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	rebuilding	rebuild	VERB	VBG	_	3	amod	_	_
+3	Chiefs	Chiefs	PROPN	NNPS	_	4	nsubj	_	_
+4	face	face	VERB	VBP	_	0	root	_	_
+5	a	a	DET	DT	_	7	det	_	_
+6	tough	tough	ADJ	JJ	_	7	amod	_	_
+7	road	road	NOUN	NN	_	4	dobj	_	_
+8	back	back	ADV	RB	_	7	advmod	_	_
+9	into	into	ADP	IN	_	8	prep	_	_
+10	AFC	AFC	PROPN	NNP	_	11	nn	_	_
+11	contention	contention	NOUN	NN	_	9	pobj	_	_
+12	.	.	PUNCT	.	_	4	punct	_	_
+

@@ -1,0 +1,10 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Rack	rack	VERB	VB	_	0	root	_	_
+3	your	you	PRON	PRP$	_	4	poss	_	_
+4	brains	brain	NOUN	NNS	_	2	dobj	_	_
+5	-	-	PUNCT	:	_	2	punct	_	_
+6	"	"	PUNCT	``	_	2	punct	_	_
+7	1997	1997	NUM	CD	_	2	dep	_	_
+8	"	"	PUNCT	''	_	2	punct	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
+

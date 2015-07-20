@@ -1,0 +1,22 @@
+1	For	for	ADP	IN	_	9	prep	_	_
+2	some	some	DET	DT	_	4	det	_	_
+3	odd	odd	ADJ	JJ	_	4	amod	_	_
+4	reason	reason	NOUN	NN	_	1	pobj	_	_
+5	kosher	kosher	ADJ	JJ	_	6	amod	_	_
+6	salt	salt	NOUN	NN	_	9	nsubj	_	_
+7	does	do	VERB	VBZ	_	9	aux	_	_
+8	not	not	ADV	RB	_	9	neg	_	_
+9	make	make	VERB	VB	_	0	root	_	_
+10	me	I	PRON	PRP	_	11	nsubj	_	_
+11	retain	retain	VERB	VB	_	9	ccomp	_	_
+12	fluid	fluid	NOUN	NN	_	11	dobj	_	_
+13	,	,	PUNCT	,	_	9	punct	_	_
+14	but	but	CONJ	CC	_	9	cc	_	_
+15	regular	regular	ADJ	JJ	_	17	amod	_	_
+16	iodized	iodized	ADJ	JJ	_	17	amod	_	_
+17	salt	salt	NOUN	NN	_	20	nsubj	_	_
+18	definitely	definitely	ADV	RB	_	20	advmod	_	_
+19	does	do	VERB	VBZ	_	20	aux	_	_
+20	*?*	*?*	X	X	_	9	conj	_	_
+21	.	.	PUNCT	.	_	9	punct	_	_
+

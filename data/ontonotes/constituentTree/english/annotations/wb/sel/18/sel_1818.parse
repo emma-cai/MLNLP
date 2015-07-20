@@ -1,0 +1,9 @@
+(S (NP (PRP He))
+        (VP (VBZ prefers)
+            (NP (NP (NNS places))
+                (SBAR (WHNP (WDT that))
+                      (S (NP (NN *T*-1))
+                         (VP (VBP serve)
+                             (NP (NN beer)))))))
+        (. .))
+

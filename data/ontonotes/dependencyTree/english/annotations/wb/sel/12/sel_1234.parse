@@ -1,0 +1,13 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	own	own	VERB	VBP	_	0	root	_	_
+3	a	a	DET	DT	_	6	det	_	_
+4	2007	2007	NUM	CD	_	6	num	_	_
+5	Toyota	Toyota	PROPN	NNP	_	6	nn	_	_
+6	Camry	Camry	PROPN	NNP	_	2	dobj	_	_
+7	and	and	CONJ	CC	_	6	cc	_	_
+8	a	a	DET	DT	_	11	det	_	_
+9	2006	2006	NUM	CD	_	11	num	_	_
+10	Hyundai	Hyundai	PROPN	NNP	_	11	nn	_	_
+11	Elantra	Elantra	PROPN	NNP	_	6	conj	_	_
+12	.	.	PUNCT	.	_	2	punct	_	_
+

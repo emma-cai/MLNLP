@@ -1,0 +1,12 @@
+(S (S (NP (DT The)
+                   (NN quality))
+           (VP (MD will)
+               (VP (VB suck))))
+        (, ,)
+        (CC but)
+        (S (NP (DT some)
+                   (NNS people))
+           (VP (VBP do)
+               (NP (PRP it))))
+        (. .))
+

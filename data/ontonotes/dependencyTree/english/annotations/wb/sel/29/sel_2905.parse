@@ -1,0 +1,11 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	owner	owner	NOUN	NN	_	3	nsubj	_	_
+3	called	call	VERB	VBD	_	0	root	_	_
+4	*PRO*	*pro*	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	scale	scale	VERB	VB	_	3	xcomp	_	_
+7	back	back	PART	RP	_	6	prt	_	_
+8	sales	sale	NOUN	NNS	_	9	nn	_	_
+9	consulting	consulting	NOUN	NN	_	6	dobj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+

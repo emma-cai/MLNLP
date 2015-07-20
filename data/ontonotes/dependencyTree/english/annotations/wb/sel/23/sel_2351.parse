@@ -1,0 +1,9 @@
+1	Freedom	freedom	NOUN	NN	_	2	nsubj	_	_
+2	is	be	VERB	VBZ	_	0	root	_	_
+3	always	always	ADV	RB	_	2	advmod	_	_
+4	a	a	DET	DT	_	7	det	_	_
+5	two	two	NUM	CD	_	6	number	_	_
+6	edged	edge	VERB	VBN	_	7	amod	_	_
+7	sword	sword	NOUN	NN	_	2	xcomp	_	_
+8	.	.	PUNCT	.	_	2	punct	_	_
+

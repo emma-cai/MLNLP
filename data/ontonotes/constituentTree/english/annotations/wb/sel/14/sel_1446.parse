@@ -1,0 +1,10 @@
+(SQ (VBP Are)
+         (NP (DT these)
+                 (NNS examples))
+         (ADJP (JJ enough)
+                   (S (NP (NN *PRO*))
+                      (VP (TO to)
+                          (VP (VB reach)
+                              (NP (NN irony))))))
+         (. ?))
+

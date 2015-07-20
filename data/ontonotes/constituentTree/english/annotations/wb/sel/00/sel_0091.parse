@@ -1,0 +1,9 @@
+(SQ (MD would)
+         (NP (DT that))
+         (VP (VB apply)
+             (PP (IN to)
+                     (NP (NML (NN car)
+                              (NN tent))
+                         (NNS sales))))
+         (. ?))
+

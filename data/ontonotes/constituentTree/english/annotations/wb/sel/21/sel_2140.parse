@@ -1,0 +1,8 @@
+(SQ (NP (NN *PRO*))
+         (VP (VBP Wan)
+             (S (NP (NN *PRO*-1))
+                (VP (TO na)
+                    (VP (VB try)
+                        (NP (DT these))))))
+         (. ?))
+

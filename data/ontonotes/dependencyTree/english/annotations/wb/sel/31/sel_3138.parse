@@ -1,0 +1,27 @@
+1	BALTIMORE	BALTIMORE	PROPN	NNP	_	5	nsubj	_	_
+2	--	--	PUNCT	:	_	5	punct	_	_
+3	The	the	DET	DT	_	4	det	_	_
+4	Rangers	Rangers	PROPN	NNPS	_	5	nsubj	_	_
+5	smashed	smash	VERB	VBD	_	0	root	_	_
+6	their	they	PRON	PRP$	_	7	poss	_	_
+7	way	way	NOUN	NN	_	5	dobj	_	_
+8	into	into	ADP	IN	_	5	prep	_	_
+9	the	the	DET	DT	_	13	det	_	_
+10	Major	Major	PROPN	NNP	_	11	nn	_	_
+11	League	League	PROPN	NNP	_	13	nn	_	_
+12	record	record	NOUN	NN	_	13	nn	_	_
+13	books	book	NOUN	NNS	_	8	pobj	_	_
+14	on	on	ADP	IN	_	5	prep	_	_
+15	Wednesday	Wednesday	PROPN	NNP	_	16	nn	_	_
+16	night	night	NOUN	NN	_	14	pobj	_	_
+17	with	with	ADP	IN	_	5	prep	_	_
+18	the	the	DET	DT	_	20	det	_	_
+19	most	most	ADJ	JJS	_	20	amod	_	_
+20	runs	run	NOUN	NNS	_	17	pobj	_	_
+21	scored	score	VERB	VBN	_	20	vmod	_	_
+22	*	*	NOUN	NN	_	21	dobj	_	_
+23	in	in	ADP	IN	_	21	prep	_	_
+24	110	110	NUM	CD	_	25	num	_	_
+25	years	year	NOUN	NNS	_	23	pobj	_	_
+26	.	.	PUNCT	.	_	5	punct	_	_
+

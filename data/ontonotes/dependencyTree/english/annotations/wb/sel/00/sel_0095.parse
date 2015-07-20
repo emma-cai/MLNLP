@@ -1,0 +1,9 @@
+1	Candidates	candidate	NOUN	NNS	_	7	nsubj	_	_
+2	possessing	possess	VERB	VBG	_	1	vmod	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	following	following	ADJ	JJ	_	5	amod	_	_
+5	qualification	qualification	NOUN	NN	_	2	dobj	_	_
+6	should	should	AUX	MD	_	7	aux	_	_
+7	apply	apply	VERB	VB	_	0	root	_	_
+8	.	.	PUNCT	.	_	7	punct	_	_
+

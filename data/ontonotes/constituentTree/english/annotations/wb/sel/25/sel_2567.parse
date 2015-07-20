@@ -1,0 +1,13 @@
+(S (NP (PRP I))
+        (VP (VBD quoted)
+            (NP (NP (DT the)
+                    (NN manual))
+                (VP (VBG saying)
+                    (S (NP (NN *PRO*))
+                       (VP (TO to)
+                           (VP (VB plug)
+                               (NP (PRP it))
+                               (PRT (RP in))
+                               (ADVP (RB directly))))))))
+        (. .))
+

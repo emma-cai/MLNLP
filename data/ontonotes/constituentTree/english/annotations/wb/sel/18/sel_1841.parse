@@ -1,0 +1,9 @@
+(S (NP (NN *PRO*))
+            (VP (VP (VB Pour)
+                    (PP (IN over)
+                            (NP (NN asparagus))))
+                (CC and)
+                (VP (VB serve)
+                    (ADVP (RB immediately))))
+            (. .))
+

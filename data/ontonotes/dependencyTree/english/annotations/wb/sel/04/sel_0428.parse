@@ -1,0 +1,24 @@
+1	It	it	PRON	PRP	_	3	nsubj	_	_
+2	*EXP*-1	*exp*-1	X	X	_	1	dep	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	possible	possible	ADJ	JJ	_	3	acomp	_	_
+5	that	that	ADP	IN	_	9	mark	_	_
+6	inns	inn	NOUN	NNS	_	9	nsubj	_	_
+7	and	and	CONJ	CC	_	6	cc	_	_
+8	meals	meal	NOUN	NNS	_	6	conj	_	_
+9	cost	cost	VERB	VBP	_	3	ccomp	_	_
+10	much	much	ADV	RB	_	11	advmod	_	_
+11	more	more	ADJ	JJR	_	9	dobj	_	_
+12	outside	outside	ADV	RB	_	9	advmod	_	_
+13	of	of	ADP	IN	_	12	prep	_	_
+14	London	London	PROPN	NNP	_	13	pobj	_	_
+15	,	,	PUNCT	,	_	3	punct	_	_
+16	but	but	CONJ	CC	_	3	cc	_	_
+17	I	I	PRON	PRP	_	20	nsubj	_	_
+18	would	would	AUX	MD	_	20	aux	_	_
+19	n't	not	ADV	RB	_	20	neg	_	_
+20	count	count	VERB	VB	_	3	conj	_	_
+21	on	on	ADP	IN	_	20	prep	_	_
+22	it	it	PRON	PRP	_	21	pobj	_	_
+23	.	.	PUNCT	.	_	3	punct	_	_
+

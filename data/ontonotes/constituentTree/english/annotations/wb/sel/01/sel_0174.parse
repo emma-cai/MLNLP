@@ -1,0 +1,10 @@
+(S (INTJ (UH Please))
+            (NP (NN *PRO*))
+            (VP (VB bring)
+                (NP (DT a)
+                    (JJ RECENT)
+                    (NN picture)
+                    (CC and)
+                    (NN resume)))
+            (. .))
+

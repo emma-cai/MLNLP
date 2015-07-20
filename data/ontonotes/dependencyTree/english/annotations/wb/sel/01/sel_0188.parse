@@ -1,0 +1,25 @@
+1	This	this	DET	DT	_	2	det	_	_
+2	person	person	NOUN	NN	_	4	nsubj	_	_
+3	will	will	AUX	MD	_	4	aux	_	_
+4	bring	bring	VERB	VB	_	0	root	_	_
+5	business	business	NOUN	NN	_	7	nn	_	_
+6	analytical	analytical	ADJ	JJ	_	7	amod	_	_
+7	skills	skill	NOUN	NNS	_	4	dobj	_	_
+8	and	and	CONJ	CC	_	7	cc	_	_
+9	technical	technical	ADJ	JJ	_	10	amod	_	_
+10	knowledge	knowledge	NOUN	NN	_	7	conj	_	_
+11	to	to	ADP	IN	_	4	prep	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	team	team	NOUN	NN	_	11	pobj	_	_
+14	*PRO*-1	*pro*-1	NOUN	NN	_	4	dobj	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	assist	assist	VERB	VB	_	4	vmod	_	_
+17	in	in	ADP	IN	_	16	prep	_	_
+18	a	a	DET	DT	_	19	det	_	_
+19	variety	variety	NOUN	NN	_	17	pobj	_	_
+20	of	of	ADP	IN	_	19	prep	_	_
+21	due	due	ADJ	JJ	_	22	amod	_	_
+22	diligence	diligence	NOUN	NN	_	23	nn	_	_
+23	initiatives	initiative	NOUN	NNS	_	20	pobj	_	_
+24	.	.	PUNCT	.	_	4	punct	_	_
+

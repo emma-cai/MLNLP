@@ -1,0 +1,13 @@
+(SBAR (NFP ;-)
+               (WHADVP (WRB When))
+               (S (NP (NNPS Moses))
+                  (VP (VBD commanded)
+                      (NP (NNP Israel))
+                      (S (NP (NN *PRO*-1))
+                         (RB not)
+                         (VP (TO to)
+                             (VP (VB serve)
+                                 (NP (NNS idols)))))
+                      (ADVP (X *T*-2))))
+               (. ...))
+

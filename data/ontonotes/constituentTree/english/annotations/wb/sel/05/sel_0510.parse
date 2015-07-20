@@ -1,0 +1,12 @@
+(S (NP (NN *PRO*))
+        (VP (VBG Using)
+            (`` ')
+            (NP (DT THE)
+                (NN SECRET))
+            ('' ')
+            (S (NP (NN *PRO*))
+                   (VP (TO to)
+                       (VP (VB create)
+                           (NP (NN wealth))))))
+        (. ...))
+

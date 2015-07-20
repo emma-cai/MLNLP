@@ -1,0 +1,13 @@
+(S (NP (PRP I))
+        (VP (VBP know)
+            (SBAR (X 0)
+                  (S (NP (NNS liberals))
+                     (VP (VBP get)
+                         (VP (VBN blamed)
+                             (NP (NN *-1))
+                             (PP (IN for)
+                                     (S (NP (NN *PRO*))
+                                            (VP (VBG liking)
+                                                (NP (NNS illegals))))))))))
+        (. .))
+

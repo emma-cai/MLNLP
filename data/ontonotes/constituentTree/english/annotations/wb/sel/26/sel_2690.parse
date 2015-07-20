@@ -1,0 +1,10 @@
+(S (NP (NNP Jason))
+        (VP (VBD kicked)
+            (, ,)
+            (VBD punched)
+            (, ,)
+            (VBD bit)
+            (CC and)
+            (VBD spat))
+        (. .))
+

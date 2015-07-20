@@ -1,0 +1,18 @@
+1	Now	now	INTJ	UH	_	3	discourse	_	_
+2	that	that	DET	DT	_	3	nsubj	_	_
+3	's	be	VERB	VBZ	_	0	root	_	_
+4	insanity	insanity	NOUN	NN	_	3	xcomp	_	_
+5	,	,	PUNCT	,	_	3	punct	_	_
+6	*PRO*	*pro*	NOUN	NN	_	8	nsubj	_	_
+7	just	just	ADV	RB	_	8	advmod	_	_
+8	make	make	VERB	VB	_	3	parataxis	_	_
+9	sure	sure	ADJ	JJ	_	8	acomp	_	_
+10	0	0	X	X	_	12	dep	_	_
+11	ya	ya	PRON	PRP	_	12	nsubj	_	_
+12	bring	bring	VERB	VBP	_	9	ccomp	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	kiddies	kiddie	NOUN	NNS	_	12	dobj	_	_
+15	with	with	ADP	IN	_	12	prep	_	_
+16	ya	ya	PRON	PRP	_	15	pobj	_	_
+17	.	.	PUNCT	.	_	3	punct	_	_
+

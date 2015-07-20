@@ -1,0 +1,10 @@
+(SQ (MD Can)
+         (NP (NN anyone))
+         (VP (VB shed)
+             (NP (DT any)
+                 (NN light))
+             (PP (IN on)
+                     (NP (DT the)
+                         (VBG following))))
+         (. ?))
+

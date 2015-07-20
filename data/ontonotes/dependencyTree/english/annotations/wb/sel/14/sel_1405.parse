@@ -1,0 +1,15 @@
+1	Springsteen	Springsteen	PROPN	NNP	_	6	nsubj	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	and	and	CONJ	CC	_	1	cc	_	_
+4	Shakespeare	Shakespeare	PROPN	NNP	_	1	conj	_	_
+5	,	,	PUNCT	,	_	6	punct	_	_
+6	reach	reach	VERB	VBP	_	0	root	_	_
+7	into	into	ADP	IN	_	6	prep	_	_
+8	us	we	PRON	PRP	_	7	pobj	_	_
+9	unlike	unlike	ADP	IN	_	6	prep	_	_
+10	nearly	nearly	ADV	RB	_	11	quantmod	_	_
+11	any	any	DET	DT	_	13	num	_	_
+12	other	other	ADJ	JJ	_	13	amod	_	_
+13	artist	artist	NOUN	NN	_	9	pobj	_	_
+14	.	.	PUNCT	.	_	6	punct	_	_
+

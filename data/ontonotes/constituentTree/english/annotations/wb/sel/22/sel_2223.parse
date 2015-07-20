@@ -1,0 +1,13 @@
+(UCP (SQ (MD Would)
+              (NP (DT that))
+              (VP (VB be)
+                  (SBAR-PRP (WHADVP (WRB why))
+                                (S (NP (PRP I))
+                                   (VP (VBD capitalized)
+                                       (NP (DT the)
+                                           (NN F))
+                                       (ADVP (X *T*-1)))))))
+          (. ?)
+          (INTJ (UH Nahhhhh))
+          (. .))
+

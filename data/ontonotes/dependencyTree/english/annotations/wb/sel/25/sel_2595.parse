@@ -1,0 +1,15 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	needed	need	VERB	VBN	_	9	advcl	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	then	then	ADV	RB	_	9	advmod	_	_
+6	I	I	PRON	PRP	_	9	nsubj	_	_
+7	'll	'll	AUX	MD	_	9	aux	_	_
+8	just	just	ADV	RB	_	9	advmod	_	_
+9	plug	plug	VERB	VB	_	0	root	_	_
+10	in	in	PART	RP	_	9	prt	_	_
+11	a	a	DET	DT	_	13	det	_	_
+12	larger	larger	ADJ	JJR	_	13	amod	_	_
+13	one	one	NOUN	NN	_	9	dobj	_	_
+14	.	.	PUNCT	.	_	9	punct	_	_
+

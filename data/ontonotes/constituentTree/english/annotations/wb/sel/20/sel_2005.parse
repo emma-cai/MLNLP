@@ -1,0 +1,11 @@
+(S (NP (PRP I))
+        (VP (VBP suppose)
+            (SBAR (X 0)
+                  (S (NP (DT some))
+                     (VP (MD might)
+                         (VP (VB describe)
+                             (NP (PRP it))
+                             (PP (IN as)
+                                     (ADJP (JJ unsupported))))))))
+        (. .))
+

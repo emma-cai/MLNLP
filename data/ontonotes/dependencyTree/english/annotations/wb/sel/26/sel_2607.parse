@@ -1,0 +1,11 @@
+1	No	no	DET	DT	_	2	neg	_	_
+2	assistant	assistant	NOUN	NN	_	3	nsubj	_	_
+3	needed	need	VERB	VBN	_	0	root	_	_
+4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
+5	*PRO*	*pro*	NOUN	NN	_	3	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	pump	pump	VERB	VB	_	3	vmod	_	_
+8	brake	brake	NOUN	NN	_	9	nn	_	_
+9	pedal	pedal	NOUN	NN	_	7	dobj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+

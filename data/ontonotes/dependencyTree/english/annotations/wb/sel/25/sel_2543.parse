@@ -1,0 +1,23 @@
+1	This	this	DET	DT	_	2	det	_	_
+2	query	query	NOUN	NN	_	3	nsubj	_	_
+3	links	link	VERB	VBZ	_	0	root	_	_
+4	an	a	DET	DT	_	6	det	_	_
+5	access	access	NOUN	NN	_	6	nn	_	_
+6	database	database	NOUN	NN	_	3	dobj	_	_
+7	to	to	ADP	IN	_	3	prep	_	_
+8	my	my	PRON	PRP$	_	10	poss	_	_
+9	spatial	spatial	ADJ	JJ	_	10	amod	_	_
+10	dataset	dataset	NOUN	NN	_	7	pobj	_	_
+11	,	,	PUNCT	,	_	3	punct	_	_
+12	hence	hence	ADV	RB	_	14	advmod	_	_
+13	*PRO*	*pro*	NOUN	NN	_	14	nsubj	_	_
+14	allowing	allow	VERB	VBG	_	3	vmod	_	_
+15	me	I	PRON	PRP	_	14	dobj	_	_
+16	to	to	ADP	TO	_	17	aux	_	_
+17	map	map	VERB	VB	_	14	xcomp	_	_
+18	the	the	DET	DT	_	21	det	_	_
+19	access	access	NOUN	NN	_	20	nn	_	_
+20	data	datum	NOUN	NNS	_	21	nn	_	_
+21	info	info	NOUN	NN	_	17	dobj	_	_
+22	.	.	PUNCT	.	_	3	punct	_	_
+

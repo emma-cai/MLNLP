@@ -1,0 +1,23 @@
+1	Panelists	panelist	NOUN	NNS	_	4	nsubj	_	_
+2	may	may	AUX	MD	_	4	aux	_	_
+3	also	also	ADV	RB	_	4	advmod	_	_
+4	choose	choose	VERB	VB	_	0	root	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	pay	pay	VERB	VB	_	4	xcomp	_	_
+8	homage	homage	NOUN	NN	_	7	dobj	_	_
+9	to	to	ADP	IN	_	7	prep	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	works	work	NOUN	NNS	_	9	pobj	_	_
+12	of	of	ADP	IN	_	11	prep	_	_
+13	Professor	Professor	PROPN	NNP	_	14	nn	_	_
+14	Owomoyela	Owomoyela	PROPN	NNP	_	12	pobj	_	_
+15	as	as	ADP	IN	_	7	prep	_	_
+16	a	a	DET	DT	_	18	det	_	_
+17	possible	possible	ADJ	JJ	_	18	amod	_	_
+18	approach	approach	NOUN	NN	_	15	pobj	_	_
+19	to	to	ADP	IN	_	18	prep	_	_
+20	their	they	PRON	PRP$	_	21	poss	_	_
+21	presentation	presentation	NOUN	NN	_	19	pobj	_	_
+22	.	.	PUNCT	.	_	4	punct	_	_
+

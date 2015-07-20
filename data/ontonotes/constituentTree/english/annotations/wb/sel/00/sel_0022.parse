@@ -1,0 +1,10 @@
+(S (NP (PRP I))
+        (ADVP (RB completely))
+        (VP (VBP agree)
+            (PP (IN with)
+                    (NP (NNP Simon)))
+            (PP (IN on)
+                    (NP (NN window)
+                        (NN size))))
+        (. .))
+

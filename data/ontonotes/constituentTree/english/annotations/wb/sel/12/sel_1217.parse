@@ -1,0 +1,10 @@
+(SQ (VBZ Does)
+         (NP (NNP Don)
+                 (NNP Beverly))
+         (ADVP (RB still))
+         (VP (VB own)
+             (NP (NNP Virginia)
+                 (NNPS Motorsports)
+                 (NNP Park)))
+         (. ?))
+

@@ -1,0 +1,18 @@
+1	Are	be	VERB	VBP	_	0	root	_	_
+2	there	there	DET	EX	_	1	expl	_	_
+3	any	any	DET	DT	_	7	det	_	_
+4	"	"	PUNCT	``	_	7	punct	_	_
+5	special	special	ADJ	JJ	_	7	amod	_	_
+6	folder	folder	NOUN	NN	_	7	nn	_	_
+7	items	item	NOUN	NNS	_	1	nsubj	_	_
+8	"	"	PUNCT	''	_	7	punct	_	_
+9	or	or	CONJ	CC	_	7	cc	_	_
+10	gems	gem	NOUN	NNS	_	7	conj	_	_
+11	that	that	DET	WDT	_	13	dobj	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	13	nsubj	_	_
+13	handle	handle	VERB	VBP	_	7	rcmod	_	_
+14	them	they	PRON	PRP	_	13	dobj	_	_
+15	in	in	ADP	IN	_	13	prep	_	_
+16	ruby	ruby	PROPN	NNP	_	15	pobj	_	_
+17	?	?	PUNCT	.	_	1	punct	_	_
+

@@ -1,0 +1,12 @@
+(SQ (NP (NN Anyone))
+         (VP (VB notice)
+             (NP (NP (DT some)
+                     (NN problem))
+                 (PP (IN with)
+                     (NP (NP (DT the)
+                             (NN flow))
+                         (PP (IN of)
+                             (NP (NN time))))))
+             (ADVP (RB here)))
+         (. .))
+

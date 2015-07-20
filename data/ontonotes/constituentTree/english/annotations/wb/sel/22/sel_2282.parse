@@ -1,0 +1,10 @@
+(S (CC But)
+        (NP (PRP$ my)
+                (NN mother))
+        (ADVP (RB always))
+        (VP (VBD drummed)
+            (NP (PRP it))
+            (PP (IN into)
+                    (NP (PRP me))))
+        (. .))
+

@@ -1,0 +1,25 @@
+1	You	you	PRON	PRP	_	3	nsubj	_	_
+2	only	only	ADV	RB	_	3	advmod	_	_
+3	need	need	VERB	VBP	_	0	root	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	small	small	ADJ	JJ	_	6	amod	_	_
+6	program	program	NOUN	NN	_	3	dobj	_	_
+7	*PRO*	*pro*	NOUN	NN	_	3	dobj	_	_
+8	to	to	ADP	TO	_	9	aux	_	_
+9	handle	handle	VERB	VB	_	3	vmod	_	_
+10	reflexes	reflex	NOUN	NNS	_	9	dobj	_	_
+11	,	,	PUNCT	,	_	10	punct	_	_
+12	"	"	PUNCT	``	_	17	punct	_	_
+13	fight	fight	NOUN	NN	_	17	nn	_	_
+14	or	or	CONJ	CC	_	13	cc	_	_
+15	flight	flight	NOUN	NN	_	13	conj	_	_
+16	"	"	PUNCT	''	_	17	punct	_	_
+17	reactions	reaction	NOUN	NNS	_	10	conj	_	_
+18	,	,	PUNCT	,	_	10	punct	_	_
+19	and	and	CONJ	CC	_	10	cc	_	_
+20	almost	almost	ADV	RB	_	21	quantmod	_	_
+21	all	all	DET	DT	_	23	num	_	_
+22	other	other	ADJ	JJ	_	23	amod	_	_
+23	situations	situation	NOUN	NNS	_	10	conj	_	_
+24	.	.	PUNCT	.	_	3	punct	_	_
+

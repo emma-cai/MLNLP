@@ -1,0 +1,18 @@
+1	Quite	quite	ADJ	JJ	_	0	root	_	_
+2	true	true	ADV	RB	_	1	advmod	_	_
+3	,	,	PUNCT	,	_	1	punct	_	_
+4	but	but	CONJ	CC	_	1	cc	_	_
+5	Vince	Vince	PROPN	NNP	_	8	nsubj	_	_
+6	's	's	PART	POS	_	5	possessive	_	_
+7	does	do	VERB	VBZ	_	8	aux	_	_
+8	point	point	VERB	VB	_	1	conj	_	_
+9	out	out	PART	RP	_	8	prt	_	_
+10	to	to	ADP	IN	_	8	prep	_	_
+11	Doug	Doug	PROPN	NNP	_	10	pobj	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	stupidity	stupidity	NOUN	NN	_	8	dobj	_	_
+14	of	of	ADP	IN	_	13	prep	_	_
+15	his	he	PRON	PRP$	_	16	poss	_	_
+16	generalisations	generalisation	NOUN	NNS	_	14	pobj	_	_
+17	.	.	PUNCT	.	_	1	punct	_	_
+

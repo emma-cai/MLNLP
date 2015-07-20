@@ -1,0 +1,22 @@
+1	TWA	TWA	PROPN	NNP	_	2	nsubj	_	_
+2	folded	fold	VERB	VBD	_	0	root	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	American	American	PROPN	NNP	_	5	nsubj	_	_
+5	moved	move	VERB	VBD	_	2	ccomp	_	_
+6	out	out	ADV	RB	_	5	advmod	_	_
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	and	and	CONJ	CC	_	2	cc	_	_
+9	it	it	PRON	PRP	_	10	nsubj	_	_
+10	sits	sit	VERB	VBZ	_	2	conj	_	_
+11	*PRO*-1	*pro*-1	NOUN	NN	_	12	nsubj	_	_
+12	unused	unused	ADJ	JJ	_	10	xcomp	_	_
+13	right	right	ADV	RB	_	14	advmod	_	_
+14	here	here	ADV	RB	_	10	advmod	_	_
+15	in	in	ADP	IN	_	14	prep	_	_
+16	the	the	DET	DT	_	17	det	_	_
+17	middle	middle	NOUN	NN	_	15	pobj	_	_
+18	of	of	ADP	IN	_	17	prep	_	_
+19	the	the	DET	DT	_	20	det	_	_
+20	country	country	NOUN	NN	_	18	pobj	_	_
+21	.	.	PUNCT	.	_	2	punct	_	_
+

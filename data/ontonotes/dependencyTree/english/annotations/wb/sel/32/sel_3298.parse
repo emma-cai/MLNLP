@@ -1,0 +1,19 @@
+1	Miraculously	miraculously	ADV	RB	_	5	advmod	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	it	it	PRON	PRP	_	5	nsubj	_	_
+4	actually	actually	ADV	RB	_	5	advmod	_	_
+5	slides	slide	VERB	VBZ	_	0	root	_	_
+6	in	in	ADV	RB	_	5	advmod	_	_
+7	perfectly	perfectly	ADV	RB	_	5	advmod	_	_
+8	,	,	PUNCT	,	_	5	punct	_	_
+9	sucks	suck	VERB	VBZ	_	5	dep	_	_
+10	it	it	PRON	PRP	_	9	dobj	_	_
+11	up	up	ADV	RB	_	9	advmod	_	_
+12	and	and	CONJ	CC	_	5	cc	_	_
+13	I	I	PRON	PRP	_	15	nsubj	_	_
+14	never	never	ADV	RB	_	15	neg	_	_
+15	see	see	VERB	VBP	_	5	conj	_	_
+16	it	it	PRON	PRP	_	15	dobj	_	_
+17	again	again	ADV	RB	_	15	advmod	_	_
+18	.	.	PUNCT	.	_	5	punct	_	_
+

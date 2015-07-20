@@ -1,0 +1,20 @@
+1	Can	can	AUX	MD	_	5	aux	_	_
+2	anyone	anyone	NOUN	NN	_	5	nsubj	_	_
+3	in	in	ADP	IN	_	2	prep	_	_
+4	cyberville	cyberville	NOUN	NN	_	3	pobj	_	_
+5	tell	tell	VERB	VB	_	0	root	_	_
+6	me	I	PRON	PRP	_	5	dobj	_	_
+7	how	how	ADV	WRB	_	10	advmod	_	_
+8	*PRO*	*pro*	NOUN	NN	_	10	nsubj	_	_
+9	to	to	ADP	TO	_	10	aux	_	_
+10	contact	contact	VERB	VB	_	5	xcomp	_	_
+11	him	he	PRON	PRP	_	10	dobj	_	_
+12	or	or	CONJ	CC	_	10	cc	_	_
+13	get	get	VERB	VB	_	10	conj	_	_
+14	info	info	NOUN	NN	_	13	dobj	_	_
+15	about	about	ADP	IN	_	14	prep	_	_
+16	this	this	DET	DT	_	17	det	_	_
+17	event	event	NOUN	NN	_	15	pobj	_	_
+18	*T*-1	*t*-1	X	X	_	10	advmod	_	_
+19	?	?	PUNCT	.	_	5	punct	_	_
+

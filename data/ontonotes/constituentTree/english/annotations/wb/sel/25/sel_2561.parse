@@ -1,0 +1,11 @@
+(S (: -)
+        (NP (NNP Douglas)
+                (NNP Adams))
+        (NP (PRP You))
+        (VP (MD should)
+            (ADVP (RB never))
+            (VP (VB plug)
+                (NP (DT a)
+                    (NN tire))))
+        (. .))
+

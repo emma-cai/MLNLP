@@ -1,0 +1,24 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	ETL	etl	NOUN	NN	_	3	nn	_	_
+3	Programmer	programmer	NOUN	NN	_	5	nsubj	_	_
+4	will	will	AUX	MD	_	5	aux	_	_
+5	work	work	VERB	VB	_	0	root	_	_
+6	with	with	ADP	IN	_	5	prep	_	_
+7	the	the	DET	DT	_	8	det	_	_
+8	DBA	dba	NOUN	NN	_	6	pobj	_	_
+9	and	and	CONJ	CC	_	8	cc	_	_
+10	data	datum	NOUN	NNS	_	11	nn	_	_
+11	modelers	modeler	NOUN	NNS	_	8	conj	_	_
+12	*PRO*	*pro*	NOUN	NN	_	5	dobj	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	map	map	VERB	VB	_	5	xcomp	_	_
+15	the	the	DET	DT	_	17	det	_	_
+16	source	source	NOUN	NN	_	17	nn	_	_
+17	system	system	NOUN	NN	_	14	dobj	_	_
+18	to	to	ADP	IN	_	14	prep	_	_
+19	the	the	DET	DT	_	22	det	_	_
+20	data	datum	NOUN	NN	_	21	nn	_	_
+21	warehouse	warehouse	NOUN	NN	_	22	nn	_	_
+22	models	model	NOUN	NNS	_	18	pobj	_	_
+23	.	.	PUNCT	.	_	5	punct	_	_
+

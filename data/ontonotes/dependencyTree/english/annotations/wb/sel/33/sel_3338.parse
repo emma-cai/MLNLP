@@ -1,0 +1,16 @@
+1	Efficient	efficient	ADJ	JJ	_	3	amod	_	_
+2	land	land	NOUN	NN	_	3	nn	_	_
+3	distribution	distribution	NOUN	NN	_	9	nsubj	_	_
+4	through	through	ADP	IN	_	3	prep	_	_
+5	society	society	NOUN	NN	_	6	nsubj	_	_
+6	colleting	collete	VERB	VBG	_	4	pcomp	_	_
+7	rental	rental	ADJ	JJ	_	8	amod	_	_
+8	values	value	NOUN	NNS	_	6	dobj	_	_
+9	sweeps	sweep	VERB	VBZ	_	0	root	_	_
+10	those	those	DET	DT	_	11	det	_	_
+11	struggles	struggle	NOUN	NNS	_	9	dobj	_	_
+12	and	and	CONJ	CC	_	11	cc	_	_
+13	inefficiencies	inefficiency	NOUN	NNS	_	11	conj	_	_
+14	aside	aside	ADV	RB	_	9	advmod	_	_
+15	.	.	PUNCT	.	_	9	punct	_	_
+

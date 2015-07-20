@@ -1,0 +1,13 @@
+1	For	for	ADP	IN	_	9	prep	_	_
+2	example	example	NOUN	NN	_	1	pobj	_	_
+3	,	,	PUNCT	,	_	9	punct	_	_
+4	one	one	NUM	CD	_	5	num	_	_
+5	day	day	NOUN	NN	_	9	tmod	_	_
+6	we	we	PRON	PRP	_	9	nsubj	_	_
+7	both	both	DET	DT	_	6	det	_	_
+8	would	would	AUX	MD	_	9	aux	_	_
+9	rack	rack	VERB	VB	_	0	root	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	balls	ball	NOUN	NNS	_	9	dobj	_	_
+12	...	...	PUNCT	.	_	9	punct	_	_
+

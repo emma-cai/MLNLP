@@ -1,0 +1,14 @@
+1	"	"	PUNCT	``	_	5	punct	_	_
+2	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+3	Do	do	VERB	VBP	_	5	aux	_	_
+4	n't	not	ADV	RB	_	5	neg	_	_
+5	care	care	VERB	VB	_	0	root	_	_
+6	how	how	ADV	WRB	_	8	advmod	_	_
+7	you	you	PRON	PRP	_	8	nsubj	_	_
+8	bring	bring	VERB	VBP	_	5	ccomp	_	_
+9	'em	'em	PRON	PRP	_	8	dobj	_	_
+10	*T*-1	*t*-1	X	X	_	8	advmod	_	_
+11	!	!	PUNCT	.	_	5	punct	_	_
+12	"	"	PUNCT	''	_	5	punct	_	_
+13	,	,	PUNCT	.	_	5	punct	_	_
+

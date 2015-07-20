@@ -1,0 +1,27 @@
+1	We	we	PRON	PRP	_	3	nsubj	_	_
+2	will	will	AUX	MD	_	3	aux	_	_
+3	create	create	VERB	VB	_	0	root	_	_
+4	attractive	attractive	ADJ	JJ	_	6	amod	_	_
+5	'	'	PUNCT	``	_	6	punct	_	_
+6	gateways	gateway	NOUN	NNS	_	3	dobj	_	_
+7	'	'	PUNCT	''	_	6	punct	_	_
+8	into	into	ADP	IN	_	6	prep	_	_
+9	Hinckley	Hinckley	PROPN	NNP	_	8	pobj	_	_
+10	and	and	CONJ	CC	_	3	cc	_	_
+11	improve	improve	VERB	VB	_	3	conj	_	_
+12	floral	floral	ADJ	JJ	_	13	amod	_	_
+13	displays	display	NOUN	NNS	_	11	dobj	_	_
+14	*PRO*-1	*pro*-1	NOUN	NN	_	3	dobj	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	give	give	VERB	VB	_	3	xcomp	_	_
+17	a	a	DET	DT	_	19	det	_	_
+18	positive	positive	ADJ	JJ	_	19	amod	_	_
+19	impression	impression	NOUN	NN	_	16	dobj	_	_
+20	for	for	ADP	IN	_	19	prep	_	_
+21	people	people	NOUN	NNS	_	20	pobj	_	_
+22	coming	come	VERB	VBG	_	21	vmod	_	_
+23	into	into	ADP	IN	_	22	prep	_	_
+24	the	the	DET	DT	_	25	det	_	_
+25	town	town	NOUN	NN	_	23	pobj	_	_
+26	.	.	PUNCT	.	_	3	punct	_	_
+

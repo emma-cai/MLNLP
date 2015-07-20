@@ -1,0 +1,37 @@
+1	The	the	DET	DT	_	5	det	_	_
+2	closely	closely	ADV	RB	_	3	advmod	_	_
+3	held	hold	VERB	VBN	_	5	amod	_	_
+4	supermarket	supermarket	NOUN	NN	_	5	nn	_	_
+5	chain	chain	NOUN	NN	_	6	nsubj	_	_
+6	named	name	VERB	VBD	_	0	root	_	_
+7	Frank	Frank	PROPN	NNP	_	8	nn	_	_
+8	Nicastro	Nicastro	PROPN	NNP	_	6	dobj	_	_
+9	*PRO*-1	*pro*-1	NOUN	NN	_	11	nsubj	_	_
+10	vice	vice	NOUN	NN	_	11	nn	_	_
+11	president	president	NOUN	NN	_	6	xcomp	_	_
+12	and	and	CONJ	CC	_	11	cc	_	_
+13	treasurer	treasurer	NOUN	NN	_	11	conj	_	_
+14	.	.	PUNCT	.	_	6	punct	_	_
+
+1	The	the	DET	DT	_	8	det	_	_
+2	47	47	NUM	CD	_	4	num	_	_
+3	-	-	PUNCT	HYPH	_	4	punct	_	_
+4	year	year	NOUN	NN	_	6	dep	_	_
+5	-	-	PUNCT	HYPH	_	6	punct	_	_
+6	old	old	ADJ	JJ	_	8	amod	_	_
+7	Mr.	Mr.	PROPN	NNP	_	8	nn	_	_
+8	Nicastro	Nicastro	PROPN	NNP	_	9	nsubj	_	_
+9	joins	join	VERB	VBZ	_	0	root	_	_
+10	Grand	Grand	PROPN	NNP	_	11	nn	_	_
+11	Union	Union	PROPN	NNP	_	9	dobj	_	_
+12	from	from	ADP	IN	_	9	prep	_	_
+13	Singer	Singer	PROPN	NNP	_	14	nn	_	_
+14	Co.	Co.	PROPN	NNP	_	12	pobj	_	_
+15	,	,	PUNCT	,	_	14	punct	_	_
+16	where	where	ADV	WRB	_	18	advmod	_	_
+17	he	he	PRON	PRP	_	18	nsubj	_	_
+18	was	be	VERB	VBD	_	14	rcmod	_	_
+19	treasurer	treasurer	NOUN	NN	_	18	xcomp	_	_
+20	*T*-1	*t*-1	X	X	_	18	advmod	_	_
+21	.	.	PUNCT	.	_	9	punct	_	_
+

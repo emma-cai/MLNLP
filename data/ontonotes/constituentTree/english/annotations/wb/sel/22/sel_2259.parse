@@ -1,0 +1,13 @@
+(S (NP (PRP She))
+        (VP (VBD drummed)
+            (PP (IN into)
+                    (NP (PRP me)))
+            (SBAR (IN that)
+                  (S (NP (PRP I))
+                     (VP (MD should)
+                         (VP (VB be)
+                             (NP (NP (NN anything))
+                                     (PP (IN but)
+                                         (ADJP (JJ mediocre)))))))))
+        (. .))
+

@@ -1,0 +1,18 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Saying	say	VERB	VBG	_	10	csubj	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	religion	religion	NOUN	NN	_	5	nsubj	_	_
+5	is	be	VERB	VBZ	_	2	ccomp	_	_
+6	what	what	PRON	WP	_	8	dobj	_	_
+7	*T*-1	*t*-1	NOUN	NN	_	8	nsubj	_	_
+8	causes	cause	VERB	VBZ	_	5	ccomp	_	_
+9	problems	problem	NOUN	NNS	_	8	dobj	_	_
+10	is	be	VERB	VBZ	_	0	root	_	_
+11	like	like	ADP	IN	_	10	prep	_	_
+12	*PRO*	*pro*	NOUN	NN	_	13	nsubj	_	_
+13	saying	say	VERB	VBG	_	11	pcomp	_	_
+14	0	0	X	X	_	16	dep	_	_
+15	guns	gun	NOUN	NNS	_	16	nsubj	_	_
+16	kill	kill	VERB	VBP	_	13	ccomp	_	_
+17	.	.	PUNCT	.	_	10	punct	_	_
+

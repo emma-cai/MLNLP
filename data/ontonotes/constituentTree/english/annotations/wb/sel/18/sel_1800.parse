@@ -1,0 +1,10 @@
+(S (CC And)
+        (NP (NP (NNS tons))
+                (PP (IN of)
+                    (NP (NNS people))))
+        (VP (VBP send)
+            (NP (JJ random)
+                (NN group)
+                (NNS invites)))
+        (. .))
+

@@ -1,0 +1,13 @@
+(NP (NP (NNP Fisk))
+         (: :)
+         (NP (DT An)
+             (NN Urge)
+             (S (NP (NN *PRO*))
+                (VP (TO to)
+                    (VP (VB Smash)
+                        (NP (NN History))
+                        (PP (IN into)
+                                (NP (JJ Tiny)
+                                    (NNS Pieces)))))))
+         (. .))
+

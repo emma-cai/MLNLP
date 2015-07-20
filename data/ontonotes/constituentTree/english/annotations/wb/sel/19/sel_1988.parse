@@ -1,0 +1,13 @@
+(S (NP (NP (PRP It))
+                (SBAR (X *EXP*-1)))
+        (VP (VBZ is)
+            (ADVP (RB also))
+            (ADJP (JJ fitting))
+            (SBAR (IN that)
+                    (S (NP (PRP we))
+                       (VP (VBP support)
+                           (NP (NNP Indonesia))
+                           (PP (IN as)
+                                   (NP (NN host)))))))
+        (. .))
+

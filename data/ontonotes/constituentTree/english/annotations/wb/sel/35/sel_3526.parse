@@ -1,0 +1,13 @@
+(S (NP (PRP I))
+        (VP (VBD tripped)
+            (S (NP (NN *PRO*-1))
+                   (VP (VBG watching)
+                       (S (NP (DT those)
+                                  (NNS guys))
+                          (VP (VB run)
+                              (PRT (RP off))
+                              (PP (IN into)
+                                      (NP (DT the)
+                                          (NN sunset))))))))
+        (. .))
+

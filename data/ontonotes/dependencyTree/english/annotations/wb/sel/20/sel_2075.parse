@@ -1,0 +1,18 @@
+1	So	so	CONJ	CC	_	3	cc	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	tell	tell	VERB	VB	_	0	root	_	_
+4	us	we	PRON	PRP	_	3	dobj	_	_
+5	which	which	DET	WDT	_	9	det	_	_
+6	modern	modern	ADJ	JJ	_	9	amod	_	_
+7	cell	cell	NOUN	NN	_	9	nn	_	_
+8	-	-	PUNCT	HYPH	_	9	punct	_	_
+9	phones	phone	NOUN	NNS	_	13	dobj	_	_
+10	*T*-1	*t*-1	NOUN	NN	_	13	nsubj	_	_
+11	do	do	VERB	VBP	_	13	aux	_	_
+12	n't	not	ADV	RB	_	13	neg	_	_
+13	have	have	VERB	VB	_	3	ccomp	_	_
+14	remote	remote	ADJ	JJ	_	15	amod	_	_
+15	activation	activation	NOUN	NN	_	16	nn	_	_
+16	capacities	capacity	NOUN	NNS	_	13	dobj	_	_
+17	?	?	PUNCT	.	_	3	punct	_	_
+

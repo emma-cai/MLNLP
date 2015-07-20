@@ -1,0 +1,8 @@
+1	What	what	DET	WDT	_	2	det	_	_
+2	professions	profession	NOUN	NNS	_	5	dep	_	_
+3	did	do	VERB	VBD	_	5	aux	_	_
+4	you	you	PRON	PRP	_	5	nsubj	_	_
+5	choose	choose	VERB	VB	_	0	root	_	_
+6	*T*-1	*t*-1	NOUN	NN	_	5	dobj	_	_
+7	?	?	PUNCT	.	_	5	punct	_	_
+

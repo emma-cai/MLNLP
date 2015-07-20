@@ -1,0 +1,10 @@
+(S (NP (NNP Elizabeth)
+                (NNP carnivore))
+        (S (NP (PRP I))
+           (VP (VBP agree)))
+        (: -)
+        (S (NP (NNP Bambi))
+           (VP (VBD was)
+               (NP (NN fiction))))
+        (. .))
+

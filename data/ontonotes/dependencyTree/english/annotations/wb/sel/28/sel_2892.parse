@@ -1,0 +1,11 @@
+1	Or	or	CONJ	CC	_	7	cc	_	_
+2	how	how	ADV	WRB	_	7	advmod	_	_
+3	can	can	AUX	MD	_	7	aux	_	_
+4	'	'	PUNCT	``	_	7	punct	_	_
+5	Nature	Nature	PROPN	NNP	_	7	nsubj	_	_
+6	'	'	PUNCT	''	_	7	punct	_	_
+7	render	render	VERB	VB	_	0	root	_	_
+8	him	he	PRON	PRP	_	7	dobj	_	_
+9	*T*-1	*t*-1	X	X	_	7	advmod	_	_
+10	?	?	PUNCT	.	_	7	punct	_	_
+

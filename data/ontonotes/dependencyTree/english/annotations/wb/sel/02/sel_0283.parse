@@ -1,0 +1,20 @@
+1	Another	another	DET	DT	_	2	det	_	_
+2	method	method	NOUN	NN	_	3	nsubj	_	_
+3	is	be	VERB	VBZ	_	0	root	_	_
+4	*PRO*	*pro*	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	place	place	VERB	VB	_	3	xcomp	_	_
+7	a	a	DET	DT	_	8	det	_	_
+8	bet	bet	NOUN	NN	_	6	dobj	_	_
+9	next	next	ADV	RB	_	6	advmod	_	_
+10	to	to	ADP	IN	_	9	prep	_	_
+11	your	you	PRON	PRP$	_	12	poss	_	_
+12	bet	bet	NOUN	NN	_	10	pobj	_	_
+13	and	and	CONJ	CC	_	6	cc	_	_
+14	call	call	VERB	VB	_	6	conj	_	_
+15	out	out	PART	RP	_	14	prt	_	_
+16	"	"	PUNCT	``	_	14	punct	_	_
+17	dealers	dealer	NOUN	NNS	_	14	dobj	_	_
+18	.	.	PUNCT	.	_	3	punct	_	_
+19	"	"	PUNCT	''	_	3	punct	_	_
+

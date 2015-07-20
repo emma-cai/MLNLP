@@ -1,0 +1,10 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Fold	fold	VERB	VB	_	0	root	_	_
+3	edges	edge	NOUN	NNS	_	2	dobj	_	_
+4	over	over	PART	RP	_	2	prt	_	_
+5	*PRO*	*pro*	NOUN	NN	_	2	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	secure	secure	VERB	VB	_	2	vmod	_	_
+8	tightly	tightly	ADV	RB	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
+

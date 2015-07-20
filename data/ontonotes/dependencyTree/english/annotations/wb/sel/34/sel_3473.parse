@@ -1,0 +1,21 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	wonder	wonder	VERB	VBP	_	0	root	_	_
+3	how	how	ADV	WRB	_	5	advmod	_	_
+4	they	they	PRON	PRP	_	5	nsubj	_	_
+5	tie	tie	VERB	VBP	_	2	ccomp	_	_
+6	their	they	PRON	PRP$	_	7	poss	_	_
+7	shoes	shoe	NOUN	NNS	_	5	dobj	_	_
+8	,	,	PUNCT	,	_	5	punct	_	_
+9	too	too	ADV	RB	_	5	advmod	_	_
+10	,	,	PUNCT	,	_	5	punct	_	_
+11	or	or	CONJ	CC	_	5	cc	_	_
+12	trim	trim	VERB	VBP	_	5	conj	_	_
+13	their	they	PRON	PRP$	_	14	poss	_	_
+14	toenails	toenail	NOUN	NNS	_	12	dobj	_	_
+15	without	without	ADP	IN	_	12	prep	_	_
+16	*PRO*	*pro*	NOUN	NN	_	17	nsubj	_	_
+17	throwing	throw	VERB	VBG	_	15	pcomp	_	_
+18	up	up	PART	RP	_	17	prt	_	_
+19	*T*-1	*t*-1	X	X	_	5	advmod	_	_
+20	.	.	PUNCT	.	_	2	punct	_	_
+

@@ -1,0 +1,10 @@
+(SINV (CC And)
+           (CC neither)
+           (VBP do)
+           (NP (PRP I))
+           (VP (VB support)
+               (NP (NP (NNP Elizabeth)
+                       (POS 's))
+                   (NN conjecture)))
+           (. !))
+

@@ -1,0 +1,11 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	need	need	NOUN	NN	_	3	nsubj	_	_
+3	be	be	VERB	VB	_	6	advcl	_	_
+4	you	you	PRON	PRP	_	6	nsubj	_	_
+5	could	could	AUX	MD	_	6	aux	_	_
+6	post	post	VERB	VB	_	0	root	_	_
+7	the	the	DET	DT	_	9	det	_	_
+8	smaller	smaller	ADJ	JJR	_	9	amod	_	_
+9	log	log	NOUN	NN	_	6	dobj	_	_
+10	.	.	PUNCT	.	_	6	punct	_	_
+

@@ -1,0 +1,6 @@
+(S (NP (NN nobody))
+        (VP (MD will)
+            (ADVP (RB ever))
+            (VP (VB notice)))
+        (. ...))
+

@@ -1,0 +1,9 @@
+1	It	it	PRON	PRP	_	3	nsubj	_	_
+2	Automatically	automatically	ADV	RB	_	3	advmod	_	_
+3	Rakes	rake	VERB	VBZ	_	0	root	_	_
+4	In	in	PART	RP	_	3	prt	_	_
+5	Hundreds	hundred	NOUN	NNS	_	3	dobj	_	_
+6	Of	of	ADP	IN	_	5	prep	_	_
+7	Pips	pip	NOUN	NNS	_	6	pobj	_	_
+8	...	...	PUNCT	.	_	3	punct	_	_
+

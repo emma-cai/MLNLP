@@ -1,0 +1,21 @@
+1	I	I	PRON	PRP	_	5	nsubj	_	_
+2	certainly	certainly	ADV	RB	_	5	advmod	_	_
+3	would	would	AUX	MD	_	5	aux	_	_
+4	n't	not	ADV	RB	_	5	neg	_	_
+5	post	post	VERB	VB	_	0	root	_	_
+6	something	something	NOUN	NN	_	5	dobj	_	_
+7	so	so	ADV	RB	_	8	advmod	_	_
+8	inflammatory	inflammatory	ADJ	JJ	_	6	amod	_	_
+9	unless	unless	ADP	IN	_	11	mark	_	_
+10	I	I	PRON	PRP	_	11	nsubj	_	_
+11	had	have	VERB	VBD	_	5	advcl	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	proof	proof	NOUN	NN	_	11	dobj	_	_
+14	0	0	X	X	_	17	dobj	_	_
+15	*T*-1	*t*-1	NOUN	NN	_	17	nsubj	_	_
+16	to	to	ADP	TO	_	17	aux	_	_
+17	back	back	VERB	VB	_	13	rcmod	_	_
+18	it	it	PRON	PRP	_	17	dobj	_	_
+19	up	up	PART	RP	_	17	prt	_	_
+20	.	.	PUNCT	.	_	5	punct	_	_
+

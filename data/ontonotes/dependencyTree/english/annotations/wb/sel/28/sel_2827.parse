@@ -1,0 +1,23 @@
+1	Now	now	ADV	RB	_	4	advmod	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	it	it	PRON	PRP	_	4	nsubj	_	_
+4	's	be	VERB	VBZ	_	0	root	_	_
+5	just	just	ADV	RB	_	9	advmod	_	_
+6	as	as	ADP	IN	_	9	mark	_	_
+7	if	if	ADP	IN	_	9	mark	_	_
+8	someone	someone	NOUN	NN	_	9	nsubj	_	_
+9	rammed	ram	VERB	VBD	_	4	advcl	_	_
+10	his	he	PRON	PRP$	_	11	poss	_	_
+11	truck	truck	NOUN	NN	_	9	dobj	_	_
+12	in	in	ADP	IN	_	9	prep	_	_
+13	a	a	DET	DT	_	15	det	_	_
+14	parking	parking	NOUN	NN	_	15	nn	_	_
+15	lot	lot	NOUN	NN	_	12	pobj	_	_
+16	-LRB-	-lrb-	PUNCT	-LRB-	_	4	punct	_	_
+17	hey	hey	INTJ	UH	_	20	discourse	_	_
+18	,	,	PUNCT	,	_	20	punct	_	_
+19	*PRO*	*pro*	NOUN	NN	_	20	nsubj	_	_
+20	wait	wait	VERB	VB	_	4	parataxis	_	_
+21	...	...	X	NFP	_	4	punct	_	_
+22	.	.	PUNCT	.	_	4	punct	_	_
+

@@ -1,0 +1,21 @@
+1	Ol	Ol	PROPN	NNP	_	2	nn	_	_
+2	Tick	Tick	PROPN	NNP	_	3	nsubj	_	_
+3	wrote	write	VERB	VBD	_	0	root	_	_
+4	:	:	PUNCT	:	_	3	punct	_	_
+5	If	if	ADP	IN	_	7	mark	_	_
+6	you	you	PRON	PRP	_	7	nsubj	_	_
+7	throw	throw	VERB	VBP	_	17	advcl	_	_
+8	a	a	DET	DT	_	9	det	_	_
+9	cat	cat	NOUN	NN	_	7	dobj	_	_
+10	out	out	ADP	IN	_	7	prep	_	_
+11	a	a	DET	DT	_	13	det	_	_
+12	car	car	NOUN	NN	_	13	nn	_	_
+13	window	window	NOUN	NN	_	10	pobj	_	_
+14	,	,	PUNCT	,	_	17	punct	_	_
+15	does	do	VERB	VBZ	_	17	aux	_	_
+16	it	it	PRON	PRP	_	17	nsubj	_	_
+17	become	become	VERB	VB	_	3	parataxis	_	_
+18	kitty	kitty	NOUN	NN	_	19	nn	_	_
+19	litter	litter	NOUN	NN	_	17	xcomp	_	_
+20	?	?	PUNCT	.	_	3	punct	_	_
+

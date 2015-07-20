@@ -1,0 +1,12 @@
+(S (NP (PRP I))
+        (VP (VBD tripped)
+            (PP (IN over)
+                    (NP (DT a)
+                        (NN tree)
+                        (NN root)))
+            (PP (IN in)
+                    (NP (DT the)
+                        (JJ local)
+                        (NN park))))
+        (. .))
+

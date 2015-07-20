@@ -1,0 +1,9 @@
+(S (NP (PRP You))
+        (VP (VBP notice)
+            (SBAR (X 0)
+                  (S (NP (NNS supplements))
+                     (VP (VBP are)
+                         (NP (JJ BIG)
+                                 (NNS pills))))))
+        (. ?))
+

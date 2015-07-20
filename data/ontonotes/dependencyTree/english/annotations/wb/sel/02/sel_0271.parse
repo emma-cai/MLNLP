@@ -1,0 +1,21 @@
+1	Either	either	DET	DT	_	2	det	_	_
+2	way	way	NOUN	NN	_	7	nsubj	_	_
+3	it	it	PRON	PRP	_	7	nsubj	_	_
+4	really	really	ADV	RB	_	7	advmod	_	_
+5	does	do	VERB	VBZ	_	7	aux	_	_
+6	n't	not	ADV	RB	_	7	neg	_	_
+7	matter	matter	VERB	VB	_	0	root	_	_
+8	to	to	ADP	IN	_	7	prep	_	_
+9	me	I	PRON	PRP	_	8	pobj	_	_
+10	since	since	ADP	IN	_	12	mark	_	_
+11	I	I	PRON	PRP	_	12	nsubj	_	_
+12	call	call	VERB	VBP	_	7	advcl	_	_
+13	em	em	PRON	PRP	_	12	dobj	_	_
+14	'	'	PUNCT	``	_	12	punct	_	_
+15	like	like	ADP	IN	_	17	mark	_	_
+16	I	I	PRON	PRP	_	17	nsubj	_	_
+17	see	see	VERB	VBP	_	12	advcl	_	_
+18	em	em	PRON	PRP	_	17	dobj	_	_
+19	'	'	PUNCT	''	_	12	punct	_	_
+20	.	.	PUNCT	.	_	7	punct	_	_
+

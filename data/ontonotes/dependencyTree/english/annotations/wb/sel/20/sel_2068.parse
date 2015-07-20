@@ -1,0 +1,15 @@
+1	"	"	PUNCT	``	_	12	punct	_	_
+2	Deeds	deed	NOUN	NNS	_	4	nsubj	_	_
+3	will	will	AUX	MD	_	4	aux	_	_
+4	tell	tell	VERB	VB	_	12	ccomp	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	deeds	deed	NOUN	NNS	_	8	nsubj	_	_
+7	do	do	VERB	VBP	_	8	aux	_	_
+8	tell	tell	VERB	VB	_	4	parataxis	_	_
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	"	"	PUNCT	''	_	12	punct	_	_
+11	he	he	PRON	PRP	_	12	nsubj	_	_
+12	said	say	VERB	VBD	_	0	root	_	_
+13	*T*-1	*t*-1	X	X	_	12	dep	_	_
+14	.	.	PUNCT	.	_	12	punct	_	_
+

@@ -1,0 +1,10 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	latest	latest	ADJ	JJS	_	3	amod	_	_
+3	outbreak	outbreak	NOUN	NN	_	4	nsubj	_	_
+4	killed	kill	VERB	VBD	_	0	root	_	_
+5	poultry	poultry	NOUN	NN	_	4	dobj	_	_
+6	in	in	ADP	IN	_	5	prep	_	_
+7	Anhui	Anhui	PROPN	NNP	_	8	nn	_	_
+8	province	province	NOUN	NN	_	6	pobj	_	_
+9	.	.	PUNCT	.	_	4	punct	_	_
+

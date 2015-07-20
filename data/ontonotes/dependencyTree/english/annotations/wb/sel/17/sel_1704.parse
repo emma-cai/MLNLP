@@ -1,0 +1,17 @@
+1	However	however	ADV	RB	_	8	advmod	_	_
+2	,	,	PUNCT	,	_	8	punct	_	_
+3	from	from	ADP	IN	_	8	prep	_	_
+4	our	we	PRON	PRP$	_	5	poss	_	_
+5	perspective	perspective	NOUN	NN	_	3	pobj	_	_
+6	we	we	PRON	PRP	_	8	nsubj	_	_
+7	definitely	definitely	ADV	RB	_	8	advmod	_	_
+8	see	see	VERB	VBP	_	0	root	_	_
+9	events	event	NOUN	NNS	_	8	dobj	_	_
+10	that	that	DET	WDT	_	12	dobj	_	_
+11	*T*-1	*t*-1	NOUN	NN	_	12	nsubj	_	_
+12	look	look	VERB	VBP	_	9	rcmod	_	_
+13	good	good	ADJ	JJ	_	12	acomp	_	_
+14	or	or	CONJ	CC	_	13	cc	_	_
+15	evil	evil	ADJ	JJ	_	13	conj	_	_
+16	.	.	PUNCT	.	_	8	punct	_	_
+

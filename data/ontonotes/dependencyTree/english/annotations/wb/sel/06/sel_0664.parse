@@ -1,0 +1,14 @@
+1	Actually	actually	ADV	RB	_	3	advmod	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	drive	drive	VERB	VBP	_	0	root	_	_
+4	ALL	all	DET	DT	_	6	det	_	_
+5	city	city	NOUN	NN	_	6	nn	_	_
+6	miles	mile	NOUN	NNS	_	3	dobj	_	_
+7	now	now	ADV	RB	_	10	advmod	_	_
+8	that	that	ADP	IN	_	10	mark	_	_
+9	I	I	PRON	PRP	_	10	nsubj	_	_
+10	think	think	VERB	VBP	_	3	advcl	_	_
+11	of	of	ADP	IN	_	10	prep	_	_
+12	it	it	PRON	PRP	_	11	pobj	_	_
+13	.	.	PUNCT	.	_	3	punct	_	_
+

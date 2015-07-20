@@ -1,0 +1,12 @@
+(S (NP (PRP I))
+        (VP (VBD did)
+            (VP (VB notice)
+                (SBAR (X 0)
+                      (S (NP (PRP$ my)
+                                 (NML (NN end)
+                                      (NN link))
+                                 (NN bushing))
+                         (VP (VBP are)
+                             (ADJP (JJ worn)))))))
+        (. .))
+

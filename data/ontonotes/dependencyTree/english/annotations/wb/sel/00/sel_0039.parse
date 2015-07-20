@@ -1,0 +1,15 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	agree	agree	VERB	VBP	_	0	root	_	_
+3	about	about	ADP	IN	_	2	prep	_	_
+4	BURNS	BURNS	PROPN	NNP	_	3	pobj	_	_
+5	;	;	PUNCT	:	_	2	punct	_	_
+6	my	my	PRON	PRP$	_	7	poss	_	_
+7	hopes	hope	NOUN	NNS	_	8	nsubj	_	_
+8	were	be	VERB	VBD	_	2	parataxis	_	_
+9	much	much	ADV	RB	_	10	advmod	_	_
+10	higher	higher	ADJ	JJR	_	8	acomp	_	_
+11	than	than	ADP	IN	_	10	prep	_	_
+12	my	my	PRON	PRP$	_	13	poss	_	_
+13	reward	reward	NOUN	NN	_	11	pobj	_	_
+14	.	.	PUNCT	.	_	2	punct	_	_
+

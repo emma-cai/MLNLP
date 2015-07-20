@@ -1,0 +1,10 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	wonder	wonder	VERB	VBP	_	0	root	_	_
+3	who	who	PRON	WP	_	7	dobj	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	hackers	hacker	NOUN	NNS	_	7	nsubj	_	_
+6	would	would	AUX	MD	_	7	aux	_	_
+7	pick	pick	VERB	VB	_	2	ccomp	_	_
+8	*T*-1	*t*-1	NOUN	NN	_	7	dobj	_	_
+9	!	!	PUNCT	.	_	2	punct	_	_
+

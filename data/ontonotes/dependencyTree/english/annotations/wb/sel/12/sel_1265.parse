@@ -1,0 +1,24 @@
+1	Hopefully	hopefully	ADV	RB	_	6	advmod	_	_
+2	,	,	PUNCT	,	_	6	punct	_	_
+3	we	we	PRON	PRP	_	6	nsubj	_	_
+4	will	will	AUX	MD	_	6	aux	_	_
+5	never	never	ADV	RB	_	6	neg	_	_
+6	pick	pick	VERB	VB	_	0	root	_	_
+7	someone	someone	NOUN	NN	_	6	dobj	_	_
+8	average	average	ADJ	JJ	_	7	amod	_	_
+9	again	again	ADV	RB	_	6	advmod	_	_
+10	now	now	ADV	RB	_	13	advmod	_	_
+11	that	that	ADP	IN	_	13	mark	_	_
+12	we	we	PRON	PRP	_	13	nsubj	_	_
+13	know	know	VERB	VBP	_	6	advcl	_	_
+14	how	how	ADV	WRB	_	15	advmod	_	_
+15	poorly	poorly	ADV	RB	_	19	advmod	_	_
+16	an	a	DET	DT	_	18	det	_	_
+17	average	average	ADJ	JJ	_	18	amod	_	_
+18	man	man	NOUN	NN	_	19	nsubj	_	_
+19	does	do	VERB	VBZ	_	13	ccomp	_	_
+20	*T*-1	*t*-1	X	X	_	19	advmod	_	_
+21	as	as	ADP	IN	_	19	prep	_	_
+22	president	president	NOUN	NN	_	21	pobj	_	_
+23	.	.	PUNCT	.	_	6	punct	_	_
+

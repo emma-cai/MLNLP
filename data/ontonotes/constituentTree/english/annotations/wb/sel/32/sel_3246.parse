@@ -1,0 +1,12 @@
+(ADJP (ADJP (JJ Weird)
+                 (PP (IN like)
+                     (NP (NN prison)
+                         (NN love))))
+           (CC or)
+           (ADJP (JJ weird)
+                 (SBAR (IN like)
+                       (S (NP (PRP you))
+                          (VP (VBD spelled)
+                              (NP (NN video))))))
+           (. ?))
+

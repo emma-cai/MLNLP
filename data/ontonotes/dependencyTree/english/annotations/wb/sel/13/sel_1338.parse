@@ -1,0 +1,10 @@
+1	thanks	thanks	INTJ	UH	_	2	discourse	_	_
+2	Chet	Chet	PROPN	NNP	_	0	root	_	_
+3	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+4	Just	just	ADV	RB	_	5	advmod	_	_
+5	point	point	VERB	VB	_	2	dep	_	_
+6	your	you	PRON	PRP$	_	7	poss	_	_
+7	browser	browser	NOUN	NN	_	5	dobj	_	_
+8	here	here	ADV	RB	_	5	advmod	_	_
+9	http:www.fordvehicles.comdealerships	http:www.fordvehicles.comdealerships	X	ADD	_	8	dep	_	_
+

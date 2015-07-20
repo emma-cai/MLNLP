@@ -1,0 +1,14 @@
+1	But	but	CONJ	CC	_	5	cc	_	_
+2	you	you	PRON	PRP	_	5	nsubj	_	_
+3	can	can	AUX	MD	_	5	aux	_	_
+4	also	also	ADV	RB	_	5	advmod	_	_
+5	buy	buy	VERB	VB	_	0	root	_	_
+6	power	power	NOUN	NN	_	7	nn	_	_
+7	steering	steering	NOUN	NN	_	8	nn	_	_
+8	fluid	fluid	NOUN	NN	_	5	dobj	_	_
+9	which	which	DET	WDT	_	11	dobj	_	_
+10	*T*-1	*t*-1	NOUN	NN	_	11	nsubj	_	_
+11	is	be	VERB	VBZ	_	8	rcmod	_	_
+12	clear	clear	ADJ	JJ	_	11	acomp	_	_
+13	.	.	PUNCT	.	_	5	punct	_	_
+

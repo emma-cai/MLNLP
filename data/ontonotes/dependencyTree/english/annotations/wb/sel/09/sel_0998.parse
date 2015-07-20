@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	bet	bet	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	you	you	PRON	PRP	_	5	nsubj	_	_
+5	grease	grease	VERB	VBP	_	2	ccomp	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	exhaust	exhaust	NOUN	NN	_	5	dobj	_	_
+8	and	and	CONJ	CC	_	5	cc	_	_
+9	give	give	VERB	VBP	_	5	conj	_	_
+10	your	you	PRON	PRP$	_	11	poss	_	_
+11	mini	minus	NOUN	NN	_	9	dep	_	_
+12	some	some	DET	DT	_	14	det	_	_
+13	real	real	ADJ	JJ	_	14	amod	_	_
+14	love	love	NOUN	NN	_	9	dobj	_	_
+15	every	every	DET	DT	_	16	dep	_	_
+16	now	now	ADV	RB	_	9	advmod	_	_
+17	and	and	CONJ	CC	_	16	cc	_	_
+18	then	then	ADV	RB	_	16	conj	_	_
+19	.	.	PUNCT	.	_	2	punct	_	_
+

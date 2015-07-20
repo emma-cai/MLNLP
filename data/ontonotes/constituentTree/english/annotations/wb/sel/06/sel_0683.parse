@@ -1,0 +1,12 @@
+(S (NP (NNPS Californians))
+        (VP (VBP drive)
+            (ADVP (RB continuously))
+            (PP (IN in)
+                    (NP (DT the)
+                        (JJ left)
+                        (NN lane)))
+            (PP (IN on)
+                    (NP (DT all)
+                        (NNS highways))))
+        (. .))
+

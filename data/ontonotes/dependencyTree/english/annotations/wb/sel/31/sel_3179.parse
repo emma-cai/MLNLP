@@ -1,0 +1,19 @@
+1	After	after	ADP	IN	_	3	mark	_	_
+2	you	you	PRON	PRP	_	3	nsubj	_	_
+3	get	get	VERB	VBP	_	13	advcl	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	remains	remains	NOUN	NNS	_	3	dep	_	_
+6	of	of	ADP	IN	_	5	prep	_	_
+7	the	the	DET	DT	_	8	det	_	_
+8	plug	plug	NOUN	NN	_	6	pobj	_	_
+9	out	out	ADV	RB	_	5	advmod	_	_
+10	,	,	PUNCT	,	_	13	punct	_	_
+11	*PRO*	*pro*	NOUN	NN	_	13	nsubj	_	_
+12	carefully	carefully	ADV	RB	_	13	advmod	_	_
+13	remove	remove	VERB	VB	_	0	root	_	_
+14	the	the	DET	DT	_	17	det	_	_
+15	oil	oil	NOUN	NN	_	16	dep	_	_
+16	soaked	soak	VERB	VBN	_	17	amod	_	_
+17	cloth	cloth	NOUN	NN	_	13	dobj	_	_
+18	.	.	PUNCT	.	_	13	punct	_	_
+

@@ -1,0 +1,13 @@
+(S (CC but)
+        (NP (PRP I))
+        (VP (VBP do)
+            (RB n't)
+            (VP (VB tend)
+                (S (NP (NN *-1))
+                   (VP (TO to)
+                       (VP (VB drive)
+                           (PP (IN during)
+                                   (NP (NN rush)
+                                       (NN hour))))))))
+        (: ...))
+

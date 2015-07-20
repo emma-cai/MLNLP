@@ -1,0 +1,14 @@
+1	While	while	ADP	IN	_	4	mark	_	_
+2	thus	thus	ADV	RB	_	4	advmod	_	_
+3	we	we	PRON	PRP	_	4	nsubj	_	_
+4	agree	agree	VERB	VBP	_	9	advcl	_	_
+5	,	,	PUNCT	,	_	9	punct	_	_
+6	Our	we	PRON	PRP$	_	7	poss	_	_
+7	toast	toast	NOUN	NN	_	9	dep	_	_
+8	*PRO*	*pro*	NOUN	NN	_	9	nsubj	_	_
+9	let	let	VERB	VB	_	0	root	_	_
+10	it	it	PRON	PRP	_	11	nsubj	_	_
+11	be	be	VERB	VB	_	9	ccomp	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	11	xcomp	_	_
+13	.	.	PUNCT	.	_	9	punct	_	_
+

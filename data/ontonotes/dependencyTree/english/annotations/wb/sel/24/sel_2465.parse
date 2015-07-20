@@ -1,0 +1,15 @@
+1	Now	now	INTJ	UH	_	5	discourse	_	_
+2	I	I	PRON	PRP	_	5	nsubj	_	_
+3	'd	would	AUX	MD	_	5	aux	_	_
+4	still	still	ADV	RB	_	5	advmod	_	_
+5	incline	incline	VERB	VB	_	0	root	_	_
+6	towards	towards	ADP	IN	_	5	prep	_	_
+7	*PRO*	*pro*	NOUN	NN	_	8	nsubj	_	_
+8	stripping	strip	VERB	VBG	_	6	pcomp	_	_
+9	and	and	CONJ	CC	_	8	cc	_	_
+10	re-applying	re-apply	VERB	VBG	_	8	conj	_	_
+11	for	for	ADP	IN	_	5	prep	_	_
+12	french	french	ADJ	JJ	_	13	amod	_	_
+13	polish	polish	NOUN	NN	_	11	pobj	_	_
+14	.	.	PUNCT	.	_	5	punct	_	_
+

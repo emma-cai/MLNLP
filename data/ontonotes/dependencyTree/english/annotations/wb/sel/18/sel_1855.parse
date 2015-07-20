@@ -1,0 +1,26 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	rest	rest	NOUN	NN	_	5	nsubj	_	_
+3	of	of	ADP	IN	_	2	prep	_	_
+4	us	we	PRON	PRP	_	3	pobj	_	_
+5	have	have	VERB	VBP	_	0	root	_	_
+6	better	better	ADJ	JJR	_	7	amod	_	_
+7	things	thing	NOUN	NNS	_	5	dobj	_	_
+8	0	0	X	X	_	11	dobj	_	_
+9	*PRO*	*pro*	NOUN	NN	_	11	nsubj	_	_
+10	to	to	ADP	TO	_	11	aux	_	_
+11	do	do	VERB	VB	_	7	rcmod	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	11	dobj	_	_
+13	than	than	ADP	IN	_	15	mark	_	_
+14	*PRO*	*pro*	NOUN	NN	_	15	nsubj	_	_
+15	spend	spend	VERB	VB	_	7	dep	_	_
+16	double	double	ADJ	JJ	_	20	amod	_	_
+17	or	or	CONJ	CC	_	16	cc	_	_
+18	triple	triple	ADJ	JJ	_	16	conj	_	_
+19	the	the	DET	DT	_	20	det	_	_
+20	amount	amount	NOUN	NN	_	15	dobj	_	_
+21	of	of	ADP	IN	_	20	prep	_	_
+22	time	time	NOUN	NN	_	21	pobj	_	_
+23	*PRO*	*pro*	NOUN	NN	_	24	nsubj	_	_
+24	commuting	commute	VERB	VBG	_	15	dep	_	_
+25	.	.	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,10 @@
+(S (NP (PRP You))
+        (VP (VBP call)
+            (NP (NP (NN cross)
+                      (NN posting))
+                  (CC and)
+                  (NP (NN spamming)))
+            (S (NP (NN *PRO*-1))
+                   (NP (NN marketing))))
+        (. ?))
+

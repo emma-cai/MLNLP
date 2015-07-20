@@ -1,0 +1,17 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	object	object	NOUN	NN	_	10	nsubj	_	_
+3	of	of	ADP	IN	_	2	prep	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	cult	cult	NOUN	NN	_	3	pobj	_	_
+6	rendered	render	VERB	VBN	_	5	vmod	_	_
+7	*	*	NOUN	NN	_	6	dobj	_	_
+8	to	to	ADP	IN	_	6	prep	_	_
+9	them	they	PRON	PRP	_	8	pobj	_	_
+10	was	be	VERB	VBD	_	0	root	_	_
+11	*PRO*	*pro*	NOUN	NN	_	10	dobj	_	_
+12	to	to	ADP	TO	_	13	aux	_	_
+13	appease	appease	VERB	VB	_	10	xcomp	_	_
+14	their	they	PRON	PRP$	_	15	poss	_	_
+15	anger	anger	NOUN	NN	_	13	dobj	_	_
+16	.	.	PUNCT	.	_	10	punct	_	_
+

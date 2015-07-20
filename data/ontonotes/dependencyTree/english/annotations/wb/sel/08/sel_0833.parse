@@ -1,0 +1,16 @@
+1	Every	every	DET	DT	_	2	det	_	_
+2	year	year	NOUN	NN	_	10	tmod	_	_
+3	thousands	thousand	NOUN	NNS	_	10	nsubj	_	_
+4	of	of	ADP	IN	_	3	prep	_	_
+5	children	child	NOUN	NNS	_	4	pobj	_	_
+6	in	in	ADP	IN	_	5	prep	_	_
+7	mostly	mostly	ADV	RB	_	9	advmod	_	_
+8	poor	poor	ADJ	JJ	_	9	amod	_	_
+9	countries	country	NOUN	NNS	_	6	pobj	_	_
+10	fall	fall	VERB	VBP	_	0	root	_	_
+11	prey	prey	NOUN	NN	_	10	dobj	_	_
+12	to	to	ADP	IN	_	10	prep	_	_
+13	sex	sex	NOUN	NN	_	14	nn	_	_
+14	tourists	tourist	NOUN	NNS	_	12	pobj	_	_
+15	.	.	PUNCT	.	_	10	punct	_	_
+

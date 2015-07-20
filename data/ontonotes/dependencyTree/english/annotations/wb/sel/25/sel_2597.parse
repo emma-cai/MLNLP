@@ -1,0 +1,19 @@
+1	Screen	screen	NOUN	NN	_	3	nsubj	_	_
+2	3	3	NUM	CD	_	1	num	_	_
+3	is	be	VERB	VBZ	_	0	root	_	_
+4	also	also	ADV	RB	_	3	advmod	_	_
+5	on	on	ADP	IN	_	3	prep	_	_
+6	a	a	DET	DT	_	7	det	_	_
+7	KVM	kvm	NOUN	NN	_	5	pobj	_	_
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	so	so	ADP	IN	_	12	mark	_	_
+10	I	I	PRON	PRP	_	12	nsubj	_	_
+11	can	can	AUX	MD	_	12	aux	_	_
+12	plug	plug	VERB	VB	_	3	advcl	_	_
+13	someone	someone	NOUN	NN	_	14	nn	_	_
+14	else	else	NOUN	NN	_	16	poss	_	_
+15	's	's	PART	POS	_	14	possessive	_	_
+16	box	box	NOUN	NN	_	12	dobj	_	_
+17	in	in	PART	RP	_	12	prt	_	_
+18	.	.	PUNCT	.	_	3	punct	_	_
+

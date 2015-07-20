@@ -1,0 +1,9 @@
+(S (NP (PRP I))
+        (ADVP (RB normally))
+        (ADVP (RB just))
+        (VP (VBP rack)
+            (PP (IN during)
+                    (NP (DT the)
+                        (NN boil))))
+        (. .))
+

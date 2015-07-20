@@ -1,0 +1,11 @@
+(S (NP (NNP Dipak)
+                (NNP Patel))
+        (VP (VBD wrote)
+            (: :)
+            (SQ (NP (NN Anyone))
+                (VP (VB own)
+                    (NP (DT a)
+                        (NNP Focus)
+                        (JJ automatic)))))
+        (. ?))
+

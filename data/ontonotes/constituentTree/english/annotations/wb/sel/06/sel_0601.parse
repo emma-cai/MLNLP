@@ -1,0 +1,10 @@
+(S (NP (CD 180,000)
+                (NNS women))
+        (VP (MD will)
+            (VP (VB develop)
+                (NP (NN breast)
+                    (NN cancer))
+                (NP (DT each)
+                        (NN year))))
+        (. .))
+

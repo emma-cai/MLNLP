@@ -1,0 +1,17 @@
+1	Now	now	ADV	RB	_	3	advmod	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	suppose	suppose	VERB	VB	_	0	root	_	_
+4	0	0	X	X	_	6	dep	_	_
+5	I	I	PRON	PRP	_	6	nsubj	_	_
+6	measure	measure	VERB	VBP	_	3	ccomp	_	_
+7	these	these	DET	DT	_	8	det	_	_
+8	angles	angle	NOUN	NNS	_	6	dobj	_	_
+9	with	with	ADP	IN	_	6	prep	_	_
+10	my	my	PRON	PRP$	_	11	poss	_	_
+11	sextant	sextant	NOUN	NN	_	9	pobj	_	_
+12	and	and	CONJ	CC	_	6	cc	_	_
+13	add	add	VERB	VBP	_	6	conj	_	_
+14	them	they	PRON	PRP	_	13	dobj	_	_
+15	up	up	PART	RP	_	13	prt	_	_
+16	.	.	PUNCT	.	_	3	punct	_	_
+

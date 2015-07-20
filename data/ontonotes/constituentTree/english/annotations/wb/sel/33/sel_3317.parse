@@ -1,0 +1,12 @@
+(S (NP (NN *PRO*))
+        (VP (VBD Swept)
+            (NP (PRP me))
+            (ADVP-DIR (RB straight)
+                          (RB back)
+                          (PP (IN to)
+                              (NP (PRP$ my)
+                                  (NML (JJ primary)
+                                       (NN school))
+                                  (NNS days)))))
+        (: ...))
+

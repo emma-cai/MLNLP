@@ -1,0 +1,22 @@
+1	Anyway	anyway	INTJ	UH	_	5	discourse	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	I	I	PRON	PRP	_	5	nsubj	_	_
+4	'd	would	AUX	MD	_	5	aux	_	_
+5	suggest	suggest	VERB	VB	_	0	root	_	_
+6	0	0	X	X	_	8	dep	_	_
+7	you	you	PRON	PRP	_	8	nsubj	_	_
+8	try	try	VERB	VBP	_	5	ccomp	_	_
+9	*PRO*-1	*pro*-1	NOUN	NN	_	10	nsubj	_	_
+10	buying	buy	VERB	VBG	_	8	dep	_	_
+11	some	some	DET	DT	_	13	det	_	_
+12	likely	likely	ADJ	JJ	_	13	amod	_	_
+13	candidates	candidate	NOUN	NNS	_	10	dobj	_	_
+14	and	and	CONJ	CC	_	8	cc	_	_
+15	try	try	VERB	VBP	_	8	conj	_	_
+16	some	some	DET	DT	_	20	det	_	_
+17	small	small	ADJ	JJ	_	19	amod	_	_
+18	-	-	PUNCT	HYPH	_	19	punct	_	_
+19	scale	scale	NOUN	NN	_	20	nn	_	_
+20	experiments	experiment	NOUN	NNS	_	15	dobj	_	_
+21	.	.	PUNCT	.	_	5	punct	_	_
+

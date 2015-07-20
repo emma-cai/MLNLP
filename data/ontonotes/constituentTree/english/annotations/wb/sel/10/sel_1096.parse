@@ -1,0 +1,10 @@
+(S (NP (DT The)
+                (JJS latest)
+                (NN outbreak))
+        (VP (VBD killed)
+            (NP (NP (NN poultry))
+                (PP (IN in)
+                        (NP (NNP Anhui)
+                            (NN province)))))
+        (. .))
+

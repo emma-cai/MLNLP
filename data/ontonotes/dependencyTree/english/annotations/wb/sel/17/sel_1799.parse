@@ -1,0 +1,26 @@
+1	But	but	CONJ	CC	_	13	cc	_	_
+2	really	really	ADV	RB	_	13	advmod	_	_
+3	,	,	PUNCT	,	_	13	punct	_	_
+4	the	the	DET	DT	_	6	det	_	_
+5	best	best	ADJ	JJS	_	6	amod	_	_
+6	thing	thing	NOUN	NN	_	13	nsubj	_	_
+7	0	0	X	X	_	10	dobj	_	_
+8	*PRO*	*pro*	NOUN	NN	_	10	nsubj	_	_
+9	to	to	ADP	TO	_	10	aux	_	_
+10	do	do	VERB	VB	_	6	rcmod	_	_
+11	*T*-1	*t*-1	NOUN	NN	_	10	dobj	_	_
+12	,	,	PUNCT	,	_	13	punct	_	_
+13	is	be	VERB	VBZ	_	0	root	_	_
+14	*PRO*	*pro*	NOUN	NN	_	15	nsubj	_	_
+15	be	be	VERB	VB	_	13	ccomp	_	_
+16	nice	nice	ADJ	JJ	_	15	acomp	_	_
+17	to	to	ADP	IN	_	16	prep	_	_
+18	your	you	PRON	PRP$	_	20	poss	_	_
+19	mail	mail	NOUN	NN	_	20	nn	_	_
+20	recipients	recipient	NOUN	NNS	_	17	pobj	_	_
+21	and	and	CONJ	CC	_	15	cc	_	_
+22	send	send	VERB	VB	_	15	conj	_	_
+23	plain	plain	ADJ	JJ	_	24	amod	_	_
+24	text	text	NOUN	NN	_	22	dobj	_	_
+25	.	.	PUNCT	.	_	13	punct	_	_
+

@@ -1,0 +1,22 @@
+1	Above	above	ADP	IN	_	5	prep	_	_
+2	all	all	DET	DT	_	1	pobj	_	_
+3	,	,	PUNCT	,	_	5	punct	_	_
+4	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+5	read	read	VERB	VB	_	0	root	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	posts	post	NOUN	NNS	_	5	dobj	_	_
+8	here	here	ADV	RB	_	7	advmod	_	_
+9	and	and	CONJ	CC	_	5	cc	_	_
+10	post	post	VERB	VB	_	5	conj	_	_
+11	your	you	PRON	PRP$	_	13	poss	_	_
+12	own	own	ADJ	JJ	_	13	amod	_	_
+13	messages	message	NOUN	NNS	_	10	dobj	_	_
+14	when	when	ADV	WRB	_	16	advmod	_	_
+15	you	you	PRON	PRP	_	16	nsubj	_	_
+16	need	need	VERB	VBP	_	10	advcl	_	_
+17	*-1	*-1	NOUN	NN	_	16	dobj	_	_
+18	to	to	ADP	TO	_	19	aux	_	_
+19	*?*	*?*	X	X	_	16	xcomp	_	_
+20	*T*-2	*t*-2	X	X	_	16	advmod	_	_
+21	.	.	PUNCT	.	_	5	punct	_	_
+

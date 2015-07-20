@@ -1,0 +1,22 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	finishe	finishe	VERB	VBP	_	0	root	_	_
+3	*PRO*-1	*pro*-1	NOUN	NN	_	4	nsubj	_	_
+4	unloading	unload	VERB	VBG	_	2	dep	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	groceries	grocery	NOUN	NNS	_	4	dobj	_	_
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	and	and	CONJ	CC	_	2	cc	_	_
+9	tell	tell	VERB	VBP	_	2	conj	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	cats	cat	NOUN	NNS	_	9	dobj	_	_
+12	again	again	ADV	RB	_	9	advmod	_	_
+13	,	,	PUNCT	,	_	9	punct	_	_
+14	*PRO*-2	*pro*-2	NOUN	NN	_	9	dobj	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	go	go	VERB	VB	_	9	xcomp	_	_
+17	to	to	ADP	IN	_	16	prep	_	_
+18	the	the	DET	DT	_	20	det	_	_
+19	other	other	ADJ	JJ	_	20	amod	_	_
+20	door	door	NOUN	NN	_	17	pobj	_	_
+21	.	.	PUNCT	.	_	2	punct	_	_
+

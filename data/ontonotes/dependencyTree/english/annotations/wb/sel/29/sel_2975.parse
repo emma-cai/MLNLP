@@ -1,0 +1,8 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Seal	seal	VERB	VB	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	case	case	NOUN	NN	_	2	dobj	_	_
+5	up	up	PART	RP	_	2	prt	_	_
+6	better	better	ADV	RBR	_	2	advmod	_	_
+7	.	.	PUNCT	.	_	2	punct	_	_
+

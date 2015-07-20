@@ -1,0 +1,8 @@
+(S (INTJ (UH Please))
+            (NP (NN *PRO*))
+            (VP (VB send)
+                (NP (JJ relevant)
+                    (NNS resumes))
+                (PP (IN to)
+                        (NP (ADD komal.ba)))))
+

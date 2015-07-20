@@ -1,0 +1,12 @@
+(S (NP (NN *PRO*))
+            (VP (VB Suppose)
+                (SBAR (X 0)
+                      (S (NP (DT the)
+                                 (NNP US))
+                         (VP (VBZ pulls)
+                             (PP (IN out)
+                                     (PP (IN of)
+                                         (NP (NNP Iraq))))
+                             (NP (NN tomorrow))))))
+            (. .))
+

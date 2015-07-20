@@ -1,0 +1,13 @@
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	vaguely	vaguely	ADV	RB	_	3	advmod	_	_
+3	remember	remember	VERB	VBP	_	0	root	_	_
+4	it	it	PRON	PRP	_	3	dobj	_	_
+5	but	but	CONJ	CC	_	3	cc	_	_
+6	I	I	PRON	PRP	_	7	nsubj	_	_
+7	thought	think	VERB	VBD	_	3	conj	_	_
+8	0	0	X	X	_	10	dep	_	_
+9	I	I	PRON	PRP	_	10	nsubj	_	_
+10	saw	see	VERB	VBD	_	7	ccomp	_	_
+11	it	it	PRON	PRP	_	10	dobj	_	_
+12	.	.	PUNCT	.	_	3	punct	_	_
+

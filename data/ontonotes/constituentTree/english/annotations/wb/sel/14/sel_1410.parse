@@ -1,0 +1,11 @@
+(S (NP (DT These)
+                (NNS influences))
+        (VP (VP (VBP reach)
+                (PP (IN into)
+                        (NP (NNS classrooms))))
+            (CC and)
+            (VP (VBP hinder)
+                (NP (NN student)
+                    (NN achievement))))
+        (. .))
+

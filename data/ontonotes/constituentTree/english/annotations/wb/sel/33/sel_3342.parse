@@ -1,0 +1,13 @@
+(S (NP (DT The)
+                (JJ social)
+                (NN flux))
+        (VP (VBD sweeps)
+            (NP (PRP us))
+            (PRT (RP along))
+            (PP (IN like)
+                    (NP (NP (DT a)
+                            (NN bit))
+                        (PP (IN of)
+                            (NP (NN dust))))))
+        (. .))
+

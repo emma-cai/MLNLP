@@ -1,0 +1,17 @@
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	promised	promise	VERB	VBD	_	0	root	_	_
+3	*PRO*-1	*pro*-1	NOUN	NN	_	5	nsubj	_	_
+4	to	to	ADP	TO	_	5	aux	_	_
+5	show	show	VERB	VB	_	2	ccomp	_	_
+6	mercy	mercy	NOUN	NN	_	5	dobj	_	_
+7	to	to	ADP	IN	_	5	prep	_	_
+8	our	we	PRON	PRP$	_	9	poss	_	_
+9	fathers	father	NOUN	NNS	_	7	pobj	_	_
+10	and	and	CONJ	CC	_	5	cc	_	_
+11	to	to	ADP	TO	_	12	aux	_	_
+12	remember	remember	VERB	VB	_	5	conj	_	_
+13	His	he	PRON	PRP$	_	15	poss	_	_
+14	holy	holy	ADJ	JJ	_	15	amod	_	_
+15	covenant	covenant	NOUN	NN	_	12	dobj	_	_
+16	.	.	PUNCT	.	_	2	punct	_	_
+

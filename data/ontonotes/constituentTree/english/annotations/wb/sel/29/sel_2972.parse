@@ -1,0 +1,13 @@
+(S (S (NP (NN Everybody))
+           (VP (VBZ seals)
+               (NP (PRP$ their)
+                   (NN glider))
+               (ADVP (RB properly))))
+        (CC but)
+        (S (NP (DT that))
+           (VP (VBZ does)
+               (RB n't)
+               (VP (VB cost)
+                   (NP (JJ much)))))
+        (. .))
+

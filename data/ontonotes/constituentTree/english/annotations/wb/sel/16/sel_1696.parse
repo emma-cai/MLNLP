@@ -1,0 +1,11 @@
+(S (CC But)
+        (NP (NNP Chino))
+        (VP (VBD returned)
+            (PP (IN to)
+                    (NP (NNP Spain)))
+            (S (NP (NN *PRO*-1))
+                   (NP (DT a)
+                           (JJ different)
+                           (NN man))))
+        (. .))
+

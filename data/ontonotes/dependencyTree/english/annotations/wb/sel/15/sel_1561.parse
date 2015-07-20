@@ -1,0 +1,9 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	remember	remember	VERB	VBP	_	0	root	_	_
+3	Jan	Jan	PROPN	NNP	_	5	poss	_	_
+4	's	's	PART	POS	_	3	possessive	_	_
+5	site	site	NOUN	NN	_	2	dobj	_	_
+6	very	very	ADV	RB	_	7	advmod	_	_
+7	well	well	ADV	RB	_	2	advmod	_	_
+8	.	.	PUNCT	.	_	2	punct	_	_
+

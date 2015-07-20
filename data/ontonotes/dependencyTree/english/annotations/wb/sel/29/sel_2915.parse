@@ -1,0 +1,26 @@
+1	Similarly	similarly	ADV	RB	_	9	advmod	_	_
+2	,	,	PUNCT	,	_	9	punct	_	_
+3	teachers	teacher	NOUN	NNS	_	9	nsubj	_	_
+4	in	in	ADP	IN	_	3	prep	_	_
+5	San	San	PROPN	NNP	_	6	nn	_	_
+6	Diego	Diego	PROPN	NNP	_	4	pobj	_	_
+7	this	this	DET	DT	_	8	det	_	_
+8	spring	spring	NOUN	NN	_	9	nsubj	_	_
+9	convinced	convince	VERB	VBD	_	0	root	_	_
+10	the	the	DET	DT	_	12	det	_	_
+11	school	school	NOUN	NN	_	12	nn	_	_
+12	board	board	NOUN	NN	_	9	dobj	_	_
+13	*PRO*-1	*pro*-1	NOUN	NN	_	9	dobj	_	_
+14	to	to	ADP	TO	_	15	aux	_	_
+15	scale	scale	VERB	VB	_	9	vmod	_	_
+16	back	back	PART	RP	_	15	prt	_	_
+17	some	some	DET	DT	_	15	dobj	_	_
+18	of	of	ADP	IN	_	17	prep	_	_
+19	the	the	DET	DT	_	20	det	_	_
+20	district	district	NOUN	NN	_	24	poss	_	_
+21	's	's	PART	POS	_	20	possessive	_	_
+22	rigorous	rigorous	ADJ	JJ	_	24	amod	_	_
+23	kindergarten	kindergarten	NOUN	NN	_	24	nn	_	_
+24	initiatives	initiative	NOUN	NNS	_	18	pobj	_	_
+25	.	.	PUNCT	.	_	9	punct	_	_
+

@@ -1,0 +1,13 @@
+(S (ADVP (IN At)
+              (JJS least))
+        (NP (DT that))
+        (VP (VBZ 's)
+            (SBAR-NOM (WHNP (WP what))
+                          (S (NP (PRP$ my)
+                                     (JJ elderly)
+                                     (NNS relatives))
+                             (VP (VBP tell)
+                                 (NP (PRP me))
+                                 (NP (NN *T*-1))))))
+        (. .))
+

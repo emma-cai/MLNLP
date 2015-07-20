@@ -1,0 +1,18 @@
+1	Humans	human	NOUN	NNS	_	3	nsubj	_	_
+2	also	also	ADV	RB	_	3	advmod	_	_
+3	created	create	VERB	VBD	_	0	root	_	_
+4	pain	pain	NOUN	NN	_	8	nn	_	_
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	suffering	suffering	NOUN	NN	_	8	dep	_	_
+7	,	,	PUNCT	,	_	8	punct	_	_
+8	injustice	injustice	NOUN	NN	_	3	dobj	_	_
+9	through	through	ADP	IN	_	3	prep	_	_
+10	their	they	PRON	PRP$	_	16	poss	_	_
+11	own	own	ADJ	JJ	_	16	amod	_	_
+12	free	free	ADJ	JJ	_	14	amod	_	_
+13	-	-	PUNCT	HYPH	_	14	punct	_	_
+14	will	will	NOUN	NN	_	16	nn	_	_
+15	sinful	sinful	ADJ	JJ	_	16	amod	_	_
+16	acts	act	NOUN	NNS	_	9	pobj	_	_
+17	.	.	PUNCT	.	_	3	punct	_	_
+

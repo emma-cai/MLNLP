@@ -1,0 +1,17 @@
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	also	also	ADV	RB	_	3	advmod	_	_
+3	make	make	VERB	VBP	_	0	root	_	_
+4	quality	quality	NOUN	NN	_	7	nn	_	_
+5	spring	spring	NOUN	NN	_	6	nn	_	_
+6	steel	steel	NOUN	NN	_	7	nn	_	_
+7	probes	probe	NOUN	NNS	_	3	dobj	_	_
+8	for	for	ADP	IN	_	3	prep	_	_
+9	the	the	DET	DT	_	13	det	_	_
+10	relic	relic	NOUN	NN	_	13	nn	_	_
+11	and	and	CONJ	CC	_	10	cc	_	_
+12	bottle	bottle	NOUN	NN	_	10	conj	_	_
+13	hunters	hunter	NOUN	NNS	_	8	pobj	_	_
+14	out	out	ADV	RB	_	15	advmod	_	_
+15	there	there	ADV	RB	_	13	advmod	_	_
+16	.	.	PUNCT	.	_	3	punct	_	_
+

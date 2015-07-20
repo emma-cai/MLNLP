@@ -1,0 +1,10 @@
+(S (NP (NNS Feathers))
+        (ADVP (RB eventually))
+        (VP (VP (VBP fall)
+                (PRT (RP out)))
+            (CC and)
+            (VP (VBP are)
+                (VP (VBN replaced)
+                    (NP (NN *-1)))))
+        (. .))
+

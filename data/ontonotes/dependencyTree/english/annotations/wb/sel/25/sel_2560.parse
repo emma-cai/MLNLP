@@ -1,0 +1,7 @@
+1	Secretary	Secretary	PROPN	NNP	_	2	nn	_	_
+2	Rice	Rice	PROPN	NNP	_	3	nsubj	_	_
+3	Plugs	plug	VERB	VBZ	_	0	root	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	Hole	hole	NOUN	NN	_	3	dobj	_	_
+6	.	.	PUNCT	.	_	3	punct	_	_
+

@@ -1,0 +1,11 @@
+(S (INTJ (UH OOPS))
+        (: --)
+        (NP (NN *PRO*))
+        (VP (VBD tripped)
+            (NP (PRP myself))
+            (PRT (RP up))
+            (PP (IN in)
+                    (NP (PRP$ my)
+                        (NN syntax))))
+        (. .))
+

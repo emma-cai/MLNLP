@@ -1,0 +1,24 @@
+1	When	when	ADV	WRB	_	3	advmod	_	_
+2	people	people	NOUN	NNS	_	3	nsubj	_	_
+3	come	come	VERB	VBP	_	10	advcl	_	_
+4	in	in	ADV	RB	_	3	advmod	_	_
+5	*T*-1	*t*-1	X	X	_	3	advmod	_	_
+6	her	she	PRON	PRP$	_	9	poss	_	_
+7	long	long	ADJ	JJ	_	9	amod	_	_
+8	brushy	brushy	ADJ	JJ	_	9	amod	_	_
+9	tail	tail	NOUN	NN	_	10	nsubj	_	_
+10	sweeps	sweep	VERB	VBZ	_	0	root	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	floor	floor	NOUN	NN	_	10	dobj	_	_
+13	,	,	PUNCT	,	_	10	punct	_	_
+14	she	she	PRON	PRP	_	15	nsubj	_	_
+15	's	be	VERB	VBZ	_	10	parataxis	_	_
+16	just	just	ADV	RB	_	15	advmod	_	_
+17	so	so	ADV	RB	_	18	advmod	_	_
+18	happy	happy	ADJ	JJ	_	15	acomp	_	_
+19	*PRO*-2	*pro*-2	NOUN	NN	_	21	nsubj	_	_
+20	to	to	ADP	TO	_	21	aux	_	_
+21	see	see	VERB	VB	_	18	dep	_	_
+22	people	people	NOUN	NNS	_	21	dobj	_	_
+23	!	!	PUNCT	.	_	10	punct	_	_
+

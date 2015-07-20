@@ -1,0 +1,26 @@
+1	If	if	ADP	IN	_	4	mark	_	_
+2	you	you	PRON	PRP	_	4	nsubj	_	_
+3	can	can	AUX	MD	_	4	aux	_	_
+4	find	find	VERB	VB	_	19	advcl	_	_
+5	a	a	DET	DT	_	7	det	_	_
+6	worthy	worthy	ADJ	JJ	_	7	amod	_	_
+7	opponent	opponent	NOUN	NN	_	4	dobj	_	_
+8	0	0	X	X	_	11	dobj	_	_
+9	*PRO*	*pro*	NOUN	NN	_	11	nsubj	_	_
+10	to	to	ADP	TO	_	11	aux	_	_
+11	send	send	VERB	VB	_	7	rcmod	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	11	dobj	_	_
+13	as	as	ADP	IN	_	11	prep	_	_
+14	your	you	PRON	PRP$	_	15	poss	_	_
+15	proxy	proxy	NOUN	NN	_	13	pobj	_	_
+16	,	,	PUNCT	,	_	19	punct	_	_
+17	I	I	PRON	PRP	_	19	nsubj	_	_
+18	'd	would	AUX	MD	_	19	aux	_	_
+19	be	be	VERB	VB	_	0	root	_	_
+20	happy	happy	ADJ	JJ	_	19	acomp	_	_
+21	*PRO*-2	*pro*-2	NOUN	NN	_	23	nsubj	_	_
+22	to	to	ADP	TO	_	23	aux	_	_
+23	do	do	VERB	VB	_	20	dep	_	_
+24	battle	battle	NOUN	NN	_	23	dobj	_	_
+25	.	.	PUNCT	.	_	19	punct	_	_
+

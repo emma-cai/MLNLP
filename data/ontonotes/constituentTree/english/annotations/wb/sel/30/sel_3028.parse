@@ -1,0 +1,12 @@
+(S (NP (NN *PRO*))
+            (ADVP (RB Only))
+            (VP (VB shed)
+                (SBAR (WHNP (WP what))
+                          (S (NP (NN *T*-1))
+                             (VP (VBZ has)
+                                 (NP (PRP$ your)
+                                     (NN address))
+                                 (PP-LOC (IN on)
+                                             (NP (NN *?*)))))))
+            (. .))
+

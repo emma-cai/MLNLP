@@ -1,0 +1,75 @@
+1	Idle	idle	ADJ	JJ	_	2	amod	_	_
+2	Thought	thought	NOUN	NN	_	0	root	_	_
+
+1	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+2	To	to	ADP	TO	_	3	aux	_	_
+3	spend	spend	VERB	VB	_	28	dep	_	_
+4	a	a	DET	DT	_	8	det	_	_
+5	carefree	carefree	ADJ	JJ	_	8	amod	_	_
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	idle	idle	ADJ	JJ	_	8	amod	_	_
+8	day	day	NOUN	NN	_	3	tmod	_	_
+9	,	,	PUNCT	,	_	3	punct	_	_
+10	When	when	ADV	WRB	_	12	advmod	_	_
+11	duty	duty	NOUN	NN	_	12	nsubj	_	_
+12	calls	call	VERB	VBZ	_	16	advcl	_	_
+13	*T*-2	*t*-2	X	X	_	12	advmod	_	_
+14	,	,	PUNCT	,	_	16	punct	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	pay	pay	VERB	VB	_	3	dep	_	_
+17	no	no	DET	DT	_	18	neg	_	_
+18	heed	heed	NOUN	NN	_	16	dobj	_	_
+19	,	,	PUNCT	,	_	3	punct	_	_
+20	To	to	ADP	TO	_	21	aux	_	_
+21	while	while	VERB	VB	_	3	dep	_	_
+22	the	the	DET	DT	_	24	det	_	_
+23	precious	precious	ADJ	JJ	_	24	amod	_	_
+24	hours	hour	NOUN	NNS	_	21	dobj	_	_
+25	away	away	ADV	RB	_	21	prt	_	_
+26	--	--	PUNCT	:	_	28	punct	_	_
+27	Character	character	NOUN	NN	_	28	nsubj	_	_
+28	is	be	VERB	VBZ	_	0	root	_	_
+29	what	what	PRON	WP	_	31	dobj	_	_
+30	you	you	PRON	PRP	_	31	nsubj	_	_
+31	need	need	VERB	VBP	_	28	ccomp	_	_
+32	*T*-1	*t*-1	NOUN	NN	_	31	dobj	_	_
+33	.	.	PUNCT	.	_	28	punct	_	_
+
+1	--	--	PUNCT	:	_	3	punct	_	_
+2	May	May	PROPN	NNP	_	3	nn	_	_
+3	Richstone	Richstone	PROPN	NNP	_	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	_
+
+1	Telecussed	telecuss	VERB	VBD	_	0	root	_	_
+
+1	The	the	DET	DT	_	2	det	_	_
+2	guy	guy	NOUN	NN	_	15	nsubjpass	_	_
+3	who	who	PRON	WP	_	5	dobj	_	_
+4	*T*-2	*t*-2	NOUN	NN	_	5	nsubj	_	_
+5	throws	throw	VERB	VBZ	_	2	rcmod	_	_
+6	an	a	DET	DT	_	7	det	_	_
+7	intercept	intercept	NOUN	NN	_	5	dobj	_	_
+8	'Cause	'cause	ADP	IN	_	11	mark	_	_
+9	his	he	PRON	PRP$	_	10	poss	_	_
+10	receiver	receiver	NOUN	NN	_	11	nsubj	_	_
+11	slips	slip	VERB	VBZ	_	5	advcl	_	_
+12	Should	should	AUX	MD	_	15	aux	_	_
+13	somehow	somehow	ADV	RB	_	15	advmod	_	_
+14	be	be	VERB	VB	_	15	auxpass	_	_
+15	advised	advise	VERB	VBN	_	0	root	_	_
+16	*-1	*-1	NOUN	NN	_	15	dobj	_	_
+17	that	that	ADP	IN	_	22	mark	_	_
+18	we	we	PRON	PRP	_	22	nsubj	_	_
+19	At	at	ADP	IN	_	18	prep	_	_
+20	home	home	NOUN	NN	_	19	pobj	_	_
+21	can	can	AUX	MD	_	22	aux	_	_
+22	read	read	VERB	VB	_	15	ccomp	_	_
+23	his	he	PRON	PRP$	_	24	poss	_	_
+24	lips	lip	NOUN	NNS	_	22	dobj	_	_
+25	.	.	PUNCT	.	_	15	punct	_	_
+
+1	--	--	PUNCT	:	_	3	punct	_	_
+2	Dick	Dick	PROPN	NNP	_	3	nn	_	_
+3	Emmons	Emmons	PROPN	NNP	_	0	root	_	_
+4	.	.	PUNCT	.	_	3	punct	_	_
+

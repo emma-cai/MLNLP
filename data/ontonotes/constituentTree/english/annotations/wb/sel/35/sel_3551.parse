@@ -1,0 +1,13 @@
+(S (CC And)
+        (NP (EX there))
+        (VP (VBZ 's)
+            (NP (DT no)
+                    (NN indication)
+                    (SBAR (IN that)
+                          (S (NP (NP (NN anyone)
+                                         (RB else)
+                                         (POS 's))
+                                     (NNS breakers))
+                             (VP (VBD tripped))))))
+        (. .))
+

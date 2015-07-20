@@ -1,0 +1,14 @@
+1	400000	400000	NUM	CD	_	2	num	_	_
+2	miles	mile	NOUN	NNS	_	0	root	_	_
+3	on	on	ADP	IN	_	2	prep	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	odometer	odometer	NOUN	NN	_	3	pobj	_	_
+6	I	I	PRON	PRP	_	7	nsubj	_	_
+7	live	live	VERB	VBP	_	2	dep	_	_
+8	and	and	CONJ	CC	_	7	cc	_	_
+9	drive	drive	VERB	VBP	_	7	conj	_	_
+10	in	in	ADP	IN	_	7	prep	_	_
+11	Ontario	Ontario	PROPN	NNP	_	10	pobj	_	_
+12	Canada	Canada	PROPN	NNP	_	11	appos	_	_
+13	.	.	PUNCT	.	_	2	punct	_	_
+

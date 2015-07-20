@@ -1,0 +1,7 @@
+(S (CC but)
+            (NP (NN *PRO*))
+            (VP (VB tell)
+                (NP (PRP me))
+                (ADVP (RB seriously)))
+            (. ...))
+

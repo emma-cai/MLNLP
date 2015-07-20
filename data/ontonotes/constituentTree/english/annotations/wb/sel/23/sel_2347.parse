@@ -1,0 +1,9 @@
+(S (NP (PRP$ Her)
+                (NN cholesterol)
+                (NN level))
+        (VP (VBD edged)
+            (PRT (RP up))
+            (PP (IN to)
+                    (NP (CD 202))))
+        (. .))
+

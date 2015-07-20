@@ -1,0 +1,12 @@
+(S (NP (PRP I))
+        (VP (VBP agree)
+            (SBAR (IN that)
+                  (S (NP (NN fuel)
+                             (NN injection))
+                     (VP (VBZ solves)
+                         (NP (NP (DT a)
+                                 (NN lot))
+                             (PP (IN of)
+                                 (NP (NNS problems))))))))
+        (. .))
+

@@ -1,0 +1,23 @@
+1	Someone	someone	NOUN	NN	_	2	nsubj	_	_
+2	returned	return	VERB	VBD	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	favor	favor	NOUN	NN	_	2	dobj	_	_
+5	when	when	ADV	WRB	_	9	advmod	_	_
+6	an	a	DET	DT	_	7	det	_	_
+7	eagle	eagle	NOUN	NN	_	9	nsubjpass	_	_
+8	was	be	VERB	VBD	_	9	auxpass	_	_
+9	spotted	spot	VERB	VBN	_	2	advcl	_	_
+10	*-1	*-1	NOUN	NN	_	9	dobj	_	_
+11	*PRO*-2	*pro*-2	NOUN	NN	_	12	nsubj	_	_
+12	heading	head	VERB	VBG	_	9	dep	_	_
+13	toward	toward	ADP	IN	_	12	prep	_	_
+14	Ms.	Ms.	PROPN	NNP	_	15	nn	_	_
+15	Stokes	Stokes	PROPN	NNP	_	17	poss	_	_
+16	's	's	PART	POS	_	15	possessive	_	_
+17	location	location	NOUN	NN	_	13	pobj	_	_
+18	on	on	ADP	IN	_	17	prep	_	_
+19	Pack	Pack	PROPN	NNP	_	20	nn	_	_
+20	Monadnock	Monadnock	PROPN	NNP	_	18	pobj	_	_
+21	*T*-3	*t*-3	X	X	_	9	advmod	_	_
+22	.	.	PUNCT	.	_	2	punct	_	_
+

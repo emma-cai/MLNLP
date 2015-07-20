@@ -1,0 +1,20 @@
+1	But	but	CONJ	CC	_	17	cc	_	_
+2	*PRO*	*pro*	NOUN	NN	_	4	nsubj	_	_
+3	to	to	ADP	TO	_	4	aux	_	_
+4	choose	choose	VERB	VB	_	17	dep	_	_
+5	the	the	DET	DT	_	7	det	_	_
+6	surest	surest	ADJ	JJS	_	7	amod	_	_
+7	bait	bait	NOUN	NN	_	4	dobj	_	_
+8	,	,	PUNCT	,	_	4	punct	_	_
+9	and	and	CONJ	CC	_	4	cc	_	_
+10	then	then	ADV	RB	_	12	advmod	_	_
+11	to	to	ADP	TO	_	12	aux	_	_
+12	bring	bring	VERB	VB	_	4	conj	_	_
+13	back	back	ADV	RB	_	12	advmod	_	_
+14	no	no	DET	DT	_	15	neg	_	_
+15	fish	fish	NOUN	NN	_	12	dobj	_	_
+16	,	,	PUNCT	,	_	17	punct	_	_
+17	is	be	VERB	VBZ	_	0	root	_	_
+18	unforgivable	unforgivable	ADJ	JJ	_	17	acomp	_	_
+19	.	.	PUNCT	.	_	17	punct	_	_
+

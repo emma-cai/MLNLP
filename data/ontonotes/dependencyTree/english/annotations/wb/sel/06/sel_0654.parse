@@ -1,0 +1,16 @@
+1	But	but	CONJ	CC	_	5	cc	_	_
+2	I	I	PRON	PRP	_	5	nsubj	_	_
+3	do	do	VERB	VBP	_	5	aux	_	_
+4	consciously	consciously	ADV	RB	_	5	advmod	_	_
+5	drive	drive	VERB	VB	_	0	root	_	_
+6	my	my	PRON	PRP$	_	7	poss	_	_
+7	cars	car	NOUN	NNS	_	5	dobj	_	_
+8	with	with	ADP	IN	_	5	prep	_	_
+9	fuel	fuel	NOUN	NN	_	10	nn	_	_
+10	efficiency	efficiency	NOUN	NN	_	8	pobj	_	_
+11	and	and	CONJ	CC	_	10	cc	_	_
+12	longevity	longevity	NOUN	NN	_	10	conj	_	_
+13	in	in	ADP	IN	_	10	prep	_	_
+14	mind	mind	NOUN	NN	_	13	pobj	_	_
+15	.	.	PUNCT	.	_	5	punct	_	_
+

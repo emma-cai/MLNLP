@@ -1,0 +1,27 @@
+1	If	if	ADP	IN	_	4	mark	_	_
+2	you	you	PRON	PRP	_	4	nsubj	_	_
+3	're	be	VERB	VBP	_	4	aux	_	_
+4	hurting	hurt	VERB	VBG	_	9	advcl	_	_
+5	this	this	DET	DT	_	6	det	_	_
+6	Christmas	Christmas	PROPN	NNP	_	4	dobj	_	_
+7	,	,	PUNCT	,	_	9	punct	_	_
+8	*PRO*	*pro*	NOUN	NN	_	9	nsubj	_	_
+9	remember	remember	VERB	VB	_	0	root	_	_
+10	:	:	PUNCT	:	_	9	punct	_	_
+11	Jesus	Jesus	PROPN	NNP	_	12	nsubj	_	_
+12	came	come	VERB	VBD	_	9	ccomp	_	_
+13	*PRO*-1	*pro*-1	NOUN	NN	_	15	nsubj	_	_
+14	to	to	ADP	TO	_	15	aux	_	_
+15	save	save	VERB	VB	_	12	ccomp	_	_
+16	us	we	PRON	PRP	_	15	dobj	_	_
+17	,	,	PUNCT	,	_	15	punct	_	_
+18	to	to	ADP	TO	_	19	aux	_	_
+19	help	help	VERB	VB	_	15	conj	_	_
+20	us	we	PRON	PRP	_	19	dobj	_	_
+21	,	,	PUNCT	,	_	15	punct	_	_
+22	and	and	CONJ	CC	_	15	cc	_	_
+23	to	to	ADP	TO	_	24	aux	_	_
+24	heal	heal	VERB	VB	_	15	conj	_	_
+25	us	we	PRON	PRP	_	24	dobj	_	_
+26	.	.	PUNCT	.	_	9	punct	_	_
+

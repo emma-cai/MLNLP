@@ -1,0 +1,18 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	majority	majority	NOUN	NN	_	9	nsubj	_	_
+3	of	of	ADP	IN	_	2	prep	_	_
+4	my	my	PRON	PRP$	_	5	poss	_	_
+5	meals	meal	NOUN	NNS	_	3	pobj	_	_
+6	breakfast	breakfast	NOUN	NN	_	2	dep	_	_
+7	and	and	CONJ	CC	_	6	cc	_	_
+8	lunch	lunch	NOUN	NN	_	6	conj	_	_
+9	cost	cost	VERB	VBP	_	0	root	_	_
+10	3	3	NUM	CD	_	11	num	_	_
+11	$	$	SYM	$	_	9	dobj	_	_
+12	for	for	ADP	IN	_	11	prep	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	3	3	NUM	CD	_	12	pobj	_	_
+15	of	of	ADP	IN	_	14	prep	_	_
+16	us	we	PRON	PRP	_	15	pobj	_	_
+17	.	.	PUNCT	.	_	9	punct	_	_
+

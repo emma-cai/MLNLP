@@ -1,0 +1,26 @@
+1	Back	back	ADV	RB	_	16	advmod	_	_
+2	in	in	ADP	IN	_	1	prep	_	_
+3	the	the	DET	DT	_	8	det	_	_
+4	late	late	ADJ	JJ	_	5	amod	_	_
+5	'70s	'70	NOUN	NNS	_	8	dep	_	_
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	early	early	ADJ	JJ	_	8	amod	_	_
+8	'80s	'80	NOUN	NNS	_	2	pobj	_	_
+9	as	as	ADP	IN	_	16	prep	_	_
+10	a	a	DET	DT	_	12	det	_	_
+11	college	college	NOUN	NN	_	12	nn	_	_
+12	student	student	NOUN	NN	_	9	pobj	_	_
+13	,	,	PUNCT	,	_	16	punct	_	_
+14	I	I	PRON	PRP	_	16	nsubj	_	_
+15	thoroughly	thoroughly	ADV	RB	_	16	advmod	_	_
+16	thrashed	thrash	VERB	VBD	_	0	root	_	_
+17	my	my	PRON	PRP$	_	19	poss	_	_
+18	only	only	ADJ	JJ	_	19	amod	_	_
+19	transportation	transportation	NOUN	NN	_	16	dobj	_	_
+20	,	,	PUNCT	,	_	19	punct	_	_
+21	a	a	DET	DT	_	24	det	_	_
+22	1971	1971	NUM	CD	_	24	num	_	_
+23	Honda	Honda	PROPN	NNP	_	24	nn	_	_
+24	CB100	CB100	PROPN	NNP	_	19	appos	_	_
+25	.	.	PUNCT	.	_	16	punct	_	_
+

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mlnlp.iml" filepath="$PROJECT_DIR$/mlnlp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MLNLP.iml" filepath="$PROJECT_DIR$/MLNLP.iml" />
     </modules>
   </component>
 </project>

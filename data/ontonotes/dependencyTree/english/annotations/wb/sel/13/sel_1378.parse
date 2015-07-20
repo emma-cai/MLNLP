@@ -1,0 +1,18 @@
+1	Russ	Russ	PROPN	NNP	_	4	nsubj	_	_
+2	i	I	PRON	PRP	_	4	nsubj	_	_
+3	can	can	AUX	MD	_	4	aux	_	_
+4	post	post	VERB	VB	_	0	root	_	_
+5	a	a	DET	DT	_	6	det	_	_
+6	summary	summary	NOUN	NN	_	4	iobj	_	_
+7	later	later	ADV	RB	_	8	advmod	_	_
+8	tonight	tonight	NOUN	NN	_	4	dobj	_	_
+9	if	if	ADP	IN	_	16	mark	_	_
+10	my	my	PRON	PRP$	_	11	poss	_	_
+11	hotel	hotel	NOUN	NN	_	14	poss	_	_
+12	's	's	PART	POS	_	11	possessive	_	_
+13	internet	internet	NOUN	NN	_	14	nn	_	_
+14	path	path	NOUN	NN	_	16	nsubj	_	_
+15	has	have	VERB	VBZ	_	16	aux	_	_
+16	improved	improve	VERB	VBN	_	4	advcl	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+

@@ -1,0 +1,13 @@
+1	Dear	dear	ADJ	JJ	_	2	amod	_	_
+2	Info	Info	PROPN	NNP	_	0	root	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	Sorry	sorry	ADJ	JJ	_	2	dep	_	_
+5	0	0	X	X	_	7	dep	_	_
+6	life	life	NOUN	NN	_	7	nsubj	_	_
+7	sucks	suck	VERB	VBZ	_	4	ccomp	_	_
+8	for	for	ADP	IN	_	7	prep	_	_
+9	you	you	PRON	PRP	_	8	pobj	_	_
+10	right	right	ADV	RB	_	11	advmod	_	_
+11	now	now	ADV	RB	_	7	advmod	_	_
+12	.	.	PUNCT	.	_	2	punct	_	_
+

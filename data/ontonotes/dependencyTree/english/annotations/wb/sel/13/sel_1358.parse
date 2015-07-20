@@ -1,0 +1,12 @@
+1	Why	why	ADV	WRB	_	4	advmod	_	_
+2	did	do	VERB	VBD	_	4	aux	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	post	post	VERB	VB	_	0	root	_	_
+5	this	this	DET	DT	_	6	det	_	_
+6	meltdown	meltdown	NOUN	NN	_	4	dobj	_	_
+7	twice	twice	ADV	RB	_	4	advmod	_	_
+8	,	,	PUNCT	,	_	4	punct	_	_
+9	jackass	jackass	NOUN	NN	_	4	dobj	_	_
+10	*T*-1	*t*-1	X	X	_	4	advmod	_	_
+11	?	?	PUNCT	.	_	4	punct	_	_
+

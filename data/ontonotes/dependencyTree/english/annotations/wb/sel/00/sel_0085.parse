@@ -1,0 +1,19 @@
+1	Deadline	deadline	NOUN	NN	_	5	nsubj	_	_
+2	*PRO*	*pro*	NOUN	NN	_	4	nsubj	_	_
+3	to	to	ADP	TO	_	4	aux	_	_
+4	apply	apply	VERB	VB	_	1	vmod	_	_
+5	is	be	VERB	VBZ	_	0	root	_	_
+6	February	February	PROPN	NNP	_	7	nn	_	_
+7	10th	10th	NOUN	NN	_	5	xcomp	_	_
+8	Please	please	INTJ	UH	_	10	discourse	_	_
+9	*PRO*	*pro*	NOUN	NN	_	10	nsubj	_	_
+10	send	send	VERB	VB	_	5	parataxis	_	_
+11	a	a	DET	DT	_	12	det	_	_
+12	description	description	NOUN	NN	_	10	dobj	_	_
+13	of	of	ADP	IN	_	12	prep	_	_
+14	your	you	PRON	PRP$	_	15	poss	_	_
+15	act	act	NOUN	NN	_	13	pobj	_	_
+16	to	to	ADP	IN	_	10	prep	_	_
+17	vonfox	vonfox	PROPN	NNP	_	16	pobj	_	_
+18	...	...	PUNCT	.	_	5	punct	_	_
+

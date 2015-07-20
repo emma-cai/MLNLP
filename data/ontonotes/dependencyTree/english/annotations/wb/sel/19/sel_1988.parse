@@ -1,0 +1,13 @@
+1	It	it	PRON	PRP	_	3	nsubj	_	_
+2	*EXP*-1	*exp*-1	X	X	_	1	dep	_	_
+3	is	be	VERB	VBZ	_	0	root	_	_
+4	also	also	ADV	RB	_	3	advmod	_	_
+5	fitting	fitting	ADJ	JJ	_	3	acomp	_	_
+6	that	that	ADP	IN	_	8	mark	_	_
+7	we	we	PRON	PRP	_	8	nsubj	_	_
+8	support	support	VERB	VBP	_	3	ccomp	_	_
+9	Indonesia	Indonesia	PROPN	NNP	_	8	dobj	_	_
+10	as	as	ADP	IN	_	8	prep	_	_
+11	host	host	NOUN	NN	_	10	pobj	_	_
+12	.	.	PUNCT	.	_	3	punct	_	_
+

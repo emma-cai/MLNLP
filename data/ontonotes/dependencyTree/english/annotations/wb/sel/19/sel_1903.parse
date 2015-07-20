@@ -1,0 +1,21 @@
+1	He	he	PRON	PRP	_	2	nsubj	_	_
+2	ignored	ignore	VERB	VBD	_	0	root	_	_
+3	terrorism	terrorism	NOUN	NN	_	2	dobj	_	_
+4	for	for	ADP	IN	_	2	prep	_	_
+5	months	month	NOUN	NNS	_	4	pobj	_	_
+6	,	,	PUNCT	,	_	2	punct	_	_
+7	when	when	ADV	WRB	_	12	advmod	_	_
+8	maybe	maybe	ADV	RB	_	12	advmod	_	_
+9	we	we	PRON	PRP	_	12	nsubj	_	_
+10	could	could	AUX	MD	_	12	aux	_	_
+11	have	have	VERB	VB	_	12	aux	_	_
+12	done	do	VERB	VBN	_	2	advcl	_	_
+13	something	something	NOUN	NN	_	12	dobj	_	_
+14	*PRO*-2	*pro*-2	NOUN	NN	_	12	dobj	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	stop	stop	VERB	VB	_	12	vmod	_	_
+17	911	911	NUM	CD	_	16	dobj	_	_
+18	*T*-1	*t*-1	X	X	_	12	advmod	_	_
+19	.	.	PUNCT	.	_	2	punct	_	_
+20	"	"	PUNCT	''	_	2	punct	_	_
+

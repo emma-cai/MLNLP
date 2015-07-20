@@ -1,0 +1,12 @@
+(S (NP (PRP I))
+        (VP (MD could)
+            (ADVP (RB just)
+                      (RB as)
+                      (RB easily))
+            (VP (VB stop)
+                (S (NP (NN *-1))
+                   (VP (VBG doing)
+                       (NP (JJ charitable)
+                           (NNS things))))))
+        (. .))
+

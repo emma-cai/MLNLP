@@ -1,0 +1,18 @@
+1	Then	then	ADV	RB	_	2	advmod	_	_
+2	again	again	ADV	RB	_	6	advmod	_	_
+3	,	,	PUNCT	,	_	6	punct	_	_
+4	anything	anything	NOUN	NN	_	6	nsubj	_	_
+5	would	would	AUX	MD	_	6	aux	_	_
+6	be	be	VERB	VB	_	0	root	_	_
+7	better	better	ADJ	JJR	_	6	acomp	_	_
+8	than	than	ADP	IN	_	7	prep	_	_
+9	those	those	DET	DT	_	12	det	_	_
+10	limp	limp	ADJ	JJ	_	12	amod	_	_
+11	noodle	noodle	NOUN	NN	_	12	nn	_	_
+12	rods	rod	NOUN	NNS	_	8	pobj	_	_
+13	0	0	X	X	_	15	dobj	_	_
+14	you	you	PRON	PRP	_	15	nsubj	_	_
+15	own	own	VERB	VBP	_	12	rcmod	_	_
+16	*T*-1	*t*-1	NOUN	NN	_	15	dobj	_	_
+17	.	.	PUNCT	.	_	6	punct	_	_
+

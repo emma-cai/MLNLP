@@ -1,0 +1,10 @@
+(S (INTJ (UH What))
+        (, ,)
+        (NP (NN *PRO*))
+        (VP (VBP kill)
+            (NP (NP (DT every)
+                    (NN monster))
+                (PP (IN in)
+                        (NP (NNP LOS)))))
+        (. ?))
+

@@ -1,0 +1,8 @@
+1	you	you	PRON	PRP	_	2	nsubj	_	_
+2	ripped	rip	VERB	VBD	_	0	root	_	_
+3	that	that	DET	DT	_	5	det	_	_
+4	poor	poor	ADJ	JJ	_	5	amod	_	_
+5	guy	guy	NOUN	NN	_	2	dobj	_	_
+6	off	off	PART	RP	_	2	prt	_	_
+7	.	.	PUNCT	.	_	2	punct	_	_
+

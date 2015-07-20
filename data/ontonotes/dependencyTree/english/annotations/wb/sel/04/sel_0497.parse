@@ -1,0 +1,24 @@
+1	They	they	PRON	PRP	_	3	nsubj	_	_
+2	already	already	ADV	RB	_	3	advmod	_	_
+3	cover	cover	VERB	VBP	_	0	root	_	_
+4	desktop	desktop	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	IN	_	4	prep	_	_
+6	mainframe	mainframe	NOUN	NN	_	5	pobj	_	_
+7	,	,	PUNCT	,	_	3	punct	_	_
+8	what	what	DET	WDT	_	9	det	_	_
+9	more	more	ADJ	JJR	_	13	dep	_	_
+10	*ICH*-2	*ich*-2	X	X	_	9	dep	_	_
+11	could	could	AUX	MD	_	13	aux	_	_
+12	they	they	PRON	PRP	_	13	nsubj	_	_
+13	want	want	VERB	VB	_	3	dep	_	_
+14	*T*-1	*t*-1	NOUN	NN	_	13	dobj	_	_
+15	that	that	DET	WDT	_	20	nsubj	_	_
+16	*PRO*	*pro*	NOUN	NN	_	17	nsubj	_	_
+17	owning	own	VERB	VBG	_	20	csubj	_	_
+18	VMS	VMS	PROPN	NNP	_	17	dobj	_	_
+19	would	would	AUX	MD	_	20	aux	_	_
+20	give	give	VERB	VB	_	13	dep	_	_
+21	them	they	PRON	PRP	_	20	iobj	_	_
+22	*T*-3	*t*-3	NOUN	NN	_	20	dobj	_	_
+23	?	?	PUNCT	.	_	3	punct	_	_
+

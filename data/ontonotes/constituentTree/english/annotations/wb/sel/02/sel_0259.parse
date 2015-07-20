@@ -1,0 +1,12 @@
+(S (SBAR (IN If)
+                  (S (NP (NN *PRO*))
+                     (ADJP (JJ interested))))
+        (, ,)
+        (NP (NN *PRO*))
+        (VP (VB call)
+            (NP (PRP$ my)
+                (NN cell))
+            (PP (IN at)
+                    (NP (CD 703-868-7896))))
+        (. .))
+

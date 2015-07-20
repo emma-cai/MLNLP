@@ -1,0 +1,15 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	extra	extra	ADJ	JJ	_	3	amod	_	_
+3	code	code	NOUN	NN	_	12	nsubj	_	_
+4	required	require	VERB	VBN	_	3	vmod	_	_
+5	*	*	NOUN	NN	_	4	dobj	_	_
+6	*PRO*	*pro*	NOUN	NN	_	4	dobj	_	_
+7	to	to	ADP	TO	_	8	aux	_	_
+8	handle	handle	VERB	VB	_	4	xcomp	_	_
+9	all	all	DET	DT	_	11	det	_	_
+10	input	input	NOUN	NN	_	11	nn	_	_
+11	types	type	NOUN	NNS	_	8	dobj	_	_
+12	is	be	VERB	VBZ	_	0	root	_	_
+13	minimal	minimal	ADJ	JJ	_	12	acomp	_	_
+14	.	.	PUNCT	.	_	12	punct	_	_
+

@@ -1,0 +1,10 @@
+(SBARQ (WHADVP (WRB Why))
+            (SQ (NP (NN *PRO*))
+                (RB not)
+                (VP (VB choose)
+                    (NP (DT the)
+                        (JJR safer)
+                        (NNS alternatives))
+                    (ADVP (X *T*-1))))
+            (. ?))
+

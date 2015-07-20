@@ -1,0 +1,12 @@
+(S (PP (IN In)
+            (NP (NN fact)))
+        (NP (DT some)
+                (NNS folks))
+        (VP (VBP do)
+            (VP (VB call)
+                (NP (NNP BMW)
+                      (NNS cars))
+                (S (NP (NN *PRO*-1))
+                       (NP (NNPS Beemers)))))
+        (. .))
+

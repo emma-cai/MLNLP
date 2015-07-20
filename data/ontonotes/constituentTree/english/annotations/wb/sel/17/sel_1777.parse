@@ -1,0 +1,10 @@
+(S (NP (NNS People))
+        (VP (VBP send)
+            (NP (PRP me))
+            (NP (NNS emails))
+            (NP (NP (DT all))
+                    (PP (IN of)
+                        (NP (DT the)
+                            (NN time)))))
+        (. .))
+

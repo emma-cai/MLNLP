@@ -1,0 +1,21 @@
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	vaguely	vaguely	ADV	RB	_	3	advmod	_	_
+3	remember	remember	VERB	VBP	_	0	root	_	_
+4	0	0	X	X	_	9	dep	_	_
+5	I	I	PRON	PRP	_	9	nsubj	_	_
+6	might	might	AUX	MD	_	9	aux	_	_
+7	even	even	ADV	RB	_	9	advmod	_	_
+8	have	have	VERB	VB	_	9	aux	_	_
+9	lost	lose	VERB	VBN	_	3	ccomp	_	_
+10	a	a	DET	DT	_	11	det	_	_
+11	blog	blog	NOUN	NN	_	9	dobj	_	_
+12	but	but	CONJ	CC	_	9	cc	_	_
+13	got	get	VERB	VBD	_	9	conj	_	_
+14	it	it	PRON	PRP	_	13	dobj	_	_
+15	back	back	PART	RP	_	13	prt	_	_
+16	eventually	eventually	ADV	RB	_	13	advmod	_	_
+17	but	but	CONJ	CC	_	3	cc	_	_
+18	not	not	ADV	RB	_	3	conj	_	_
+19	sure	sure	ADJ	JJ	_	18	dep	_	_
+20	.	.	PUNCT	.	_	3	punct	_	_
+

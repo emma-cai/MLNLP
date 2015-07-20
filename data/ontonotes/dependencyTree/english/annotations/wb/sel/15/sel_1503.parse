@@ -1,0 +1,20 @@
+1	Steroids	steroid	NOUN	NNS	_	2	nsubj	_	_
+2	reduce	reduce	VERB	VBP	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	inflammation	inflammation	NOUN	NN	_	2	dobj	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	itching	itching	NOUN	NN	_	4	conj	_	_
+7	and	and	CONJ	CC	_	4	cc	_	_
+8	soreness	soreness	NOUN	NN	_	4	conj	_	_
+9	*PRO*	*pro*	NOUN	NN	_	10	nsubj	_	_
+10	allwing	allw	VERB	VBG	_	2	dep	_	_
+11	it	it	PRON	PRP	_	10	dobj	_	_
+12	to	to	ADP	TO	_	13	aux	_	_
+13	heal	heal	VERB	VB	_	10	xcomp	_	_
+14	faster	faster	ADV	RBR	_	13	advmod	_	_
+15	,	,	PUNCT	,	_	2	punct	_	_
+16	*PRO*	*pro*	NOUN	NN	_	17	nsubj	_	_
+17	providing	provide	VERB	VBG	_	2	dep	_	_
+18	relief	relief	NOUN	NN	_	17	dobj	_	_
+19	.	.	PUNCT	.	_	2	punct	_	_
+

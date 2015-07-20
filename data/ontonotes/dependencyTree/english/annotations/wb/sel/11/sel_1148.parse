@@ -1,0 +1,26 @@
+1	Fed	fed	ADJ	JJ	_	2	amod	_	_
+2	funding	funding	NOUN	NN	_	5	nsubj	_	_
+3	hopefully	hopefully	ADV	RB	_	5	advmod	_	_
+4	would	would	AUX	MD	_	5	aux	_	_
+5	bring	bring	VERB	VB	_	0	root	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	research	research	NOUN	NN	_	5	dobj	_	_
+8	out	out	PART	RP	_	5	prt	_	_
+9	into	into	ADP	IN	_	5	prep	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	light	light	NOUN	NN	_	9	pobj	_	_
+12	and	and	CONJ	CC	_	5	cc	_	_
+13	establish	establish	VERB	VB	_	5	conj	_	_
+14	controls	control	NOUN	NNS	_	15	nn	_	_
+15	regulations	regulation	NOUN	NNS	_	13	dobj	_	_
+16	and	and	CONJ	CC	_	5	cc	_	_
+17	make	make	VERB	VB	_	5	conj	_	_
+18	the	the	DET	DT	_	19	det	_	_
+19	miracle	miracle	NOUN	NN	_	20	nsubj	_	_
+20	accessible	accessible	ADJ	JJ	_	17	xcomp	_	_
+21	for	for	ADP	IN	_	20	prep	_	_
+22	you	you	PRON	PRP	_	21	pobj	_	_
+23	and	and	CONJ	CC	_	22	cc	_	_
+24	me	I	PRON	PRP	_	22	conj	_	_
+25	.	.	PUNCT	.	_	5	punct	_	_
+

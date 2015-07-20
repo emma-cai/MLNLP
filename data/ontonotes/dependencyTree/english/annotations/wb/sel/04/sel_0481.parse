@@ -1,0 +1,17 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	'm	be	VERB	VBP	_	0	root	_	_
+3	tired	tired	ADJ	JJ	_	2	acomp	_	_
+4	of	of	ADP	IN	_	3	prep	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	6	nsubj	_	_
+6	making	make	VERB	VBG	_	4	pcomp	_	_
+7	up	up	PART	RP	_	6	prt	_	_
+8	lies	lie	NOUN	NNS	_	6	dobj	_	_
+9	*PRO*-2	*pro*-2	NOUN	NN	_	6	dobj	_	_
+10	to	to	ADP	TO	_	11	aux	_	_
+11	cover	cover	VERB	VB	_	6	vmod	_	_
+12	my	my	PRON	PRP$	_	13	poss	_	_
+13	bruises	bruise	NOUN	NNS	_	11	dobj	_	_
+14	...	...	X	NFP	_	2	punct	_	_
+15	.	.	PUNCT	.	_	2	punct	_	_
+16	.	.	PUNCT	.	_	2	punct	_	_
+

@@ -1,0 +1,8 @@
+(S (NP (PRP They))
+        (VP (VBD thrashed)
+            (NP (NP (NN rubbish))
+                (PP (IN on)
+                        (NP (DT the)
+                            (NNS streets)))))
+        (. .))
+

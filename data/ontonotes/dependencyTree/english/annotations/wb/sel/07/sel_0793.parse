@@ -1,0 +1,17 @@
+1	And	and	CONJ	CC	_	13	cc	_	_
+2	unless	unless	ADP	IN	_	6	mark	_	_
+3	this	this	DET	DT	_	4	det	_	_
+4	trend	trend	NOUN	NN	_	6	nsubjpass	_	_
+5	is	be	VERB	VBZ	_	6	auxpass	_	_
+6	checked	check	VERB	VBN	_	13	advcl	_	_
+7	*-1	*-1	NOUN	NN	_	6	dobj	_	_
+8	,	,	PUNCT	,	_	13	punct	_	_
+9	UN	UN	PROPN	NNP	_	11	nn	_	_
+10	aid	aid	NOUN	NN	_	11	nn	_	_
+11	efforts	effort	NOUN	NNS	_	13	nsubj	_	_
+12	would	would	AUX	MD	_	13	aux	_	_
+13	face	face	VERB	VB	_	0	root	_	_
+14	substantial	substantial	ADJ	JJ	_	15	amod	_	_
+15	hurdles	hurdle	NOUN	NNS	_	13	dobj	_	_
+16	.	.	PUNCT	.	_	13	punct	_	_
+

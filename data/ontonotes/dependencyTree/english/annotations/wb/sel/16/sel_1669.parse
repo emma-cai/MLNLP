@@ -1,0 +1,21 @@
+1	And	and	CONJ	CC	_	5	cc	_	_
+2	then	then	ADV	RB	_	5	advmod	_	_
+3	I	I	PRON	PRP	_	5	nsubj	_	_
+4	quietly	quietly	ADV	RB	_	5	advmod	_	_
+5	return	return	VERB	VBP	_	0	root	_	_
+6	to	to	ADP	IN	_	5	prep	_	_
+7	*PRO*-1	*pro*-1	NOUN	NN	_	8	nsubj	_	_
+8	pondering	ponder	VERB	VBG	_	6	pcomp	_	_
+9	about	about	ADP	IN	_	8	prep	_	_
+10	the	the	DET	DT	_	14	det	_	_
+11	shapely	shapely	ADJ	JJ	_	14	amod	_	_
+12	human	human	ADJ	JJ	_	14	amod	_	_
+13	female	female	ADJ	JJ	_	14	amod	_	_
+14	form	form	NOUN	NN	_	9	pobj	_	_
+15	,	,	PUNCT	,	_	14	punct	_	_
+16	and	and	CONJ	CC	_	14	cc	_	_
+17	other	other	ADJ	JJ	_	19	amod	_	_
+18	natural	natural	ADJ	JJ	_	19	amod	_	_
+19	beauties	beauty	NOUN	NNS	_	14	conj	_	_
+20	.	.	PUNCT	.	_	5	punct	_	_
+

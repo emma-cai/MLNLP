@@ -1,0 +1,13 @@
+(S (NP (PRP I))
+        (VP (VP (VBD tripped)
+                (PP (IN over)
+                        (NP (PRP it)))
+                (NP (NN yesterday)))
+            (CC and)
+            (VP (VBD gave)
+                (NP (PRP it))
+                (NP (DT a)
+                    (NN shot))
+                (NP (NN today))))
+        (. .))
+

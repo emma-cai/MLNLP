@@ -1,0 +1,12 @@
+(S (NP (NNP Berlin)
+                (NNP Brown))
+        (NP (PRP You))
+        (VP (MD could)
+            (VP (VB try)
+                (S (NP (NN *PRO*-1))
+                   (VP (VBG searching)
+                       (ADVP (RB here))
+                       (PP (IN for)
+                           (NP (NNS starters)))))))
+        (. .))
+

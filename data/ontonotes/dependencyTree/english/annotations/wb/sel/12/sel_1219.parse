@@ -1,0 +1,24 @@
+1	BBC	BBC	PROPN	NNP	_	2	nn	_	_
+2	values	value	NOUN	NNS	_	5	nsubjpass	_	_
+3	have	have	VERB	VBP	_	5	aux	_	_
+4	been	be	VERB	VBN	_	5	auxpass	_	_
+5	corrupted	corrupt	VERB	VBN	_	0	root	_	_
+6	*-1	*-1	NOUN	NN	_	5	dobj	_	_
+7	because	because	ADP	IN	_	13	mark	_	_
+8	licence	licence	NOUN	NN	_	9	nn	_	_
+9	fee	fee	NOUN	NN	_	10	nn	_	_
+10	payers	payer	NOUN	NNS	_	13	nsubj	_	_
+11	must	must	AUX	MD	_	13	aux	_	_
+12	now	now	ADV	RB	_	13	advmod	_	_
+13	own	own	VERB	VB	_	5	advcl	_	_
+14	a	a	DET	DT	_	17	det	_	_
+15	Microsoft	Microsoft	PROPN	NNP	_	17	nn	_	_
+16	operating	operating	NOUN	NN	_	17	nn	_	_
+17	system	system	NOUN	NN	_	13	dobj	_	_
+18	*PRO*-2	*pro*-2	NOUN	NN	_	13	dobj	_	_
+19	to	to	ADP	TO	_	20	aux	_	_
+20	download	download	VERB	VB	_	13	xcomp	_	_
+21	BBC	BBC	PROPN	NNP	_	22	nn	_	_
+22	programming	programming	NOUN	NN	_	20	dobj	_	_
+23	.	.	PUNCT	.	_	5	punct	_	_
+

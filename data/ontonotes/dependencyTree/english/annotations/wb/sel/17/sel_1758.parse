@@ -1,0 +1,13 @@
+1	Please	please	INTJ	UH	_	4	discourse	_	_
+2	*PRO*	*pro*	NOUN	NN	_	4	nsubj	_	_
+3	only	only	ADV	RB	_	4	advmod	_	_
+4	send	send	VERB	VB	_	0	root	_	_
+5	resumes	resume	NOUN	NNS	_	4	dobj	_	_
+6	with	with	ADP	IN	_	5	prep	_	_
+7	BOTH	both	CONJ	CC	_	8	preconj	_	_
+8	JSF	JSF	PROPN	NNP	_	6	pobj	_	_
+9	&	&	CONJ	CC	_	8	cc	_	_
+10	JBOSS	JBOSS	PROPN	NNP	_	11	nn	_	_
+11	Req	req	NOUN	NNS	_	8	conj	_	_
+12	.	.	PUNCT	.	_	4	punct	_	_
+

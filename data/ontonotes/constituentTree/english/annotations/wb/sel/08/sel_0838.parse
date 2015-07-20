@@ -1,0 +1,9 @@
+(S (CC and)
+        (NP (NNS stooges))
+        (VP (VBP fall)
+            (PP (IN for)
+                    (NP (PRP it)))
+            (NP (DT every)
+                    (NN time)))
+        (. .))
+

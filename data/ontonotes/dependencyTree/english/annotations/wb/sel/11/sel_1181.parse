@@ -1,0 +1,16 @@
+1	*PRO*-1	*pro*-1	NOUN	NN	_	2	nsubj	_	_
+2	Walking	walk	VERB	VBG	_	8	dep	_	_
+3	around	around	ADP	IN	_	2	prep	_	_
+4	the	the	DET	DT	_	5	det	_	_
+5	airport	airport	NOUN	NN	_	3	pobj	_	_
+6	I	I	PRON	PRP	_	8	nsubj	_	_
+7	only	only	ADV	RB	_	8	advmod	_	_
+8	notice	notice	VERB	VBP	_	0	root	_	_
+9	one	one	NUM	CD	_	11	num	_	_
+10	other	other	ADJ	JJ	_	11	amod	_	_
+11	plane	plane	NOUN	NN	_	8	dobj	_	_
+12	with	with	ADP	IN	_	11	prep	_	_
+13	wing	wing	NOUN	NN	_	14	nn	_	_
+14	covers	cover	NOUN	NNS	_	12	pobj	_	_
+15	.	.	PUNCT	.	_	8	punct	_	_
+

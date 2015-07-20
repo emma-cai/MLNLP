@@ -1,0 +1,13 @@
+(S (NP (PRP He))
+        (VP (VBD did)
+            (RB n't)
+            (ADVP (RB always))
+            (VP (VB write)
+                (NP (`` ')
+                    (JJ pretty)
+                    (JJ themed)
+                    ('' ')
+                    (NN music))))
+        (NFP ...)
+        (. .))
+

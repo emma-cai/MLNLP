@@ -1,0 +1,12 @@
+(SBARQ (CC So)
+            (, ,)
+            (WHADVP (WRB why))
+            (SQ (VBD did)
+                (NP (NNP Jesus))
+                (VP (VB choose)
+                    (NP (PRP you))
+                    (, ,)
+                    (NP (NNP Ray))
+                    (ADVP (X *T*-1))))
+            (. ?))
+

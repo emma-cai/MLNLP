@@ -1,0 +1,23 @@
+1	To	to	ADP	IN	_	17	prep	_	_
+2	all	all	DET	DT	_	1	pobj	_	_
+3	of	of	ADP	IN	_	2	prep	_	_
+4	you	you	PRON	PRP	_	3	pobj	_	_
+5	that	that	DET	WDT	_	9	dobj	_	_
+6	*T*-1	*t*-1	NOUN	NN	_	9	nsubjpass	_	_
+7	are	be	VERB	VBP	_	9	auxpass	_	_
+8	already	already	ADV	RB	_	9	advmod	_	_
+9	decorated	decorate	VERB	VBN	_	2	rcmod	_	_
+10	*-2	*-2	NOUN	NN	_	9	dobj	_	_
+11	or	or	CONJ	CC	_	9	cc	_	_
+12	are	be	VERB	VBP	_	13	aux	_	_
+13	decorating	decorate	VERB	VBG	_	9	conj	_	_
+14	;	;	PUNCT	:	_	17	punct	_	_
+15	please	please	INTJ	UH	_	17	discourse	_	_
+16	*PRO*	*pro*	NOUN	NN	_	17	nsubj	_	_
+17	send	send	VERB	VB	_	0	root	_	_
+18	some	some	DET	DT	_	19	det	_	_
+19	inspiration	inspiration	NOUN	NN	_	17	iobj	_	_
+20	this	this	DET	DT	_	21	det	_	_
+21	way	way	NOUN	NN	_	17	dobj	_	_
+22	.	.	PUNCT	.	_	17	punct	_	_
+

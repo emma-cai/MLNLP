@@ -1,0 +1,26 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	pumps	pump	NOUN	NNS	_	13	nsubj	_	_
+3	that	that	DET	WDT	_	5	dobj	_	_
+4	*T*-1	*t*-1	NOUN	NN	_	5	nsubj	_	_
+5	rid	rid	VERB	VBD	_	2	rcmod	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	streets	street	NOUN	NNS	_	5	dobj	_	_
+8	of	of	ADP	IN	_	5	prep	_	_
+9	rain	rain	NOUN	NN	_	10	nn	_	_
+10	water	water	NOUN	NN	_	8	pobj	_	_
+11	can	can	AUX	MD	_	13	aux	_	_
+12	only	only	ADV	RB	_	13	advmod	_	_
+13	pump	pump	VERB	VB	_	0	root	_	_
+14	an	a	DET	DT	_	16	det	_	_
+15	1	1	NUM	CD	_	16	num	_	_
+16	inch	inch	NOUN	NN	_	13	iobj	_	_
+17	of	of	ADP	IN	_	16	prep	_	_
+18	water	water	NOUN	NN	_	17	pobj	_	_
+19	the	the	DET	DT	_	21	det	_	_
+20	first	first	ADJ	JJ	_	21	amod	_	_
+21	hour	hour	NOUN	NN	_	13	dobj	_	_
+22	and	and	CONJ	CC	_	23	cc	_	_
+23	increments	increment	NOUN	NNS	_	13	dep	_	_
+24	thereafter	thereafter	ADV	RB	_	23	advmod	_	_
+25	.	.	PUNCT	.	_	13	punct	_	_
+

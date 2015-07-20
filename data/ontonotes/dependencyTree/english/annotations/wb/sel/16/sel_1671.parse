@@ -1,0 +1,15 @@
+1	Technically	technically	ADV	RB	_	4	advmod	_	_
+2	you	you	PRON	PRP	_	4	nsubj	_	_
+3	can	can	AUX	MD	_	4	aux	_	_
+4	return	return	VERB	VB	_	0	root	_	_
+5	image	image	NOUN	NN	_	4	dobj	_	_
+6	as	as	ADP	IN	_	4	prep	_	_
+7	string	string	NOUN	NN	_	6	pobj	_	_
+8	and	and	CONJ	CC	_	4	cc	_	_
+9	set	set	VERB	VB	_	4	conj	_	_
+10	proper	proper	ADJ	JJ	_	11	amod	_	_
+11	Content-type	content-type	NOUN	NN	_	9	dobj	_	_
+12	in	in	ADP	IN	_	9	prep	_	_
+13	response.headers	response.headers	NOUN	NNS	_	12	pobj	_	_
+14	.	.	PUNCT	.	_	4	punct	_	_
+

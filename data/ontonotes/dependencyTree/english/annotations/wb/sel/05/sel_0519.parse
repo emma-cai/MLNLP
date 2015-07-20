@@ -1,0 +1,13 @@
+1	You	you	PRON	PRP	_	3	nsubj	_	_
+2	can	can	AUX	MD	_	3	aux	_	_
+3	sort	sort	VERB	VB	_	0	root	_	_
+4	this	this	DET	DT	_	5	det	_	_
+5	data	datum	NOUN	NN	_	3	dobj	_	_
+6	and	and	CONJ	CC	_	3	cc	_	_
+7	create	create	VERB	VB	_	3	conj	_	_
+8	summary	summary	NOUN	NN	_	9	nn	_	_
+9	tables	table	NOUN	NNS	_	7	dobj	_	_
+10	for	for	ADP	IN	_	9	prep	_	_
+11	analysis	analysis	NOUN	NN	_	10	pobj	_	_
+12	.	.	PUNCT	.	_	3	punct	_	_
+

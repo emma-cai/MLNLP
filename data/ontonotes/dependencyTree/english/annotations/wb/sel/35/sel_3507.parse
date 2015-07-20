@@ -1,0 +1,14 @@
+1	Could	could	AUX	MD	_	3	aux	_	_
+2	it	it	PRON	PRP	_	3	nsubj	_	_
+3	be	be	VERB	VB	_	0	root	_	_
+4	that	that	ADP	IN	_	8	mark	_	_
+5	the	the	DET	DT	_	7	det	_	_
+6	thermal	thermal	ADJ	JJ	_	7	amod	_	_
+7	fuse	fuse	NOUN	NN	_	8	nsubj	_	_
+8	tripped	trip	VERB	VBD	_	3	ccomp	_	_
+9	and	and	CONJ	CC	_	8	cc	_	_
+10	then	then	ADV	RB	_	11	advmod	_	_
+11	reset	reset	VERB	VBD	_	8	conj	_	_
+12	itself	itself	PRON	PRP	_	11	dobj	_	_
+13	?	?	PUNCT	.	_	3	punct	_	_
+

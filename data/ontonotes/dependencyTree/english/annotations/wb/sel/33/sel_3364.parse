@@ -1,0 +1,12 @@
+1	-RRB-	-rrb-	PUNCT	-RRB-	_	4	punct	_	_
+2	-LRB-	-lrb-	PUNCT	-LRB-	_	4	punct	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	wish	wish	VERB	VBP	_	0	root	_	_
+5	0	0	X	X	_	7	dep	_	_
+6	they	they	PRON	PRP	_	7	nsubj	_	_
+7	thrashed	thrash	VERB	VBD	_	4	ccomp	_	_
+8	a	a	DET	DT	_	9	det	_	_
+9	BMW	BMW	PROPN	NNP	_	7	dobj	_	_
+10	instead	instead	ADV	RB	_	7	advmod	_	_
+11	...	...	PUNCT	.	_	4	punct	_	_
+

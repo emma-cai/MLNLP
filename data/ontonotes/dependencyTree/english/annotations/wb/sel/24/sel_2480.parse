@@ -1,0 +1,23 @@
+1	It	it	PRON	PRP	_	3	nsubj	_	_
+2	also	also	ADV	RB	_	3	advmod	_	_
+3	consists	consist	VERB	VBZ	_	0	root	_	_
+4	of	of	ADP	IN	_	3	prep	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	distribution	distribution	NOUN	NN	_	4	pobj	_	_
+7	of	of	ADP	IN	_	6	prep	_	_
+8	funds	fund	NOUN	NNS	_	7	pobj	_	_
+9	to	to	ADP	IN	_	6	prep	_	_
+10	the	the	DET	DT	_	12	det	_	_
+11	weak	weak	ADJ	JJ	_	12	amod	_	_
+12	Muslims	Muslims	PROPN	NNPS	_	9	pobj	_	_
+13	*PRO*	*pro*	NOUN	NN	_	15	nsubj	_	_
+14	to	to	ADP	TO	_	15	aux	_	_
+15	incline	incline	VERB	VB	_	6	dep	_	_
+16	their	they	PRON	PRP$	_	17	poss	_	_
+17	hearts	heart	NOUN	NNS	_	15	dobj	_	_
+18	and	and	CONJ	CC	_	15	cc	_	_
+19	to	to	ADP	TO	_	20	aux	_	_
+20	strengthen	strengthen	VERB	VB	_	15	conj	_	_
+21	them	they	PRON	PRP	_	20	dobj	_	_
+22	.	.	PUNCT	.	_	3	punct	_	_
+

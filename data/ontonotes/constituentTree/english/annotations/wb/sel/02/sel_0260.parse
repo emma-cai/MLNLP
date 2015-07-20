@@ -1,0 +1,9 @@
+(S (NP (PRP I))
+        (VP (MD 'd)
+            (VP (VB call)
+                (NP (DT that))
+                (S (NP (NN *PRO*-1))
+                       (ADJP (RB double)
+                                 (JJ lucky)))))
+        (. .))
+

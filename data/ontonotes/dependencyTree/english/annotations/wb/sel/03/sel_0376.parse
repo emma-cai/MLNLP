@@ -1,0 +1,23 @@
+1	If	if	ADP	IN	_	4	mark	_	_
+2	you	you	PRON	PRP	_	4	nsubj	_	_
+3	must	must	AUX	MD	_	4	aux	_	_
+4	get	get	VERB	VB	_	11	advcl	_	_
+5	into	into	ADP	IN	_	4	prep	_	_
+6	an	a	DET	DT	_	8	det	_	_
+7	overlap	overlap	NOUN	NN	_	8	nn	_	_
+8	situation	situation	NOUN	NN	_	5	pobj	_	_
+9	,	,	PUNCT	,	_	11	punct	_	_
+10	*PRO*	*pro*	NOUN	NN	_	11	nsubj	_	_
+11	choose	choose	VERB	VB	_	0	root	_	_
+12	*PRO*-1	*pro*-1	NOUN	NN	_	11	dobj	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	overlap	overlap	VERB	VB	_	11	xcomp	_	_
+15	with	with	ADP	IN	_	14	prep	_	_
+16	the	the	DET	DT	_	17	det	_	_
+17	user	user	NOUN	NN	_	15	pobj	_	_
+18	having	have	VERB	VBG	_	17	vmod	_	_
+19	the	the	DET	DT	_	21	det	_	_
+20	weakest	weakest	ADJ	JJS	_	21	amod	_	_
+21	signal	signal	NOUN	NN	_	18	dobj	_	_
+22	.	.	PUNCT	.	_	11	punct	_	_
+

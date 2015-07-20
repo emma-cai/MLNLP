@@ -1,0 +1,25 @@
+1	Whichever	whichever	DET	WDT	_	2	det	_	_
+2	way	way	NOUN	NN	_	4	dobj	_	_
+3	stations	station	NOUN	NNS	_	4	nsubj	_	_
+4	choose	choose	VERB	VBP	_	15	advcl	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	implement	implement	VERB	VB	_	4	xcomp	_	_
+8	digital	digital	ADJ	JJ	_	9	amod	_	_
+9	radio	radio	NOUN	NN	_	7	iobj	_	_
+10	*T*-2	*t*-2	NOUN	NN	_	7	dobj	_	_
+11	,	,	PUNCT	,	_	15	punct	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	result	result	NOUN	NN	_	15	nsubj	_	_
+14	will	will	AUX	MD	_	15	aux	_	_
+15	be	be	VERB	VB	_	0	root	_	_
+16	a	a	DET	DT	_	18	det	_	_
+17	better	better	ADJ	JJR	_	18	amod	_	_
+18	service	service	NOUN	NN	_	15	xcomp	_	_
+19	for	for	ADP	IN	_	18	prep	_	_
+20	listeners	listener	NOUN	NNS	_	19	pobj	_	_
+21	and	and	CONJ	CC	_	20	cc	_	_
+22	advertisers	advertiser	NOUN	NNS	_	20	conj	_	_
+23	.	.	PUNCT	.	_	15	punct	_	_
+24	"	"	PUNCT	''	_	15	punct	_	_
+

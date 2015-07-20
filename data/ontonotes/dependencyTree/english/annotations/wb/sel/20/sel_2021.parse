@@ -1,0 +1,13 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	suppose	suppose	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	we	we	PRON	PRP	_	5	nsubj	_	_
+5	become	become	VERB	VBP	_	2	ccomp	_	_
+6	captives	captive	NOUN	NNS	_	5	xcomp	_	_
+7	and	and	CONJ	CC	_	5	cc	_	_
+8	have	have	VERB	VBP	_	5	conj	_	_
+9	*-1	*-1	NOUN	NN	_	8	dobj	_	_
+10	to	to	ADP	TO	_	11	aux	_	_
+11	buy	buy	VERB	VB	_	8	ccomp	_	_
+12	.	.	PUNCT	.	_	2	punct	_	_
+

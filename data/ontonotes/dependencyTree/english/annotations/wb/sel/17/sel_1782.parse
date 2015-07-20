@@ -1,0 +1,8 @@
+1	Please	please	INTJ	UH	_	3	discourse	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	send	send	VERB	VB	_	0	root	_	_
+4	relevant	relevant	ADJ	JJ	_	5	amod	_	_
+5	resumes	resume	NOUN	NNS	_	3	dobj	_	_
+6	to	to	ADP	IN	_	3	prep	_	_
+7	komal.ba	komal.ba	X	ADD	_	6	pobj	_	_
+

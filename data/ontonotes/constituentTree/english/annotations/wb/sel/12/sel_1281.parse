@@ -1,0 +1,10 @@
+(S (NP (PRP$ Your)
+                (NN friend))
+        (VP (MD should)
+            (VP (VB pick)
+                (NP (PRP you))
+                (PRT (RP up))
+                (SBAR (IN if)
+                          (FRAG (ADJP (JJ possible))))))
+        (. .))
+

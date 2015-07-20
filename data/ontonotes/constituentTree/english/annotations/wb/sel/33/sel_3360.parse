@@ -1,0 +1,13 @@
+(SBARQ (WHNP (WHADJP (WRB How)
+                            (JJ many)))
+            (SQ (NP (NN *T*-1))
+                (VP (VBD thrashed)
+                    (NP (DT some)
+                        (JJ poor)
+                        (JJ native)
+                        (NN gun)
+                        (NN toter))
+                    (PP (IN to)
+                            (NP (NN death)))))
+            (. .))
+

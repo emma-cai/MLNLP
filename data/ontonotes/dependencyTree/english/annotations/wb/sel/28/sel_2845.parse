@@ -1,0 +1,22 @@
+1	In	in	ADP	IN	_	14	prep	_	_
+2	the	the	DET	DT	_	4	det	_	_
+3	first	first	ADJ	JJ	_	4	amod	_	_
+4	wave	wave	NOUN	NN	_	1	pobj	_	_
+5	and	and	CONJ	CC	_	4	cc	_	_
+6	the	the	DET	DT	_	8	det	_	_
+7	first	first	ADJ	JJ	_	8	amod	_	_
+8	Strider	strider	NOUN	NN	_	4	conj	_	_
+9	of	of	ADP	IN	_	8	prep	_	_
+10	the	the	DET	DT	_	12	det	_	_
+11	second	second	ADJ	JJ	_	12	amod	_	_
+12	wave	wave	NOUN	NN	_	9	pobj	_	_
+13	*PRO*	*pro*	NOUN	NN	_	14	nsubj	_	_
+14	use	use	VERB	VB	_	0	root	_	_
+15	the	the	DET	DT	_	16	det	_	_
+16	car	car	NOUN	NN	_	14	dobj	_	_
+17	*PRO*	*pro*	NOUN	NN	_	14	dobj	_	_
+18	to	to	ADP	TO	_	19	aux	_	_
+19	ram	ram	VERB	VB	_	14	vmod	_	_
+20	them	they	PRON	PRP	_	19	dobj	_	_
+21	.	.	PUNCT	.	_	14	punct	_	_
+

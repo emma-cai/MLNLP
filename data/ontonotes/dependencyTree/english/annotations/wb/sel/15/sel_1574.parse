@@ -1,0 +1,10 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	remember	remember	VERB	VBP	_	0	root	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	diagnostics	diagnostic	NOUN	NNS	_	5	nn	_	_
+5	problem	problem	NOUN	NN	_	2	dobj	_	_
+6	and	and	CONJ	CC	_	5	cc	_	_
+7	second	second	ADJ	JJ	_	8	amod	_	_
+8	opinion	opinion	NOUN	NN	_	5	conj	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
+

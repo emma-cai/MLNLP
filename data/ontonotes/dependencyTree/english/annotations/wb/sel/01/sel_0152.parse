@@ -1,0 +1,11 @@
+1	White	White	PROPN	NNP	_	4	nsubj	_	_
+2	Can	can	AUX	MD	_	4	aux	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	bring	bring	VERB	VB	_	0	root	_	_
+5	Louise	Louise	PROPN	NNP	_	4	dobj	_	_
+6	in	in	ADV	RB	_	4	advmod	_	_
+7	at	at	ADP	IN	_	4	prep	_	_
+8	this	this	DET	DT	_	9	det	_	_
+9	point	point	NOUN	NN	_	7	pobj	_	_
+10	?	?	PUNCT	.	_	4	punct	_	_
+

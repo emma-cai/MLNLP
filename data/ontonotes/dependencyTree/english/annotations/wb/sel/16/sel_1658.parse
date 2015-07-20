@@ -1,0 +1,6 @@
+1	Sharif	Sharif	PROPN	NNP	_	2	nn	_	_
+2	Brothers	Brothers	PROPN	NNP	_	4	nsubj	_	_
+3	can	can	AUX	MD	_	4	aux	_	_
+4	return	return	VERB	VB	_	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	_
+

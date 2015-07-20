@@ -1,0 +1,10 @@
+(NP (NP (NNS items))
+         (SBAR (WHNP (X 0))
+               (S (NP (NN woman))
+                  (VP (VBP carry)
+                      (NP (NN *T*-1))
+                      (PP (IN in)
+                              (NP (PRP$ their)
+                                  (NNS bags))))))
+         (. .))
+

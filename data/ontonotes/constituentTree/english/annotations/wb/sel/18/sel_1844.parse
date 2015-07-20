@@ -1,0 +1,10 @@
+(S (S (NP (NN *PRO*))
+                   (VP (VB Sprinkle)
+                       (PP (IN with)
+                               (NP (NNS nuts)))))
+            (: ;)
+            (S (NP (NN *PRO*))
+                   (VP (VB serve)
+                       (ADVP (RB immediately))))
+            (. .))
+

@@ -1,0 +1,9 @@
+(FRAG (ADJP (JJ Better))
+           (S (NP (NN *PRO*))
+              (VP (TO to)
+                  (VP (VB try)
+                      (NP (DT a)
+                          (NN mac)
+                          (NN solution)))))
+           (. .))
+

@@ -1,0 +1,25 @@
+1	Anyone	anyone	NOUN	NN	_	14	nsubj	_	_
+2	quick	quick	ADJ	JJ	_	1	amod	_	_
+3	enough	enough	ADV	RB	_	2	advmod	_	_
+4	*PRO*	*pro*	NOUN	NN	_	7	nsubj	_	_
+5	to	to	ADP	TO	_	7	aux	_	_
+6	even	even	ADV	RB	_	7	advmod	_	_
+7	back	back	VERB	VB	_	2	dep	_	_
+8	into	into	ADP	IN	_	7	prep	_	_
+9	the	the	DET	DT	_	10	det	_	_
+10	role	role	NOUN	NN	_	8	pobj	_	_
+11	of	of	ADP	IN	_	10	prep	_	_
+12	Hero	Hero	PROPN	NNP	_	11	pobj	_	_
+13	can	can	AUX	MD	_	14	aux	_	_
+14	punch	punch	VERB	VB	_	0	root	_	_
+15	you	you	PRON	PRP	_	14	dobj	_	_
+16	out	out	PART	RP	_	14	prt	_	_
+17	faster	faster	ADV	RBR	_	14	advmod	_	_
+18	than	than	ADP	IN	_	21	mark	_	_
+19	you	you	PRON	PRP	_	21	nsubj	_	_
+20	can	can	AUX	MD	_	21	aux	_	_
+21	pull	pull	VERB	VB	_	17	advcl	_	_
+22	the	the	DET	DT	_	23	det	_	_
+23	trigger	trigger	NOUN	NN	_	21	dobj	_	_
+24	.	.	PUNCT	.	_	14	punct	_	_
+

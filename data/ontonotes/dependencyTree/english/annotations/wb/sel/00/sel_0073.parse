@@ -1,0 +1,22 @@
+1	With	with	ADP	IN	_	10	prep	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	coaching	coach	VERB	VBG	_	1	pcomp	_	_
+4	from	from	ADP	IN	_	3	prep	_	_
+5	supervisor	supervisor	NOUN	NN	_	4	pobj	_	_
+6	,	,	PUNCT	,	_	10	punct	_	_
+7	*PRO*	*pro*	NOUN	NN	_	10	nsubj	_	_
+8	may	may	AUX	MD	_	10	aux	_	_
+9	concurrently	concurrently	ADV	RB	_	10	advmod	_	_
+10	apply	apply	VERB	VB	_	0	root	_	_
+11	a	a	DET	DT	_	12	det	_	_
+12	technology	technology	NOUN	NN	_	10	dobj	_	_
+13	across	across	ADP	IN	_	10	prep	_	_
+14	more	more	ADJ	JJR	_	15	mwe	_	_
+15	than	than	ADP	IN	_	16	quantmod	_	_
+16	one	one	NUM	CD	_	17	num	_	_
+17	project	project	NOUN	NN	_	13	pobj	_	_
+18	or	or	CONJ	CC	_	17	cc	_	_
+19	work	work	NOUN	NN	_	20	nn	_	_
+20	cell	cell	NOUN	NN	_	17	conj	_	_
+21	.	.	PUNCT	.	_	10	punct	_	_
+

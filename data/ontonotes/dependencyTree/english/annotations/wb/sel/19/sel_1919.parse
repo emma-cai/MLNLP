@@ -1,0 +1,18 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	have	have	VERB	VBP	_	0	root	_	_
+3	code	code	NOUN	NN	_	2	dobj	_	_
+4	*ICH*-2	*ich*-2	X	X	_	3	dep	_	_
+5	in	in	ADP	IN	_	2	prep	_	_
+6	CherryPy	CherryPy	PROPN	NNP	_	10	poss	_	_
+7	's	's	PART	POS	_	6	possessive	_	_
+8	shutdown	shutdown	NOUN	NN	_	9	nn	_	_
+9	task	task	NOUN	NN	_	10	nn	_	_
+10	list	list	NOUN	NN	_	5	pobj	_	_
+11	0	0	X	X	_	14	dobj	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	14	nsubj	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	stop	stop	VERB	VB	_	2	xcomp	_	_
+15	those	those	DET	DT	_	16	det	_	_
+16	threads	thread	NOUN	NNS	_	14	dobj	_	_
+17	.	.	PUNCT	.	_	2	punct	_	_
+

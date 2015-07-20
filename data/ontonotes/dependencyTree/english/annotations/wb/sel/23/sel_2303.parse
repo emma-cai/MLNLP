@@ -1,0 +1,26 @@
+1	When	when	ADV	WRB	_	4	advmod	_	_
+2	a	a	DET	DT	_	3	det	_	_
+3	browser	browser	NOUN	NN	_	4	nsubj	_	_
+4	starts	start	VERB	VBZ	_	23	advcl	_	_
+5	*-1	*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	edge	edge	VERB	VB	_	4	xcomp	_	_
+8	near	near	ADV	RB	_	7	advmod	_	_
+9	to	to	ADP	IN	_	8	prep	_	_
+10	*PRO*	*pro*	NOUN	NN	_	11	nsubj	_	_
+11	consuming	consume	VERB	VBG	_	9	pcomp	_	_
+12	500	500	NUM	CD	_	13	num	_	_
+13	MB	mb	NOUN	NNS	_	11	dobj	_	_
+14	of	of	ADP	IN	_	13	prep	_	_
+15	RAM	ram	NOUN	NN	_	14	pobj	_	_
+16	on	on	ADP	IN	_	11	prep	_	_
+17	a	a	DET	DT	_	19	det	_	_
+18	regular	regular	ADJ	JJ	_	19	amod	_	_
+19	basis	basis	NOUN	NN	_	16	pobj	_	_
+20	*T*-2	*t*-2	X	X	_	7	advmod	_	_
+21	,	,	PUNCT	,	_	23	punct	_	_
+22	something	something	NOUN	NN	_	23	nsubj	_	_
+23	is	be	VERB	VBZ	_	0	root	_	_
+24	wrong	wrong	ADJ	JJ	_	23	acomp	_	_
+25	.	.	PUNCT	.	_	23	punct	_	_
+

@@ -1,0 +1,27 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Stand	stand	VERB	VB	_	0	root	_	_
+3	out	out	PART	RP	_	2	prt	_	_
+4	from	from	ADP	IN	_	2	prep	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	crowd	crowd	NOUN	NN	_	4	pobj	_	_
+7	and	and	CONJ	CC	_	2	cc	_	_
+8	always	always	ADV	RB	_	9	advmod	_	_
+9	carry	carry	VERB	VB	_	2	conj	_	_
+10	good	good	ADJ	JJ	_	12	amod	_	_
+11	business	business	NOUN	NN	_	12	nn	_	_
+12	cards	card	NOUN	NNS	_	9	dobj	_	_
+13	with	with	ADP	IN	_	9	prep	_	_
+14	you	you	PRON	PRP	_	13	pobj	_	_
+15	,	,	PUNCT	,	_	2	punct	_	_
+16	and	and	CONJ	CC	_	2	cc	_	_
+17	do	do	VERB	VB	_	19	aux	_	_
+18	n't	not	ADV	RB	_	19	neg	_	_
+19	be	be	VERB	VB	_	2	conj	_	_
+20	shy	shy	ADJ	JJ	_	19	acomp	_	_
+21	about	about	ADP	IN	_	20	prep	_	_
+22	*PRO*	*pro*	NOUN	NN	_	23	nsubj	_	_
+23	handing	hand	VERB	VBG	_	21	pcomp	_	_
+24	them	they	PRON	PRP	_	23	dobj	_	_
+25	out	out	PART	RP	_	23	prt	_	_
+26	.	.	PUNCT	.	_	2	punct	_	_
+

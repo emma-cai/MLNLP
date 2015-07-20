@@ -1,0 +1,20 @@
+1	And	and	CONJ	CC	_	3	cc	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	confess	confess	VERB	VBZ	_	0	root	_	_
+4	that	that	ADP	IN	_	11	mark	_	_
+5	these	these	DET	DT	_	7	det	_	_
+6	brutal	brutal	ADJ	JJ	_	7	amod	_	_
+7	facts	fact	NOUN	NNS	_	11	nsubj	_	_
+8	do	do	VERB	VBP	_	11	aux	_	_
+9	at	at	ADP	IN	_	11	prep	_	_
+10	times	time	NOUN	NNS	_	9	pobj	_	_
+11	incline	incline	VERB	VB	_	3	ccomp	_	_
+12	me	I	PRON	PRP	_	11	dobj	_	_
+13	*PRO*-1	*pro*-1	NOUN	NN	_	11	dobj	_	_
+14	to	to	ADP	TO	_	15	aux	_	_
+15	cry	cry	VERB	VB	_	11	vmod	_	_
+16	out	out	PART	RP	_	15	prt	_	_
+17	in	in	ADP	IN	_	15	prep	_	_
+18	despair	despair	NOUN	NN	_	17	pobj	_	_
+19	.	.	PUNCT	.	_	3	punct	_	_
+

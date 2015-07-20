@@ -1,0 +1,20 @@
+1	First	first	ADV	RB	_	4	advmod	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	it	it	PRON	PRP	_	4	nsubj	_	_
+4	shortlists	shortlist	VERB	VBZ	_	0	root	_	_
+5	20	20	NUM	CD	_	8	num	_	_
+6	-	-	PUNCT	HYPH	_	5	punct	_	_
+7	odd	odd	ADJ	JJ	_	5	quantmod	_	_
+8	candidates	candidate	NOUN	NNS	_	4	dobj	_	_
+9	and	and	CONJ	CC	_	4	cc	_	_
+10	declares	declare	VERB	VBZ	_	4	conj	_	_
+11	that	that	ADP	IN	_	17	mark	_	_
+12	none	none	NOUN	NN	_	17	nsubjpass	_	_
+13	outside	outside	ADP	IN	_	12	prep	_	_
+14	it	it	PRON	PRP	_	13	pobj	_	_
+15	would	would	AUX	MD	_	17	aux	_	_
+16	be	be	VERB	VB	_	17	auxpass	_	_
+17	considered	consider	VERB	VBN	_	10	ccomp	_	_
+18	*-1	*-1	NOUN	NN	_	17	dobj	_	_
+19	.	.	PUNCT	.	_	4	punct	_	_
+

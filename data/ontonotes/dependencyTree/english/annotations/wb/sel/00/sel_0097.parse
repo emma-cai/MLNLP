@@ -1,0 +1,21 @@
+1	But	but	CONJ	CC	_	18	cc	_	_
+2	when	when	ADV	WRB	_	4	advmod	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	say	say	VERB	VBP	_	18	dep	_	_
+5	that	that	ADP	IN	_	9	mark	_	_
+6	gain	gain	NOUN	NN	_	9	nsubj	_	_
+7	will	will	AUX	MD	_	9	aux	_	_
+8	always	always	ADV	RB	_	9	advmod	_	_
+9	be	be	VERB	VB	_	4	ccomp	_	_
+10	1	1	NUM	CD	_	9	xcomp	_	_
+11	*T*-1	*t*-1	X	X	_	4	advmod	_	_
+12	,	,	PUNCT	,	_	18	punct	_	_
+13	in	in	ADP	IN	_	18	prep	_	_
+14	which	which	DET	WDT	_	15	det	_	_
+15	frequency	frequency	NOUN	NN	_	13	pobj	_	_
+16	does	do	VERB	VBZ	_	18	aux	_	_
+17	this	this	DET	DT	_	18	nsubj	_	_
+18	apply	apply	VERB	VB	_	0	root	_	_
+19	*T*-2	*t*-2	X	X	_	18	prep	_	_
+20	?	?	PUNCT	.	_	18	punct	_	_
+

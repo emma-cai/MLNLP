@@ -1,0 +1,14 @@
+1	did	do	VERB	VBD	_	5	aux	_	_
+2	n't	not	ADV	RB	_	5	neg	_	_
+3	he	he	PRON	PRP	_	5	nsubj	_	_
+4	just	just	ADV	RB	_	5	advmod	_	_
+5	rip	rip	VERB	VB	_	0	root	_	_
+6	off	off	PART	RP	_	5	prt	_	_
+7	Robert	Robert	PROPN	NNP	_	8	nn	_	_
+8	Adam	Adam	PROPN	NNP	_	12	nn	_	_
+9	and	and	CONJ	CC	_	8	cc	_	_
+10	Tommy	Tommy	PROPN	NNP	_	11	nn	_	_
+11	Sheraton	Sheraton	PROPN	NNP	_	8	conj	_	_
+12	designs	design	NOUN	NNS	_	5	dobj	_	_
+13	?	?	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,18 @@
+1	Today	today	NOUN	NN	_	2	nsubj	_	_
+2	is	be	VERB	VBZ	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	deadline	deadline	NOUN	NN	_	2	xcomp	_	_
+5	for	for	ADP	IN	_	4	prep	_	_
+6	DeFazio	DeFazio	PROPN	NNP	_	8	poss	_	_
+7	's	's	PART	POS	_	6	possessive	_	_
+8	response	response	NOUN	NN	_	5	pobj	_	_
+9	...	...	X	NFP	_	2	punct	_	_
+10	*PRO*	*pro*	NOUN	NN	_	11	nsubj	_	_
+11	call	call	VERB	VB	_	2	parataxis	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	##'s	##'s	NOUN	NNS	_	11	dobj	_	_
+14	below	below	ADV	RB	_	13	advmod	_	_
+15	and	and	CONJ	CC	_	11	cc	_	_
+16	pressure	pressure	VERB	VB	_	11	conj	_	_
+17	!!	!!	PUNCT	.	_	2	punct	_	_
+

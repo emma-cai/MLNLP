@@ -1,0 +1,9 @@
+(SBARQ (WHADVP (WRB How))
+            (SQ (VBD did)
+                (NP (DT the)
+                        (NNP Mayor))
+                (VP (VB handle)
+                    (NP (CD 911))
+                    (ADVP (X *T*-1))))
+            (. ?))
+

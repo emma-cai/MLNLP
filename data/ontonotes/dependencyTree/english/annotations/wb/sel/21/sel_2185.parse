@@ -1,0 +1,27 @@
+1	We	we	PRON	PRP	_	2	nsubj	_	_
+2	meet	meet	VERB	VBP	_	0	root	_	_
+3	up	up	PART	RP	_	2	prt	_	_
+4	with	with	ADP	IN	_	2	prep	_	_
+5	Paul	Paul	PROPN	NNP	_	4	pobj	_	_
+6	occasionally	occasionally	ADV	RB	_	2	advmod	_	_
+7	for	for	ADP	IN	_	2	prep	_	_
+8	fun	fun	NOUN	NN	_	7	pobj	_	_
+9	and	and	CONJ	CC	_	8	cc	_	_
+10	games	game	NOUN	NNS	_	8	conj	_	_
+11	I	I	PRON	PRP	_	13	nsubj	_	_
+12	might	might	AUX	MD	_	13	aux	_	_
+13	write	write	VERB	VB	_	2	parataxis	_	_
+14	these	these	DET	DT	_	13	dobj	_	_
+15	down	down	PART	RP	_	13	prt	_	_
+16	someday	someday	ADV	RB	_	13	advmod	_	_
+17	you	you	PRON	PRP	_	20	nsubj	_	_
+18	'll	'll	AUX	MD	_	20	aux	_	_
+19	just	just	ADV	RB	_	20	advmod	_	_
+20	have	have	VERB	VB	_	2	parataxis	_	_
+21	*-1	*-1	NOUN	NN	_	20	dobj	_	_
+22	to	to	ADP	TO	_	23	aux	_	_
+23	wait	wait	VERB	VB	_	20	ccomp	_	_
+24	and	and	CONJ	CC	_	23	cc	_	_
+25	see	see	VERB	VB	_	23	conj	_	_
+26	!	!	PUNCT	.	_	2	punct	_	_
+

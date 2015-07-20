@@ -1,0 +1,6 @@
+1	Free	free	ADJ	JJ	_	2	amod	_	_
+2	men	man	NOUN	NNS	_	3	nsubj	_	_
+3	own	own	VERB	VBP	_	0	root	_	_
+4	guns	gun	NOUN	NNS	_	3	dobj	_	_
+5	-	-	PUNCT	.	_	3	punct	_	_
+

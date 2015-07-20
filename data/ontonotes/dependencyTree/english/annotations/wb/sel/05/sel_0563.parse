@@ -1,0 +1,20 @@
+1	Clement	clement	NOUN	NN	_	2	nsubj	_	_
+2	said	say	VERB	VBD	_	0	root	_	_
+3	0	0	X	X	_	6	dep	_	_
+4	it	it	PRON	PRP	_	6	nsubj	_	_
+5	could	could	AUX	MD	_	6	aux	_	_
+6	take	take	VERB	VB	_	2	ccomp	_	_
+7	days	day	NOUN	NNS	_	6	tmod	_	_
+8	before	before	ADP	IN	_	11	mark	_	_
+9	scientists	scientist	NOUN	NNS	_	11	nsubj	_	_
+10	can	can	AUX	MD	_	11	aux	_	_
+11	declare	declare	VERB	VB	_	6	advcl	_	_
+12	with	with	ADP	IN	_	11	prep	_	_
+13	certainty	certainty	NOUN	NN	_	12	pobj	_	_
+14	whether	whether	ADP	IN	_	17	mark	_	_
+15	the	the	DET	DT	_	16	det	_	_
+16	explosion	explosion	NOUN	NN	_	17	nsubj	_	_
+17	was	be	VERB	VBD	_	11	ccomp	_	_
+18	nuclear	nuclear	ADJ	JJ	_	17	acomp	_	_
+19	.	.	PUNCT	.	_	2	punct	_	_
+

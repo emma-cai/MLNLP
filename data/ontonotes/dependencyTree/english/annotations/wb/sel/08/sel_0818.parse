@@ -1,0 +1,17 @@
+1	And	and	CONJ	CC	_	5	cc	_	_
+2	you	you	PRON	PRP	_	5	nsubj	_	_
+3	may	may	AUX	MD	_	5	aux	_	_
+4	even	even	ADV	RB	_	5	advmod	_	_
+5	benefit	benefit	VERB	VB	_	0	root	_	_
+6	as	as	ADP	IN	_	9	mark	_	_
+7	quality	quality	NOUN	NN	_	9	nsubj	_	_
+8	will	will	AUX	MD	_	9	aux	_	_
+9	rise	rise	VERB	VB	_	5	advcl	_	_
+10	even	even	ADV	RB	_	15	advmod	_	_
+11	as	as	ADP	IN	_	15	mark	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	riskier	riskier	ADJ	JJR	_	14	amod	_	_
+14	instruments	instrument	NOUN	NNS	_	15	nsubj	_	_
+15	fall	fall	VERB	VBP	_	9	advcl	_	_
+16	.	.	PUNCT	.	_	5	punct	_	_
+

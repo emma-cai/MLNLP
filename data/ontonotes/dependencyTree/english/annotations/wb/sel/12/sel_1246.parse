@@ -1,0 +1,10 @@
+1	Plenty	plenty	NOUN	NN	_	5	nsubj	_	_
+2	of	of	ADP	IN	_	1	prep	_	_
+3	60s	60	NOUN	NNS	_	4	nn	_	_
+4	people	people	NOUN	NNS	_	2	pobj	_	_
+5	own	own	VERB	VBP	_	0	root	_	_
+6	their	they	PRON	PRP$	_	7	poss	_	_
+7	house	house	NOUN	NN	_	5	dobj	_	_
+8	outright	outright	ADV	RB	_	5	advmod	_	_
+9	.	.	PUNCT	.	_	5	punct	_	_
+

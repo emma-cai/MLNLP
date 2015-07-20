@@ -1,0 +1,25 @@
+1	Gensets	genset	NOUN	NNS	_	2	nsubj	_	_
+2	had	have	VERB	VBD	_	0	root	_	_
+3	*-1	*-1	NOUN	NN	_	2	dobj	_	_
+4	to	to	ADP	TO	_	5	aux	_	_
+5	be	be	VERB	VB	_	2	ccomp	_	_
+6	drastically	drastically	ADV	RB	_	7	advmod	_	_
+7	oversized	oversized	ADJ	JJ	_	5	acomp	_	_
+8	*PRO*-2	*pro*-2	NOUN	NN	_	5	dobj	_	_
+9	to	to	ADP	TO	_	10	aux	_	_
+10	handle	handle	VERB	VB	_	5	xcomp	_	_
+11	UPS	up	NOUN	NN	_	10	dobj	_	_
+12	because	because	ADP	IN	_	17	mark	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	gensets	genset	NOUN	NNS	_	17	nsubj	_	_
+15	did	do	VERB	VBD	_	17	aux	_	_
+16	n't	not	ADV	RB	_	17	neg	_	_
+17	like	like	VERB	VB	_	5	advcl	_	_
+18	the	the	DET	DT	_	19	det	_	_
+19	harmonics	harmonic	NOUN	NNS	_	17	dobj	_	_
+20	that	that	DET	WDT	_	22	dobj	_	_
+21	UPS	up	NOUN	NN	_	22	nsubj	_	_
+22	drew	draw	VERB	VBD	_	19	rcmod	_	_
+23	*T*-4	*t*-4	NOUN	NN	_	22	dobj	_	_
+24	.	.	PUNCT	.	_	2	punct	_	_
+

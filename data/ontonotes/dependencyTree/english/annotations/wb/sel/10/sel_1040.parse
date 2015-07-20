@@ -1,0 +1,16 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	subwoofer	subwoofer	NOUN	NN	_	5	nsubj	_	_
+3	itself	itself	PRON	PRP	_	2	npadvmod	_	_
+4	will	will	AUX	MD	_	5	aux	_	_
+5	handle	handle	VERB	VB	_	0	root	_	_
+6	350	350	NUM	CD	_	7	num	_	_
+7	watts	watt	NOUN	NNS	_	5	dobj	_	_
+8	*PRO*	*pro*	NOUN	NN	_	9	nsubj	_	_
+9	sustained	sustain	VERB	VBN	_	5	dep	_	_
+10	*	*	NOUN	NN	_	9	dobj	_	_
+11	,	,	PUNCT	,	_	5	punct	_	_
+12	500	500	NUM	CD	_	13	num	_	_
+13	watts	watt	NOUN	NNS	_	5	dep	_	_
+14	peak	peak	NOUN	NN	_	13	dobj	_	_
+15	.	.	PUNCT	.	_	5	punct	_	_
+

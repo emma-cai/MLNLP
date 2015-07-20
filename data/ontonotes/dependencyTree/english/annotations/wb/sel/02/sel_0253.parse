@@ -1,0 +1,8 @@
+1	We	we	PRON	PRP	_	3	nsubj	_	_
+2	just	just	ADV	RB	_	3	advmod	_	_
+3	call	call	VERB	VBP	_	0	root	_	_
+4	em	em	PRON	PRP	_	3	dobj	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	6	nsubj	_	_
+6	Democrats	Democrats	PROPN	NNPS	_	3	xcomp	_	_
+7	.	.	PUNCT	.	_	3	punct	_	_
+

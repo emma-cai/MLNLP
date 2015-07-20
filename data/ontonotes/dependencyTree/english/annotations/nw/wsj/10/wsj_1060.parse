@@ -1,0 +1,38 @@
+1	Concord	Concord	PROPN	NNP	_	3	nn	_	_
+2	Camera	Camera	PROPN	NNP	_	3	nn	_	_
+3	Corp.	Corp.	PROPN	NNP	_	4	nsubj	_	_
+4	completed	complete	VERB	VBD	_	0	root	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	acquisition	acquisition	NOUN	NN	_	4	dobj	_	_
+7	of	of	ADP	IN	_	6	prep	_	_
+8	Peter	Peter	PROPN	NNP	_	12	nn	_	_
+9	Bauser	Bauser	PROPN	NNP	_	12	nn	_	_
+10	G.m.b	G.m.b	PROPN	NNP	_	12	nn	_	_
+11	.	.	PUNCT	.	_	12	punct	_	_
+12	H.	H.	PROPN	NNP	_	7	pobj	_	_
+13	,	,	PUNCT	,	_	12	punct	_	_
+14	a	a	DET	DT	_	19	det	_	_
+15	West	west	ADJ	JJ	_	16	amod	_	_
+16	German	german	ADJ	JJ	_	19	amod	_	_
+17	photographic	photographic	ADJ	JJ	_	18	amod	_	_
+18	products	product	NOUN	NNS	_	19	nn	_	_
+19	distributor	distributor	NOUN	NN	_	12	appos	_	_
+20	.	.	PUNCT	.	_	4	punct	_	_
+
+1	Terms	term	NOUN	NNS	_	4	nsubjpass	_	_
+2	were	be	VERB	VBD	_	4	auxpass	_	_
+3	n't	not	ADV	RB	_	4	neg	_	_
+4	disclosed	disclose	VERB	VBN	_	0	root	_	_
+5	*-1	*-1	NOUN	NN	_	4	dobj	_	_
+6	.	.	PUNCT	.	_	4	punct	_	_
+
+1	Concord	Concord	PROPN	NNP	_	2	nsubj	_	_
+2	is	be	VERB	VBZ	_	0	root	_	_
+3	a	a	DET	DT	_	8	det	_	_
+4	camera	camera	NOUN	NN	_	8	nn	_	_
+5	and	and	CONJ	CC	_	4	cc	_	_
+6	photographic	photographic	ADJ	JJ	_	7	amod	_	_
+7	products	product	NOUN	NNS	_	4	conj	_	_
+8	company	company	NOUN	NN	_	2	xcomp	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
+

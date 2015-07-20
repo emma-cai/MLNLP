@@ -1,0 +1,27 @@
+1	Your	you	PRON	PRP$	_	2	poss	_	_
+2	squirming	squirming	NOUN	NN	_	7	nsubj	_	_
+3	and	and	CONJ	CC	_	2	cc	_	_
+4	abusive	abusive	ADJ	JJ	_	5	amod	_	_
+5	diversions	diversion	NOUN	NNS	_	2	conj	_	_
+6	only	only	ADV	RB	_	7	advmod	_	_
+7	serve	serve	VERB	VBP	_	0	root	_	_
+8	*PRO*-1	*pro*-1	NOUN	NN	_	7	dobj	_	_
+9	to	to	ADP	TO	_	10	aux	_	_
+10	make	make	VERB	VB	_	7	xcomp	_	_
+11	you	you	PRON	PRP	_	12	nsubj	_	_
+12	seem	seem	VERB	VB	_	10	ccomp	_	_
+13	*-3	*-3	NOUN	NN	_	16	nsubj	_	_
+14	a	a	DET	DT	_	16	det	_	_
+15	bigger	bigger	ADJ	JJR	_	16	amod	_	_
+16	fool	fool	NOUN	NN	_	12	xcomp	_	_
+17	than	than	ADP	IN	_	20	mark	_	_
+18	you	you	PRON	PRP	_	20	nsubj	_	_
+19	normally	normally	ADV	RB	_	20	advmod	_	_
+20	seek	seek	VERB	VBP	_	16	advcl	_	_
+21	*PRO*-2	*pro*-2	NOUN	NN	_	20	dobj	_	_
+22	to	to	ADP	TO	_	23	aux	_	_
+23	appear	appear	VERB	VB	_	20	xcomp	_	_
+24	*-4	*-4	NOUN	NN	_	25	nsubj	_	_
+25	*?*	*?*	NOUN	NN	_	23	xcomp	_	_
+26	.	.	PUNCT	.	_	7	punct	_	_
+

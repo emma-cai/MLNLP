@@ -1,0 +1,24 @@
+1	Secondly	secondly	ADV	RB	_	8	advmod	_	_
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	and	and	CONJ	CC	_	1	cc	_	_
+4	more	more	ADV	RBR	_	5	advmod	_	_
+5	importantly	importantly	ADV	RB	_	1	conj	_	_
+6	,	,	PUNCT	,	_	8	punct	_	_
+7	I	I	PRON	PRP	_	8	nsubj	_	_
+8	plugged	plug	VERB	VBD	_	0	root	_	_
+9	in	in	PART	RP	_	8	prt	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	headset	headset	NOUN	NN	_	8	dobj	_	_
+12	as	as	ADP	IN	_	14	mark	_	_
+13	*PRO*	*pro*	NOUN	NN	_	14	nsubj	_	_
+14	stated	state	VERB	VBN	_	8	advcl	_	_
+15	*-1	*-1	NOUN	NN	_	14	dobj	_	_
+16	in	in	ADP	IN	_	14	prep	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	manual	manual	NOUN	NN	_	16	pobj	_	_
+19	for	for	ADP	IN	_	22	mark	_	_
+20	it	it	PRON	PRP	_	22	nsubj	_	_
+21	to	to	ADP	TO	_	22	aux	_	_
+22	charge	charge	VERB	VB	_	8	advcl	_	_
+23	.	.	PUNCT	.	_	8	punct	_	_
+

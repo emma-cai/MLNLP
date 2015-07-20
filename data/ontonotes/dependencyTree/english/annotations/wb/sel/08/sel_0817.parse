@@ -1,0 +1,10 @@
+1	Feathers	feather	NOUN	NNS	_	3	nsubj	_	_
+2	eventually	eventually	ADV	RB	_	3	advmod	_	_
+3	fall	fall	VERB	VBP	_	0	root	_	_
+4	out	out	PART	RP	_	3	prt	_	_
+5	and	and	CONJ	CC	_	3	cc	_	_
+6	are	be	VERB	VBP	_	7	auxpass	_	_
+7	replaced	replace	VERB	VBN	_	3	conj	_	_
+8	*-1	*-1	NOUN	NN	_	7	dobj	_	_
+9	.	.	PUNCT	.	_	3	punct	_	_
+

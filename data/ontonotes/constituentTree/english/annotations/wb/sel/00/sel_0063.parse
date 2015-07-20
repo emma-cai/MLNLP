@@ -1,0 +1,12 @@
+(NP (NN Ability)
+         (S (NP (NN *PRO*))
+            (VP (TO to)
+                (VP (VB apply)
+                    (NP (JJ multiple)
+                        (JJ technical)
+                        (NNS solutions))
+                    (PP (IN to)
+                            (NP (NN business)
+                                (NNS problems))))))
+         (. .))
+

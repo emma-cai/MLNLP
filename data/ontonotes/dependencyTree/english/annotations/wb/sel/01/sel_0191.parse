@@ -1,0 +1,14 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Playing	play	VERB	VBG	_	10	csubj	_	_
+3	fair	fair	ADV	RB	_	2	advmod	_	_
+4	and	and	CONJ	CC	_	2	cc	_	_
+5	sending	send	VERB	VBG	_	2	conj	_	_
+6	OUT	out	ADV	RB	_	5	advmod	_	_
+7	your	you	PRON	PRP$	_	8	poss	_	_
+8	money	money	NOUN	NN	_	5	dobj	_	_
+9	will	will	AUX	MD	_	10	aux	_	_
+10	bring	bring	VERB	VB	_	0	root	_	_
+11	unbelievable	unbelievable	ADJ	JJ	_	12	amod	_	_
+12	returns	return	NOUN	NNS	_	10	dobj	_	_
+13	!	!	PUNCT	.	_	10	punct	_	_
+

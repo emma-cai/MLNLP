@@ -1,0 +1,11 @@
+1	May	may	AUX	MD	_	4	aux	_	_
+2	you	you	PRON	PRP	_	4	nsubj	_	_
+3	wisely	wisely	ADV	RB	_	4	advmod	_	_
+4	choose	choose	VERB	VB	_	0	root	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	be	be	VERB	VB	_	4	xcomp	_	_
+8	hungry	hungry	ADJ	JJ	_	7	acomp	_	_
+9	instead	instead	ADV	RB	_	4	advmod	_	_
+10	.	.	PUNCT	.	_	4	punct	_	_
+

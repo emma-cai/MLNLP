@@ -1,0 +1,22 @@
+1	In	in	ADP	IN	_	14	prep	_	_
+2	fact	fact	NOUN	NN	_	1	pobj	_	_
+3	,	,	PUNCT	,	_	14	punct	_	_
+4	the	the	DET	DT	_	7	det	_	_
+5	9	9	NUM	CD	_	7	num	_	_
+6	-	-	PUNCT	HYPH	_	7	punct	_	_
+7	11	11	NUM	CD	_	14	nsubj	_	_
+8	terrorists	terrorist	NOUN	NNS	_	7	dep	_	_
+9	,	,	PUNCT	,	_	14	punct	_	_
+10	in	in	ADP	IN	_	14	prep	_	_
+11	writing	writing	NOUN	NN	_	10	pobj	_	_
+12	,	,	PUNCT	,	_	14	punct	_	_
+13	only	only	ADV	RB	_	14	advmod	_	_
+14	demanded	demand	VERB	VBD	_	0	root	_	_
+15	that	that	ADP	IN	_	17	mark	_	_
+16	America	America	PROPN	NNP	_	17	nsubj	_	_
+17	stop	stop	VERB	VB	_	14	ccomp	_	_
+18	*-1	*-1	NOUN	NN	_	19	nsubj	_	_
+19	assisting	assist	VERB	VBG	_	17	dep	_	_
+20	Israel	Israel	PROPN	NNP	_	19	dobj	_	_
+21	.	.	PUNCT	.	_	14	punct	_	_
+

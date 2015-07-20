@@ -1,0 +1,11 @@
+(SQ (NP (NNP White))
+         (MD Can)
+         (NP (PRP I))
+         (VP (VB bring)
+             (NP (NNP Louise))
+             (ADVP (RB in))
+             (PP (IN at)
+                     (NP (DT this)
+                         (NN point))))
+         (. ?))
+

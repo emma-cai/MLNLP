@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	followed	follow	VERB	VBD	_	0	root	_	_
+3	him	he	PRON	PRP	_	2	dobj	_	_
+4	on	on	ADP	IN	_	2	prep	_	_
+5	several	several	ADJ	JJ	_	6	amod	_	_
+6	plays	play	NOUN	NNS	_	4	pobj	_	_
+7	and	and	CONJ	CC	_	2	cc	_	_
+8	he	he	PRON	PRP	_	10	nsubj	_	_
+9	either	either	CONJ	CC	_	10	preconj	_	_
+10	moved	move	VERB	VBD	_	2	conj	_	_
+11	opponents	opponent	NOUN	NNS	_	10	dobj	_	_
+12	backward	backward	ADV	RB	_	10	advmod	_	_
+13	or	or	CONJ	CC	_	10	cc	_	_
+14	sealed	seal	VERB	VBD	_	10	conj	_	_
+15	them	they	PRON	PRP	_	14	dobj	_	_
+16	off	off	PART	RP	_	14	prt	_	_
+17	on	on	ADP	IN	_	10	prep	_	_
+18	the	the	DET	DT	_	19	det	_	_
+19	plays	play	NOUN	NNS	_	17	pobj	_	_
+20	0	0	X	X	_	22	dobj	_	_
+21	I	I	PRON	PRP	_	22	nsubj	_	_
+22	watched	watch	VERB	VBD	_	19	rcmod	_	_
+23	*T*-1	*t*-1	NOUN	NN	_	22	dobj	_	_
+24	.	.	PUNCT	.	_	2	punct	_	_
+

@@ -1,0 +1,26 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Fill	fill	VERB	VB	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	pie	pie	NOUN	NN	_	2	dobj	_	_
+5	with	with	ADP	IN	_	2	prep	_	_
+6	stew	stew	NOUN	NN	_	5	pobj	_	_
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	place	place	VERB	VB	_	2	conj	_	_
+9	top	top	NOUN	NN	_	10	nn	_	_
+10	crust	crust	NOUN	NN	_	8	dobj	_	_
+11	and	and	CONJ	CC	_	2	cc	_	_
+12	with	with	ADP	IN	_	2	conj	_	_
+13	a	a	DET	DT	_	14	det	_	_
+14	fork	fork	NOUN	NN	_	12	pobj	_	_
+15	,	,	PUNCT	,	_	2	punct	_	_
+16	seal	seal	VERB	VB	_	2	conj	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	crusts	crust	NOUN	NNS	_	16	dobj	_	_
+19	together	together	ADV	RB	_	16	advmod	_	_
+20	then	then	ADV	RB	_	16	advmod	_	_
+21	poke	poke	VERB	VB	_	16	dep	_	_
+22	holes	hole	NOUN	NNS	_	21	dobj	_	_
+23	in	in	ADP	IN	_	21	prep	_	_
+24	top	top	NOUN	NN	_	23	pobj	_	_
+25	.	.	PUNCT	.	_	2	punct	_	_
+

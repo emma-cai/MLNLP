@@ -1,0 +1,10 @@
+(S (NP (PRP$ Your)
+                (NNS stories))
+        (VP (VBP bring)
+            (ADVP (RB back))
+            (NP (DT some)
+                (ADJP (RB really)
+                      (JJ bad))
+                (NNS memories)))
+        (. .))
+

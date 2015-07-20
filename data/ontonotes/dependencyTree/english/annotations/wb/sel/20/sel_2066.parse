@@ -1,0 +1,10 @@
+1	"	"	PUNCT	``	_	5	punct	_	_
+2	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+3	Ca	can	AUX	MD	_	5	aux	_	_
+4	n't	not	ADV	RB	_	5	neg	_	_
+5	tell	tell	VERB	VB	_	0	root	_	_
+6	without	without	ADP	IN	_	5	prep	_	_
+7	more	more	ADJ	JJR	_	8	amod	_	_
+8	info	info	NOUN	NN	_	6	pobj	_	_
+9	.	.	PUNCT	.	_	5	punct	_	_
+

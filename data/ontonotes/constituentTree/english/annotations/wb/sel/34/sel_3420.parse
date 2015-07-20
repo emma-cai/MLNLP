@@ -1,0 +1,9 @@
+(S (NP (DT No)
+                (NN foot))
+        (ADVP (RB EVER))
+        (VP (VBZ touches)
+            (NP (DT the)
+                (NN road)))
+        (. !)
+        (-RRB- -RRB-))
+

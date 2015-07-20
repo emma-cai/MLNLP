@@ -1,0 +1,12 @@
+(S (NP (PRP It))
+        (VP (VBD cost)
+            (NP (CD thirty)
+                (NNS dollars))
+            (S (NP (NN *PRO*))
+                   (VP (VB give)
+                       (CC or)
+                       (VB take)
+                       (NP (CD five)
+                           (NNS bucks)))))
+        (. .))
+

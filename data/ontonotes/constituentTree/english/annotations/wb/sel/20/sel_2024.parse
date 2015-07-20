@@ -1,0 +1,13 @@
+(S (S (NP (NN *PRO*-1))
+               (VP (VBG Being)
+                   (ADVP (RB naturally))
+                   (ADJP (RB well)
+                             (JJ endowed))))
+        (NP (PRP I))
+        (VP (VBP suppose)
+            (SBAR (X 0)
+                  (S (NP (PRP I))
+                     (VP (MD 'd)
+                         (VP (VB bounce))))))
+        (. .))
+

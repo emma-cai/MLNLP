@@ -1,0 +1,12 @@
+(S (NP (NNP Quintus))
+        (VP (VBD had)
+            (VP (VBN had)
+                (S (NP (PRP it))
+                   (VP (VBN drummed)
+                       (NP (NN *-1))
+                       (PP (IN into)
+                               (NP (PRP him)))
+                       (PP (IN in)
+                           (NP (NN training)))))))
+        (. .))
+

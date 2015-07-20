@@ -1,0 +1,11 @@
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	typically	typically	ADV	RB	_	3	advmod	_	_
+3	rack	rack	VERB	VBP	_	0	root	_	_
+4	off	off	PART	RP	_	3	prt	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	fruit	fruit	NOUN	NN	_	3	dobj	_	_
+7	after	after	ADP	IN	_	3	prep	_	_
+8	two	two	NUM	CD	_	9	num	_	_
+9	weeks	week	NOUN	NNS	_	7	pobj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+

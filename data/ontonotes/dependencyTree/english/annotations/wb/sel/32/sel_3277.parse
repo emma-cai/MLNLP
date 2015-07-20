@@ -1,0 +1,6 @@
+1	-LRB-	-lrb-	PUNCT	-LRB-	_	4	punct	_	_
+2	Newsprint	newsprint	NOUN	NN	_	4	nsubj	_	_
+3	really	really	ADV	RB	_	4	advmod	_	_
+4	sucks	suck	VERB	VBZ	_	0	root	_	_
+5	.	.	PUNCT	.	_	4	punct	_	_
+

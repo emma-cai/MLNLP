@@ -1,0 +1,17 @@
+1	If	if	ADP	IN	_	4	mark	_	_
+2	they	they	PRON	PRP	_	4	nsubj	_	_
+3	all	all	DET	DT	_	2	det	_	_
+4	prove	prove	VERB	VBP	_	9	advcl	_	_
+5	cowards	coward	NOUN	NNS	_	4	dobj	_	_
+6	,	,	PUNCT	,	_	9	punct	_	_
+7	my	my	PRON	PRP$	_	8	poss	_	_
+8	curses	curse	NOUN	NNS	_	9	nsubj	_	_
+9	fly	fly	VERB	VBP	_	0	root	_	_
+10	amongst	amongst	ADP	IN	_	9	prep	_	_
+11	them	they	PRON	PRP	_	10	pobj	_	_
+12	,	,	PUNCT	,	_	9	punct	_	_
+13	and	and	CONJ	CC	_	9	cc	_	_
+14	be	be	VERB	VBP	_	15	aux	_	_
+15	speeding	speed	VERB	VBG	_	9	conj	_	_
+16	!	!	PUNCT	.	_	9	punct	_	_
+

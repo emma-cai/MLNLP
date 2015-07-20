@@ -1,0 +1,16 @@
+1	Only	only	ADV	RB	_	2	quantmod	_	_
+2	363	363	NUM	CD	_	0	root	_	_
+3	if	if	ADP	IN	_	5	mark	_	_
+4	you	you	PRON	PRP	_	5	nsubj	_	_
+5	make	make	VERB	VBP	_	2	dep	_	_
+6	it	it	PRON	PRP	_	8	nsubj	_	_
+7	case	case	NOUN	NN	_	8	npadvmod	_	_
+8	sensitive	sensitive	ADJ	JJ	_	5	xcomp	_	_
+9	and	and	CONJ	CC	_	5	cc	_	_
+10	capitalize	capitalize	VERB	VBP	_	5	conj	_	_
+11	"	"	PUNCT	``	_	10	punct	_	_
+12	God	God	PROPN	NNP	_	10	dobj	_	_
+13	"	"	PUNCT	''	_	10	punct	_	_
+14	though	though	ADV	RB	_	2	dep	_	_
+15	...	...	PUNCT	,	_	2	punct	_	_
+

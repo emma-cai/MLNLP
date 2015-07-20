@@ -1,0 +1,10 @@
+(S (NP (DT These))
+        (VP (VBP are)
+            (NP (NP (DT some))
+                    (SBAR (WHNP (X 0))
+                          (S (NP (PRP I))
+                             (ADVP (RB immediately))
+                             (VP (VBP remember)
+                                 (NP (NN *T*-1)))))))
+        (. .))
+

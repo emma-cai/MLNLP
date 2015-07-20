@@ -1,0 +1,19 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	wrote	write	VERB	VBD	_	0	root	_	_
+3	:	:	PUNCT	:	_	2	punct	_	_
+4	I	I	PRON	PRP	_	6	nsubj	_	_
+5	never	never	ADV	RB	_	6	neg	_	_
+6	heard	hear	VERB	VBD	_	2	ccomp	_	_
+7	of	of	ADP	IN	_	6	prep	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	recommendation	recommendation	NOUN	NN	_	7	pobj	_	_
+10	*PRO*	*pro*	NOUN	NN	_	12	nsubj	_	_
+11	to	to	ADP	TO	_	12	aux	_	_
+12	incline	incline	VERB	VB	_	9	vmod	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	ladder	ladder	NOUN	NN	_	12	dobj	_	_
+15	at	at	ADP	IN	_	12	prep	_	_
+16	30	30	NUM	CD	_	17	num	_	_
+17	degrees	degree	NOUN	NNS	_	15	pobj	_	_
+18	.	.	PUNCT	.	_	2	punct	_	_
+

@@ -1,0 +1,7 @@
+(SQ (MD Will)
+         (NP (PRP you))
+         (VP (VB post)
+             (NP (DT the)
+                 (NN recipe)))
+         (. ?))
+

@@ -1,0 +1,13 @@
+(S (NP (PRP You))
+        (VP (MD can)
+            (PP (IN for)
+                (NP (JJ analog)
+                    (NNS channels)))
+            (VP (VB choose)
+                (SBAR (WHNP (WDT what)
+                                  (NN format))
+                          (S (NP (NNP EyeTV))
+                             (VP (VBZ uses)
+                                 (NP (NN *T*-1)))))))
+        (. .))
+

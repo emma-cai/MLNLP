@@ -1,0 +1,14 @@
+1	Will	Will	PROPN	NNP	_	2	nn	_	_
+2	McCorry	McCorry	PROPN	NNP	_	3	nsubj	_	_
+3	edged	edge	VERB	VBD	_	0	root	_	_
+4	out	out	PART	RP	_	3	prt	_	_
+5	Jean	Jean	PROPN	NNP	_	6	nn	_	_
+6	O'Shea	O'Shea	PROPN	NNP	_	3	dobj	_	_
+7	for	for	ADP	IN	_	3	prep	_	_
+8	high	high	ADJ	JJ	_	9	amod	_	_
+9	score	score	NOUN	NN	_	7	pobj	_	_
+10	among	among	ADP	IN	_	9	prep	_	_
+11	individual	individual	ADJ	JJ	_	12	amod	_	_
+12	entrants	entrant	NOUN	NNS	_	10	pobj	_	_
+13	.	.	PUNCT	.	_	3	punct	_	_
+

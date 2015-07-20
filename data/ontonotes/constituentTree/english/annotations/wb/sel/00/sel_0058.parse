@@ -1,0 +1,12 @@
+(S (NP (NN *PRO*))
+            (VP (VP (VB Mix)
+                    (ADVP (RB together)))
+                (CC &)
+                (VP (VB apply)
+                    (PP (IN on)
+                            (NP (DT the)
+                                (NN stomach)
+                                (CC &)
+                                (NN back)))))
+            (. .))
+

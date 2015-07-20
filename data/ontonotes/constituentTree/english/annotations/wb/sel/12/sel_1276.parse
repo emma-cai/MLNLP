@@ -1,0 +1,10 @@
+(S (NP (PRP I))
+        (VP (VBP wonder)
+            (SBAR (WHNP (WP who))
+                  (S (NP (DT the)
+                             (NNS hackers))
+                     (VP (MD would)
+                         (VP (VB pick)
+                             (NP (NN *T*-1)))))))
+        (. !))
+

@@ -1,0 +1,17 @@
+1	Brown	Brown	PROPN	NNP	_	3	poss	_	_
+2	's	's	PART	POS	_	1	possessive	_	_
+3	intervention	intervention	NOUN	NN	_	4	nsubj	_	_
+4	came	come	VERB	VBD	_	0	root	_	_
+5	as	as	ADP	IN	_	10	mark	_	_
+6	European	European	PROPN	NNP	_	7	nn	_	_
+7	Union	Union	PROPN	NNP	_	9	nn	_	_
+8	electoral	electoral	ADJ	JJ	_	9	amod	_	_
+9	monitors	monitor	NOUN	NNS	_	10	nsubj	_	_
+10	declared	declare	VERB	VBD	_	4	advcl	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	election	election	NOUN	NN	_	14	dep	_	_
+13	"	"	PUNCT	``	_	14	punct	_	_
+14	flawed	flawed	ADJ	JJ	_	10	dep	_	_
+15	"	"	PUNCT	''	_	14	punct	_	_
+16	.	.	PUNCT	.	_	4	punct	_	_
+

@@ -1,0 +1,10 @@
+(S (INTJ (UH OK))
+        (NP (NNP Google)
+                (NNP Groups))
+        (ADVP (RB now))
+        (VP (VBZ lets)
+            (S (NP (PRP you))
+               (VP (VB post)
+                   (NP (NNS pictures)))))
+        (. .))
+

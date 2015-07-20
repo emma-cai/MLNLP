@@ -1,0 +1,22 @@
+1	Certainly	certainly	ADV	RB	_	5	advmod	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	you	you	PRON	PRP	_	5	nsubj	_	_
+4	can	can	AUX	MD	_	5	aux	_	_
+5	install	install	VERB	VB	_	0	root	_	_
+6	any	any	DET	DT	_	7	det	_	_
+7	instruments	instrument	NOUN	NNS	_	5	dobj	_	_
+8	0	0	X	X	_	10	dobj	_	_
+9	you	you	PRON	PRP	_	10	nsubj	_	_
+10	choose	choose	VERB	VBP	_	7	rcmod	_	_
+11	*T*-1	*t*-1	NOUN	NN	_	10	dobj	_	_
+12	in	in	ADP	IN	_	5	prep	_	_
+13	your	you	PRON	PRP$	_	14	poss	_	_
+14	aircraft	aircraft	NOUN	NN	_	12	pobj	_	_
+15	licensed	license	VERB	VBN	_	14	vmod	_	_
+16	*	*	NOUN	NN	_	15	dobj	_	_
+17	in	in	ADP	IN	_	15	prep	_	_
+18	the	the	DET	DT	_	20	det	_	_
+19	Experimental	experimental	ADJ	JJ	_	20	amod	_	_
+20	category	category	NOUN	NN	_	17	pobj	_	_
+21	.	.	PUNCT	.	_	5	punct	_	_
+

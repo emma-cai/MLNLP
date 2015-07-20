@@ -1,0 +1,17 @@
+1	When	when	ADV	WRB	_	3	advmod	_	_
+2	humans	human	NOUN	NNS	_	3	nsubj	_	_
+3	forget	forget	VERB	VBP	_	14	advcl	_	_
+4	0	0	X	X	_	7	dep	_	_
+5	they	they	PRON	PRP	_	7	nsubjpass	_	_
+6	are	be	VERB	VBP	_	7	auxpass	_	_
+7	meant	mean	VERB	VBN	_	3	ccomp	_	_
+8	*-1	*-1	NOUN	NN	_	7	dobj	_	_
+9	to	to	ADP	TO	_	10	aux	_	_
+10	be	be	VERB	VB	_	7	xcomp	_	_
+11	angels	angel	NOUN	NNS	_	10	xcomp	_	_
+12	*T*-2	*t*-2	X	X	_	3	advmod	_	_
+13	they	they	PRON	PRP	_	14	nsubj	_	_
+14	become	become	VERB	VBP	_	0	root	_	_
+15	demons	demon	NOUN	NNS	_	14	xcomp	_	_
+16	.	.	PUNCT	.	_	14	punct	_	_
+

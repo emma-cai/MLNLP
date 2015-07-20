@@ -1,0 +1,26 @@
+1	But	but	CONJ	CC	_	14	cc	_	_
+2	if	if	ADP	IN	_	5	mark	_	_
+3	Iraq	Iraq	PROPN	NNP	_	5	nsubj	_	_
+4	has	have	VERB	VBZ	_	5	aux	_	_
+5	pummeled	pummel	VERB	VBN	_	14	advcl	_	_
+6	Mr.	Mr.	PROPN	NNP	_	7	nn	_	_
+7	Blair	Blair	PROPN	NNP	_	9	poss	_	_
+8	's	's	PART	POS	_	7	possessive	_	_
+9	reputation	reputation	NOUN	NN	_	5	dobj	_	_
+10	,	,	PUNCT	,	_	14	punct	_	_
+11	it	it	PRON	PRP	_	14	nsubj	_	_
+12	has	have	VERB	VBZ	_	14	aux	_	_
+13	also	also	ADV	RB	_	14	advmod	_	_
+14	shone	shine	VERB	VBN	_	0	root	_	_
+15	a	a	DET	DT	_	18	det	_	_
+16	very	very	ADV	RB	_	17	advmod	_	_
+17	harsh	harsh	ADJ	JJ	_	18	amod	_	_
+18	light	light	NOUN	NN	_	14	dobj	_	_
+19	on	on	ADP	IN	_	14	prep	_	_
+20	the	the	DET	DT	_	24	det	_	_
+21	British	british	ADJ	JJ	_	24	amod	_	_
+22	and	and	CONJ	CC	_	21	cc	_	_
+23	European	european	ADJ	JJ	_	21	conj	_	_
+24	left	left	NOUN	NN	_	19	pobj	_	_
+25	.	.	PUNCT	.	_	14	punct	_	_
+

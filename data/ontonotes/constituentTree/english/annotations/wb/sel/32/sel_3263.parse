@@ -1,0 +1,13 @@
+(FRAG (NP (JJ Dear)
+                   (NNP Info))
+           (, ,)
+           (ADJP (JJ Sorry)
+                     (SBAR (X 0)
+                           (S (NP (NN life))
+                              (VP (VBZ sucks)
+                                  (PP (IN for)
+                                      (NP (PRP you)))
+                                  (ADVP (RB right)
+                                            (RB now))))))
+           (. .))
+

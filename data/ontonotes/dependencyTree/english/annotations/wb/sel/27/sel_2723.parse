@@ -1,0 +1,9 @@
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	normally	normally	ADV	RB	_	4	advmod	_	_
+3	just	just	ADV	RB	_	4	advmod	_	_
+4	rack	rack	VERB	VBP	_	0	root	_	_
+5	during	during	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	boil	boil	NOUN	NN	_	5	pobj	_	_
+8	.	.	PUNCT	.	_	4	punct	_	_
+

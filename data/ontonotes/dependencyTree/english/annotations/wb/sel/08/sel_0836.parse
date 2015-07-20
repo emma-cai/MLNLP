@@ -1,0 +1,16 @@
+1	Similarly	similarly	ADV	RB	_	6	advmod	_	_
+2	,	,	PUNCT	,	_	6	punct	_	_
+3	medieval	medieval	ADJ	JJ	_	5	amod	_	_
+4	historical	historical	ADJ	JJ	_	5	amod	_	_
+5	figures	figure	NOUN	NNS	_	6	nsubj	_	_
+6	fall	fall	VERB	VBP	_	0	root	_	_
+7	pray	pray	NOUN	NN	_	6	dobj	_	_
+8	to	to	ADP	IN	_	6	prep	_	_
+9	the	the	DET	DT	_	14	det	_	_
+10	ongoing	ongoing	ADJ	JJ	_	14	amod	_	_
+11	"	"	PUNCT	``	_	14	punct	_	_
+12	macedonization	macedonization	NOUN	NN	_	14	nn	_	_
+13	"	"	PUNCT	''	_	14	punct	_	_
+14	process	process	NOUN	NN	_	8	pobj	_	_
+15	.	.	PUNCT	.	_	6	punct	_	_
+

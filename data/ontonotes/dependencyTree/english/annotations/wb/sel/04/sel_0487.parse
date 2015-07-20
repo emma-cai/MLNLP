@@ -1,0 +1,23 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	original	original	ADJ	JJ	_	3	amod	_	_
+3	bridge	bridge	NOUN	NN	_	4	nsubj	_	_
+4	was	be	VERB	VBD	_	0	root	_	_
+5	probably	probably	ADV	RB	_	4	advmod	_	_
+6	rectangular	rectangular	ADJ	JJ	_	4	acomp	_	_
+7	,	,	PUNCT	,	_	4	punct	_	_
+8	and	and	CONJ	CC	_	4	cc	_	_
+9	had	have	VERB	VBD	_	4	conj	_	_
+10	two	two	NUM	CD	_	12	num	_	_
+11	pearl	pearl	NOUN	NN	_	12	nn	_	_
+12	dots	dot	NOUN	NNS	_	13	nsubj	_	_
+13	flanking	flank	VERB	VBG	_	9	ccomp	_	_
+14	the	the	DET	DT	_	16	det	_	_
+15	bridge	bridge	NOUN	NN	_	16	nn	_	_
+16	pins	pin	NOUN	NNS	_	13	dobj	_	_
+17	-	-	PUNCT	:	_	4	punct	_	_
+18	these	these	DET	DT	_	20	nsubj	_	_
+19	actually	actually	ADV	RB	_	20	advmod	_	_
+20	cover	cover	VERB	VBP	_	4	parataxis	_	_
+21	bolts	bolt	NOUN	NNS	_	20	dobj	_	_
+22	.	.	PUNCT	.	_	4	punct	_	_
+

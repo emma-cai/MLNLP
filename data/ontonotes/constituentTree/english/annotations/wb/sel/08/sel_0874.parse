@@ -1,0 +1,11 @@
+(S (NP (NNP Einstein))
+        (VP (VBD did)
+            (RB n't)
+            (VP (VB think)
+                (SBAR (X 0)
+                      (S (NP (NNS nukes))
+                         (VP (MD could)
+                             (ADVP (RB ever))
+                             (VP (VB fly)))))))
+        (. .))
+

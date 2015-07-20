@@ -1,0 +1,27 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	side	side	NOUN	NN	_	6	nsubj	_	_
+3	of	of	ADP	IN	_	2	prep	_	_
+4	my	my	PRON	PRP$	_	5	poss	_	_
+5	car	car	NOUN	NN	_	3	pobj	_	_
+6	ground	grind	VERB	VBD	_	0	root	_	_
+7	all	all	DET	PDT	_	9	predet	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	way	way	NOUN	NN	_	10	npadvmod	_	_
+10	down	down	ADP	IN	_	6	prep	_	_
+11	a	a	DET	DT	_	12	det	_	_
+12	bollard	bollard	NOUN	NN	_	10	pobj	_	_
+13	that	that	DET	WDT	_	16	dobj	_	_
+14	*T*-1	*t*-1	NOUN	NN	_	16	nsubjpass	_	_
+15	was	be	VERB	VBD	_	16	auxpass	_	_
+16	designed	design	VERB	VBN	_	12	rcmod	_	_
+17	*-2	*-2	NOUN	NN	_	16	dobj	_	_
+18	*PRO*	*pro*	NOUN	NN	_	16	dobj	_	_
+19	to	to	ADP	TO	_	20	aux	_	_
+20	stop	stop	VERB	VB	_	16	vmod	_	_
+21	forklifts	forklift	NOUN	NNS	_	22	nsubj	_	_
+22	hitting	hit	VERB	VBG	_	20	dep	_	_
+23	cars	car	NOUN	NNS	_	22	dobj	_	_
+24	like	like	ADP	IN	_	23	prep	_	_
+25	mine	mine	NOUN	NN	_	24	pobj	_	_
+26	.	.	PUNCT	.	_	6	punct	_	_
+

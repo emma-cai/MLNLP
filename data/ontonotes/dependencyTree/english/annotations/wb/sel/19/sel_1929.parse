@@ -1,0 +1,14 @@
+1	They	they	PRON	PRP	_	3	nsubj	_	_
+2	also	also	ADV	RB	_	3	advmod	_	_
+3	maintain	maintain	VERB	VBP	_	0	root	_	_
+4	that	that	ADP	IN	_	8	mark	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	operation	operation	NOUN	NN	_	8	nsubj	_	_
+7	will	will	AUX	MD	_	8	aux	_	_
+8	stop	stop	VERB	VB	_	3	ccomp	_	_
+9	Iranian	iranian	ADJ	JJ	_	10	amod	_	_
+10	arms	arm	NOUN	NNS	_	11	nsubj	_	_
+11	entering	enter	VERB	VBG	_	8	dep	_	_
+12	Basra	Basra	PROPN	NNP	_	11	dobj	_	_
+13	.	.	PUNCT	.	_	3	punct	_	_
+

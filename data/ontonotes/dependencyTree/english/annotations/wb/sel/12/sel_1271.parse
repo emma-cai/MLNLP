@@ -1,0 +1,13 @@
+1	So	so	CONJ	CC	_	3	cc	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	pick	pick	VERB	VB	_	0	root	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	small	small	ADJ	JJ	_	6	amod	_	_
+6	canvas	canvas	NOUN	NN	_	3	dobj	_	_
+7	and	and	CONJ	CC	_	3	cc	_	_
+8	paint	paint	VERB	VB	_	3	conj	_	_
+9	a	a	DET	DT	_	11	det	_	_
+10	still	still	ADJ	JJ	_	11	amod	_	_
+11	life	life	NOUN	NN	_	8	dobj	_	_
+12	!	!	PUNCT	.	_	3	punct	_	_
+

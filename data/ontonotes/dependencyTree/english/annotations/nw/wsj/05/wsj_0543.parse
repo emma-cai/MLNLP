@@ -1,0 +1,35 @@
+1	Chamberlain	Chamberlain	PROPN	NNP	_	3	nn	_	_
+2	Manufacturing	Manufacturing	PROPN	NNP	_	3	nn	_	_
+3	Corp.	Corp.	PROPN	NNP	_	4	nsubj	_	_
+4	won	win	VERB	VBD	_	0	root	_	_
+5	a	a	DET	DT	_	11	det	_	_
+6	$	$	SYM	$	_	11	nn	_	_
+7	25.8	25.8	NUM	CD	_	8	number	_	_
+8	million	million	NUM	CD	_	6	num	_	_
+9	*U*	*u*	X	X	_	6	dep	_	_
+10	Army	Army	PROPN	NNP	_	11	nn	_	_
+11	contract	contract	NOUN	NN	_	4	dobj	_	_
+12	for	for	ADP	IN	_	11	prep	_	_
+13	155mm	155mm	NUM	CD	_	16	num	_	_
+14	artillery	artillery	NOUN	NN	_	15	nn	_	_
+15	shell	shell	NOUN	NN	_	16	nn	_	_
+16	casings	casing	NOUN	NNS	_	12	pobj	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+
+1	Avondale	Avondale	PROPN	NNP	_	3	nn	_	_
+2	Industries	Industries	PROPN	NNPS	_	3	nn	_	_
+3	Inc.	Inc.	PROPN	NNP	_	4	nsubj	_	_
+4	received	receive	VERB	VBD	_	0	root	_	_
+5	a	a	DET	DT	_	11	det	_	_
+6	$	$	SYM	$	_	11	nn	_	_
+7	13.5	13.5	NUM	CD	_	8	number	_	_
+8	million	million	NUM	CD	_	6	num	_	_
+9	*U*	*u*	X	X	_	6	dep	_	_
+10	Navy	Navy	PROPN	NNP	_	11	nn	_	_
+11	contract	contract	NOUN	NN	_	4	dobj	_	_
+12	for	for	ADP	IN	_	11	prep	_	_
+13	ship	ship	NOUN	NN	_	15	nn	_	_
+14	spare	spare	ADJ	JJ	_	15	amod	_	_
+15	parts	part	NOUN	NNS	_	12	pobj	_	_
+16	.	.	PUNCT	.	_	4	punct	_	_
+

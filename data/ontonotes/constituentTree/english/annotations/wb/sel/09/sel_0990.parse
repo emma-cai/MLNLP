@@ -1,0 +1,11 @@
+(S (ADVP (RB Then))
+        (NP (NN *PRO*))
+        (VP (VB let)
+            (S (NP (PRP us))
+               (VP (VB give)
+                   (NP (PRP ourselves))
+                   (ADVP (RB continually))
+                   (PP (IN to)
+                           (NP (NN prayer))))))
+        (. .))
+

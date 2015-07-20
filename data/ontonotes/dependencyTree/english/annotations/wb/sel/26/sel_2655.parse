@@ -1,0 +1,26 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	there	there	DET	EX	_	3	expl	_	_
+3	's	be	VERB	VBZ	_	12	advcl	_	_
+4	something	something	NOUN	NN	_	3	nsubj	_	_
+5	0	0	X	X	_	7	dobj	_	_
+6	you	you	PRON	PRP	_	7	nsubj	_	_
+7	find	find	VERB	VBP	_	4	rcmod	_	_
+8	*T*-1	*t*-1	NOUN	NN	_	9	nsubj	_	_
+9	confusing	confusing	ADJ	JJ	_	7	xcomp	_	_
+10	,	,	PUNCT	,	_	12	punct	_	_
+11	*PRO*	*pro*	NOUN	NN	_	12	nsubj	_	_
+12	punch	punch	VERB	VB	_	0	root	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	buzzword	buzzword	NOUN	NN	_	12	dobj	_	_
+15	into	into	ADP	IN	_	12	prep	_	_
+16	the	the	DET	DT	_	18	det	_	_
+17	search	search	NOUN	NN	_	18	nn	_	_
+18	box	box	NOUN	NN	_	15	pobj	_	_
+19	and	and	CONJ	CC	_	12	cc	_	_
+20	see	see	VERB	VB	_	12	conj	_	_
+21	what	what	PRON	WP	_	23	dobj	_	_
+22	*T*-2	*t*-2	NOUN	NN	_	23	nsubj	_	_
+23	pops	pop	VERB	VBZ	_	20	ccomp	_	_
+24	up	up	PART	RP	_	23	prt	_	_
+25	.	.	PUNCT	.	_	12	punct	_	_
+

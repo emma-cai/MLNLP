@@ -1,0 +1,11 @@
+1	Dipak	Dipak	PROPN	NNP	_	2	nn	_	_
+2	Patel	Patel	PROPN	NNP	_	3	nsubj	_	_
+3	wrote	write	VERB	VBD	_	0	root	_	_
+4	:	:	PUNCT	:	_	3	punct	_	_
+5	Anyone	anyone	NOUN	NN	_	6	nsubj	_	_
+6	own	own	VERB	VB	_	3	parataxis	_	_
+7	a	a	DET	DT	_	8	det	_	_
+8	Focus	Focus	PROPN	NNP	_	6	dobj	_	_
+9	automatic	automatic	ADJ	JJ	_	8	amod	_	_
+10	?	?	PUNCT	.	_	3	punct	_	_
+

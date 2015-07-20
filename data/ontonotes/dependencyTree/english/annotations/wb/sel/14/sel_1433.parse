@@ -1,0 +1,19 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	basic	basic	ADJ	JJ	_	3	amod	_	_
+3	idea	idea	NOUN	NN	_	4	nsubj	_	_
+4	is	be	VERB	VBZ	_	0	root	_	_
+5	*PRO*	*pro*	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	change	change	VERB	VB	_	4	xcomp	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	coolant	coolant	NOUN	NN	_	7	dobj	_	_
+10	before	before	ADP	IN	_	14	mark	_	_
+11	the	the	DET	DT	_	13	det	_	_
+12	corrosion	corrosion	NOUN	NN	_	13	nn	_	_
+13	inhibitors	inhibitor	NOUN	NNS	_	14	nsubj	_	_
+14	reach	reach	VERB	VBP	_	7	advcl	_	_
+15	dangerously	dangerously	ADV	RB	_	16	advmod	_	_
+16	low	low	ADJ	JJ	_	17	amod	_	_
+17	levels	level	NOUN	NNS	_	14	dobj	_	_
+18	.	.	PUNCT	.	_	4	punct	_	_
+

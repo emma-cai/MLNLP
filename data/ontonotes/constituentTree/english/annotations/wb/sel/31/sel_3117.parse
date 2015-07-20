@@ -1,0 +1,13 @@
+(S (SBAR (IN IF)
+                  (S (NP (NNP Alonso))
+                     (VP (VBZ smashes)
+                         (PP (IN into)
+                                 (NP (NNP Hamilton))))))
+        (, ,)
+        (NP (NNP Massa))
+        (VP (MD can)
+            (VP (VB win)
+                (PP (IN at)
+                        (NP (NN home)))))
+        (. .))
+

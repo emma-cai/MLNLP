@@ -1,0 +1,10 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	own	own	VERB	VBP	_	0	root	_	_
+3	an	a	DET	DT	_	8	det	_	_
+4	Automatic	automatic	ADJ	JJ	_	8	amod	_	_
+5	1.8	1.8	NUM	CD	_	8	num	_	_
+6	GXE	GXE	PROPN	NNP	_	8	nn	_	_
+7	2000	2000	NUM	CD	_	8	num	_	_
+8	Sentra	Sentra	PROPN	NNP	_	2	dobj	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
+

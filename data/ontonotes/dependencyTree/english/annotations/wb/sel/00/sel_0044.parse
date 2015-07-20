@@ -1,0 +1,18 @@
+1	Regardless	regardless	ADV	RB	_	4	advmod	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	we	we	PRON	PRP	_	4	nsubj	_	_
+4	agree	agree	VERB	VBP	_	0	root	_	_
+5	that	that	ADP	IN	_	7	mark	_	_
+6	risk	risk	NOUN	NN	_	7	nsubj	_	_
+7	implies	imply	VERB	VBZ	_	4	ccomp	_	_
+8	less	less	ADJ	JJR	_	10	quantmod	_	_
+9	than	than	ADP	IN	_	10	quantmod	_	_
+10	total	total	ADJ	JJ	_	11	num	_	_
+11	probability	probability	NOUN	NN	_	7	dobj	_	_
+12	,	,	PUNCT	,	_	4	punct	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	rest	rest	NOUN	NN	_	15	nsubj	_	_
+15	is	be	VERB	VBZ	_	4	parataxis	_	_
+16	semantics	semantics	NOUN	NNS	_	15	xcomp	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+

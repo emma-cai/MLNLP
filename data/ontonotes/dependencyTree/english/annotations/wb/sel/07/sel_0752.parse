@@ -1,0 +1,26 @@
+1	Beyond	beyond	ADP	IN	_	3	prep	_	_
+2	that	that	DET	DT	_	1	pobj	_	_
+3	is	be	VERB	VBZ	_	0	root	_	_
+4	*T*-1	*t*-1	X	X	_	3	prep	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	myth	myth	NOUN	NN	_	3	nsubj	_	_
+7	that	that	ADP	IN	_	19	mark	_	_
+8	Americans	Americans	PROPN	NNPS	_	19	nsubj	_	_
+9	who	who	PRON	WP	_	11	dobj	_	_
+10	*T*-2	*t*-2	NOUN	NN	_	11	nsubj	_	_
+11	are	be	VERB	VBP	_	8	rcmod	_	_
+12	lucky	lucky	ADJ	JJ	_	11	acomp	_	_
+13	enough	enough	ADV	RB	_	12	advmod	_	_
+14	*PRO*-3	*pro*-3	NOUN	NN	_	16	nsubj	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	have	have	VERB	VB	_	12	dep	_	_
+17	insurance	insurance	NOUN	NN	_	16	dobj	_	_
+18	never	never	ADV	RB	_	19	neg	_	_
+19	face	face	VERB	VBP	_	6	ccomp	_	_
+20	long	long	ADJ	JJ	_	21	amod	_	_
+21	waits	wait	NOUN	NNS	_	19	dobj	_	_
+22	for	for	ADP	IN	_	21	prep	_	_
+23	medical	medical	ADJ	JJ	_	24	amod	_	_
+24	care	care	NOUN	NN	_	22	pobj	_	_
+25	.	.	PUNCT	.	_	3	punct	_	_
+

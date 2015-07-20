@@ -1,0 +1,8 @@
+1	OT	ot	ADJ	JJ	_	3	amod	_	_
+2	-	-	PUNCT	HYPH	_	3	punct	_	_
+3	Teens	teens	NOUN	NNS	_	4	nsubj	_	_
+4	thrash	thrash	VERB	VBP	_	0	root	_	_
+5	fake	fake	ADJ	JJ	_	6	amod	_	_
+6	cop	cop	NOUN	NN	_	4	dobj	_	_
+7	.	.	PUNCT	.	_	4	punct	_	_
+

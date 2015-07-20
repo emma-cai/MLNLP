@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	wait	wait	VERB	VBP	_	0	root	_	_
+3	until	until	ADP	IN	_	6	mark	_	_
+4	fermentation	fermentation	NOUN	NN	_	6	nsubj	_	_
+5	has	have	VERB	VBZ	_	6	aux	_	_
+6	slowed	slow	VERB	VBN	_	2	advcl	_	_
+7	significantly	significantly	ADV	RB	_	6	advmod	_	_
+8	then	then	ADV	RB	_	2	advmod	_	_
+9	rack	rack	VERB	VBP	_	2	dep	_	_
+10	to	to	ADP	IN	_	9	prep	_	_
+11	a	a	DET	DT	_	14	det	_	_
+12	3	3	NUM	CD	_	13	num	_	_
+13	gallon	gallon	NOUN	NN	_	14	nn	_	_
+14	carboy	carboy	NOUN	NN	_	10	pobj	_	_
+15	*PRO*-1	*pro*-1	NOUN	NN	_	9	dobj	_	_
+16	to	to	ADP	TO	_	17	aux	_	_
+17	let	let	VERB	VB	_	9	xcomp	_	_
+18	it	it	PRON	PRP	_	19	nsubj	_	_
+19	complete	complete	VERB	VB	_	17	ccomp	_	_
+20	fermentation	fermentation	NOUN	NN	_	19	dobj	_	_
+21	and	and	CONJ	CC	_	19	cc	_	_
+22	then	then	ADV	RB	_	23	advmod	_	_
+23	clear	clear	VERB	VB	_	19	conj	_	_
+24	.	.	PUNCT	.	_	2	punct	_	_
+

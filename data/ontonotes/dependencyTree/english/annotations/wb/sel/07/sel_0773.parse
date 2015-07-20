@@ -1,0 +1,25 @@
+1	Giftzwerg	Giftzwerg	PROPN	NNP	_	0	root	_	_
+2	"	"	PUNCT	``	_	1	punct	_	_
+3	While	while	ADP	IN	_	5	mark	_	_
+4	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+5	acknowledging	acknowledge	VERB	VBG	_	17	advcl	_	_
+6	the	the	DET	DT	_	8	det	_	_
+7	difficult	difficult	ADJ	JJ	_	8	amod	_	_
+8	road	road	NOUN	NN	_	5	dobj	_	_
+9	0	0	X	X	_	11	dobj	_	_
+10	they	they	PRON	PRP	_	11	nsubj	_	_
+11	face	face	VERB	VBP	_	8	rcmod	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	11	dobj	_	_
+13	,	,	PUNCT	,	_	17	punct	_	_
+14	Clinton	Clinton	PROPN	NNP	_	16	nn	_	_
+15	campaign	campaign	NOUN	NN	_	16	nn	_	_
+16	officials	official	NOUN	NNS	_	17	nsubj	_	_
+17	say	say	VERB	VBP	_	1	dep	_	_
+18	0	0	X	X	_	22	dep	_	_
+19	they	they	PRON	PRP	_	22	nsubj	_	_
+20	are	be	VERB	VBP	_	22	aux	_	_
+21	not	not	ADV	RB	_	22	neg	_	_
+22	panicking	panic	VERB	VBG	_	17	ccomp	_	_
+23	.	.	PUNCT	.	_	1	punct	_	_
+24	"	"	PUNCT	''	_	1	punct	_	_
+

@@ -1,0 +1,11 @@
+1	You	you	PRON	PRP	_	3	nsubj	_	_
+2	already	already	ADV	RB	_	3	advmod	_	_
+3	declared	declare	VERB	VBD	_	0	root	_	_
+4	your	you	PRON	PRP$	_	5	poss	_	_
+5	disrespect	disrespect	NOUN	NN	_	3	dobj	_	_
+6	of	of	ADP	IN	_	5	prep	_	_
+7	Shakespeare	Shakespeare	PROPN	NNP	_	6	pobj	_	_
+8	as	as	ADP	IN	_	7	prep	_	_
+9	author	author	NOUN	NN	_	8	pobj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+

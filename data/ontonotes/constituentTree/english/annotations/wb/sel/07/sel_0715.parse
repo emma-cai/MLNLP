@@ -1,0 +1,11 @@
+(S (NP (PRP you))
+        (VP (VBP expect)
+            (S (NP (NNP john)
+                       (NNP nichols))
+               (VP (TO to)
+                   (VP (VB be)
+                       (ADJP (ADVP (IN at)
+                                       (JJS least))
+                                 (JJ fair))))))
+        (. .))
+

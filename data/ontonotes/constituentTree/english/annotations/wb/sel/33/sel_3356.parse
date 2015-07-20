@@ -1,0 +1,9 @@
+(S (NP (PRP He))
+        (ADVP (RB soundly))
+        (VP (VBD thrashed)
+            (NP (NP (PRP$ his)
+                    (NN brother))
+                (NP (NNP William))))
+        (NFP ...)
+        (. .))
+

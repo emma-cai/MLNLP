@@ -1,0 +1,10 @@
+1	OK	ok	INTJ	UH	_	5	discourse	_	_
+2	Google	Google	PROPN	NNP	_	3	nn	_	_
+3	Groups	Groups	PROPN	NNP	_	5	nsubj	_	_
+4	now	now	ADV	RB	_	5	advmod	_	_
+5	lets	let	VERB	VBZ	_	0	root	_	_
+6	you	you	PRON	PRP	_	7	nsubj	_	_
+7	post	post	VERB	VB	_	5	ccomp	_	_
+8	pictures	picture	NOUN	NNS	_	7	dobj	_	_
+9	.	.	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,12 @@
+(S (NP (NN *PRO*))
+            (VP (VB Bring)
+                (NP (NN foil))
+                (PP (IN around)
+                        (NP (NN pie)))
+                (S (NP (NN *PRO*))
+                       (VP (TO to)
+                           (ADVP (RB loosely))
+                           (VP (VB cover)
+                               (NP (NN *?*))))))
+            (. .))
+

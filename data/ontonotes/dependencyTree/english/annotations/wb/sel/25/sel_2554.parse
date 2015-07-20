@@ -1,0 +1,16 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	disconnected	disconnect	VERB	VBD	_	0	root	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	ethernet	ethernet	NOUN	NN	_	5	nn	_	_
+5	cable	cable	NOUN	NN	_	2	dobj	_	_
+6	from	from	ADP	IN	_	5	prep	_	_
+7	the	the	DET	DT	_	8	det	_	_
+8	Airport	Airport	PROPN	NNP	_	6	pobj	_	_
+9	and	and	CONJ	CC	_	2	cc	_	_
+10	plugged	plug	VERB	VBD	_	2	conj	_	_
+11	it	it	PRON	PRP	_	10	dobj	_	_
+12	into	into	ADP	IN	_	10	prep	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	Powerbook	Powerbook	PROPN	NNP	_	12	pobj	_	_
+15	.	.	PUNCT	.	_	2	punct	_	_
+

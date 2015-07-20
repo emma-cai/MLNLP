@@ -1,0 +1,17 @@
+1	Three	three	NUM	CD	_	4	num	_	_
+2	Soviet	Soviet	PROPN	NNP	_	3	nn	_	_
+3	Army	Army	PROPN	NNP	_	4	nn	_	_
+4	Groups	Groups	PROPN	NNPS	_	8	nsubj	_	_
+5	on	on	ADP	IN	_	8	prep	_	_
+6	9	9	NUM	CD	_	7	num	_	_
+7	Aug	Aug	PROPN	NNP	_	5	pobj	_	_
+8	swept	sweep	VERB	VBD	_	0	root	_	_
+9	such	such	ADJ	JJ	_	10	amod	_	_
+10	delusions	delusion	NOUN	NNS	_	8	dobj	_	_
+11	aside	aside	PART	RP	_	8	prt	_	_
+12	,	,	PUNCT	,	_	8	punct	_	_
+13	along	along	ADP	IN	_	8	prep	_	_
+14	with	with	ADP	IN	_	13	pcomp	_	_
+15	the	the	DET	DT	_	16	det	_	_
+16	Kwantung	Kwantung	PROPN	NNP	_	14	pobj	_	_
+

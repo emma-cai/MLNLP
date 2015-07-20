@@ -1,0 +1,11 @@
+(S (NP (PRP I))
+        (VP (MD will)
+            (ADVP (RB first))
+            (VP (VB give)
+                (NP (NML (NNP Rebecca)
+                         (NNP st))
+                    (NNPS Sandblasters))
+                (NP (DT a)
+                    (NN try))))
+        (. .))
+

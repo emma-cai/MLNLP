@@ -1,0 +1,11 @@
+(S (ADVP (RB Maybe))
+            (NP (NN *PRO*))
+            (VP (VB try)
+                (NP (DT the)
+                    (NN enterprise))
+                (PP (IN as)
+                        (NP (DT a)
+                            (NN starting)
+                            (NN point))))
+            (. .))
+

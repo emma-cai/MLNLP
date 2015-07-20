@@ -1,0 +1,18 @@
+1	So	so	CONJ	CC	_	4	cc	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	have	have	VERB	VBP	_	0	root	_	_
+5	no	no	DET	DT	_	6	neg	_	_
+6	option	option	NOUN	NN	_	4	dobj	_	_
+7	but	but	ADP	IN	_	10	mark	_	_
+8	*PRO*	*pro*	NOUN	NN	_	10	nsubj	_	_
+9	to	to	ADP	TO	_	10	aux	_	_
+10	buy	buy	VERB	VB	_	6	vmod	_	_
+11	sleeping	sleeping	NOUN	NN	_	12	nn	_	_
+12	pills	pill	NOUN	NNS	_	10	dobj	_	_
+13	from	from	ADP	IN	_	10	prep	_	_
+14	an	a	DET	DT	_	16	det	_	_
+15	online	online	NOUN	NN	_	16	nn	_	_
+16	pharmacy	pharmacy	NOUN	NN	_	13	pobj	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+

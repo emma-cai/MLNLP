@@ -1,0 +1,12 @@
+1	Drunk	drunk	ADJ	JJ	_	2	amod	_	_
+2	drivers	driver	NOUN	NNS	_	7	nsubj	_	_
+3	who	who	PRON	WP	_	5	dobj	_	_
+4	*T*-1	*t*-1	NOUN	NN	_	5	nsubj	_	_
+5	kill	kill	VERB	VBP	_	2	rcmod	_	_
+6	should	should	AUX	MD	_	7	aux	_	_
+7	get	get	VERB	VB	_	0	root	_	_
+8	life	life	NOUN	NN	_	7	dobj	_	_
+9	wo	wo	ADP	IN	_	8	prep	_	_
+10	parole.	parole.	NOUN	NN	_	9	pobj	_	_
+11	"	"	PUNCT	''	_	7	punct	_	_
+

@@ -1,0 +1,20 @@
+1	they	they	PRON	PRP	_	2	nsubj	_	_
+2	rake	rake	VERB	VBP	_	0	root	_	_
+3	in	in	PART	RP	_	2	prt	_	_
+4	a	a	DET	DT	_	5	det	_	_
+5	lot	lot	NOUN	NN	_	2	dobj	_	_
+6	of	of	ADP	IN	_	5	prep	_	_
+7	money	money	NOUN	NN	_	6	pobj	_	_
+8	from	from	ADP	IN	_	2	prep	_	_
+9	people	people	NOUN	NNS	_	8	pobj	_	_
+10	hoping	hope	VERB	VBG	_	9	vmod	_	_
+11	*PRO*	*pro*	NOUN	NN	_	10	dobj	_	_
+12	to	to	ADP	TO	_	13	aux	_	_
+13	catch	catch	VERB	VB	_	10	xcomp	_	_
+14	some	some	DET	DT	_	15	det	_	_
+15	sort	sort	NOUN	NN	_	13	dobj	_	_
+16	of	of	ADP	IN	_	15	prep	_	_
+17	easy	easy	ADJ	JJ	_	18	amod	_	_
+18	break	break	NOUN	NN	_	16	pobj	_	_
+19	..	..	PUNCT	.	_	2	punct	_	_
+

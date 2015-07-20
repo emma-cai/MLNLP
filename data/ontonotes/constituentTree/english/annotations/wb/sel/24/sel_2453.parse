@@ -1,0 +1,13 @@
+(ADJP (JJ Suitable)
+           (PP (ADVP (RB only))
+               (IN for)
+               (NP (NP (DT those))
+                   (SBAR (WHNP (WP$ whose)
+                                 (NNS tastes))
+                         (S (NP (NN *T*-1))
+                            (VP (VB incline)
+                                (PP (IN towards)
+                                        (NP (DT the)
+                                            (JJ above))))))))
+           (. .))
+

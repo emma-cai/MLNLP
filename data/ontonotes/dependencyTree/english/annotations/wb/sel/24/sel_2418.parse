@@ -1,0 +1,18 @@
+1	No	no	INTJ	UH	_	0	root	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+3	You	you	PRON	PRP	_	4	nsubj	_	_
+4	ground	grind	VERB	VBP	_	1	dep	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	747	747	NUM	CD	_	4	dobj	_	_
+7	with	with	ADP	IN	_	6	prep	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	problem	problem	NOUN	NN	_	7	pobj	_	_
+10	and	and	CONJ	CC	_	4	cc	_	_
+11	examine	examine	VERB	VBP	_	4	conj	_	_
+12	it	it	PRON	PRP	_	11	dobj	_	_
+13	as	as	ADV	RB	_	14	advmod	_	_
+14	soon	soon	ADV	RB	_	11	advmod	_	_
+15	as	as	ADP	IN	_	14	prep	_	_
+16	possible	possible	ADJ	JJ	_	15	pobj	_	_
+17	.	.	PUNCT	.	_	1	punct	_	_
+

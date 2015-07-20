@@ -1,0 +1,10 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Sprinkle	sprinkle	VERB	VB	_	0	root	_	_
+3	with	with	ADP	IN	_	2	prep	_	_
+4	nuts	nut	NOUN	NNS	_	3	pobj	_	_
+5	;	;	PUNCT	:	_	2	punct	_	_
+6	*PRO*	*pro*	NOUN	NN	_	7	nsubj	_	_
+7	serve	serve	VERB	VB	_	2	parataxis	_	_
+8	immediately	immediately	ADV	RB	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
+

@@ -1,0 +1,10 @@
+1	Jason	Jason	PROPN	NNP	_	2	nsubj	_	_
+2	kicked	kick	VERB	VBD	_	0	root	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	punched	punch	VERB	VBD	_	2	conj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	bit	bite	VERB	VBD	_	2	conj	_	_
+7	and	and	CONJ	CC	_	2	cc	_	_
+8	spat	spit	VERB	VBD	_	2	conj	_	_
+9	.	.	PUNCT	.	_	2	punct	_	_
+

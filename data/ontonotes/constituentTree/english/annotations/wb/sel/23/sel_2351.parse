@@ -1,0 +1,9 @@
+(S (NP (NN Freedom))
+        (VP (VBZ is)
+            (ADVP (RB always))
+            (NP (DT a)
+                    (ADJP (CD two)
+                          (VBN edged))
+                    (NN sword)))
+        (. .))
+

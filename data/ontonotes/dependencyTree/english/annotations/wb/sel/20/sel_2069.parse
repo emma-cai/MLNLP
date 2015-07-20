@@ -1,0 +1,17 @@
+1	Thanks	thanks	INTJ	UH	_	3	discourse	_	_
+2	again	again	ADV	RB	_	3	dep	_	_
+3	Leslie	Leslie	PROPN	NNP	_	0	root	_	_
+4	-	-	PUNCT	:	_	3	punct	_	_
+5	and	and	CONJ	CC	_	3	cc	_	_
+6	please	please	INTJ	UH	_	8	discourse	_	_
+7	*PRO*	*pro*	NOUN	NN	_	8	nsubj	_	_
+8	tell	tell	VERB	VB	_	3	conj	_	_
+9	Allan	Allan	PROPN	NNP	_	8	dobj	_	_
+10	that	that	ADP	IN	_	12	mark	_	_
+11	he	he	PRON	PRP	_	12	nsubj	_	_
+12	is	be	VERB	VBZ	_	8	ccomp	_	_
+13	a	a	DET	DT	_	15	det	_	_
+14	great	great	ADJ	JJ	_	15	amod	_	_
+15	host	host	NOUN	NN	_	12	xcomp	_	_
+16	!	!	PUNCT	.	_	3	punct	_	_
+

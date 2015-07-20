@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	ask	ask	VERB	VBP	_	0	root	_	_
+3	You	you	PRON	PRP	_	2	dobj	_	_
+4	*PRO*-1	*pro*-1	NOUN	NN	_	2	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	reveal	reveal	VERB	VB	_	2	xcomp	_	_
+7	all	all	DET	DT	_	6	dobj	_	_
+8	of	of	ADP	IN	_	7	prep	_	_
+9	the	the	DET	DT	_	10	det	_	_
+10	errors	error	NOUN	NNS	_	8	pobj	_	_
+11	in	in	ADP	IN	_	10	prep	_	_
+12	their	they	PRON	PRP$	_	13	poss	_	_
+13	beliefs	belief	NOUN	NNS	_	11	pobj	_	_
+14	to	to	ADP	IN	_	6	prep	_	_
+15	them	they	PRON	PRP	_	14	pobj	_	_
+16	&	&	CONJ	CC	_	6	cc	_	_
+17	give	give	VERB	VB	_	6	conj	_	_
+18	them	they	PRON	PRP	_	17	iobj	_	_
+19	the	the	DET	DT	_	20	det	_	_
+20	courage	courage	NOUN	NN	_	17	dobj	_	_
+21	*PRO*	*pro*	NOUN	NN	_	23	nsubj	_	_
+22	to	to	ADP	TO	_	23	aux	_	_
+23	change	change	VERB	VB	_	20	vmod	_	_
+24	.	.	PUNCT	.	_	2	punct	_	_
+

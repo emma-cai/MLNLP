@@ -1,0 +1,25 @@
+1	-	-	PUNCT	:	_	3	punct	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	Maintain	maintain	VERB	VB	_	0	root	_	_
+4	documentation	documentation	NOUN	NN	_	3	dobj	_	_
+5	for	for	ADP	IN	_	4	prep	_	_
+6	all	all	DET	DT	_	8	det	_	_
+7	user	user	NOUN	NN	_	8	nn	_	_
+8	access	access	NOUN	NN	_	5	pobj	_	_
+9	and	and	CONJ	CC	_	3	cc	_	_
+10	develop	develop	VERB	VB	_	3	conj	_	_
+11	means	means	NOUN	NNS	_	10	dobj	_	_
+12	for	for	ADP	IN	_	11	prep	_	_
+13	*PRO*	*pro*	NOUN	NN	_	14	nsubj	_	_
+14	providing	provide	VERB	VBG	_	12	pcomp	_	_
+15	*?*	*?*	NOUN	NN	_	14	dobj	_	_
+16	on	on	ADP	IN	_	14	prep	_	_
+17	a	a	DET	DT	_	19	det	_	_
+18	timely	timely	ADJ	JJ	_	19	amod	_	_
+19	basis	basis	NOUN	NN	_	16	pobj	_	_
+20	as	as	ADP	IN	_	22	mark	_	_
+21	*PRO*	*pro*	NOUN	NN	_	22	nsubj	_	_
+22	requested	request	VERB	VBN	_	14	advcl	_	_
+23	*-1	*-1	NOUN	NN	_	22	dobj	_	_
+24	.	.	PUNCT	.	_	3	punct	_	_
+

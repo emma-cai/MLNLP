@@ -1,0 +1,16 @@
+1	Even	even	ADV	RB	_	2	advmod	_	_
+2	in	in	ADP	IN	_	13	prep	_	_
+3	this	this	DET	DT	_	6	det	_	_
+4	most	most	ADJ	JJS	_	5	dep	_	_
+5	basic	basic	ADJ	JJ	_	6	amod	_	_
+6	portion	portion	NOUN	NN	_	2	pobj	_	_
+7	of	of	ADP	IN	_	6	prep	_	_
+8	your	you	PRON	PRP$	_	9	poss	_	_
+9	myth	myth	NOUN	NN	_	7	pobj	_	_
+10	,	,	PUNCT	,	_	13	punct	_	_
+11	your	you	PRON	PRP$	_	12	poss	_	_
+12	ignorance	ignorance	NOUN	NN	_	13	nsubj	_	_
+13	shines	shine	VERB	VBZ	_	0	root	_	_
+14	through	through	PART	RP	_	13	prt	_	_
+15	.	.	PUNCT	.	_	13	punct	_	_
+

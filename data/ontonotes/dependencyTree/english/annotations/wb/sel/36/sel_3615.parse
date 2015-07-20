@@ -1,0 +1,11 @@
+1	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+2	Ever	ever	ADV	RB	_	3	advmod	_	_
+3	rip	rip	VERB	VB	_	0	root	_	_
+4	out	out	PART	RP	_	3	prt	_	_
+5	a	a	DET	DT	_	7	det	_	_
+6	nose	nose	NOUN	NN	_	7	nn	_	_
+7	hair	hair	NOUN	NN	_	3	dobj	_	_
+8	with	with	ADP	IN	_	3	prep	_	_
+9	tweezers	tweezers	NOUN	NNS	_	8	pobj	_	_
+10	?	?	PUNCT	.	_	3	punct	_	_
+

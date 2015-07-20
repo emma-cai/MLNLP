@@ -1,0 +1,23 @@
+1	Still	still	ADV	RB	_	3	advmod	_	_
+2	it	it	PRON	PRP	_	3	nsubj	_	_
+3	is	be	VERB	VBZ	_	0	root	_	_
+4	all	all	ADV	RB	_	3	advmod	_	_
+5	huge	huge	ADJ	JJ	_	6	amod	_	_
+6	companies	company	NOUN	NNS	_	3	xcomp	_	_
+7	running	run	VERB	VBG	_	6	vmod	_	_
+8	it	it	PRON	PRP	_	7	dobj	_	_
+9	all	all	DET	DT	_	8	det	_	_
+10	now	now	ADV	RB	_	7	advmod	_	_
+11	,	,	PUNCT	,	_	3	punct	_	_
+12	and	and	CONJ	CC	_	3	cc	_	_
+13	they	they	PRON	PRP	_	14	nsubj	_	_
+14	have	have	VERB	VBP	_	3	conj	_	_
+15	bloated	bloated	ADJ	JJ	_	16	amod	_	_
+16	bureaucracies	bureaucracy	NOUN	NNS	_	14	dobj	_	_
+17	0	0	X	X	_	20	dobj	_	_
+18	*PRO*	*pro*	NOUN	NN	_	20	nsubj	_	_
+19	to	to	ADP	TO	_	20	aux	_	_
+20	support	support	VERB	VB	_	16	rcmod	_	_
+21	*T*-1	*t*-1	NOUN	NN	_	20	dobj	_	_
+22	.	.	PUNCT	.	_	3	punct	_	_
+

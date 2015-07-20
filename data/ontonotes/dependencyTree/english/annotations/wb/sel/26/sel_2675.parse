@@ -1,0 +1,22 @@
+1	If	if	ADP	IN	_	4	mark	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	wireless	wireless	NOUN	NN	_	4	nsubj	_	_
+4	was	be	VERB	VBD	_	12	advcl	_	_
+5	hung	hung	ADJ	JJ	_	4	acomp	_	_
+6	or	or	CONJ	CC	_	4	cc	_	_
+7	lost	lose	VERB	VBD	_	4	conj	_	_
+8	connectivity	connectivity	NOUN	NN	_	7	dobj	_	_
+9	,	,	PUNCT	,	_	12	punct	_	_
+10	he	he	PRON	PRP	_	12	nsubj	_	_
+11	would	would	AUX	MD	_	12	aux	_	_
+12	take	take	VERB	VB	_	0	root	_	_
+13	a	a	DET	DT	_	15	det	_	_
+14	paper	paper	NOUN	NN	_	15	nn	_	_
+15	clip	clip	NOUN	NN	_	12	dobj	_	_
+16	and	and	CONJ	CC	_	12	cc	_	_
+17	punch	punch	VERB	VB	_	12	conj	_	_
+18	the	the	DET	DT	_	20	det	_	_
+19	reset	reset	NOUN	NN	_	20	nn	_	_
+20	button	button	NOUN	NN	_	17	dobj	_	_
+21	.	.	PUNCT	.	_	12	punct	_	_
+

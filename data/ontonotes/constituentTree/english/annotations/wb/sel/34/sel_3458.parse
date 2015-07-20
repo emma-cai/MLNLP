@@ -1,0 +1,11 @@
+(S (SBAR (IN If)
+                  (S (NP (PRP you))
+                     (VP (VBP trim)
+                         (PRT (RP back))
+                         (NP (DT the)
+                             (NNS vines)))))
+        (NP (PRP they))
+        (VP (MD should)
+            (VP (VB resprout)))
+        (. .))
+

@@ -1,0 +1,13 @@
+1	These	these	DET	DT	_	2	det	_	_
+2	switches	switch	NOUN	NNS	_	3	nsubj	_	_
+3	are	be	VERB	VBP	_	0	root	_	_
+4	NO	no	ADJ	JJ	_	3	acomp	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	and	and	CONJ	CC	_	4	cc	_	_
+7	grounded	ground	VERB	VBN	_	4	conj	_	_
+8	*-1	*-1	NOUN	NN	_	7	dobj	_	_
+9	via	via	ADP	IN	_	7	prep	_	_
+10	brown	brown	ADJ	JJ	_	11	amod	_	_
+11	wires	wire	NOUN	NNS	_	9	pobj	_	_
+12	.	.	PUNCT	.	_	3	punct	_	_
+

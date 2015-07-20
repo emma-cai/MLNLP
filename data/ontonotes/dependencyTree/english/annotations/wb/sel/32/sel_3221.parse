@@ -1,0 +1,14 @@
+1	Kids	kid	NOUN	NNS	_	2	nsubj	_	_
+2	learn	learn	VERB	VBP	_	0	root	_	_
+3	*PRO*-1	*pro*-1	NOUN	NN	_	2	dobj	_	_
+4	to	to	ADP	TO	_	5	aux	_	_
+5	read	read	VERB	VB	_	2	xcomp	_	_
+6	and	and	CONJ	CC	_	5	cc	_	_
+7	write	write	VERB	VB	_	5	conj	_	_
+8	and	and	CONJ	CC	_	5	cc	_	_
+9	spell	spell	VERB	VB	_	5	conj	_	_
+10	at	at	ADP	IN	_	2	prep	_	_
+11	various	various	ADJ	JJ	_	12	amod	_	_
+12	ages	age	NOUN	NNS	_	10	pobj	_	_
+13	.	.	PUNCT	.	_	2	punct	_	_
+

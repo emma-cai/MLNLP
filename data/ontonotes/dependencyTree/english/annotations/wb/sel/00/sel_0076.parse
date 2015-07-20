@@ -1,0 +1,14 @@
+1	All	all	DET	DT	_	3	det	_	_
+2	three	three	NUM	CD	_	3	num	_	_
+3	realities	reality	NOUN	NNS	_	4	nsubj	_	_
+4	apply	apply	VERB	VBP	_	0	root	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	to	to	ADP	IN	_	4	prep	_	_
+7	varying	vary	VERB	VBG	_	8	amod	_	_
+8	degrees	degree	NOUN	NNS	_	6	pobj	_	_
+9	,	,	PUNCT	,	_	4	punct	_	_
+10	at	at	ADP	IN	_	4	prep	_	_
+11	various	various	ADJ	JJ	_	12	amod	_	_
+12	times	time	NOUN	NNS	_	10	pobj	_	_
+13	.	.	PUNCT	.	_	4	punct	_	_
+

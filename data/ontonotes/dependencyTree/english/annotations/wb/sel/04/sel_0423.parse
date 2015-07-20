@@ -1,0 +1,26 @@
+1	Even	even	ADV	RB	_	4	advmod	_	_
+2	though	though	ADP	IN	_	4	mark	_	_
+3	I	I	PRON	PRP	_	4	nsubj	_	_
+4	overpaid	overpay	VERB	VBD	_	17	advcl	_	_
+5	on	on	ADP	IN	_	4	prep	_	_
+6	one	one	NUM	CD	_	5	pobj	_	_
+7	of	of	ADP	IN	_	6	prep	_	_
+8	those	those	DET	DT	_	7	pobj	_	_
+9	,	,	PUNCT	,	_	17	punct	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	two	two	NUM	CD	_	17	nsubj	_	_
+12	of	of	ADP	IN	_	11	prep	_	_
+13	those	those	DET	DT	_	14	det	_	_
+14	amps	amp	NOUN	NNS	_	12	pobj	_	_
+15	together	together	ADV	RB	_	11	advmod	_	_
+16	still	still	ADV	RB	_	17	advmod	_	_
+17	cost	cost	VERB	VBD	_	0	root	_	_
+18	me	I	PRON	PRP	_	17	iobj	_	_
+19	less	less	ADJ	JJR	_	17	dobj	_	_
+20	than	than	ADP	IN	_	19	prep	_	_
+21	one	one	NUM	CD	_	24	num	_	_
+22	new	new	ADJ	JJ	_	24	amod	_	_
+23	Roccaforte	Roccaforte	PROPN	NNP	_	24	nn	_	_
+24	amp	amp	NOUN	NN	_	20	pobj	_	_
+25	.	.	PUNCT	.	_	17	punct	_	_
+

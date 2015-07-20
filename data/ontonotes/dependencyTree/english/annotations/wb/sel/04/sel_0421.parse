@@ -1,0 +1,24 @@
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	also	also	ADV	RB	_	3	advmod	_	_
+3	remember	remember	VERB	VBP	_	0	root	_	_
+4	some	some	DET	DT	_	5	det	_	_
+5	companies	company	NOUN	NNS	_	3	dobj	_	_
+6	that	that	DET	WDT	_	9	dobj	_	_
+7	*T*-1	*t*-1	NOUN	NN	_	9	nsubj	_	_
+8	would	would	AUX	MD	_	9	aux	_	_
+9	pay	pay	VERB	VB	_	5	rcmod	_	_
+10	whatever	whatever	DET	WDT	_	16	dobj	_	_
+11	your	you	PRON	PRP$	_	14	poss	_	_
+12	existing	exist	VERB	VBG	_	14	amod	_	_
+13	contract	contract	NOUN	NN	_	14	nn	_	_
+14	rental	rental	NOUN	NN	_	16	nsubj	_	_
+15	would	would	AUX	MD	_	16	aux	_	_
+16	cost	cost	VERB	VB	_	9	ccomp	_	_
+17	*T*-2	*t*-2	NOUN	NN	_	16	dobj	_	_
+18	if	if	ADP	IN	_	20	mark	_	_
+19	you	you	PRON	PRP	_	20	nsubj	_	_
+20	transferred	transfer	VERB	VBD	_	9	advcl	_	_
+21	to	to	ADP	IN	_	20	prep	_	_
+22	them	they	PRON	PRP	_	21	pobj	_	_
+23	.	.	PUNCT	.	_	3	punct	_	_
+

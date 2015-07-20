@@ -1,0 +1,18 @@
+1	Second	second	ADV	RB	_	5	advmod	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+4	never	never	ADV	RB	_	5	neg	_	_
+5	write	write	VERB	VB	_	0	root	_	_
+6	new	new	ADJ	JJ	_	9	amod	_	_
+7	String	string	NOUN	NN	_	9	nn	_	_
+8	"	"	PUNCT	``	_	9	punct	_	_
+9	foo	foo	NOUN	NN	_	5	dobj	_	_
+10	"	"	PUNCT	''	_	9	punct	_	_
+11	for	for	ADP	IN	_	5	prep	_	_
+12	any	any	DET	DT	_	15	det	_	_
+13	literal	literal	ADJ	JJ	_	15	amod	_	_
+14	"	"	PUNCT	``	_	15	punct	_	_
+15	foo	foo	NOUN	NN	_	11	pobj	_	_
+16	"	"	PUNCT	''	_	15	punct	_	_
+17	.	.	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,10 @@
+(S (S (NP (PRP$ my)
+                   (NN blood))
+           (VP (VBD boiled)))
+        (S (ADVP (RB then))
+               (NP (PRP I))
+               (-LRB- -LSB-)
+               (NFP ...))
+        (. .)
+        (-RRB- -RSB-))
+

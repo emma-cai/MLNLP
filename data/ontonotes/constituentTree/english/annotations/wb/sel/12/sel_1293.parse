@@ -1,0 +1,13 @@
+(S (S (NP (PRP You))
+           (VP (MD can)
+               (VP (VB pick)
+                   (ADVP (RB apart))
+                   (NP (DT each)
+                       (NN example)))))
+        (CC but)
+        (S (NP (DT the)
+                   (NN pattern))
+           (VP (VBZ is)
+               (ADVP-LOC (RB there))))
+        (. .))
+

@@ -1,0 +1,12 @@
+(S (SBARQ (WHNP (WP Who))
+               (SQ (NP (NN *T*-1))
+                   (VP (VBZ knows))))
+        (, ,)
+        (S (NP (PRP I))
+           (VP (MD might)
+               (VP (VB see)
+                   (S (NP (NN analogue))
+                      (VP (VB switch)
+                          (PRT (RP off)))))))
+        (. .))
+

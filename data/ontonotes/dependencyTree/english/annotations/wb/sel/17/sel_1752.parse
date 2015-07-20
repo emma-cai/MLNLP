@@ -1,0 +1,17 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	need	need	VERB	VBP	_	0	root	_	_
+3	*-1	*-1	NOUN	NN	_	2	dobj	_	_
+4	to	to	ADP	TO	_	5	aux	_	_
+5	run	run	VERB	VB	_	2	xcomp	_	_
+6	a	a	DET	DT	_	8	det	_	_
+7	Nozzle	nozzle	NOUN	NN	_	8	nn	_	_
+8	Test	test	NOUN	NN	_	5	dobj	_	_
+9	and	and	CONJ	CC	_	5	cc	_	_
+10	see	see	VERB	VB	_	5	conj	_	_
+11	how	how	ADV	WRB	_	14	advmod	_	_
+12	that	that	DET	DT	_	13	det	_	_
+13	pattern	pattern	NOUN	NN	_	14	nsubj	_	_
+14	looks	look	VERB	VBZ	_	10	ccomp	_	_
+15	*T*-2	*t*-2	X	X	_	14	advmod	_	_
+16	.	.	PUNCT	.	_	2	punct	_	_
+

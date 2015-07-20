@@ -1,0 +1,26 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	third	third	ADJ	JJ	_	3	amod	_	_
+3	installment	installment	NOUN	NN	_	11	nsubj	_	_
+4	,	,	PUNCT	,	_	3	punct	_	_
+5	"	"	PUNCT	``	_	3	punct	_	_
+6	The	the	DET	DT	_	8	det	_	_
+7	Bourne	Bourne	PROPN	NNP	_	8	nn	_	_
+8	Ultimatum	Ultimatum	PROPN	NNP	_	3	dep	_	_
+9	,	,	PUNCT	,	_	11	punct	_	_
+10	"	"	PUNCT	''	_	11	punct	_	_
+11	opened	open	VERB	VBD	_	0	root	_	_
+12	last	last	ADJ	JJ	_	13	amod	_	_
+13	weekend	weekend	NOUN	NN	_	11	dobj	_	_
+14	and	and	CONJ	CC	_	11	cc	_	_
+15	raked	rake	VERB	VBD	_	11	conj	_	_
+16	in	in	PART	RP	_	15	prt	_	_
+17	$	$	SYM	$	_	15	dobj	_	_
+18	70.2	70.2	NUM	CD	_	19	number	_	_
+19	million	million	NUM	CD	_	17	num	_	_
+20	*U*	*u*	X	X	_	17	dep	_	_
+21	at	at	ADP	IN	_	15	prep	_	_
+22	the	the	DET	DT	_	24	det	_	_
+23	box	box	NOUN	NN	_	24	nn	_	_
+24	office	office	NOUN	NN	_	21	pobj	_	_
+25	.	.	PUNCT	.	_	11	punct	_	_
+

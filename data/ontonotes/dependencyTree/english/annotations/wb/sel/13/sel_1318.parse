@@ -1,0 +1,18 @@
+1	i	I	PRON	PRP	_	3	nsubj	_	_
+2	'd	would	AUX	MD	_	3	aux	_	_
+3	go	go	VERB	VB	_	0	root	_	_
+4	into	into	ADP	IN	_	3	prep	_	_
+5	shops	shop	NOUN	NNS	_	4	pobj	_	_
+6	and	and	CONJ	CC	_	3	cc	_	_
+7	helpfully	helpfully	ADV	RB	_	8	advmod	_	_
+8	point	point	VERB	VB	_	3	conj	_	_
+9	out	out	PART	RP	_	8	prt	_	_
+10	the	the	DET	DT	_	12	det	_	_
+11	inappropriate	inappropriate	ADJ	JJ	_	12	amod	_	_
+12	apostrophe	apostrophe	NOUN	NN	_	8	dobj	_	_
+13	on	on	ADP	IN	_	12	prep	_	_
+14	their	they	PRON	PRP$	_	16	poss	_	_
+15	window	window	NOUN	NN	_	16	nn	_	_
+16	sign	sign	NOUN	NN	_	13	pobj	_	_
+17	.	.	PUNCT	.	_	3	punct	_	_
+

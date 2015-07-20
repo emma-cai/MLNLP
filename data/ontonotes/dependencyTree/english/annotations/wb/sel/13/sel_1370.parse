@@ -1,0 +1,14 @@
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	purposefully	purposefully	ADV	RB	_	3	advmod	_	_
+3	post	post	VERB	VBP	_	0	root	_	_
+4	here	here	ADV	RB	_	3	advmod	_	_
+5	with	with	ADP	IN	_	3	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	intent	intent	NOUN	NN	_	5	pobj	_	_
+8	of	of	ADP	IN	_	7	prep	_	_
+9	*PRO*-1	*pro*-1	NOUN	NN	_	10	nsubj	_	_
+10	occupying	occupy	VERB	VBG	_	8	pcomp	_	_
+11	your	you	PRON	PRP$	_	12	poss	_	_
+12	time	time	NOUN	NN	_	10	dobj	_	_
+13	.	.	PUNCT	.	_	3	punct	_	_
+

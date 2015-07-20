@@ -1,0 +1,21 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	you	you	PRON	PRP	_	3	nsubj	_	_
+3	want	want	VERB	VBP	_	8	advcl	_	_
+4	morderated	morderate	VERB	VBN	_	5	amod	_	_
+5	discussions	discussion	NOUN	NNS	_	3	dobj	_	_
+6	then	then	ADV	RB	_	8	advmod	_	_
+7	*PRO*	*pro*	NOUN	NN	_	8	nsubj	_	_
+8	try	try	VERB	VB	_	0	root	_	_
+9	22	22	NUM	CD	_	10	num	_	_
+10	4	4	NUM	CD	_	8	dobj	_	_
+11	as	as	ADP	IN	_	14	mark	_	_
+12	it	it	PRON	PRP	_	14	nsubjpass	_	_
+13	is	be	VERB	VBZ	_	14	auxpass	_	_
+14	known	know	VERB	VBN	_	10	dep	_	_
+15	*-1	*-1	NOUN	NN	_	14	dobj	_	_
+16	here	here	ADV	RB	_	14	advmod	_	_
+17	or	or	CONJ	CC	_	10	cc	_	_
+18	Pocket	Pocket	PROPN	NNP	_	19	nn	_	_
+19	Fives	Fives	PROPN	NNPS	_	10	conj	_	_
+20	.	.	PUNCT	.	_	8	punct	_	_
+

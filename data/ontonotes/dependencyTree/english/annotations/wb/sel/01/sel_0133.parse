@@ -1,0 +1,18 @@
+1	In	in	ADP	IN	_	9	prep	_	_
+2	a	a	DET	DT	_	4	det	_	_
+3	changing	change	VERB	VBG	_	4	amod	_	_
+4	marketplace	marketplace	NOUN	NN	_	1	pobj	_	_
+5	,	,	PUNCT	,	_	9	punct	_	_
+6	old	old	ADJ	JJ	_	7	amod	_	_
+7	rules	rule	NOUN	NNS	_	9	nsubj	_	_
+8	can	can	AUX	MD	_	9	aux	_	_
+9	become	become	VERB	VB	_	0	root	_	_
+10	obsolete	obsolete	ADJ	JJ	_	9	acomp	_	_
+11	while	while	ADP	IN	_	14	mark	_	_
+12	you	you	PRON	PRP	_	14	nsubj	_	_
+13	are	be	VERB	VBP	_	14	aux	_	_
+14	writing	write	VERB	VBG	_	9	advcl	_	_
+15	your	you	PRON	PRP$	_	16	poss	_	_
+16	book	book	NOUN	NN	_	14	dobj	_	_
+17	.	.	PUNCT	.	_	9	punct	_	_
+

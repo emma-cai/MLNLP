@@ -1,0 +1,21 @@
+1	Primarily	primarily	ADV	RB	_	4	advmod	_	_
+2	,	,	PUNCT	,	_	4	punct	_	_
+3	*PRO*	*pro*	NOUN	NN	_	4	nsubj	_	_
+4	write	write	VERB	VB	_	0	root	_	_
+5	code	code	NOUN	NN	_	4	dobj	_	_
+6	that	that	DET	WDT	_	10	dobj	_	_
+7	*T*-1	*t*-1	NOUN	NN	_	10	nsubj	_	_
+8	does	do	VERB	VBZ	_	10	aux	_	_
+9	not	not	ADV	RB	_	10	neg	_	_
+10	depend	depend	VERB	VB	_	5	rcmod	_	_
+11	on	on	ADP	IN	_	10	prep	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	ability	ability	NOUN	NN	_	11	pobj	_	_
+14	*PRO*	*pro*	NOUN	NN	_	16	nsubj	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	detect	detect	VERB	VB	_	13	vmod	_	_
+17	self	self	NOUN	NN	_	19	nn	_	_
+18	-	-	PUNCT	HYPH	_	19	punct	_	_
+19	assignment	assignment	NOUN	NN	_	16	dobj	_	_
+20	.	.	PUNCT	.	_	4	punct	_	_
+

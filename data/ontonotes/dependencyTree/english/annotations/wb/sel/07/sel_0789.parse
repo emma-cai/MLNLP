@@ -1,0 +1,26 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	Bush	Bush	PROPN	NNP	_	3	nn	_	_
+3	budget	budget	NOUN	NN	_	7	nsubjpass	_	_
+4	wo	will	AUX	MD	_	7	aux	_	_
+5	n't	not	ADV	RB	_	7	neg	_	_
+6	be	be	VERB	VB	_	7	auxpass	_	_
+7	received	receive	VERB	VBN	_	0	root	_	_
+8	*-1	*-1	NOUN	NN	_	7	dobj	_	_
+9	with	with	ADP	IN	_	7	prep	_	_
+10	many	many	ADJ	JJ	_	11	amod	_	_
+11	cartwheels	cartwheel	NOUN	NNS	_	9	pobj	_	_
+12	in	in	ADP	IN	_	7	prep	_	_
+13	Congress	Congress	PROPN	NNP	_	12	pobj	_	_
+14	,	,	PUNCT	,	_	13	punct	_	_
+15	where	where	ADV	WRB	_	20	advmod	_	_
+16	the	the	DET	DT	_	18	det	_	_
+17	new	new	ADJ	JJ	_	18	amod	_	_
+18	majority	majority	NOUN	NN	_	20	nsubj	_	_
+19	will	will	AUX	MD	_	20	aux	_	_
+20	face	face	VERB	VB	_	13	rcmod	_	_
+21	some	some	DET	DT	_	23	det	_	_
+22	difficult	difficult	ADJ	JJ	_	23	amod	_	_
+23	decisions	decision	NOUN	NNS	_	20	dobj	_	_
+24	*T*-2	*t*-2	X	X	_	20	advmod	_	_
+25	.	.	PUNCT	.	_	7	punct	_	_
+

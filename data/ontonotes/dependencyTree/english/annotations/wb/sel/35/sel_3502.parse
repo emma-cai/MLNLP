@@ -1,0 +1,14 @@
+1	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+2	Never	never	ADV	RB	_	3	neg	_	_
+3	try	try	VERB	VB	_	0	root	_	_
+4	*PRO*-1	*pro*-1	NOUN	NN	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	trim	trim	VERB	VB	_	3	xcomp	_	_
+7	a	a	DET	DT	_	9	det	_	_
+8	guinea	guinea	NOUN	NN	_	9	nn	_	_
+9	pig	pig	NOUN	NN	_	11	poss	_	_
+10	's	's	PART	POS	_	9	possessive	_	_
+11	teeth	tooth	NOUN	NNS	_	6	iobj	_	_
+12	yourself	yourself	PRON	PRP	_	6	dobj	_	_
+13	!	!	PUNCT	.	_	3	punct	_	_
+

@@ -1,0 +1,9 @@
+(S (NP (NNP Abbas))
+        (VP (VBZ drums)
+            (PRT (RP up))
+            (NP (NP (NN support))
+                (PP (IN for)
+                    (NP (NNP US)
+                        (NN meeting)))))
+        (. .))
+

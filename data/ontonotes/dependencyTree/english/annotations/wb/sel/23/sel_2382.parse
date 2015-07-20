@@ -1,0 +1,21 @@
+1	But	but	CONJ	CC	_	6	cc	_	_
+2	with	with	ADP	IN	_	6	prep	_	_
+3	ours	ours	PRON	PRP	_	2	pobj	_	_
+4	you	you	PRON	PRP	_	6	nsubj	_	_
+5	could	could	AUX	MD	_	6	aux	_	_
+6	fold	fold	VERB	VB	_	0	root	_	_
+7	both	both	DET	DT	_	8	det	_	_
+8	extensions	extension	NOUN	NNS	_	6	dobj	_	_
+9	down	down	ADV	RB	_	6	advmod	_	_
+10	or	or	CONJ	CC	_	9	cc	_	_
+11	up	up	ADV	RB	_	9	conj	_	_
+12	as	as	ADV	RB	_	13	advmod	_	_
+13	well	well	ADV	RB	_	9	cc	_	_
+14	as	as	ADP	IN	_	13	mwe	_	_
+15	*PRO*	*pro*	NOUN	NN	_	16	dep	_	_
+16	flat	flat	ADJ	JJ	_	9	conj	_	_
+17	for	for	ADP	IN	_	16	prep	_	_
+18	the	the	DET	DT	_	19	det	_	_
+19	bed	bed	NOUN	NN	_	17	pobj	_	_
+20	.	.	PUNCT	.	_	6	punct	_	_
+

@@ -1,0 +1,26 @@
+1	After	after	ADP	IN	_	5	prep	_	_
+2	supper	supper	NOUN	NN	_	1	pobj	_	_
+3	,	,	PUNCT	,	_	5	punct	_	_
+4	he	he	PRON	PRP	_	5	nsubj	_	_
+5	cleaned	clean	VERB	VBD	_	0	root	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	kitchen	kitchen	NOUN	NN	_	5	dobj	_	_
+8	,	,	PUNCT	,	_	5	punct	_	_
+9	ran	run	VERB	VBD	_	5	conj	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	dishwasher	dishwasher	NOUN	NN	_	9	dobj	_	_
+12	,	,	PUNCT	,	_	5	punct	_	_
+13	folded	fold	VERB	VBD	_	5	conj	_	_
+14	laundry	laundry	NOUN	NN	_	13	dobj	_	_
+15	,	,	PUNCT	,	_	5	punct	_	_
+16	bathed	bath	VERB	VBD	_	5	conj	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	kids	kid	NOUN	NNS	_	16	dobj	_	_
+19	,	,	PUNCT	,	_	5	punct	_	_
+20	and	and	CONJ	CC	_	5	cc	_	_
+21	put	put	VERB	VBD	_	5	conj	_	_
+22	them	they	PRON	PRP	_	21	dobj	_	_
+23	to	to	ADP	IN	_	21	prep	_	_
+24	bed	bed	NOUN	NN	_	23	pobj	_	_
+25	.	.	PUNCT	.	_	5	punct	_	_
+

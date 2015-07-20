@@ -1,0 +1,23 @@
+1	Ben	Ben	PROPN	NNP	_	2	nn	_	_
+2	Bova	Bova	PROPN	NNP	_	5	poss	_	_
+3	's	's	PART	POS	_	2	possessive	_	_
+4	"	"	PUNCT	``	_	5	punct	_	_
+5	Return	Return	PROPN	NNP	_	18	nsubj	_	_
+6	to	to	ADP	IN	_	5	prep	_	_
+7	Mars	Mars	PROPN	NNP	_	6	pobj	_	_
+8	"	"	PUNCT	''	_	5	punct	_	_
+9	and	and	CONJ	CC	_	5	cc	_	_
+10	Clarke	Clarke	PROPN	NNP	_	12	nn	_	_
+11	-	-	PUNCT	HYPH	_	12	punct	_	_
+12	Lee	Lee	PROPN	NNP	_	15	poss	_	_
+13	's	's	PART	POS	_	12	possessive	_	_
+14	"	"	PUNCT	``	_	15	punct	_	_
+15	Rama	Rama	PROPN	NNP	_	5	conj	_	_
+16	2	2	NUM	CD	_	15	num	_	_
+17	"	"	PUNCT	''	_	15	punct	_	_
+18	cover	cover	VERB	VBP	_	0	root	_	_
+19	that	that	DET	DT	_	18	dobj	_	_
+20	in	in	ADP	IN	_	18	prep	_	_
+21	depth	depth	NOUN	NN	_	20	pobj	_	_
+22	.	.	PUNCT	.	_	18	punct	_	_
+

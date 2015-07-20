@@ -1,0 +1,11 @@
+(S (NP (PRP She))
+        (ADVP (RB once))
+        (VP (VBD swept)
+            (NP (DT an)
+                (NN Admiral))
+            (PP (ADVP (RB clear))
+                    (IN off)
+                    (NP (PRP$ his)
+                        (NNS feet))))
+        (. .))
+

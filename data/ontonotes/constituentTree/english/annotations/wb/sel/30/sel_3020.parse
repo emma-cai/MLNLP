@@ -1,0 +1,9 @@
+(SQ (NP (NN *PRO*))
+         (VP (VB Care)
+             (S (NP (NN *PRO*))
+                (VP (TO to)
+                    (VP (VB shed)
+                        (NP (DT some)
+                            (NN light))))))
+         (. ?))
+

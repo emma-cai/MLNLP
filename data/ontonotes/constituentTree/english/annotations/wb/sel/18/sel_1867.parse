@@ -1,0 +1,13 @@
+(S (SBAR-NOM (WHADVP (WRB How))
+                      (S (NP (NNS leaders))
+                         (VP (VBP spend)
+                             (NP (PRP$ their)
+                                 (NN time))
+                             (ADVP (X *T*-1)))))
+        (VP (MD may)
+            (VP (VB be)
+                (ADJP (JJ disproportionate)
+                          (TO to)
+                          (JJ optimum))))
+        (. .))
+

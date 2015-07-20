@@ -1,0 +1,27 @@
+1	They	they	PRON	PRP	_	2	nsubj	_	_
+2	want	want	VERB	VBP	_	0	root	_	_
+3	their	they	PRON	PRP$	_	4	poss	_	_
+4	code	code	NOUN	NN	_	2	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	scale	scale	VERB	VB	_	2	xcomp	_	_
+7	well	well	ADV	RB	_	6	advmod	_	_
+8	,	,	PUNCT	,	_	2	punct	_	_
+9	they	they	PRON	PRP	_	12	nsubj	_	_
+10	do	do	VERB	VBP	_	12	aux	_	_
+11	n't	not	ADV	RB	_	12	neg	_	_
+12	feel	feel	VERB	VB	_	2	parataxis	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	need	need	NOUN	NN	_	12	dobj	_	_
+15	*PRO*	*pro*	NOUN	NN	_	17	nsubj	_	_
+16	to	to	ADP	TO	_	17	aux	_	_
+17	squeeze	squeeze	VERB	VB	_	14	vmod	_	_
+18	every	every	DET	DT	_	20	det	_	_
+19	last	last	ADJ	JJ	_	20	amod	_	_
+20	drop	drop	NOUN	NN	_	17	dobj	_	_
+21	of	of	ADP	IN	_	20	prep	_	_
+22	performance	performance	NOUN	NN	_	21	pobj	_	_
+23	out	out	ADP	IN	_	17	prep	_	_
+24	of	of	ADP	IN	_	23	pcomp	_	_
+25	it	it	PRON	PRP	_	24	pobj	_	_
+26	.	.	PUNCT	.	_	2	punct	_	_
+

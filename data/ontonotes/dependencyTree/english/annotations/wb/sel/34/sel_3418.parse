@@ -1,0 +1,27 @@
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	's	be	VERB	VBZ	_	0	root	_	_
+3	much	much	ADV	RB	_	4	advmod	_	_
+4	more	more	ADV	RBR	_	5	advmod	_	_
+5	responsive	responsive	ADJ	JJ	_	2	acomp	_	_
+6	when	when	ADV	WRB	_	8	advmod	_	_
+7	you	you	PRON	PRP	_	8	nsubj	_	_
+8	touch	touch	VERB	VBP	_	2	advcl	_	_
+9	it	it	PRON	PRP	_	8	dobj	_	_
+10	slightly	slightly	ADV	RB	_	8	advmod	_	_
+11	until	until	ADP	IN	_	13	mark	_	_
+12	it	it	PRON	PRP	_	13	nsubj	_	_
+13	engages	engage	VERB	VBZ	_	8	advcl	_	_
+14	and	and	CONJ	CC	_	8	cc	_	_
+15	then	then	ADV	RB	_	16	advmod	_	_
+16	push	push	VERB	VBP	_	8	conj	_	_
+17	it	it	PRON	PRP	_	16	dobj	_	_
+18	once	once	ADP	IN	_	20	mark	_	_
+19	you	you	PRON	PRP	_	20	nsubj	_	_
+20	feel	feel	VERB	VBP	_	16	advcl	_	_
+21	0	0	X	X	_	23	dep	_	_
+22	it	it	PRON	PRP	_	23	nsubj	_	_
+23	's	be	VERB	VBZ	_	20	ccomp	_	_
+24	engaged	engaged	ADJ	JJ	_	23	acomp	_	_
+25	*T*-1	*t*-1	X	X	_	8	advmod	_	_
+26	.	.	PUNCT	.	_	2	punct	_	_
+

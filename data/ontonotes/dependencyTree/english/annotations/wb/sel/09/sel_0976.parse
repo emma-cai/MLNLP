@@ -1,0 +1,14 @@
+1	High	high	ADJ	JJ	_	2	amod	_	_
+2	quality	quality	NOUN	NN	_	3	nn	_	_
+3	idscs	idsc	NOUN	NNS	_	10	nsubj	_	_
+4	like	like	ADP	IN	_	3	prep	_	_
+5	Taiyo	Taiyo	PROPN	NNP	_	4	pobj	_	_
+6	Yuden	yuden	NUM	CD	_	5	num	_	_
+7	or	or	CONJ	CC	_	5	cc	_	_
+8	Verbatim	Verbatim	PROPN	NNP	_	5	conj	_	_
+9	seldom	seldom	ADV	RB	_	10	advmod	_	_
+10	give	give	VERB	VBP	_	0	root	_	_
+11	me	I	PRON	PRP	_	10	iobj	_	_
+12	problems	problem	NOUN	NNS	_	10	dobj	_	_
+13	.	.	PUNCT	.	_	10	punct	_	_
+

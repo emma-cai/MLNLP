@@ -1,0 +1,12 @@
+(S (NP (PRP I))
+        (VP (VBD bought)
+            (NP (PRP it))
+            (S (NP (NN *PRO*-1))
+                   (VP (TO to)
+                       (VP (VB punch)
+                           (NP (NP (NNS holes))
+                               (PP (IN for)
+                                   (NP (JJ coax)
+                                       (NNS connectors))))))))
+        (. .))
+

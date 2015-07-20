@@ -1,0 +1,13 @@
+(S (ADVP (RB Evidently))
+        (NP (DT those)
+                (NNS fins))
+        (VP (VBP Do)
+            (VP (VB fold)
+                (ADVP (RB back))
+                (PP (IN under)
+                    (NP (NP (DT that)
+                            (NN kind))
+                        (PP (IN of)
+                            (NP (NN stress)))))))
+        (. .))
+

@@ -1,0 +1,14 @@
+1	How	how	ADV	WRB	_	2	advmod	_	_
+2	many	many	ADJ	JJ	_	4	amod	_	_
+3	school	school	NOUN	NN	_	4	nn	_	_
+4	lunches	lunch	NOUN	NNS	_	11	dep	_	_
+5	or	or	CONJ	CC	_	4	cc	_	_
+6	health	health	NOUN	NN	_	7	nn	_	_
+7	insurance	insurance	NOUN	NN	_	8	nn	_	_
+8	policies	policy	NOUN	NNS	_	4	conj	_	_
+9	would	would	AUX	MD	_	11	aux	_	_
+10	that	that	DET	DT	_	11	nsubj	_	_
+11	buy	buy	VERB	VB	_	0	root	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	11	dobj	_	_
+13	?	?	PUNCT	.	_	11	punct	_	_
+

@@ -1,0 +1,12 @@
+(S (NP (NP (JJ Drunk)
+                    (NNS drivers))
+                (SBAR (WHNP (WP who))
+                      (S (NP (NN *T*-1))
+                         (VP (VBP kill)))))
+        (VP (MD should)
+            (VP (VB get)
+                (NP (NP (NN life))
+                    (PP (IN wo)
+                        (NP (NN parole.))))))
+        ('' "))
+

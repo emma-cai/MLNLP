@@ -1,0 +1,27 @@
+1	at	at	ADP	IN	_	11	prep	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	expiry	expiry	NOUN	NN	_	1	pobj	_	_
+4	of	of	ADP	IN	_	3	prep	_	_
+5	their	they	PRON	PRP$	_	6	poss	_	_
+6	contracts	contract	NOUN	NNS	_	4	pobj	_	_
+7	a	a	DET	DT	_	9	det	_	_
+8	Labour	Labour	PROPN	NNP	_	9	nn	_	_
+9	government	government	NOUN	NN	_	11	nsubj	_	_
+10	will	will	AUX	MD	_	11	aux	_	_
+11	bring	bring	VERB	VB	_	0	root	_	_
+12	these	these	DET	DT	_	13	det	_	_
+13	prisons	prison	NOUN	NNS	_	11	dobj	_	_
+14	into	into	ADP	IN	_	11	prep	_	_
+15	proper	proper	ADJ	JJ	_	17	amod	_	_
+16	public	public	ADJ	JJ	_	17	amod	_	_
+17	control	control	NOUN	NN	_	14	pobj	_	_
+18	and	and	CONJ	CC	_	11	cc	_	_
+19	run	run	VERB	VB	_	11	conj	_	_
+20	them	they	PRON	PRP	_	19	dobj	_	_
+21	directly	directly	ADV	RB	_	19	advmod	_	_
+22	as	as	ADP	IN	_	19	prep	_	_
+23	public	public	ADJ	JJ	_	24	amod	_	_
+24	services	service	NOUN	NN	_	22	pobj	_	_
+25	.	.	PUNCT	.	_	11	punct	_	_
+26	"	"	PUNCT	''	_	11	punct	_	_
+

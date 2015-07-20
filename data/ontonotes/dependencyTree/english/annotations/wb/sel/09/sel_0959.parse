@@ -1,0 +1,24 @@
+1	Chances	chance	NOUN	NNS	_	2	nsubj	_	_
+2	are	be	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	6	dep	_	_
+4	they	they	PRON	PRP	_	6	nsubj	_	_
+5	have	have	VERB	VBP	_	6	aux	_	_
+6	learned	learn	VERB	VBN	_	2	ccomp	_	_
+7	*PRO*-1	*pro*-1	NOUN	NN	_	6	dobj	_	_
+8	to	to	ADP	TO	_	9	aux	_	_
+9	channel	channel	VERB	VB	_	6	xcomp	_	_
+10	his	he	PRON	PRP$	_	12	poss	_	_
+11	"	"	PUNCT	``	_	12	punct	_	_
+12	gut	gut	NOUN	NN	_	9	dobj	_	_
+13	"	"	PUNCT	''	_	12	punct	_	_
+14	and	and	CONJ	CC	_	9	cc	_	_
+15	give	give	VERB	VB	_	9	conj	_	_
+16	him	he	PRON	PRP	_	15	iobj	_	_
+17	policy	policy	NOUN	NN	_	18	nn	_	_
+18	advice	advice	NOUN	NN	_	15	dobj	_	_
+19	that	that	DET	WDT	_	21	dobj	_	_
+20	*T*-2	*t*-2	NOUN	NN	_	21	nsubj	_	_
+21	matches	match	VERB	VBZ	_	18	rcmod	_	_
+22	it	it	PRON	PRP	_	21	dobj	_	_
+23	.	.	PUNCT	.	_	2	punct	_	_
+

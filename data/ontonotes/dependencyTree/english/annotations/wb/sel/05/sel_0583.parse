@@ -1,0 +1,19 @@
+1	Emerson	Emerson	PROPN	NNP	_	3	nsubj	_	_
+2	famously	famously	ADV	RB	_	3	advmod	_	_
+3	declared	declare	VERB	VBD	_	0	root	_	_
+4	that	that	ADP	IN	_	9	mark	_	_
+5	he	he	PRON	PRP	_	9	nsubj	_	_
+6	"	"	PUNCT	``	_	9	punct	_	_
+7	could	could	AUX	MD	_	9	aux	_	_
+8	not	not	ADV	RB	_	9	neg	_	_
+9	marry	marry	VERB	VB	_	3	ccomp	_	_
+10	this	this	DET	DT	_	11	det	_	_
+11	man	man	NOUN	NN	_	13	poss	_	_
+12	's	's	PART	POS	_	11	possessive	_	_
+13	life	life	NOUN	NN	_	9	dobj	_	_
+14	to	to	ADP	IN	_	9	prep	_	_
+15	his	he	PRON	PRP$	_	16	poss	_	_
+16	verse	verse	NOUN	NN	_	14	pobj	_	_
+17	"	"	PUNCT	''	_	9	punct	_	_
+18	.	.	PUNCT	.	_	3	punct	_	_
+

@@ -1,0 +1,15 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	own	own	VERB	VBP	_	0	root	_	_
+3	-LRB-	-lrb-	PUNCT	-LRB-	_	4	punct	_	_
+4	inherited	inherit	VERB	VBD	_	2	dep	_	_
+5	-RRB-	-rrb-	PUNCT	-RRB-	_	4	punct	_	_
+6	a	a	DET	DT	_	8	det	_	_
+7	large	large	ADJ	JJ	_	8	amod	_	_
+8	section	section	NOUN	NN	_	2	dobj	_	_
+9	of	of	ADP	IN	_	8	prep	_	_
+10	land	land	NOUN	NN	_	9	pobj	_	_
+11	in	in	ADP	IN	_	8	prep	_	_
+12	southern	southern	ADJ	JJ	_	13	amod	_	_
+13	colorado	colorado	NOUN	NN	_	11	pobj	_	_
+14	.	.	PUNCT	.	_	2	punct	_	_
+

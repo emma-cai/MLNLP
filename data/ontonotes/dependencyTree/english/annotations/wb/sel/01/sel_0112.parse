@@ -1,0 +1,22 @@
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	caused	cause	VERB	VBD	_	0	root	_	_
+3	many	many	ADJ	JJ	_	4	amod	_	_
+4	plastics	plastic	NOUN	NNS	_	2	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	become	become	VERB	VB	_	2	xcomp	_	_
+7	brittle	brittle	ADJ	JJ	_	6	acomp	_	_
+8	and	and	CONJ	CC	_	6	cc	_	_
+9	crack	crack	VERB	VB	_	6	conj	_	_
+10	or	or	CONJ	CC	_	9	cc	_	_
+11	craze	craze	VERB	VB	_	9	conj	_	_
+12	,	,	PUNCT	,	_	2	punct	_	_
+13	and	and	CONJ	CC	_	2	cc	_	_
+14	the	the	DET	DT	_	15	det	_	_
+15	silver	silver	NOUN	NN	_	16	nsubj	_	_
+16	began	begin	VERB	VBD	_	2	conj	_	_
+17	*-1	*-1	NOUN	NN	_	16	dobj	_	_
+18	to	to	ADP	TO	_	19	aux	_	_
+19	corrode	corrode	VERB	VB	_	16	xcomp	_	_
+20	badly	badly	ADV	RB	_	19	advmod	_	_
+21	.	.	PUNCT	.	_	2	punct	_	_
+

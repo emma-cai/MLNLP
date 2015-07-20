@@ -1,0 +1,18 @@
+1	Of	of	ADP	IN	_	5	prep	_	_
+2	course	course	NOUN	NN	_	1	pobj	_	_
+3	,	,	PUNCT	,	_	5	punct	_	_
+4	he	he	PRON	PRP	_	5	nsubj	_	_
+5	soaks	soak	VERB	VBZ	_	0	root	_	_
+6	it	it	PRON	PRP	_	5	dobj	_	_
+7	up	up	PART	RP	_	5	prt	_	_
+8	and	and	CONJ	CC	_	5	cc	_	_
+9	wallows	wallow	VERB	VBZ	_	5	conj	_	_
+10	in	in	ADP	IN	_	9	prep	_	_
+11	it	it	PRON	PRP	_	10	pobj	_	_
+12	like	like	ADP	IN	_	9	prep	_	_
+13	a	a	DET	DT	_	14	det	_	_
+14	pig	pig	NOUN	NN	_	12	pobj	_	_
+15	in	in	ADP	IN	_	14	prep	_	_
+16	mud	mud	NOUN	NN	_	15	pobj	_	_
+17	.	.	PUNCT	.	_	5	punct	_	_
+

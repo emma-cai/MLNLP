@@ -1,0 +1,11 @@
+(S (NP (NN Sunlight))
+        (VP (VBZ shines)
+            (PP (IN through)
+                    (NP (NNS windows)))
+            (S (NP (NN *PRO*-1))
+                   (VP (VBG offering)
+                       (NP (DT the)
+                           (JJ only)
+                           (NN light)))))
+        (. .))
+

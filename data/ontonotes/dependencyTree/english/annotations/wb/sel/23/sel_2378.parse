@@ -1,0 +1,18 @@
+1	A	a	DET	DT	_	6	det	_	_
+2	1999	1999	NUM	CD	_	6	nn	_	_
+3	-	-	SYM	SYM	_	2	prep	_	_
+4	2005	2005	NUM	CD	_	3	pobj	_	_
+5	top	top	ADJ	JJ	_	6	amod	_	_
+6	frame	frame	NOUN	NN	_	7	nsubj	_	_
+7	uses	use	VERB	VBZ	_	0	root	_	_
+8	springs	spring	NOUN	NNS	_	7	dobj	_	_
+9	*PRO*	*pro*	NOUN	NN	_	7	dobj	_	_
+10	to	to	ADP	TO	_	12	aux	_	_
+11	automatically	automatically	ADV	RB	_	12	advmod	_	_
+12	fold	fold	VERB	VB	_	7	vmod	_	_
+13	the	the	DET	DT	_	15	det	_	_
+14	glass	glass	NOUN	NN	_	15	nn	_	_
+15	window	window	NOUN	NN	_	12	dobj	_	_
+16	down	down	ADV	RB	_	12	advmod	_	_
+17	.	.	PUNCT	.	_	7	punct	_	_
+

@@ -1,0 +1,33 @@
+1	And	and	CONJ	CC	_	8	cc	_	_
+2	the	the	DET	DT	_	5	det	_	_
+3	UN	UN	PROPN	NNP	_	5	nn	_	_
+4	High	High	PROPN	NNP	_	5	nn	_	_
+5	Commissioner	Commissioner	PROPN	NNP	_	8	nsubj	_	_
+6	for	for	ADP	IN	_	5	prep	_	_
+7	Refugees	Refugees	PROPN	NNPS	_	6	pobj	_	_
+8	says	say	VERB	VBZ	_	0	root	_	_
+9	0	0	X	X	_	12	dep	_	_
+10	southwestern	southwestern	ADJ	JJ	_	11	amod	_	_
+11	Guinea	Guinea	PROPN	NNP	_	12	nsubj	_	_
+12	is	be	VERB	VBZ	_	8	ccomp	_	_
+13	on	on	ADP	IN	_	12	prep	_	_
+14	the	the	DET	DT	_	15	det	_	_
+15	verge	verge	NOUN	NN	_	13	pobj	_	_
+16	of	of	ADP	IN	_	15	prep	_	_
+17	a	a	DET	DT	_	20	det	_	_
+18	major	major	ADJ	JJ	_	20	amod	_	_
+19	humanitarian	humanitarian	ADJ	JJ	_	20	amod	_	_
+20	disaster	disaster	NOUN	NN	_	16	pobj	_	_
+21	because	because	ADP	IN	_	22	mwe	_	_
+22	of	of	ADP	IN	_	12	prep	_	_
+23	regional	regional	ADJ	JJ	_	24	amod	_	_
+24	fighting	fighting	NOUN	NN	_	22	pobj	_	_
+25	.	.	PUNCT	.	_	8	punct	_	_
+
+1	David	David	PROPN	NNP	_	2	nn	_	_
+2	Coler	Coler	PROPN	NNP	_	0	root	_	_
+3	,	,	PUNCT	,	_	2	punct	_	_
+4	VOA	VOA	PROPN	NNP	_	5	nn	_	_
+5	News	News	PROPN	NNP	_	2	dep	_	_
+6	.	.	PUNCT	.	_	2	punct	_	_
+

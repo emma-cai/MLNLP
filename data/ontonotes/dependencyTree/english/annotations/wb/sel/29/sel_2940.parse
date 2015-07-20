@@ -1,0 +1,21 @@
+1	Adobe	Adobe	PROPN	NNP	_	2	nn	_	_
+2	Premiere	Premiere	PROPN	NNP	_	4	nsubj	_	_
+3	does	do	VERB	VBZ	_	4	aux	_	_
+4	scale	scale	VERB	VB	_	0	root	_	_
+5	back	back	PART	RP	_	4	prt	_	_
+6	the	the	DET	DT	_	8	det	_	_
+7	preview	preview	NOUN	NN	_	8	nn	_	_
+8	view	view	NOUN	NN	_	4	dobj	_	_
+9	that	that	DET	WDT	_	11	dobj	_	_
+10	*T*-1	*t*-1	NOUN	NN	_	11	nsubj	_	_
+11	runs	run	VERB	VBZ	_	8	rcmod	_	_
+12	off	off	ADP	IN	_	11	prep	_	_
+13	of	of	ADP	IN	_	12	pcomp	_	_
+14	the	the	DET	DT	_	16	det	_	_
+15	time	time	NOUN	NN	_	16	nn	_	_
+16	line	line	NOUN	NN	_	13	pobj	_	_
+17	to	to	ADP	IN	_	4	prep	_	_
+18	less	less	ADJ	JJR	_	19	amod	_	_
+19	quality	quality	NOUN	NN	_	17	pobj	_	_
+20	.	.	PUNCT	.	_	4	punct	_	_
+

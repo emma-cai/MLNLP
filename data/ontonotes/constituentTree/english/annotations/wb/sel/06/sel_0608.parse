@@ -1,0 +1,12 @@
+(S (NP (NN *PRO*))
+        (VP (MD Will)
+            (VP (VB develop)
+                (NP (JJ appropriate)
+                      (NN coding))
+                (S (NP (NN *PRO*-1))
+                       (VP (TO to)
+                           (VP (VB meet)
+                               (NP (NN system)
+                                   (NNS requirements)))))))
+        (. .))
+

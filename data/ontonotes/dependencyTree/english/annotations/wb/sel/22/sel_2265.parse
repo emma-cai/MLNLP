@@ -1,0 +1,9 @@
+1	Abbas	Abbas	PROPN	NNP	_	2	nsubj	_	_
+2	drums	drum	VERB	VBZ	_	0	root	_	_
+3	up	up	PART	RP	_	2	prt	_	_
+4	support	support	NOUN	NN	_	2	dobj	_	_
+5	for	for	ADP	IN	_	4	prep	_	_
+6	US	US	PROPN	NNP	_	7	nn	_	_
+7	meeting	meeting	NOUN	NN	_	5	pobj	_	_
+8	.	.	PUNCT	.	_	2	punct	_	_
+

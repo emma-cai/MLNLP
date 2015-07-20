@@ -1,0 +1,12 @@
+(S (NP (PRP He))
+        (ADVP (RB also))
+        (VP (VP (VBD slapped)
+                (NP (CD one)))
+            (, ,)
+            (VP (VBD touched)
+                (NP (CD one)))
+            (CC and)
+            (VP (VBD rubbed)
+                (NP (CD one))))
+        (. .))
+

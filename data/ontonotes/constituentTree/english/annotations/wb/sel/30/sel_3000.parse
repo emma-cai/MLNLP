@@ -1,0 +1,13 @@
+(S (NP (NNP Bishop)
+                (NNP Barnes))
+        (VP (VBD sealed)
+            (PP (IN with)
+                    (NP (NP (DT a)
+                            (JJ single)
+                            (NN rose))
+                        (, ,)
+                        (VP (ADVP (RB beautifully))
+                            (VP (VBN engraved)
+                                (NP (NN *)))))))
+        (. .))
+

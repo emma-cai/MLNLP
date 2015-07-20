@@ -1,0 +1,10 @@
+(S (NP (NN House)
+                (NNS sales))
+        (VP (VBP fall)
+            (NP (QP (RB almost)
+                        (CD 11.5))
+                    (NN %))
+            (PP (IN in)
+                    (NP (NNP Spain))))
+        (. .))
+

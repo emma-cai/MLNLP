@@ -1,0 +1,18 @@
+1	This	this	DET	DT	_	2	det	_	_
+2	development	development	NOUN	NN	_	4	nsubj	_	_
+3	would	would	AUX	MD	_	4	aux	_	_
+4	mean	mean	VERB	VB	_	0	root	_	_
+5	that	that	ADP	IN	_	9	mark	_	_
+6	Chinese	chinese	ADJ	JJ	_	7	amod	_	_
+7	shares	share	NOUN	NNS	_	9	nsubj	_	_
+8	should	should	AUX	MD	_	9	aux	_	_
+9	fall	fall	VERB	VB	_	4	ccomp	_	_
+10	impulsively	impulsively	ADV	RB	_	9	advmod	_	_
+11	through	through	ADP	IN	_	9	prep	_	_
+12	4779	4779	NUM	CD	_	11	pobj	_	_
+13	over	over	ADP	IN	_	9	prep	_	_
+14	the	the	DET	DT	_	16	det	_	_
+15	coming	come	VERB	VBG	_	16	amod	_	_
+16	weeks	week	NOUN	NNS	_	13	pobj	_	_
+17	.	.	PUNCT	.	_	4	punct	_	_
+

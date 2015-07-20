@@ -1,0 +1,9 @@
+(S (INTJ (UH Please))
+            (NP (NN *PRO*))
+            (VP (VB pick)
+                (PRT (RP up))
+                (NP (PRP$ your)
+                    (NN copy))
+                (NP (NN today)))
+            (. .))
+

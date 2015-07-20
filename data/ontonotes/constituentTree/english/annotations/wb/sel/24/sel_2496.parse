@@ -1,0 +1,12 @@
+(S (NP (NP (NNP VIRGO))
+                (CC or)
+                (NP (NML (JJ 6th)
+                         (NN house))
+                    (NNP Virgo)))
+        (VP (VBZ does)
+            (RB not)
+            (VP (VB incline)
+                (PP (IN toward)
+                        (NP (NN spontaneity)))))
+        (. .))
+

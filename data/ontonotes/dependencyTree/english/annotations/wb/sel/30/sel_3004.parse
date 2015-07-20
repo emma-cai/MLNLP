@@ -1,0 +1,17 @@
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	seeks	seek	VERB	VBZ	_	0	root	_	_
+3	*PRO*-1	*pro*-1	NOUN	NN	_	2	dobj	_	_
+4	to	to	ADP	TO	_	5	aux	_	_
+5	shed	shed	VERB	VB	_	2	xcomp	_	_
+6	light	light	NOUN	NN	_	5	dobj	_	_
+7	on	on	ADP	IN	_	5	prep	_	_
+8	the	the	DET	DT	_	10	det	_	_
+9	uncanny	uncanny	ADJ	JJ	_	10	amod	_	_
+10	affinities	affinity	NOUN	NNS	_	7	pobj	_	_
+11	between	between	ADP	IN	_	10	prep	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	Counter-Enlightenment	Counter-Enlightenment	PROPN	NNP	_	11	pobj	_	_
+14	and	and	CONJ	CC	_	13	cc	_	_
+15	postmodernism	postmodernism	PROPN	NNP	_	13	conj	_	_
+16	.	.	PUNCT	.	_	2	punct	_	_
+

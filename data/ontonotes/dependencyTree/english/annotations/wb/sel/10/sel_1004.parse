@@ -1,0 +1,20 @@
+1	Willingness	willingness	NOUN	NN	_	0	root	_	_
+2	*PRO*	*pro*	NOUN	NN	_	4	nsubj	_	_
+3	to	to	ADP	TO	_	4	aux	_	_
+4	provide	provide	VERB	VB	_	1	vmod	_	_
+5	consulting	consulting	NOUN	NN	_	4	dobj	_	_
+6	for	for	ADP	IN	_	5	prep	_	_
+7	various	various	ADJ	JJ	_	9	amod	_	_
+8	project	project	NOUN	NN	_	9	nn	_	_
+9	efforts	effort	NOUN	NNS	_	6	pobj	_	_
+10	*	*	NOUN	NN	_	12	nsubj	_	_
+11	to	to	ADP	TO	_	12	aux	_	_
+12	handle	handle	VERB	VB	_	9	vmod	_	_
+13	or	or	CONJ	CC	_	12	cc	_	_
+14	facilitate	facilitate	VERB	VB	_	12	conj	_	_
+15	UNIX	UNIX	PROPN	NNP	_	16	nn	_	_
+16	Security	security	NOUN	NN	_	17	dep	_	_
+17	related	related	ADJ	JJ	_	18	amod	_	_
+18	topicsissues	topicsissue	NOUN	NNS	_	12	dobj	_	_
+19	.	.	PUNCT	.	_	1	punct	_	_
+

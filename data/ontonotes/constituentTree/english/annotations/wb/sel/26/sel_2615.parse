@@ -1,0 +1,11 @@
+(S (NP (NN Blood)
+                  (CC and)
+                  (NN expectation))
+        (VP (VBD pumped)
+            (S (NP (NN *PRO*-1))
+                   (ADJP (JJ sluggish)))
+            (PP-LOC (IN through)
+                        (NP (PRP$ his)
+                            (NNS veins))))
+        (. .))
+

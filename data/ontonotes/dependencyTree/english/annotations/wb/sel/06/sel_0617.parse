@@ -1,0 +1,24 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Work	work	VERB	VB	_	0	root	_	_
+3	with	with	ADP	IN	_	2	prep	_	_
+4	and	and	CONJ	CC	_	3	cc	_	_
+5	through	through	ADP	IN	_	3	conj	_	_
+6	site	site	NOUN	NN	_	7	nn	_	_
+7	analysts	analyst	NOUN	NNS	_	3	pobj	_	_
+8	*PRO*	*pro*	NOUN	NN	_	2	dobj	_	_
+9	to	to	ADP	TO	_	10	aux	_	_
+10	develop	develop	VERB	VB	_	2	xcomp	_	_
+11	service	service	NOUN	NN	_	12	nn	_	_
+12	needs	need	NOUN	NNS	_	13	nn	_	_
+13	criteria	criterion	NOUN	NNS	_	10	dobj	_	_
+14	,	,	PUNCT	,	_	13	punct	_	_
+15	system	system	NOUN	NN	_	16	nn	_	_
+16	configurations	configuration	NOUN	NNS	_	13	conj	_	_
+17	,	,	PUNCT	,	_	13	punct	_	_
+18	and	and	CONJ	CC	_	13	cc	_	_
+19	non-standard	non-standard	ADJ	JJ	_	22	amod	_	_
+20	service	service	NOUN	NN	_	21	nn	_	_
+21	delivery	delivery	NOUN	NN	_	22	nn	_	_
+22	requirements	requirement	NOUN	NNS	_	13	conj	_	_
+23	.	.	PUNCT	.	_	2	punct	_	_
+

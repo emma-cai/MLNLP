@@ -1,0 +1,10 @@
+1	And	and	CONJ	CC	_	5	cc	_	_
+2	tons	ton	NOUN	NNS	_	5	nsubj	_	_
+3	of	of	ADP	IN	_	2	prep	_	_
+4	people	people	NOUN	NNS	_	3	pobj	_	_
+5	send	send	VERB	VBP	_	0	root	_	_
+6	random	random	ADJ	JJ	_	8	amod	_	_
+7	group	group	NOUN	NN	_	8	nn	_	_
+8	invites	invite	NOUN	NNS	_	5	dobj	_	_
+9	.	.	PUNCT	.	_	5	punct	_	_
+

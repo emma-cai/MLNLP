@@ -1,0 +1,10 @@
+(S (NP (PRP It))
+        (VP (VP (VBZ seals)
+                (NP (NN metal)))
+            (CC and)
+            (VP (VBZ is)
+                (PP (IN like)
+                        (NP (DT a)
+                            (NN primer)))))
+        (. .))
+

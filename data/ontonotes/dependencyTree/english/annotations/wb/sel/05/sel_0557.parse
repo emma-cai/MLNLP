@@ -1,0 +1,27 @@
+1	Chongkai	Chongkai	PROPN	NNP	_	3	nn	_	_
+2	Grant	Grant	PROPN	NNP	_	3	nn	_	_
+3	Rettke	Rettke	PROPN	NNP	_	4	nsubj	_	_
+4	wrote	write	VERB	VBD	_	0	root	_	_
+5	:	:	PUNCT	:	_	4	punct	_	_
+6	I	I	PRON	PRP	_	7	nsubj	_	_
+7	wanted	want	VERB	VBD	_	4	ccomp	_	_
+8	a	a	DET	DT	_	9	det	_	_
+9	macro	macro	NOUN	NN	_	7	dobj	_	_
+10	0	0	X	X	_	13	dobj	_	_
+11	*PRO*-1	*pro*-1	NOUN	NN	_	13	nsubj	_	_
+12	to	to	ADP	TO	_	13	aux	_	_
+13	declare	declare	VERB	VB	_	9	rcmod	_	_
+14	class	class	NOUN	NN	_	15	nn	_	_
+15	level	level	NOUN	NN	_	16	nn	_	_
+16	properties	property	NOUN	NNS	_	13	dobj	_	_
+17	and	and	CONJ	CC	_	7	cc	_	_
+18	came	come	VERB	VBD	_	7	conj	_	_
+19	up	up	PART	RP	_	18	prt	_	_
+20	with	with	ADP	IN	_	18	prep	_	_
+21	the	the	DET	DT	_	24	det	_	_
+22	macro	macro	NOUN	NN	_	24	nn	_	_
+23	'	'	PUNCT	``	_	24	punct	_	_
+24	property	property	NOUN	NN	_	20	pobj	_	_
+25	'	'	PUNCT	''	_	24	punct	_	_
+26	.	.	PUNCT	.	_	4	punct	_	_
+

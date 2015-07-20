@@ -1,0 +1,8 @@
+(S (NP (DT The)
+                (NNS points))
+        (VP (VBP rack)
+            (PRT (RP up))
+            (ADVP (RB really)
+                      (RB fast)))
+        (. .))
+

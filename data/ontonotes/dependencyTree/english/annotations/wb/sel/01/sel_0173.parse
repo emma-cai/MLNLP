@@ -1,0 +1,16 @@
+1	:	:	PUNCT	:	_	3	punct	_	_
+2	I	I	PRON	PRP	_	3	nsubj	_	_
+3	am	be	VERB	VBP	_	0	root	_	_
+4	Atmos	atmo	NOUN	NNS	_	3	xcomp	_	_
+5	of	of	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	8	det	_	_
+7	Galactic	Galactic	PROPN	NNP	_	8	nn	_	_
+8	Federation	Federation	PROPN	NNP	_	5	pobj	_	_
+9	and	and	CONJ	CC	_	3	cc	_	_
+10	bring	bring	VERB	VB	_	3	conj	_	_
+11	you	you	PRON	PRP	_	10	iobj	_	_
+12	messages	message	NOUN	NNS	_	10	dobj	_	_
+13	of	of	ADP	IN	_	12	prep	_	_
+14	hope	hope	NOUN	NN	_	13	pobj	_	_
+15	.	.	PUNCT	.	_	3	punct	_	_
+

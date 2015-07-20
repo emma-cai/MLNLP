@@ -1,0 +1,18 @@
+1	Prosser	Prosser	PROPN	NNP	_	2	nsubj	_	_
+2	orders	order	VERB	VBZ	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	Humvee	Humvee	PROPN	NNP	_	2	dobj	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	2	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	smash	smash	VERB	VB	_	2	xcomp	_	_
+8	down	down	PART	RP	_	7	prt	_	_
+9	the	the	DET	DT	_	10	det	_	_
+10	home	home	NOUN	NN	_	16	poss	_	_
+11	's	's	PART	POS	_	10	possessive	_	_
+12	locked	lock	VERB	VBN	_	16	amod	_	_
+13	,	,	PUNCT	,	_	16	punct	_	_
+14	front	front	ADJ	JJ	_	16	amod	_	_
+15	metal	metal	ADJ	JJ	_	16	amod	_	_
+16	gate	gate	NOUN	NN	_	7	dobj	_	_
+17	.	.	PUNCT	.	_	2	punct	_	_
+

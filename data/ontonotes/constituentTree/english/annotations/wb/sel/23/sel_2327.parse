@@ -1,0 +1,9 @@
+(FRAG (NP (VBG Booming)
+               (NN Economy))
+           (: :)
+           (S (NP (NNP US))
+              (VP (VBZ edges)
+                  (PP (IN toward)
+                          (NP (NN brink)))))
+           (. .))
+

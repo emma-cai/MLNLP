@@ -1,0 +1,27 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	liked	like	VERB	VBD	_	0	root	_	_
+3	it	it	PRON	PRP	_	2	dobj	_	_
+4	more	more	ADV	RBR	_	2	advmod	_	_
+5	with	with	ADP	IN	_	2	prep	_	_
+6	"	"	PUNCT	``	_	5	punct	_	_
+7	viscous	viscous	ADJ	JJ	_	5	pobj	_	_
+8	"	"	PUNCT	''	_	5	punct	_	_
+9	:	:	PUNCT	:	_	2	punct	_	_
+10	D	D	PROPN	NNP	_	2	dep	_	_
+11	Too	too	ADV	RB	_	12	advmod	_	_
+12	bad	bad	ADJ	JJ	_	10	dep	_	_
+13	0	0	X	X	_	15	dep	_	_
+14	you	you	PRON	PRP	_	15	nsubj	_	_
+15	're	be	VERB	VBP	_	10	dep	_	_
+16	much	much	ADV	RB	_	18	advmod	_	_
+17	too	too	ADV	RB	_	18	advmod	_	_
+18	young	young	ADJ	JJ	_	15	acomp	_	_
+19	*PRO*-1	*pro*-1	NOUN	NN	_	21	nsubj	_	_
+20	to	to	ADP	TO	_	21	aux	_	_
+21	remember	remember	VERB	VB	_	18	dep	_	_
+22	the	the	DET	DT	_	23	det	_	_
+23	rocker	rocker	NOUN	NN	_	21	dobj	_	_
+24	Sid	Sid	PROPN	NNP	_	25	nn	_	_
+25	Viscous	Viscous	PROPN	NNP	_	23	dep	_	_
+26	!	!	PUNCT	.	_	2	punct	_	_
+

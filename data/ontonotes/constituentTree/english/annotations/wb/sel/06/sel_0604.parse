@@ -1,0 +1,10 @@
+(S (NP (PRP You))
+        (VP (VP (VBP get)
+                (NP (NN acidity)))
+            (, ,)
+            (VP (VBP develop)
+                (NP (JJ gastric)
+                    (NNS problems))))
+        (. .)
+        ('' "))
+

@@ -1,0 +1,15 @@
+1	The	the	DET	DT	_	4	det	_	_
+2	Hong	Hong	PROPN	NNP	_	3	nn	_	_
+3	Kong	Kong	PROPN	NNP	_	4	nn	_	_
+4	courts	court	NOUN	NNS	_	5	nsubj	_	_
+5	declared	declare	VERB	VBD	_	0	root	_	_
+6	Mr.	Mr.	PROPN	NNP	_	7	nn	_	_
+7	Hsu	Hsu	PROPN	NNP	_	8	nsubj	_	_
+8	bankrupt	bankrupt	ADJ	JJ	_	5	xcomp	_	_
+9	in	in	ADP	IN	_	5	prep	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	summer	summer	NOUN	NN	_	9	pobj	_	_
+12	of	of	ADP	IN	_	11	prep	_	_
+13	1998	1998	NUM	CD	_	12	pobj	_	_
+14	.	.	PUNCT	.	_	5	punct	_	_
+

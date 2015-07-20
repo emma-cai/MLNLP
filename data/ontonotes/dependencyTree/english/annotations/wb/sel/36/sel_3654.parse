@@ -1,0 +1,27 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	you	you	PRON	PRP	_	3	nsubj	_	_
+3	pay	pay	VERB	VBP	_	23	advcl	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	commercial	commercial	ADJ	JJ	_	6	amod	_	_
+6	service	service	NOUN	NN	_	3	dobj	_	_
+7	*PRO*-1	*pro*-1	NOUN	NN	_	3	dobj	_	_
+8	to	to	ADP	TO	_	9	aux	_	_
+9	rip	rip	VERB	VB	_	3	vmod	_	_
+10	your	you	PRON	PRP$	_	11	poss	_	_
+11	LP	lp	NOUN	NN	_	9	dobj	_	_
+12	and	and	CONJ	CC	_	9	cc	_	_
+13	do	do	VERB	VB	_	9	conj	_	_
+14	a	a	DET	DT	_	17	det	_	_
+15	professional	professional	ADJ	JJ	_	17	amod	_	_
+16	cleanup	cleanup	ADJ	JJ	_	17	amod	_	_
+17	job	job	NOUN	NN	_	13	dobj	_	_
+18	,	,	PUNCT	,	_	23	punct	_	_
+19	are	be	VERB	VBP	_	23	aux	_	_
+20	you	you	PRON	PRP	_	23	nsubj	_	_
+21	or	or	CONJ	CC	_	20	cc	_	_
+22	they	they	PRON	PRP	_	20	conj	_	_
+23	breaking	break	VERB	VBG	_	0	root	_	_
+24	the	the	DET	DT	_	25	det	_	_
+25	law	law	NOUN	NN	_	23	dobj	_	_
+26	?	?	PUNCT	.	_	23	punct	_	_
+

@@ -1,0 +1,21 @@
+1	We	we	PRON	PRP	_	3	nsubj	_	_
+2	always	always	ADV	RB	_	3	advmod	_	_
+3	trim	trim	VERB	VBP	_	0	root	_	_
+4	most	most	ADJ	JJS	_	3	dobj	_	_
+5	of	of	ADP	IN	_	4	prep	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	fat	fat	NOUN	NN	_	5	pobj	_	_
+8	off	off	ADP	IN	_	3	prep	_	_
+9	our	we	PRON	PRP$	_	10	poss	_	_
+10	meat	meat	NOUN	NN	_	8	pobj	_	_
+11	-LRB-	-lrb-	PUNCT	-LRB-	_	3	punct	_	_
+12	I	I	PRON	PRP	_	13	nsubj	_	_
+13	think	think	VERB	VBP	_	3	parataxis	_	_
+14	0	0	X	X	_	18	dep	_	_
+15	you	you	PRON	PRP	_	18	nsubj	_	_
+16	do	do	VERB	VBP	_	18	aux	_	_
+17	n't	not	ADV	RB	_	18	neg	_	_
+18	eat	eat	VERB	VB	_	13	ccomp	_	_
+19	meat	meat	NOUN	NN	_	18	dep	_	_
+20	.	.	PUNCT	.	_	3	punct	_	_
+

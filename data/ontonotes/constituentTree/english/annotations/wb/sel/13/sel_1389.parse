@@ -1,0 +1,10 @@
+(SBARQ (WHADVP (WRB How))
+            (SQ (VBP do)
+                (NP (PRP I))
+                (VP (VB post)
+                    (NP (DT a)
+                        (JJ binary)
+                        (NN file))
+                    (ADVP (X *T*-1))))
+            (. ?))
+

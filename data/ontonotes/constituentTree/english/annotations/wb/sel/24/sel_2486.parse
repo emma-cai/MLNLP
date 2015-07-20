@@ -1,0 +1,12 @@
+(S (NP (PRP I))
+        (VP (MD 'd)
+            (VP (VB incline)
+                (PP (IN towards)
+                        (NP (NML (JJR better)
+                                 (NN quality))
+                            (NN manufacture)))
+                (, ,)
+                (NP (NP (NN mid-war))
+                        (ADVP (RB onwards)))))
+        (. .))
+

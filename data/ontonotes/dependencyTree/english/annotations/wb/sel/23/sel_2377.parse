@@ -1,0 +1,15 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	making	make	VERB	VBG	_	9	advcl	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	valentine	valentine	NOUN	NN	_	6	nn	_	_
+6	shape	shape	NOUN	NN	_	3	dobj	_	_
+7	,	,	PUNCT	,	_	9	punct	_	_
+8	*PRO*	*pro*	NOUN	NN	_	9	nsubj	_	_
+9	fold	fold	VERB	VB	_	0	root	_	_
+10	the	the	DET	DT	_	12	det	_	_
+11	pointed	pointed	ADJ	JJ	_	12	amod	_	_
+12	end	end	NOUN	NN	_	9	dobj	_	_
+13	under	under	ADV	RB	_	9	advmod	_	_
+14	.	.	PUNCT	.	_	9	punct	_	_
+

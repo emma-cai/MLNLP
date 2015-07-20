@@ -1,0 +1,21 @@
+1	wessie	wessie	PROPN	NNP	_	2	nsubj	_	_
+2	wrote	write	VERB	VBD	_	0	root	_	_
+3	:	:	PUNCT	:	_	2	punct	_	_
+4	I	I	PRON	PRP	_	6	nsubj	_	_
+5	'll	'll	AUX	MD	_	6	aux	_	_
+6	call	call	VERB	VB	_	2	ccomp	_	_
+7	Royal	Royal	PROPN	NNP	_	10	nn	_	_
+8	&	&	CONJ	CC	_	7	cc	_	_
+9	Sun	Sun	PROPN	NNP	_	7	conj	_	_
+10	Alliance	Alliance	PROPN	NNP	_	6	dobj	_	_
+11	tomorrow	tomorrow	NOUN	NN	_	6	tmod	_	_
+12	*PRO*-1	*pro*-1	NOUN	NN	_	6	dobj	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	put	put	VERB	VB	_	6	vmod	_	_
+15	in	in	PART	RP	_	14	prt	_	_
+16	a	a	DET	DT	_	17	det	_	_
+17	claim	claim	NOUN	NN	_	14	iobj	_	_
+18	my	my	PRON	PRP$	_	19	poss	_	_
+19	end	end	NOUN	NN	_	14	dobj	_	_
+20	.	.	PUNCT	.	_	2	punct	_	_
+

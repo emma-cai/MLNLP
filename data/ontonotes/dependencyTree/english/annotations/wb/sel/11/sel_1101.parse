@@ -1,0 +1,23 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	make	make	VERB	VBP	_	0	root	_	_
+3	more	more	ADJ	JJR	_	2	dobj	_	_
+4	*ICH*-1	*ich*-1	X	X	_	3	prep	_	_
+5	*PRO*	*pro*	NOUN	NN	_	6	nsubj	_	_
+6	playing	play	VERB	VBG	_	2	dep	_	_
+7	*PRO*	*pro*	NOUN	NN	_	8	nsubj	_	_
+8	sober	sober	ADJ	JJ	_	6	xcomp	_	_
+9	than	than	ADP	IN	_	2	prep	_	_
+10	*PRO*	*pro*	NOUN	NN	_	11	dep	_	_
+11	drunk	drunk	ADJ	JJ	_	9	pcomp	_	_
+12	but	but	CONJ	CC	_	2	cc	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	increase	increase	NOUN	NN	_	15	nsubj	_	_
+15	is	be	VERB	VBZ	_	2	conj	_	_
+16	not	not	ADV	RB	_	15	neg	_	_
+17	worth	worth	ADJ	JJ	_	15	acomp	_	_
+18	the	the	DET	DT	_	19	det	_	_
+19	loss	loss	NOUN	NN	_	17	dep	_	_
+20	of	of	ADP	IN	_	19	prep	_	_
+21	fun	fun	NOUN	NN	_	20	pobj	_	_
+22	.	.	PUNCT	.	_	2	punct	_	_
+

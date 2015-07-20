@@ -1,0 +1,25 @@
+1	That	that	DET	DT	_	2	nsubj	_	_
+2	s	s	VERB	VBZ	_	0	root	_	_
+3	it	it	PRON	PRP	_	2	xcomp	_	_
+4	,	,	PUNCT	,	_	2	punct	_	_
+5	if	if	ADP	IN	_	7	mark	_	_
+6	anyone	anyone	NOUN	NN	_	7	nsubj	_	_
+7	wants	want	VERB	VBZ	_	18	advcl	_	_
+8	*PRO*-1	*pro*-1	NOUN	NN	_	7	dobj	_	_
+9	to	to	ADP	TO	_	10	aux	_	_
+10	contact	contact	VERB	VB	_	7	xcomp	_	_
+11	me	I	PRON	PRP	_	10	dobj	_	_
+12	for	for	ADP	IN	_	10	prep	_	_
+13	a	a	DET	DT	_	14	det	_	_
+14	chat	chat	NOUN	NN	_	12	pobj	_	_
+15	or	or	CONJ	CC	_	14	cc	_	_
+16	whatever	whatever	DET	WDT	_	14	conj	_	_
+17	*PRO*	*pro*	NOUN	NN	_	18	nsubj	_	_
+18	send	send	VERB	VB	_	2	parataxis	_	_
+19	me	I	PRON	PRP	_	18	iobj	_	_
+20	an	a	DET	DT	_	21	det	_	_
+21	email	email	NOUN	NN	_	18	dobj	_	_
+22	or	or	CONJ	CC	_	21	cc	_	_
+23	something	something	NOUN	NN	_	21	conj	_	_
+24	.	.	PUNCT	.	_	2	punct	_	_
+

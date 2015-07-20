@@ -1,0 +1,20 @@
+1	Provided	provide	VERB	VBN	_	18	prep	_	_
+2	0	0	X	X	_	4	dep	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	have	have	VERB	VBP	_	1	pcomp	_	_
+5	the	the	DET	DT	_	7	det	_	_
+6	correct	correct	ADJ	JJ	_	7	amod	_	_
+7	lead	lead	NOUN	NN	_	4	dobj	_	_
+8	0	0	X	X	_	11	dobj	_	_
+9	*PRO*	*pro*	NOUN	NN	_	11	nsubj	_	_
+10	to	to	ADP	TO	_	11	aux	_	_
+11	plug	plug	VERB	VB	_	7	rcmod	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	11	dobj	_	_
+13	into	into	ADP	IN	_	11	prep	_	_
+14	the	the	DET	DT	_	15	det	_	_
+15	wall	wall	NOUN	NN	_	13	pobj	_	_
+16	it	it	PRON	PRP	_	18	nsubj	_	_
+17	will	will	AUX	MD	_	18	aux	_	_
+18	work	work	VERB	VB	_	0	root	_	_
+19	.	.	PUNCT	.	_	18	punct	_	_
+

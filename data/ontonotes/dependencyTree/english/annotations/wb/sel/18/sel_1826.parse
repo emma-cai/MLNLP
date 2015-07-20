@@ -1,0 +1,13 @@
+1	;-	;-_NFP	X	NFP	_	4	punct	_	_
+2	When	when	ADV	WRB	_	4	advmod	_	_
+3	Moses	Moses	PROPN	NNPS	_	4	nsubj	_	_
+4	commanded	command	VERB	VBD	_	0	root	_	_
+5	Israel	Israel	PROPN	NNP	_	4	dobj	_	_
+6	*PRO*-1	*pro*-1	NOUN	NN	_	4	dobj	_	_
+7	not	not	ADV	RB	_	9	neg	_	_
+8	to	to	ADP	TO	_	9	aux	_	_
+9	serve	serve	VERB	VB	_	4	vmod	_	_
+10	idols	idol	NOUN	NNS	_	9	dobj	_	_
+11	*T*-2	*t*-2	X	X	_	4	advmod	_	_
+12	...	...	PUNCT	.	_	4	punct	_	_
+

@@ -1,0 +1,12 @@
+(S (NP (NN *PRO*))
+            (VP (VB Topcoat)
+                (PP (IN with)
+                        (NP (NNP Dullcote)))
+                (S (NP (NN *PRO*))
+                       (VP (TO to)
+                           (VP (VB seal)
+                               (PRT (RP in))
+                               (NP (DT the)
+                                   (NNS decals))))))
+            (. .))
+

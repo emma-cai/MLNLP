@@ -1,0 +1,23 @@
+1	*PRO*-1	*pro*-1	NOUN	NN	_	2	nsubj	_	_
+2	Upshifting	upshift	VERB	VBG	_	4	dep	_	_
+3	you	you	PRON	PRP	_	4	nsubj	_	_
+4	have	have	VERB	VBP	_	0	root	_	_
+5	*-1	*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	catch	catch	VERB	VB	_	4	ccomp	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	rpm	rpm	NOUN	NN	_	7	dobj	_	_
+10	as	as	ADP	IN	_	12	mark	_	_
+11	they	they	PRON	PRP	_	12	nsubj	_	_
+12	fall	fall	VERB	VBP	_	7	advcl	_	_
+13	past	past	ADP	IN	_	12	prep	_	_
+14	the	the	DET	DT	_	16	det	_	_
+15	match	match	NOUN	NN	_	16	nn	_	_
+16	point	point	NOUN	NN	_	13	pobj	_	_
+17	,	,	PUNCT	,	_	7	punct	_	_
+18	*PRO*	*pro*	NOUN	NN	_	19	nsubj	_	_
+19	requiring	require	VERB	VBG	_	7	dep	_	_
+20	better	better	ADJ	JJR	_	21	amod	_	_
+21	timing	timing	NOUN	NN	_	19	dobj	_	_
+22	.	.	PUNCT	.	_	4	punct	_	_
+

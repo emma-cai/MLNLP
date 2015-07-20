@@ -1,0 +1,12 @@
+(S (NP (PRP$ its)
+                (NN orbit))
+        (VP (MD will)
+            (VP (VP (VB become)
+                    (ADJP (RB highly)
+                              (JJ elliptical)))
+                (CC and)
+                (VP (VB strike)
+                    (NP (DT the)
+                        (NN earth)))))
+        (. .))
+

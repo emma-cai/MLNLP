@@ -1,0 +1,12 @@
+(S (NP (JJ Many)
+                (JJ PRIVATE)
+                (NML (NN auto)
+                     (NN insurance))
+                (NNS policies))
+        (ADVP (RB ALSO))
+        (ADVP (RB FULLY))
+        (VP (VBP cover)
+            (NP (JJ rental)
+                (NNS cars)))
+        (. .))
+

@@ -1,0 +1,15 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Expect	expect	VERB	VB	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	answer	answer	NOUN	NN	_	2	dobj	_	_
+5	to	to	ADP	IN	_	4	prep	_	_
+6	every	every	DET	DT	_	7	det	_	_
+7	problem	problem	NOUN	NN	_	5	pobj	_	_
+8	,	,	PUNCT	,	_	2	punct	_	_
+9	expect	expect	VERB	VB	_	2	dep	_	_
+10	abundance	abundance	NOUN	NN	_	9	dobj	_	_
+11	on	on	ADP	IN	_	10	prep	_	_
+12	every	every	DET	DT	_	13	det	_	_
+13	level	level	NOUN	NN	_	11	pobj	_	_
+14	...	...	PUNCT	.	_	2	punct	_	_
+

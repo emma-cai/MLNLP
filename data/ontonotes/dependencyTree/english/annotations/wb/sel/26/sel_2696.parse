@@ -1,0 +1,21 @@
+1	Maybe	maybe	ADV	RB	_	6	advmod	_	_
+2	him	he	PRON	PRP	_	6	nsubj	_	_
+3	and	and	CONJ	CC	_	2	cc	_	_
+4	schumacher	schumacher	PROPN	NNP	_	2	conj	_	_
+5	can	can	AUX	MD	_	6	aux	_	_
+6	punch	punch	VERB	VB	_	0	root	_	_
+7	the	the	DET	DT	_	8	det	_	_
+8	air	air	NOUN	NN	_	6	dobj	_	_
+9	together	together	ADV	RB	_	6	advmod	_	_
+10	when	when	ADV	WRB	_	15	advmod	_	_
+11	a	a	DET	DT	_	14	det	_	_
+12	broken	broken	ADJ	JJ	_	14	amod	_	_
+13	Renault	Renault	PROPN	NNP	_	14	nn	_	_
+14	wishbone	wishbone	NOUN	NN	_	15	nsubj	_	_
+15	comes	come	VERB	VBZ	_	6	advcl	_	_
+16	to	to	ADP	IN	_	15	prep	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	screen	screen	NOUN	NN	_	16	pobj	_	_
+19	*T*-1	*t*-1	X	X	_	15	advmod	_	_
+20	.	.	PUNCT	.	_	6	punct	_	_
+

@@ -1,0 +1,27 @@
+1	Free	free	ADJ	JJ	_	2	amod	_	_
+2	refills	refill	NOUN	NNS	_	7	nsubj	_	_
+3	and	and	CONJ	CC	_	2	cc	_	_
+4	good	good	ADJ	JJ	_	5	amod	_	_
+5	service	service	NOUN	NN	_	2	conj	_	_
+6	will	will	AUX	MD	_	7	aux	_	_
+7	keep	keep	VERB	VB	_	0	root	_	_
+8	customers	customer	NOUN	NNS	_	9	nsubj	_	_
+9	coming	come	VERB	VBG	_	7	dep	_	_
+10	back	back	ADV	RB	_	9	advmod	_	_
+11	even	even	ADV	RB	_	12	advmod	_	_
+12	after	after	ADP	IN	_	9	prep	_	_
+13	Starbucks	Starbucks	PROPN	NNP	_	14	nsubj	_	_
+14	folds	fold	VERB	VBZ	_	12	pcomp	_	_
+15	their	they	PRON	PRP$	_	16	poss	_	_
+16	umbrella	umbrella	NOUN	NNS	_	14	dobj	_	_
+17	and	and	CONJ	CC	_	14	cc	_	_
+18	provides	provide	VERB	VBZ	_	14	conj	_	_
+19	wireless	wireless	ADJ	JJ	_	20	amod	_	_
+20	access	access	NOUN	NN	_	18	dobj	_	_
+21	at	at	ADP	IN	_	18	prep	_	_
+22	no	no	DET	DT	_	23	neg	_	_
+23	cost	cost	NOUN	NN	_	21	pobj	_	_
+24	to	to	ADP	IN	_	23	prep	_	_
+25	customers	customer	NOUN	NNS	_	24	pobj	_	_
+26	.	.	PUNCT	.	_	7	punct	_	_
+

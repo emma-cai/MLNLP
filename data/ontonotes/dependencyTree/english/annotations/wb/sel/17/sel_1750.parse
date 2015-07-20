@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	_	5	nsubj	_	_
+2	still	still	ADV	RB	_	5	advmod	_	_
+3	ca	can	AUX	MD	_	5	aux	_	_
+4	nt	nt	ADV	RB	_	5	neg	_	_
+5	see	see	VERB	VB	_	0	root	_	_
+6	the	the	DET	DT	_	7	det	_	_
+7	voters	voter	NOUN	NNS	_	8	nsubj	_	_
+8	buying	buy	VERB	VBG	_	5	dep	_	_
+9	it	it	PRON	PRP	_	8	dobj	_	_
+10	and	and	CONJ	CC	_	5	cc	_	_
+11	that	that	DET	DT	_	12	nsubj	_	_
+12	s	s	VERB	VBZ	_	5	conj	_	_
+13	why	why	ADV	WRB	_	17	advmod	_	_
+14	it	it	PRON	PRP	_	17	nsubj	_	_
+15	ca	can	AUX	MD	_	17	aux	_	_
+16	nt	nt	ADV	RB	_	17	neg	_	_
+17	fly	fly	VERB	VB	_	12	advcl	_	_
+18	*T*-1	*t*-1	X	X	_	17	advmod	_	_
+19	.	.	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,15 @@
+1	Standard	standard	ADJ	JJ	_	4	amod	_	_
+2	symmetric	symmetric	ADJ	JJ	_	4	amod	_	_
+3	wing	wing	NOUN	NN	_	4	nn	_	_
+4	sections	section	NOUN	NNS	_	7	nsubj	_	_
+5	on	on	ADP	IN	_	4	prep	_	_
+6	tail	tail	NOUN	NN	_	5	pobj	_	_
+7	configured	configure	VERB	VBN	_	0	root	_	_
+8	*-1	*-1	NOUN	NN	_	7	dobj	_	_
+9	as	as	ADP	IN	_	7	prep	_	_
+10	45	45	NUM	CD	_	11	num	_	_
+11	degree	degree	NOUN	NN	_	13	nn	_	_
+12	swept	sweep	VERB	VBN	_	13	amod	_	_
+13	surfaces	surface	NOUN	NNS	_	9	pobj	_	_
+14	.	.	PUNCT	.	_	7	punct	_	_
+

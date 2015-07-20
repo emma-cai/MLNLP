@@ -1,0 +1,8 @@
+(S (NP (NN *PRO*))
+            (ADVP (RB Just))
+            (VP (VB stop)
+                (S (NP (NN *PRO*-1))
+                   (VP (VBG wanting)
+                       (NP (DT that)))))
+            (. .))
+

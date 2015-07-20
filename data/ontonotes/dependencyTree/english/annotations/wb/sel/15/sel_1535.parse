@@ -1,0 +1,27 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	did	do	VERB	VBD	_	0	root	_	_
+3	this	this	DET	DT	_	2	dobj	_	_
+4	with	with	ADP	IN	_	2	prep	_	_
+5	full	full	ADJ	JJ	_	6	amod	_	_
+6	gain	gain	NOUN	NN	_	4	pobj	_	_
+7	,	,	PUNCT	,	_	2	punct	_	_
+8	*PRO*-2	*pro*-2	NOUN	NN	_	9	nsubj	_	_
+9	using	use	VERB	VBG	_	2	dep	_	_
+10	the	the	DET	DT	_	13	det	_	_
+11	low	low	ADJ	JJ	_	13	amod	_	_
+12	cut	cut	NOUN	NN	_	13	nn	_	_
+13	filter	filter	NOUN	NN	_	9	dobj	_	_
+14	*PRO*	*pro*	NOUN	NN	_	9	dobj	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	reduce	reduce	VERB	VB	_	9	vmod	_	_
+17	wind	wind	NOUN	NN	_	18	nn	_	_
+18	noise	noise	NOUN	NN	_	16	dobj	_	_
+19	,	,	PUNCT	,	_	9	punct	_	_
+20	and	and	CONJ	CC	_	9	cc	_	_
+21	with	with	ADP	IN	_	24	mark	_	_
+22	the	the	DET	DT	_	23	det	_	_
+23	limiter	limiter	NOUN	NN	_	24	nsubj	_	_
+24	engaged	engage	VERB	VBN	_	9	conj	_	_
+25	*-1	*-1	NOUN	NN	_	24	dobj	_	_
+26	.	.	PUNCT	.	_	2	punct	_	_
+

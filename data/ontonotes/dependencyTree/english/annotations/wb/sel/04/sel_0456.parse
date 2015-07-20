@@ -1,0 +1,20 @@
+1	I	I	PRON	PRP	_	4	nsubj	_	_
+2	would	would	AUX	MD	_	4	aux	_	_
+3	not	not	ADV	RB	_	4	neg	_	_
+4	assume	assume	VERB	VB	_	0	root	_	_
+5	that	that	ADP	IN	_	14	mark	_	_
+6	*PRO*	*pro*	NOUN	NN	_	7	nsubj	_	_
+7	running	run	VERB	VBG	_	14	csubj	_	_
+8	my	my	PRON	PRP$	_	10	poss	_	_
+9	functional	functional	ADJ	JJ	_	10	amod	_	_
+10	vectors	vector	NOUN	NNS	_	7	dobj	_	_
+11	with	with	ADP	IN	_	7	prep	_	_
+12	timing	timing	NOUN	NN	_	11	pobj	_	_
+13	would	would	AUX	MD	_	14	aux	_	_
+14	cover	cover	VERB	VB	_	4	ccomp	_	_
+15	any	any	DET	DT	_	18	det	_	_
+16	interesting	interesting	ADJ	JJ	_	18	amod	_	_
+17	timing	timing	NOUN	NN	_	18	nn	_	_
+18	cases	case	NOUN	NNS	_	14	dobj	_	_
+19	.	.	PUNCT	.	_	4	punct	_	_
+

@@ -1,0 +1,10 @@
+(S (NP (PRP I))
+        (VP (VBP write)
+            (PP (IN about)
+                    (NP (NML (JJ dual)
+                             (NN boot))
+                        (NNS systems)))
+            (ADVP (RB quite)
+                      (RB often)))
+        (. .))
+

@@ -1,0 +1,11 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	agree	agree	VERB	VBP	_	0	root	_	_
+3	that	that	ADP	IN	_	6	mark	_	_
+4	specific	specific	ADJ	JJ	_	5	amod	_	_
+5	responses	response	NOUN	NNS	_	6	nsubj	_	_
+6	are	be	VERB	VBP	_	2	ccomp	_	_
+7	probably	probably	ADV	RB	_	6	advmod	_	_
+8	more	more	ADV	RBR	_	9	advmod	_	_
+9	helpful	helpful	ADJ	JJ	_	6	acomp	_	_
+10	.	.	PUNCT	.	_	2	punct	_	_
+

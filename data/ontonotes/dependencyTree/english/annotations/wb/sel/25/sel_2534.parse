@@ -1,0 +1,12 @@
+1	these	these	DET	DT	_	2	det	_	_
+2	days	day	NOUN	NNS	_	4	tmod	_	_
+3	we	we	PRON	PRP	_	4	nsubj	_	_
+4	map	map	VERB	VBP	_	0	root	_	_
+5	submodules	submodule	NOUN	NNS	_	4	dobj	_	_
+6	through	through	ADP	IN	_	4	prep	_	_
+7	naming	naming	NOUN	NN	_	8	nn	_	_
+8	conventions	convention	NOUN	NNS	_	6	pobj	_	_
+9	like	like	ADP	IN	_	8	prep	_	_
+10	Component1.moduleA	component1.modulea	NOUN	NN	_	9	pobj	_	_
+11	,	,	PUNCT	,	_	4	punct	_	_
+

@@ -1,0 +1,19 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Whisk	whisk	VERB	VB	_	0	root	_	_
+3	egg	egg	NOUN	NN	_	2	dobj	_	_
+4	with	with	ADP	IN	_	2	prep	_	_
+5	water	water	NOUN	NN	_	4	pobj	_	_
+6	;	;	PUNCT	:	_	2	punct	_	_
+7	*PRO*	*pro*	NOUN	NN	_	8	nsubj	_	_
+8	brush	brush	VERB	VB	_	2	parataxis	_	_
+9	some	some	DET	DT	_	8	dobj	_	_
+10	over	over	ADP	IN	_	8	prep	_	_
+11	joints	joint	NOUN	NNS	_	10	pobj	_	_
+12	,	,	PUNCT	,	_	8	punct	_	_
+13	*PRO*	*pro*	NOUN	NN	_	14	nsubj	_	_
+14	pressing	press	VERB	VBG	_	8	vmod	_	_
+15	*PRO*	*pro*	NOUN	NN	_	14	dobj	_	_
+16	to	to	ADP	TO	_	17	aux	_	_
+17	seal	seal	VERB	VB	_	14	xcomp	_	_
+18	.	.	PUNCT	.	_	2	punct	_	_
+

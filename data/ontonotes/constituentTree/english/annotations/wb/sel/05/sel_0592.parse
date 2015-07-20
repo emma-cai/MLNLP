@@ -1,0 +1,9 @@
+(S (PP (IN In)
+                (NP (CD 1815)))
+        (NP (NNP Cracow))
+        (VP (VBD declared)
+            (NP (DT a)
+                (JJ free)
+                (NN republic)))
+        (. .))
+

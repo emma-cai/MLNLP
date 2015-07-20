@@ -1,0 +1,11 @@
+(S (ADVP (RB Every)
+                  (RB so)
+                  (RB often))
+        (NP (PRP I))
+        (VP (MD 'll)
+            (VP (VB plug)
+                (PRT (RP in))
+                (NP (DT another)
+                    (NN device))))
+        (. .))
+

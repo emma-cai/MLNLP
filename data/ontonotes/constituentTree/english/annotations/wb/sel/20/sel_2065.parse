@@ -1,0 +1,13 @@
+(SQ (MD Could)
+         (NP (PRP you))
+         (VP (VB tell)
+             (NP (NNP Mission)
+                   (NNP Control))
+             (S (NP (NN *PRO*-1))
+                (VP (TO to)
+                    (VP (VB turn)
+                        (PRT (RP up))
+                        (NP (DT the)
+                            (NN volume))))))
+         (. ?))
+

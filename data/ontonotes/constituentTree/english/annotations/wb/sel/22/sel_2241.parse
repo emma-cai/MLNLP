@@ -1,0 +1,6 @@
+(S (NP (PRP You))
+        (VP (VBD made)
+            (S (NP (PRP me))
+               (VP (VB capitalize))))
+        (. .))
+

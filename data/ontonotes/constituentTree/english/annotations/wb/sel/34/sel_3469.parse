@@ -1,0 +1,12 @@
+(S (NP (PRP I))
+        (VP (VBP trim)
+            (NP (NP (PRP$ my)
+                    (NNS pigs)
+                    (POS '))
+                (NNS nails))
+            (ADVP (ADVP (RB about)
+                            (RB once))
+                      (NP (DT a)
+                              (NN month))))
+        (. .))
+

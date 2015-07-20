@@ -1,0 +1,12 @@
+(S (S (NP (PRP$ My)
+                   (NNS hosts))
+           (VP (VBP have)
+               (VP (VBN been)
+                   (VP (VBG having)
+                       (NP (NN spamcomment)
+                           (NNS issues))))))
+        (CC and)
+        (S (NP (PRP it))
+           (VP (VBZ renders)
+               (NP (ADD weblogs.us)))))
+

@@ -1,0 +1,12 @@
+(S (NP (PRP I))
+        (ADVP (RB hereby))
+        (VP (VBP declare)
+            (S (NP (PRP myself))
+               (NP (NP (NNP Vice)
+                           (NNP President))
+                       (PP (IN in)
+                           (NP (NP (NN charge))
+                               (PP (IN of)
+                                   (NP (NN Cluelessness))))))))
+        (. .))
+

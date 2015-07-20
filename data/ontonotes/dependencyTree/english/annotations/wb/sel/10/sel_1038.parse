@@ -1,0 +1,15 @@
+1	Not	not	ADV	RB	_	0	root	_	_
+2	sure	sure	ADJ	JJ	_	1	dep	_	_
+3	about	about	ADP	IN	_	2	prep	_	_
+4	how	how	ADV	WRB	_	7	advmod	_	_
+5	pppd	pppd	NOUN	NN	_	7	nsubj	_	_
+6	will	will	AUX	MD	_	7	aux	_	_
+7	handle	handle	VERB	VB	_	3	pcomp	_	_
+8	multiple	multiple	ADJ	JJ	_	11	amod	_	_
+9	authentication	authentication	NOUN	NN	_	10	nn	_	_
+10	protocol	protocol	NOUN	NN	_	11	nn	_	_
+11	requirements	requirement	NOUN	NNS	_	7	dobj	_	_
+12	too	too	ADV	RB	_	7	advmod	_	_
+13	*T*-1	*t*-1	X	X	_	7	advmod	_	_
+14	.	.	PUNCT	.	_	2	punct	_	_
+

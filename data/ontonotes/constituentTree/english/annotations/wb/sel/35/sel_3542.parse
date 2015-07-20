@@ -1,0 +1,10 @@
+(S (NP (DT This)
+                (NN time))
+        (NP (NN motor)
+                (NNS overloads))
+        (VP (VBD tripped)
+            (, ,)
+            (ADVP (RB quite)
+                  (RB rightly)))
+        (. .))
+

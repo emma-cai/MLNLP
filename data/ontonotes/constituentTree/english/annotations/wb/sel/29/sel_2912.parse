@@ -1,0 +1,11 @@
+(S (NP (PRP I))
+        (VP (MD can)
+            (VP (VB scale)
+                (NP (DT the)
+                    (NN marker))
+                (ADVP (RB manually))
+                (PP (IN like)
+                        (NP (NP (DT this))
+                            (: :)
+                            (NP (NN marker.iconImage.style.zoom)))))))
+

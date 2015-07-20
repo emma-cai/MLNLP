@@ -1,0 +1,25 @@
+1	Alternatively	alternatively	ADV	RB	_	7	advmod	_	_
+2	,	,	PUNCT	,	_	7	punct	_	_
+3	a	a	DET	DT	_	5	det	_	_
+4	stuck	stuck	ADJ	JJ	_	5	amod	_	_
+5	caliber	caliber	NOUN	NN	_	7	nsubj	_	_
+6	could	could	AUX	MD	_	7	aux	_	_
+7	cause	cause	VERB	VB	_	0	root	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	brake	brake	NOUN	NN	_	7	dobj	_	_
+10	on	on	ADP	IN	_	9	prep	_	_
+11	one	one	NUM	CD	_	12	num	_	_
+12	wheel	wheel	NOUN	NN	_	10	pobj	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	drag	drag	VERB	VB	_	7	xcomp	_	_
+15	and	and	CONJ	CC	_	14	cc	_	_
+16	so	so	ADV	RB	_	15	dep	_	_
+17	boil	boil	VERB	VB	_	14	conj	_	_
+18	the	the	DET	DT	_	20	det	_	_
+19	brake	brake	NOUN	NN	_	20	nn	_	_
+20	fluid	fluid	NOUN	NN	_	17	dobj	_	_
+21	after	after	ADP	IN	_	17	prep	_	_
+22	some	some	DET	DT	_	23	det	_	_
+23	distance	distance	NOUN	NN	_	21	pobj	_	_
+24	.	.	PUNCT	.	_	7	punct	_	_
+

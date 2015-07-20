@@ -1,0 +1,26 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	this	this	DET	DT	_	3	nsubj	_	_
+3	is	be	VERB	VBZ	_	20	advcl	_	_
+4	what	what	PRON	WP	_	8	dobj	_	_
+5	these	these	DET	DT	_	7	det	_	_
+6	camera	camera	NOUN	NN	_	7	nn	_	_
+7	stores	store	NOUN	NNS	_	8	nsubj	_	_
+8	do	do	VERB	VBP	_	3	xcomp	_	_
+9	*T*-1	*t*-1	NOUN	NN	_	8	dobj	_	_
+10	-LRB-	-lrb-	PUNCT	-LRB-	_	8	punct	_	_
+11	*PRO*	*pro*	NOUN	NN	_	12	nsubj	_	_
+12	rip	rip	VERB	VBP	_	8	dep	_	_
+13	people	people	NOUN	NNS	_	12	dobj	_	_
+14	off	off	PART	RP	_	12	prt	_	_
+15	-RRB-	-rrb-	PUNCT	-RRB-	_	8	punct	_	_
+16	,	,	PUNCT	,	_	20	punct	_	_
+17	I	I	PRON	PRP	_	20	nsubj	_	_
+18	will	will	AUX	MD	_	20	aux	_	_
+19	never	never	ADV	RB	_	20	neg	_	_
+20	step	step	VERB	VB	_	0	root	_	_
+21	foot	foot	NOUN	NN	_	20	dobj	_	_
+22	in	in	ADP	IN	_	20	prep	_	_
+23	another	another	DET	DT	_	24	det	_	_
+24	one	one	NOUN	NN	_	22	pobj	_	_
+25	.	.	PUNCT	.	_	20	punct	_	_
+

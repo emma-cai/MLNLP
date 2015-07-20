@@ -1,0 +1,11 @@
+(SBARQ (WHNP (WHNP (WDT What)
+                          (NN kind))
+                    (PP (IN of)
+                        (NP (NN gas)
+                            (NN mileage))))
+            (SQ (MD can)
+                (NP (PRP I))
+                (VP (VB expect)
+                    (NP (NN *T*-1))))
+            (. ?))
+

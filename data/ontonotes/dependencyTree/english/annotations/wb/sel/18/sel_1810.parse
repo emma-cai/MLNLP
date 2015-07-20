@@ -1,0 +1,17 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Add	add	VERB	VB	_	0	root	_	_
+3	to	to	ADP	IN	_	2	prep	_	_
+4	shrimp	shrimp	NOUN	NN	_	5	nn	_	_
+5	mixture	mixture	NOUN	NN	_	3	pobj	_	_
+6	and	and	CONJ	CC	_	2	cc	_	_
+7	serve	serve	VERB	VB	_	2	conj	_	_
+8	*PRO*	*pro*	NOUN	NN	_	9	nsubj	_	_
+9	chilled	chilled	ADJ	JJ	_	7	xcomp	_	_
+10	,	,	PUNCT	,	_	7	punct	_	_
+11	*PRO*	*pro*	NOUN	NN	_	12	nsubj	_	_
+12	mounded	mound	VERB	VBN	_	7	dep	_	_
+13	on	on	ADP	IN	_	12	prep	_	_
+14	leaf	leaf	NOUN	NN	_	15	nn	_	_
+15	lettuce	lettuce	NOUN	NN	_	13	pobj	_	_
+16	.	.	PUNCT	.	_	2	punct	_	_
+

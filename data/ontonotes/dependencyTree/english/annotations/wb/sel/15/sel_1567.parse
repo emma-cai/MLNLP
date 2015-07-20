@@ -1,0 +1,16 @@
+1	In	in	ADP	IN	_	11	prep	_	_
+2	case	case	NOUN	NN	_	1	pobj	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	you	you	PRON	PRP	_	5	nsubj	_	_
+5	are	be	VERB	VBP	_	2	ccomp	_	_
+6	in	in	ADP	IN	_	5	prep	_	_
+7	doubt	doubt	NOUN	NN	_	6	pobj	_	_
+8	,	,	PUNCT	,	_	11	punct	_	_
+9	*PRO*	*pro*	NOUN	NN	_	11	nsubj	_	_
+10	just	just	ADV	RB	_	11	advmod	_	_
+11	remember	remember	VERB	VB	_	0	root	_	_
+12	Ukraine	Ukraine	PROPN	NNP	_	11	dobj	_	_
+13	last	last	ADJ	JJ	_	14	amod	_	_
+14	winter	winter	NOUN	NN	_	12	dep	_	_
+15	.	.	PUNCT	.	_	11	punct	_	_
+

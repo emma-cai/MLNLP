@@ -1,0 +1,12 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	point	point	NOUN	NN	_	5	nsubj	_	_
+3	of	of	ADP	IN	_	2	prep	_	_
+4	them	they	PRON	PRP	_	3	pobj	_	_
+5	is	be	VERB	VBZ	_	0	root	_	_
+6	*PRO*	*pro*	NOUN	NN	_	5	dobj	_	_
+7	to	to	ADP	TO	_	8	aux	_	_
+8	choose	choose	VERB	VB	_	5	xcomp	_	_
+9	convention	convention	NOUN	NN	_	10	nn	_	_
+10	delegates	delegate	NOUN	NNS	_	8	dobj	_	_
+11	...	...	PUNCT	.	_	5	punct	_	_
+

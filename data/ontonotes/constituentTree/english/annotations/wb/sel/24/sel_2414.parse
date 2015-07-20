@@ -1,0 +1,12 @@
+(S (CC But)
+        (NP (NNP Moscow))
+        (ADVP (RB relentlessly))
+        (VP (VBD ground)
+            (NP (DT the)
+                (NN life))
+            (PP (IN out)
+                    (PP (IN of)
+                        (NP (NNP Chechen)
+                            (NN resistance)))))
+        (. .))
+

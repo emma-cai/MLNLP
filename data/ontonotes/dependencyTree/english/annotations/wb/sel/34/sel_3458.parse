@@ -1,0 +1,11 @@
+1	If	if	ADP	IN	_	3	mark	_	_
+2	you	you	PRON	PRP	_	3	nsubj	_	_
+3	trim	trim	VERB	VBP	_	9	advcl	_	_
+4	back	back	PART	RP	_	3	prt	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	vines	vine	NOUN	NNS	_	3	dobj	_	_
+7	they	they	PRON	PRP	_	9	nsubj	_	_
+8	should	should	AUX	MD	_	9	aux	_	_
+9	resprout	resprout	VERB	VB	_	0	root	_	_
+10	.	.	PUNCT	.	_	9	punct	_	_
+

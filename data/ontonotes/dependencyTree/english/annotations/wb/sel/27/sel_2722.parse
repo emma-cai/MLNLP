@@ -1,0 +1,25 @@
+1	As	as	ADP	IN	_	8	prep	_	_
+2	a	a	DET	DT	_	3	det	_	_
+3	point	point	NOUN	NN	_	1	pobj	_	_
+4	of	of	ADP	IN	_	3	prep	_	_
+5	information	information	NOUN	NN	_	4	pobj	_	_
+6	I	I	PRON	PRP	_	8	nsubj	_	_
+7	rarely	rarely	ADV	RB	_	8	advmod	_	_
+8	rack	rack	VERB	VBP	_	0	root	_	_
+9	until	until	ADP	IN	_	12	mark	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	wine	wine	NOUN	NN	_	12	nsubj	_	_
+12	is	be	VERB	VBZ	_	8	advcl	_	_
+13	dry	dry	ADJ	JJ	_	12	acomp	_	_
+14	;	;	PUNCT	:	_	8	punct	_	_
+15	1.001	1.001	NUM	CD	_	16	nsubj	_	_
+16	is	be	VERB	VBZ	_	8	parataxis	_	_
+17	still	still	ADV	RB	_	16	advmod	_	_
+18	a	a	DET	DT	_	19	det	_	_
+19	bit	bit	NOUN	NN	_	20	dep	_	_
+20	sweet	sweet	ADJ	JJ	_	16	acomp	_	_
+21	for	for	ADP	IN	_	20	prep	_	_
+22	a	a	DET	DT	_	23	det	_	_
+23	red	red	NOUN	NN	_	21	pobj	_	_
+24	.	.	PUNCT	.	_	8	punct	_	_
+

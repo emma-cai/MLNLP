@@ -1,0 +1,8 @@
+(S (`` ")
+        (NP (PRP I))
+        (ADVP (RB absolutely))
+        (VP (VBP agree)
+            (PP (IN with)
+                    (NP (NNP Ronnie))))
+        (. .))
+

@@ -1,0 +1,11 @@
+(SBARQ (WHADVP (WRB How))
+            (SQ (VBP do)
+                (NP (PRP I))
+                (VP (VB stop)
+                    (NP (PRP$ my)
+                        (JJ negative)
+                        (NNS thoughts))
+                    (ADVP (X *T*-1))))
+            (. ?)
+            ('' "))
+

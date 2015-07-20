@@ -1,0 +1,10 @@
+(S (NP (PRP I))
+        (ADVP (RB hardly)
+                  (RB ever))
+        (VP (VBP see)
+            (NP (NNS magpies))
+            (SBAR (IN since)
+                      (S (NP (NN west)
+                                 (NNP Nile))
+                         (VP (VBD swept))))))
+

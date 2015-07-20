@@ -1,0 +1,12 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Let	let	VERB	VB	_	0	root	_	_
+3	them	they	PRON	PRP	_	4	nsubj	_	_
+4	soak	soak	VERB	VB	_	2	ccomp	_	_
+5	in	in	ADP	IN	_	4	prep	_	_
+6	their	they	PRON	PRP$	_	8	poss	_	_
+7	own	own	ADJ	JJ	_	8	amod	_	_
+8	sin	sin	NOUN	NN	_	5	pobj	_	_
+9	for	for	ADP	IN	_	4	prep	_	_
+10	now	now	ADV	RB	_	9	pcomp	_	_
+11	.	.	PUNCT	.	_	2	punct	_	_
+

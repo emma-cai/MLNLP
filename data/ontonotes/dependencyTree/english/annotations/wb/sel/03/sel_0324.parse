@@ -1,0 +1,17 @@
+1	A	a	DET	DT	_	4	det	_	_
+2	strong	strong	ADJ	JJ	_	4	amod	_	_
+3	mental	mental	ADJ	JJ	_	4	amod	_	_
+4	outlook	outlook	NOUN	NN	_	6	nsubj	_	_
+5	will	will	AUX	MD	_	6	aux	_	_
+6	carry	carry	VERB	VB	_	0	root	_	_
+7	you	you	PRON	PRP	_	6	dobj	_	_
+8	through	through	PART	RP	_	6	prt	_	_
+9	until	until	ADP	IN	_	12	mark	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	results	result	NOUN	NNS	_	12	nsubj	_	_
+12	begin	begin	VERB	VBP	_	6	advcl	_	_
+13	*-1	*-1	NOUN	NN	_	12	dobj	_	_
+14	to	to	ADP	TO	_	15	aux	_	_
+15	appear	appear	VERB	VB	_	12	xcomp	_	_
+16	.	.	PUNCT	.	_	6	punct	_	_
+

@@ -1,0 +1,25 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	agree	agree	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	6	dep	_	_
+4	they	they	PRON	PRP	_	6	nsubj	_	_
+5	almost	almost	ADV	RB	_	6	advmod	_	_
+6	give	give	VERB	VBP	_	2	ccomp	_	_
+7	the	the	DET	DT	_	8	det	_	_
+8	printers	printer	NOUN	NNS	_	6	dobj	_	_
+9	away	away	PART	RP	_	6	prt	_	_
+10	and	and	CONJ	CC	_	6	cc	_	_
+11	make	make	VERB	VBP	_	6	conj	_	_
+12	up	up	PART	RP	_	11	prt	_	_
+13	the	the	DET	DT	_	14	det	_	_
+14	difference	difference	NOUN	NN	_	11	dobj	_	_
+15	in	in	ADP	IN	_	11	prep	_	_
+16	*PRO*	*pro*	NOUN	NN	_	17	nsubj	_	_
+17	selling	sell	VERB	VBG	_	15	pcomp	_	_
+18	you	you	PRON	PRP	_	17	iobj	_	_
+19	replacement	replacement	NOUN	NN	_	23	nn	_	_
+20	ink	ink	NOUN	NN	_	23	nn	_	_
+21	or	or	CONJ	CC	_	20	cc	_	_
+22	toner	toner	NOUN	NN	_	20	conj	_	_
+23	cartridges	cartridge	NOUN	NNS	_	17	dobj	_	_
+24	.	.	PUNCT	.	_	2	punct	_	_
+

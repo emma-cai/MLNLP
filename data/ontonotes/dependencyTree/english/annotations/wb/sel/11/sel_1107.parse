@@ -1,0 +1,17 @@
+1	Some	some	DET	DT	_	2	det	_	_
+2	people	people	NOUN	NNS	_	3	nsubj	_	_
+3	wonder	wonder	VERB	VBP	_	0	root	_	_
+4	if	if	ADP	IN	_	8	mark	_	_
+5	these	these	DET	DT	_	7	det	_	_
+6	positive	positive	ADJ	JJ	_	7	amod	_	_
+7	benefits	benefit	NOUN	NNS	_	8	nsubj	_	_
+8	make	make	VERB	VBP	_	3	advcl	_	_
+9	*PRO*	*pro*	NOUN	NN	_	10	nsubj	_	_
+10	helping	help	VERB	VBG	_	8	dep	_	_
+11	others	other	NOUN	NNS	_	10	dobj	_	_
+12	an	a	DET	DT	_	15	det	_	_
+13	ultimately	ultimately	ADV	RB	_	14	advmod	_	_
+14	selfish	selfish	ADJ	JJ	_	15	amod	_	_
+15	act	act	NOUN	NN	_	10	dep	_	_
+16	.	.	PUNCT	.	_	3	punct	_	_
+

@@ -1,0 +1,25 @@
+1	but	but	CONJ	CC	_	4	cc	_	_
+2	my	my	PRON	PRP$	_	3	poss	_	_
+3	wife	wife	NOUN	NN	_	4	nsubj	_	_
+4	seems	seem	VERB	VBZ	_	0	root	_	_
+5	*-1	*-1	NOUN	NN	_	4	dobj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	be	be	VERB	VB	_	4	xcomp	_	_
+8	happy	happy	ADJ	JJ	_	7	acomp	_	_
+9	that	that	ADP	IN	_	12	mark	_	_
+10	she	she	PRON	PRP	_	12	nsubj	_	_
+11	still	still	ADV	RB	_	12	advmod	_	_
+12	gets	get	VERB	VBZ	_	8	ccomp	_	_
+13	*PRO*-2	*pro*-2	NOUN	NN	_	12	dobj	_	_
+14	to	to	ADP	TO	_	15	aux	_	_
+15	drive	drive	VERB	VB	_	12	xcomp	_	_
+16	her	she	PRON	PRP$	_	20	poss	_	_
+17	72	72	NUM	CD	_	20	num	_	_
+18	chevy	chevy	NOUN	NN	_	20	nn	_	_
+19	shortbox	shortbox	NOUN	NN	_	20	nn	_	_
+20	stepside	stepside	NOUN	NN	_	15	dobj	_	_
+21	till	till	ADP	IN	_	23	mark	_	_
+22	it	it	PRON	PRP	_	23	nsubj	_	_
+23	sells	sell	VERB	VBZ	_	12	advcl	_	_
+24	...	...	PUNCT	:	_	4	punct	_	_
+

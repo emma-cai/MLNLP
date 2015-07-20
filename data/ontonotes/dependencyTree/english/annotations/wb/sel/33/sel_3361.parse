@@ -1,0 +1,14 @@
+1	Private	private	ADJ	JJ	_	2	amod	_	_
+2	clubs	club	NOUN	NNS	_	7	nsubj	_	_
+3	and	and	CONJ	CC	_	2	cc	_	_
+4	amateur	amateur	ADJ	JJ	_	5	amod	_	_
+5	events	event	NOUN	NNS	_	2	conj	_	_
+6	might	might	AUX	MD	_	7	aux	_	_
+7	thrash	thrash	VERB	VB	_	0	root	_	_
+8	on	on	PART	RP	_	7	prt	_	_
+9	for	for	ADP	IN	_	7	prep	_	_
+10	a	a	DET	DT	_	12	det	_	_
+11	short	short	ADJ	JJ	_	12	amod	_	_
+12	while	while	NOUN	NN	_	9	pobj	_	_
+13	.	.	PUNCT	.	_	7	punct	_	_
+

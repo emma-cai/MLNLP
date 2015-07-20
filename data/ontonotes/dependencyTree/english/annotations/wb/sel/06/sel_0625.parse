@@ -1,0 +1,26 @@
+1	ESS	ESS	PROPN	NNP	_	2	nn	_	_
+2	Phase	Phase	PROPN	NNP	_	0	root	_	_
+3	2	2	NUM	CD	_	2	num	_	_
+4	-	-	PUNCT	:	_	2	punct	_	_
+5	*PRO*	*pro*	NOUN	NN	_	6	nsubj	_	_
+6	Work	work	VERB	VB	_	2	dep	_	_
+7	with	with	ADP	IN	_	6	prep	_	_
+8	the	the	DET	DT	_	11	det	_	_
+9	HCM	HCM	PROPN	NNP	_	11	nn	_	_
+10	Integration	Integration	PROPN	NNP	_	11	nn	_	_
+11	Manager	Manager	PROPN	NNP	_	7	pobj	_	_
+12	*PRO*	*pro*	NOUN	NN	_	6	dobj	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	develop	develop	VERB	VB	_	6	xcomp	_	_
+15	new	new	ADJ	JJ	_	16	amod	_	_
+16	functionality	functionality	NOUN	NN	_	14	dobj	_	_
+17	such	such	ADJ	JJ	_	18	mwe	_	_
+18	as	as	ADP	IN	_	16	prep	_	_
+19	Leave	Leave	PROPN	NNP	_	20	nn	_	_
+20	Approvals	Approvals	PROPN	NNPS	_	18	pobj	_	_
+21	and	and	CONJ	CC	_	20	cc	_	_
+22	other	other	ADJ	JJ	_	24	amod	_	_
+23	update	update	NOUN	NN	_	24	nn	_	_
+24	capabilities	capability	NOUN	NNS	_	20	conj	_	_
+25	.	.	PUNCT	.	_	2	punct	_	_
+

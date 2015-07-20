@@ -1,0 +1,26 @@
+1	So	so	ADV	RB	_	5	advmod	_	_
+2	,	,	PUNCT	,	_	5	punct	_	_
+3	it	it	PRON	PRP	_	5	nsubj	_	_
+4	*EXP*-1	*exp*-1	X	X	_	3	dep	_	_
+5	took	take	VERB	VBD	_	0	root	_	_
+6	little	little	ADJ	JJ	_	7	amod	_	_
+7	effort	effort	NOUN	NN	_	5	dobj	_	_
+8	for	for	ADP	IN	_	14	mark	_	_
+9	me	I	PRON	PRP	_	14	nsubj	_	_
+10	,	,	PUNCT	,	_	9	punct	_	_
+11	Lilian	Lilian	PROPN	NNP	_	12	nn	_	_
+12	Lo	Lo	PROPN	NNP	_	9	appos	_	_
+13	to	to	ADP	TO	_	14	aux	_	_
+14	drum	drum	VERB	VB	_	5	advcl	_	_
+15	up	up	PART	RP	_	14	prt	_	_
+16	the	the	DET	DT	_	17	det	_	_
+17	interest	interest	NOUN	NN	_	14	dobj	_	_
+18	of	of	ADP	IN	_	17	prep	_	_
+19	our	we	PRON	PRP$	_	22	poss	_	_
+20	Hong	Hong	PROPN	NNP	_	21	nn	_	_
+21	Kong	Kong	PROPN	NNP	_	22	nn	_	_
+22	group	group	NOUN	NN	_	18	pobj	_	_
+23	for	for	ADP	IN	_	14	prep	_	_
+24	JCDC	JCDC	PROPN	NNP	_	23	pobj	_	_
+25	.	.	PUNCT	.	_	5	punct	_	_
+

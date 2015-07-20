@@ -1,0 +1,10 @@
+(SQ (MD Should)
+         (NP (PRP she))
+         (VP (VB make)
+             (NP (NP (NN career)
+                     (NNS decisions))
+                 (CC and)
+                 (NP (NN life)
+                     (NNS decisions))))
+         (. ?))
+

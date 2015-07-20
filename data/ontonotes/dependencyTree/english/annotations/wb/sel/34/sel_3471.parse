@@ -1,0 +1,20 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	Reid	Reid	PROPN	NNP	_	3	nsubj	_	_
+3	wrote	write	VERB	VBD	_	0	root	_	_
+4	:	:	PUNCT	:	_	3	punct	_	_
+5	*PRO*	*pro*	NOUN	NN	_	6	nsubj	_	_
+6	Following	follow	VERB	VBG	_	16	dep	_	_
+7	up	up	PART	RP	_	6	prt	_	_
+8	to	to	ADP	IN	_	6	prep	_	_
+9	rosie	rosie	PROPN	NNP	_	11	nn	_	_
+10	readandpost	readandpost	PROPN	NNP	_	11	nn	_	_
+11	MX	MX	PROPN	NNP	_	8	pobj	_	_
+12	,	,	PUNCT	,	_	16	punct	_	_
+13	would	would	AUX	MD	_	16	aux	_	_
+14	you	you	PRON	PRP	_	16	nsubj	_	_
+15	please	please	INTJ	UH	_	16	discourse	_	_
+16	trim	trim	VERB	VB	_	3	parataxis	_	_
+17	your	you	PRON	PRP$	_	18	poss	_	_
+18	headers	header	NOUN	NNS	_	16	dobj	_	_
+19	?	?	PUNCT	.	_	3	punct	_	_
+

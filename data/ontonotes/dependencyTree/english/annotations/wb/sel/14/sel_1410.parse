@@ -1,0 +1,11 @@
+1	These	these	DET	DT	_	2	det	_	_
+2	influences	influence	NOUN	NNS	_	3	nsubj	_	_
+3	reach	reach	VERB	VBP	_	0	root	_	_
+4	into	into	ADP	IN	_	3	prep	_	_
+5	classrooms	classroom	NOUN	NNS	_	4	pobj	_	_
+6	and	and	CONJ	CC	_	3	cc	_	_
+7	hinder	hinder	VERB	VBP	_	3	conj	_	_
+8	student	student	NOUN	NN	_	9	nn	_	_
+9	achievement	achievement	NOUN	NN	_	7	dobj	_	_
+10	.	.	PUNCT	.	_	3	punct	_	_
+

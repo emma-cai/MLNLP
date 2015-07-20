@@ -1,0 +1,10 @@
+(S (NP (NNS Carriers))
+        (ADVP (RB usually))
+        (VP (VBP handle)
+            (NP (NNS claims))
+            (PP (IN in)
+                    (NP (NP (NN order))
+                        (PP (IN of)
+                            (NP (NN sevaraty))))))
+        (. .))
+

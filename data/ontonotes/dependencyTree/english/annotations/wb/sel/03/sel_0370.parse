@@ -1,0 +1,16 @@
+1	If	if	ADP	IN	_	4	mark	_	_
+2	they	they	PRON	PRP	_	4	nsubj	_	_
+3	can	can	AUX	MD	_	4	aux	_	_
+4	choose	choose	VERB	VB	_	13	advcl	_	_
+5	between	between	ADP	IN	_	4	prep	_	_
+6	truth	truth	NOUN	NN	_	5	pobj	_	_
+7	and	and	CONJ	CC	_	6	cc	_	_
+8	lies	lie	NOUN	NNS	_	6	conj	_	_
+9	,	,	PUNCT	,	_	13	punct	_	_
+10	they	they	PRON	PRP	_	13	nsubj	_	_
+11	will	will	AUX	MD	_	13	aux	_	_
+12	consciously	consciously	ADV	RB	_	13	advmod	_	_
+13	choose	choose	VERB	VB	_	0	root	_	_
+14	lies	lie	NOUN	NNS	_	13	dobj	_	_
+15	.	.	PUNCT	.	_	13	punct	_	_
+

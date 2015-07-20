@@ -1,0 +1,20 @@
+1	Cheung	Cheung	PROPN	NNP	_	2	nsubj	_	_
+2	sealed	seal	VERB	VBD	_	0	root	_	_
+3	the	the	DET	DT	_	4	det	_	_
+4	entrance	entrance	NOUN	NN	_	2	dobj	_	_
+5	,	,	PUNCT	,	_	2	punct	_	_
+6	attached	attach	VERB	VBD	_	2	dep	_	_
+7	paper	paper	NOUN	NN	_	8	nn	_	_
+8	wings	wing	NOUN	NNS	_	6	dobj	_	_
+9	to	to	ADP	IN	_	6	prep	_	_
+10	the	the	DET	DT	_	11	det	_	_
+11	cage	cage	NOUN	NN	_	9	pobj	_	_
+12	,	,	PUNCT	,	_	2	punct	_	_
+13	had	have	VERB	VBD	_	2	dep	_	_
+14	it	it	PRON	PRP	_	15	nsubj	_	_
+15	lift	lift	VERB	VB	_	13	ccomp	_	_
+16	off	off	PART	RP	_	15	prep	_	_
+17	the	the	DET	DT	_	18	det	_	_
+18	ground	ground	NOUN	NN	_	16	dep	_	_
+19	.	.	PUNCT	.	_	2	punct	_	_
+

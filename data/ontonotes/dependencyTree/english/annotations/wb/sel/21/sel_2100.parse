@@ -1,0 +1,23 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	wrote	write	VERB	VBD	_	0	root	_	_
+3	:	:	PUNCT	:	_	2	punct	_	_
+4	dude	dude	NOUN	NN	_	7	dep	_	_
+5	-	-	PUNCT	:	_	7	punct	_	_
+6	*PRO*	*pro*	NOUN	NN	_	7	nsubj	_	_
+7	tell	tell	VERB	VB	_	2	parataxis	_	_
+8	me	I	PRON	PRP	_	7	dobj	_	_
+9	,	,	PUNCT	,	_	7	punct	_	_
+10	what	what	PRON	WP	_	12	dep	_	_
+11	*T*-1	*t*-1	NOUN	NN	_	12	nsubj	_	_
+12	leads	lead	VERB	VBZ	_	7	parataxis	_	_
+13	you	you	PRON	PRP	_	12	dobj	_	_
+14	*PRO*-2	*pro*-2	NOUN	NN	_	12	dobj	_	_
+15	to	to	ADP	TO	_	16	aux	_	_
+16	believe	believe	VERB	VB	_	12	vmod	_	_
+17	0	0	X	X	_	19	dep	_	_
+18	I	I	PRON	PRP	_	19	nsubj	_	_
+19	am	be	VERB	VBP	_	16	ccomp	_	_
+20	a	a	DET	DT	_	21	det	_	_
+21	whore	whore	NOUN	NN	_	19	xcomp	_	_
+22	?	?	PUNCT	.	_	2	punct	_	_
+

@@ -1,0 +1,21 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Check	check	VERB	VB	_	0	root	_	_
+3	*PRO*	*pro*	NOUN	NN	_	2	dobj	_	_
+4	to	to	ADP	TO	_	5	aux	_	_
+5	see	see	VERB	VB	_	2	xcomp	_	_
+6	if	if	ADP	IN	_	9	mark	_	_
+7	they	they	PRON	PRP	_	9	nsubj	_	_
+8	've	have	VERB	VBP	_	9	aux	_	_
+9	stuck	stick	VERB	VBN	_	5	advcl	_	_
+10	you	you	PRON	PRP	_	9	dobj	_	_
+11	in	in	ADP	IN	_	9	prep	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	new	new	ADJ	JJ	_	14	amod	_	_
+14	search	search	NOUN	NN	_	11	pobj	_	_
+15	,	,	PUNCT	,	_	9	punct	_	_
+16	which	which	DET	WDT	_	19	dobj	_	_
+17	*T*-1	*t*-1	NOUN	NN	_	19	nsubj	_	_
+18	seriously	seriously	ADV	RB	_	19	advmod	_	_
+19	sucks	suck	VERB	VBZ	_	9	dep	_	_
+20	.	.	PUNCT	.	_	2	punct	_	_
+

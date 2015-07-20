@@ -1,0 +1,8 @@
+(S (NP (PRP They))
+        (VP (MD may)
+            (VP (VB touch)
+                (CC or)
+                (VB cry)
+                (ADVP (RB repeatedly))))
+        (. .))
+

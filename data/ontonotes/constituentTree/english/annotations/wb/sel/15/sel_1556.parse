@@ -1,0 +1,10 @@
+(S (INTJ (UH Now))
+            (NP (NN *PRO*))
+            (VP (VB remember)
+                (NP (DT the)
+                    (JJ cheap)
+                    (JJ online)
+                    (NNP Asda)
+                    (NNP Beer)))
+            (. ..))
+

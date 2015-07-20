@@ -1,0 +1,32 @@
+1	VIACOM	VIACOM	PROPN	NNP	_	2	nn	_	_
+2	Inc.	Inc.	PROPN	NNP	_	4	poss	_	_
+3	's	's	PART	POS	_	2	possessive	_	_
+4	loss	loss	NOUN	NN	_	5	nsubj	_	_
+5	narrowed	narrow	VERB	VBN	_	0	root	_	_
+6	to	to	ADP	IN	_	5	prep	_	_
+7	$	$	SYM	$	_	6	pobj	_	_
+8	21.7	21.7	NUM	CD	_	9	number	_	_
+9	million	million	NUM	CD	_	7	num	_	_
+10	*U*	*u*	X	X	_	7	dep	_	_
+11	in	in	ADP	IN	_	5	prep	_	_
+12	the	the	DET	DT	_	14	det	_	_
+13	third	third	ADJ	JJ	_	14	amod	_	_
+14	quarter	quarter	NOUN	NN	_	11	pobj	_	_
+15	from	from	ADP	IN	_	5	prep	_	_
+16	$	$	SYM	$	_	15	pobj	_	_
+17	56.9	56.9	NUM	CD	_	18	number	_	_
+18	million	million	NUM	CD	_	16	num	_	_
+19	*U*	*u*	X	X	_	16	dep	_	_
+20	a	a	DET	DT	_	21	det	_	_
+21	year	year	NOUN	NN	_	22	npadvmod	_	_
+22	ago	ago	ADP	IN	_	15	advmod	_	_
+23	.	.	PUNCT	.	_	5	punct	_	_
+
+1	Thursday	Thursday	PROPN	NNP	_	3	poss	_	_
+2	's	's	PART	POS	_	1	possessive	_	_
+3	edition	edition	NOUN	NN	_	4	nsubj	_	_
+4	misstated	misstate	VERB	VBD	_	0	root	_	_
+5	the	the	DET	DT	_	6	det	_	_
+6	narrowing	narrowing	NOUN	NN	_	4	dobj	_	_
+7	.	.	PUNCT	.	_	4	punct	_	_
+

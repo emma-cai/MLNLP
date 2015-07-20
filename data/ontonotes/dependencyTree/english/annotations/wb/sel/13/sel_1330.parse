@@ -1,0 +1,15 @@
+1	which	which	DET	WDT	_	3	dobj	_	_
+2	*T*-1	*t*-1	NOUN	NN	_	3	nsubj	_	_
+3	enables	enable	VERB	VBZ	_	0	root	_	_
+4	me	I	PRON	PRP	_	3	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	point	point	VERB	VB	_	3	xcomp	_	_
+7	stuff	stuff	NOUN	NN	_	6	dobj	_	_
+8	out	out	PART	RP	_	6	prt	_	_
+9	just	just	ADV	RB	_	10	advmod	_	_
+10	fine	fine	ADV	RB	_	6	advmod	_	_
+11	on	on	ADP	IN	_	6	prep	_	_
+12	group	group	NOUN	NN	_	13	nn	_	_
+13	rides	ride	NOUN	NNS	_	11	pobj	_	_
+14	...	...	PUNCT	.	_	3	punct	_	_
+

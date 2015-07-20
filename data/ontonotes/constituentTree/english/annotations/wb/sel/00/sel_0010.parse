@@ -1,0 +1,7 @@
+(S (NP (PRP I))
+        (VP (VBP agree)
+            (PP (IN with)
+                    (NP (NNP Jolly)
+                        (NNP Roger))))
+        (. .))
+

@@ -1,0 +1,13 @@
+(NP (NP (NN QUESTION))
+         (: :)
+         (SBARQ (WHNP (WHNP (WHADJP (WRB How)
+                                      (JJ many)))
+                        (PP (IN of)
+                            (NP (DT the)
+                                (NNS maps))))
+                (SQ (NP (NN *T*-1))
+                    (VP (VBP support)
+                        (NP (CD 32)
+                            (NNS players)))))
+         (. ?))
+

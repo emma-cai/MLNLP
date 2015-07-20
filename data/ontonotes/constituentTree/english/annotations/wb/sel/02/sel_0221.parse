@@ -1,0 +1,13 @@
+(S (PP (IN For)
+            (NP (DT the)
+                (JJ extra)
+                (JJ few)
+                (NNS pennies)))
+        (NP (PRP I))
+        (VP (MD 'd)
+            (VP (VB buy)
+                (NP (DT the)
+                    (JJ proper)
+                    (NNS rails))))
+        (. .))
+

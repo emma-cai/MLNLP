@@ -1,0 +1,12 @@
+(SBARQ (WHADVP (WRB Why))
+            (SQ (VBD did)
+                (NP (PRP you))
+                (VP (VB post)
+                    (NP (DT this)
+                        (NN meltdown))
+                    (ADVP (RB twice))
+                    (, ,)
+                    (NP (NN jackass))
+                    (ADVP (X *T*-1))))
+            (. ?))
+

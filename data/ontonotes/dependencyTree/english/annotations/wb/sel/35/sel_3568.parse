@@ -1,0 +1,18 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Heat	heat	VERB	VB	_	0	root	_	_
+3	the	the	DET	DT	_	5	det	_	_
+4	half	half	ADJ	JJ	_	5	amod	_	_
+5	cup	cup	NOUN	NN	_	2	dobj	_	_
+6	of	of	ADP	IN	_	5	prep	_	_
+7	maple	maple	NOUN	NN	_	8	nn	_	_
+8	syrup	syrup	NOUN	NN	_	6	pobj	_	_
+9	until	until	ADP	IN	_	11	mark	_	_
+10	it	it	PRON	PRP	_	11	nsubj	_	_
+11	boils	boil	VERB	VBZ	_	2	advcl	_	_
+12	and	and	CONJ	CC	_	2	cc	_	_
+13	simmer	simmer	VERB	VB	_	2	conj	_	_
+14	for	for	ADP	IN	_	13	prep	_	_
+15	5	5	NUM	CD	_	16	num	_	_
+16	minutes	minute	NOUN	NNS	_	14	pobj	_	_
+17	.	.	PUNCT	.	_	2	punct	_	_
+

@@ -1,0 +1,8 @@
+(S (NP (PRP They))
+        (VP (VBP call)
+            (NP (PRP it))
+            (S (NP (NN *PRO*-1))
+                   (NP (NNP Pluto)
+                           (NN water))))
+        (. .))
+

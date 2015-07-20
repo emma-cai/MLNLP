@@ -1,0 +1,13 @@
+(S (LST (LS 2)
+             (. .))
+        (NP (NNS Posters))
+        (VP (MD should)
+            (VP (VB trim)
+                (NP (NP (NNS posts))
+                    (SBAR (WHPP (TO to)
+                                  (WHNP (WDT which)))
+                          (S (NP (PRP they))
+                             (VP (VBP respond)
+                                 (PP (X *T*-1))))))))
+        (. .))
+

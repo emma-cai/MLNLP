@@ -1,0 +1,10 @@
+(S (S (NP (NN *PRO*))
+               (ADVP (RB Just))
+               (VP (VB try)
+                   (NP (PRP$ my)
+                       (NN trick))))
+        (, ,)
+        (S (NP (PRP it))
+           (VP (VBZ works)))
+        (. .))
+

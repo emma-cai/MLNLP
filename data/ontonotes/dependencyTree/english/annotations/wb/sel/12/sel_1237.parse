@@ -1,0 +1,25 @@
+1	They	they	PRON	PRP	_	3	nsubj	_	_
+2	must	must	AUX	MD	_	3	aux	_	_
+3	be	be	VERB	VB	_	0	root	_	_
+4	in	in	ADP	IN	_	3	prep	_	_
+5	the	the	DET	DT	_	7	det	_	_
+6	top	top	ADJ	JJ	_	7	amod	_	_
+7	2	2	NUM	CD	_	4	pobj	_	_
+8	or	or	CONJ	CC	_	7	cc	_	_
+9	3	3	NUM	CD	_	7	conj	_	_
+10	of	of	ADP	IN	_	7	prep	_	_
+11	every	every	DET	DT	_	14	det	_	_
+12	string	string	NOUN	NN	_	13	nn	_	_
+13	quartet	quartet	NOUN	NN	_	14	nn	_	_
+14	work	work	NOUN	NN	_	10	pobj	_	_
+15	0	0	X	X	_	17	dobj	_	_
+16	I	I	PRON	PRP	_	17	nsubj	_	_
+17	own	own	VERB	VBP	_	14	rcmod	_	_
+18	*T*-1	*t*-1	NOUN	NN	_	17	dobj	_	_
+19	that	that	DET	WDT	_	21	dobj	_	_
+20	*T*-2	*t*-2	NOUN	NN	_	21	nsubj	_	_
+21	includes	include	VERB	VBZ	_	14	rcmod	_	_
+22	their	they	PRON	PRP$	_	23	poss	_	_
+23	recording	recording	NOUN	NN	_	21	dobj	_	_
+24	.	.	PUNCT	.	_	3	punct	_	_
+

@@ -1,0 +1,8 @@
+(S (NP (PRP We))
+        (ADVP (RB just))
+        (VP (VBP call)
+            (NP (PRP em))
+            (S (NP (NN *PRO*-1))
+                   (NP (NNPS Democrats))))
+        (. .))
+

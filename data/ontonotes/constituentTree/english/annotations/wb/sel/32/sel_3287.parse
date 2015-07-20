@@ -1,0 +1,11 @@
+(S (LST (LS 4)
+                 (. .))
+            (NP (NN *PRO*))
+            (VP (VB Suck)
+                (PRT (RP up))
+                (PP (IN to)
+                        (NP (DT the)
+                            (JJ big)
+                            (NNS bloggers))))
+            (. .))
+

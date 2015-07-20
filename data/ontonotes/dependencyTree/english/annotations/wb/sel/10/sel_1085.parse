@@ -1,0 +1,19 @@
+1	In	in	ADP	IN	_	4	prep	_	_
+2	1985	1985	NUM	CD	_	1	pobj	_	_
+3	Terrorists	terrorist	NOUN	NNS	_	4	nsubj	_	_
+4	kill	kill	VERB	VBP	_	0	root	_	_
+5	20	20	NUM	CD	_	4	dobj	_	_
+6	and	and	CONJ	CC	_	4	cc	_	_
+7	wound	wind	VERB	VBP	_	4	conj	_	_
+8	110	110	NUM	CD	_	7	dobj	_	_
+9	*PRO*-1	*pro*-1	NOUN	NN	_	10	nsubj	_	_
+10	attacking	attack	VERB	VBG	_	4	dep	_	_
+11	El	El	PROPN	NNP	_	12	nn	_	_
+12	Al	Al	PROPN	NNP	_	10	dobj	_	_
+13	at	at	ADP	IN	_	10	prep	_	_
+14	Rome	Rome	PROPN	NNP	_	17	nn	_	_
+15	and	and	CONJ	CC	_	14	cc	_	_
+16	Vienna	Vienna	PROPN	NNP	_	14	conj	_	_
+17	airports	airport	NOUN	NNS	_	13	pobj	_	_
+18	.	.	PUNCT	.	_	4	punct	_	_
+

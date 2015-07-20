@@ -1,0 +1,16 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	book	book	NOUN	NN	_	4	nsubj	_	_
+3	also	also	ADV	RB	_	4	advmod	_	_
+4	shines	shine	VERB	VBZ	_	0	root	_	_
+5	when	when	ADV	WRB	_	12	advmod	_	_
+6	Kennedy	Kennedy	PROPN	NNP	_	12	nsubjpass	_	_
+7	and	and	CONJ	CC	_	6	cc	_	_
+8	his	he	PRON	PRP$	_	10	poss	_	_
+9	vice	vice	NOUN	NN	_	10	nn	_	_
+10	president	president	NOUN	NN	_	6	conj	_	_
+11	are	be	VERB	VBP	_	12	auxpass	_	_
+12	discussed	discuss	VERB	VBN	_	4	advcl	_	_
+13	*-1	*-1	NOUN	NN	_	12	dobj	_	_
+14	*T*-2	*t*-2	X	X	_	12	advmod	_	_
+15	.	.	PUNCT	.	_	4	punct	_	_
+

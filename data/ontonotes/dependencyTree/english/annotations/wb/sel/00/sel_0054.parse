@@ -1,0 +1,15 @@
+1	They	they	PRON	PRP	_	2	nsubj	_	_
+2	avoid	avoid	VERB	VBP	_	0	root	_	_
+3	rigidity	rigidity	NOUN	NN	_	2	dobj	_	_
+4	,	,	PUNCT	,	_	2	punct	_	_
+5	dislike	dislike	VERB	VBP	_	2	conj	_	_
+6	identity	identity	NOUN	NN	_	7	nn	_	_
+7	politics	politics	NOUN	NNS	_	5	dobj	_	_
+8	,	,	PUNCT	,	_	2	punct	_	_
+9	and	and	CONJ	CC	_	2	cc	_	_
+10	apply	apply	VERB	VBP	_	2	conj	_	_
+11	few	few	ADJ	JJ	_	13	amod	_	_
+12	litmus	litmus	NOUN	NN	_	13	nn	_	_
+13	tests	test	NOUN	NNS	_	10	dobj	_	_
+14	.	.	PUNCT	.	_	2	punct	_	_
+

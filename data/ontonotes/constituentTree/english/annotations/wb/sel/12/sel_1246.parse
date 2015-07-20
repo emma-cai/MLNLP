@@ -1,0 +1,10 @@
+(S (NP (NP (NN Plenty))
+                (PP (IN of)
+                    (NP (NNS 60s)
+                        (NNS people))))
+        (VP (VBP own)
+            (NP (PRP$ their)
+                (NN house))
+            (ADVP (RB outright)))
+        (. .))
+

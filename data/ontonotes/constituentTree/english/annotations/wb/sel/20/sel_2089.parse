@@ -1,0 +1,6 @@
+(S (NP (NP (PRP They))
+                (NP (DT all)))
+        (VP (VBP tell)
+            (NP (NNS tales)))
+        (. .))
+

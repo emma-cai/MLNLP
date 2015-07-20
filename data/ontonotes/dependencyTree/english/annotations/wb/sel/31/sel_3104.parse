@@ -1,0 +1,27 @@
+1	We	we	PRON	PRP	_	3	nsubj	_	_
+2	shall	shall	AUX	MD	_	3	aux	_	_
+3	establish	establish	VERB	VB	_	0	root	_	_
+4	a	a	DET	DT	_	6	det	_	_
+5	Christian	christian	ADJ	JJ	_	6	amod	_	_
+6	state	state	NOUN	NN	_	3	dobj	_	_
+7	there	there	ADV	RB	_	3	advmod	_	_
+8	,	,	PUNCT	,	_	3	punct	_	_
+9	and	and	CONJ	CC	_	3	cc	_	_
+10	then	then	ADV	RB	_	13	advmod	_	_
+11	we	we	PRON	PRP	_	13	nsubj	_	_
+12	will	will	AUX	MD	_	13	aux	_	_
+13	smash	smash	VERB	VB	_	3	conj	_	_
+14	the	the	DET	DT	_	16	det	_	_
+15	Arab	Arab	PROPN	NNP	_	16	nn	_	_
+16	Legion	Legion	PROPN	NNP	_	13	dobj	_	_
+17	,	,	PUNCT	,	_	13	punct	_	_
+18	eliminate	eliminate	VERB	VB	_	13	dep	_	_
+19	Trans-Jordan	Trans-Jordan	PROPN	NNP	_	18	dobj	_	_
+20	;	;	PUNCT	:	_	3	punct	_	_
+21	Syria	Syria	PROPN	NNP	_	23	nsubj	_	_
+22	will	will	AUX	MD	_	23	aux	_	_
+23	fall	fall	VERB	VB	_	3	parataxis	_	_
+24	to	to	ADP	IN	_	23	prep	_	_
+25	us	we	PRON	PRP	_	24	pobj	_	_
+26	.	.	PUNCT	.	_	3	punct	_	_
+

@@ -1,0 +1,27 @@
+1	It	it	PRON	PRP	_	2	nsubj	_	_
+2	seems	seem	VERB	VBZ	_	0	root	_	_
+3	like	like	ADP	IN	_	6	mark	_	_
+4	you	you	PRON	PRP	_	6	nsubj	_	_
+5	'd	would	AUX	MD	_	6	aux	_	_
+6	have	have	VERB	VB	_	2	advcl	_	_
+7	*-1	*-1	NOUN	NN	_	6	dobj	_	_
+8	to	to	ADP	TO	_	9	aux	_	_
+9	eat	eat	VERB	VB	_	6	ccomp	_	_
+10	an	a	DET	DT	_	12	det	_	_
+11	awful	awful	ADJ	JJ	_	12	amod	_	_
+12	lot	lot	NOUN	NN	_	9	dobj	_	_
+13	of	of	ADP	IN	_	12	prep	_	_
+14	steamed	steam	VERB	VBN	_	15	amod	_	_
+15	shrimp	shrimp	NOUN	NN	_	13	pobj	_	_
+16	and	and	CONJ	CC	_	15	cc	_	_
+17	boiled	boil	VERB	VBN	_	18	amod	_	_
+18	veggies	veggy	NOUN	NNS	_	15	conj	_	_
+19	*PRO*-1	*pro*-1	NOUN	NN	_	6	dobj	_	_
+20	to	to	ADP	TO	_	21	aux	_	_
+21	get	get	VERB	VB	_	6	ccomp	_	_
+22	up	up	ADP	IN	_	23	dep	_	_
+23	to	to	ADP	IN	_	24	quantmod	_	_
+24	500	500	NUM	CD	_	25	num	_	_
+25	calories	calorie	NOUN	NNS	_	21	dobj	_	_
+26	!	!	PUNCT	.	_	2	punct	_	_
+

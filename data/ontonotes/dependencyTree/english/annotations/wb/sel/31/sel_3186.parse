@@ -1,0 +1,12 @@
+1	-	-	PUNCT	:	_	3	punct	_	_
+2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
+3	Soak	soak	VERB	VB	_	0	root	_	_
+4	your	you	PRON	PRP$	_	5	poss	_	_
+5	feet	foot	NOUN	NNS	_	3	dobj	_	_
+6	in	in	ADP	IN	_	3	prep	_	_
+7	very	very	ADV	RB	_	8	advmod	_	_
+8	diluted	diluted	ADJ	JJ	_	10	amod	_	_
+9	chamomile	chamomile	NOUN	NN	_	10	nn	_	_
+10	tea	tea	NOUN	NN	_	6	pobj	_	_
+11	.	.	PUNCT	.	_	3	punct	_	_
+

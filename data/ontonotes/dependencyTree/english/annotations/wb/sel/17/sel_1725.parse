@@ -1,0 +1,15 @@
+1	7.0	7.0	X	LS	_	6	dep	_	_
+2	-	-	PUNCT	:	_	6	punct	_	_
+3	Where	where	ADV	WRB	_	6	advmod	_	_
+4	can	can	AUX	MD	_	6	aux	_	_
+5	you	you	PRON	PRP	_	6	nsubj	_	_
+6	see	see	VERB	VB	_	0	root	_	_
+7	whales	whale	NOUN	NNS	_	6	dobj	_	_
+8	and	and	CONJ	CC	_	7	cc	_	_
+9	dolphins	dolphin	NOUN	NNS	_	7	conj	_	_
+10	in	in	ADP	IN	_	7	prep	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	wild	wild	NOUN	NN	_	10	pobj	_	_
+13	*T*-1	*t*-1	X	X	_	6	advmod	_	_
+14	?	?	PUNCT	.	_	6	punct	_	_
+

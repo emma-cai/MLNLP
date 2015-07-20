@@ -1,0 +1,11 @@
+(S (NP (NN *PRO*))
+            (VP (VB Pinch)
+                (NP (DT any)
+                    (JJ open)
+                    (NNS edges))
+                (ADVP (RB together))
+                (S (NP (NN *PRO*))
+                       (VP (TO to)
+                           (VP (VB seal)))))
+            (. .))
+

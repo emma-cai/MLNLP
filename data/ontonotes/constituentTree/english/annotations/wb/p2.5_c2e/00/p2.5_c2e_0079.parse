@@ -1,0 +1,13 @@
+(S (NP (NP (DT All))
+                  (PP (IN of)
+                      (NP (DT these))))
+        (VP (VBD were)
+            (VP (VBN donated)
+                (NP (NN *-1))
+                (PP (IN by)
+                    (NP (NNS people)))
+                (PP (IN to)
+                        (NP (DT the)
+                            (JJ poor)))))
+        (. .))
+

@@ -1,0 +1,11 @@
+(S (NP (DT this))
+        (VP (MD could)
+            (VP (VB become)
+                (NP (DT a)
+                        (CD 247)
+                        (NML (JJ real)
+                             (HYPH -)
+                             (NN time))
+                        (NN relationship))))
+        (. .))
+

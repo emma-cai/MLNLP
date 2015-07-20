@@ -1,0 +1,13 @@
+(S (NP (PRP I))
+        (VP (MD ca)
+            (ADVP (RB nt))
+            (VP (VB see)
+                (S (NP (PRP them))
+                   (VP (VBG being)
+                       (ADJP (RB that)
+                                 (JJ necessary)
+                                 (PP (IN for)
+                                     (NP (JJ plastic)
+                                         (NN modeling))))))))
+        (. .))
+

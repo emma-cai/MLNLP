@@ -1,0 +1,26 @@
+1	The	the	DET	DT	_	2	det	_	_
+2	problem	problem	NOUN	NN	_	3	nsubj	_	_
+3	is	be	VERB	VBZ	_	0	root	_	_
+4	that	that	ADP	IN	_	17	mark	_	_
+5	when	when	ADV	WRB	_	7	advmod	_	_
+6	I	I	PRON	PRP	_	7	nsubj	_	_
+7	import	import	VERB	VBP	_	17	advcl	_	_
+8	it	it	PRON	PRP	_	7	dobj	_	_
+9	into	into	ADP	IN	_	7	prep	_	_
+10	my	my	PRON	PRP$	_	12	poss	_	_
+11	FCP	fcp	NOUN	NN	_	12	nn	_	_
+12	sequence	sequence	NOUN	NN	_	9	pobj	_	_
+13	*T*-1	*t*-1	X	X	_	7	advmod	_	_
+14	,	,	PUNCT	,	_	17	punct	_	_
+15	it	it	PRON	PRP	_	17	nsubj	_	_
+16	"	"	PUNCT	``	_	17	punct	_	_
+17	flickers	flicker	VERB	VBZ	_	3	ccomp	_	_
+18	"	"	PUNCT	''	_	17	punct	_	_
+19	skips	skip	VERB	VBZ	_	17	dep	_	_
+20	even	even	ADV	RB	_	23	advmod	_	_
+21	after	after	ADP	IN	_	23	mark	_	_
+22	I	I	PRON	PRP	_	23	nsubj	_	_
+23	render	render	VERB	VBP	_	17	advcl	_	_
+24	it	it	PRON	PRP	_	23	dobj	_	_
+25	.	.	PUNCT	.	_	3	punct	_	_
+

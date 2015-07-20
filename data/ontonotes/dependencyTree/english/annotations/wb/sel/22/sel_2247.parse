@@ -1,0 +1,14 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Keep	keep	VERB	VB	_	0	root	_	_
+3	in	in	ADP	IN	_	2	prep	_	_
+4	mind	mind	NOUN	NN	_	3	pobj	_	_
+5	that	that	ADP	IN	_	7	mark	_	_
+6	we	we	PRON	PRP	_	7	nsubj	_	_
+7	capitalized	capitalize	VERB	VBD	_	2	ccomp	_	_
+8	each	each	DET	DT	_	9	det	_	_
+9	word	word	NOUN	NN	_	7	dobj	_	_
+10	of	of	ADP	IN	_	9	prep	_	_
+11	all	all	DET	DT	_	12	det	_	_
+12	countries	country	NOUN	NNS	_	10	pobj	_	_
+13	.	.	PUNCT	.	_	2	punct	_	_
+

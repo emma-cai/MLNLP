@@ -1,0 +1,11 @@
+(SBARQ (WHADVP (WRB Why))
+            (SQ (MD would)
+                (RB n't)
+                (NP (PRP he))
+                (VP (VB return)
+                    (NP (NN kindness))
+                    (PP (IN for)
+                            (NP (NN kindness)))
+                    (ADVP (X *T*-1))))
+            (. ?))
+

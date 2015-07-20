@@ -1,0 +1,18 @@
+1	*PRO*	*pro*	NOUN	NN	_	2	nsubj	_	_
+2	Suppose	suppose	VERB	VB	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	I	I	PRON	PRP	_	5	nsubj	_	_
+5	decide	decide	VERB	VBP	_	2	ccomp	_	_
+6	0	0	X	X	_	9	dep	_	_
+7	we	we	PRON	PRP	_	9	nsubj	_	_
+8	can	can	AUX	MD	_	9	aux	_	_
+9	do	do	VERB	VB	_	5	ccomp	_	_
+10	without	without	ADP	IN	_	9	prep	_	_
+11	the	the	DET	DT	_	12	det	_	_
+12	miracles	miracle	NOUN	NNS	_	10	pobj	_	_
+13	0	0	X	X	_	15	dobj	_	_
+14	Jesus	Jesus	PROPN	NNP	_	15	nsubj	_	_
+15	performed	perform	VERB	VBD	_	12	rcmod	_	_
+16	*T*-1	*t*-1	NOUN	NN	_	15	dobj	_	_
+17	.	.	PUNCT	.	_	2	punct	_	_
+

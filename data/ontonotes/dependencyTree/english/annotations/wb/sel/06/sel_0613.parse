@@ -1,0 +1,22 @@
+1	The	the	DET	DT	_	3	det	_	_
+2	Dwarven	dwarven	ADJ	JJ	_	3	amod	_	_
+3	King	king	NOUN	NN	_	5	nsubj	_	_
+4	would	would	AUX	MD	_	5	aux	_	_
+5	Mine	mine	VERB	VB	_	20	dep	_	_
+6	those	those	DET	DT	_	7	det	_	_
+7	levels	level	NOUN	NNS	_	5	dobj	_	_
+8	If	if	ADP	IN	_	14	mark	_	_
+9	mines	mine	NOUN	NNS	_	14	nsubj	_	_
+10	or	or	CONJ	CC	_	9	cc	_	_
+11	restaurants	restaurant	NOUN	NNS	_	9	conj	_	_
+12	or	or	CONJ	CC	_	9	cc	_	_
+13	resorts	resort	NOUN	NNS	_	9	conj	_	_
+14	develop	develop	VERB	VBP	_	20	dep	_	_
+15	off	off	ADP	IN	_	14	prep	_	_
+16	the	the	DET	DT	_	18	det	_	_
+17	transport	transport	NOUN	NN	_	18	nn	_	_
+18	shaft	shaft	NOUN	NN	_	15	pobj	_	_
+19	,	,	PUNCT	,	_	20	punct	_	_
+20	great	great	ADJ	JJ	_	0	root	_	_
+21	!	!	PUNCT	.	_	20	punct	_	_
+

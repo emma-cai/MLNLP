@@ -1,0 +1,20 @@
+1	3	3	X	LS	_	5	dep	_	_
+2	.	.	PUNCT	.	_	1	punct	_	_
+3	*PRO*	*pro*	NOUN	NN	_	5	nsubj	_	_
+4	Gently	gently	ADV	RB	_	5	advmod	_	_
+5	fold	fold	VERB	VB	_	0	root	_	_
+6	1/4	1/4	NUM	CD	_	5	dobj	_	_
+7	of	of	ADP	IN	_	6	prep	_	_
+8	whites	whites	NOUN	NNS	_	7	pobj	_	_
+9	into	into	ADP	IN	_	5	prep	_	_
+10	chocolate	chocolate	NOUN	NN	_	11	nn	_	_
+11	mixture	mixture	NOUN	NN	_	9	pobj	_	_
+12	;	;	PUNCT	:	_	5	punct	_	_
+13	*PRO*	*pro*	NOUN	NN	_	14	nsubj	_	_
+14	fold	fold	VERB	VB	_	5	parataxis	_	_
+15	in	in	ADV	RB	_	14	advmod	_	_
+16	rest	rest	NOUN	NN	_	14	dobj	_	_
+17	of	of	ADP	IN	_	16	prep	_	_
+18	whites	whites	NOUN	NNS	_	17	pobj	_	_
+19	.	.	PUNCT	.	_	5	punct	_	_
+

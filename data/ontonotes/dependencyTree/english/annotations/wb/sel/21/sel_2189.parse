@@ -1,0 +1,23 @@
+1	Both	both	DET	DT	_	2	det	_	_
+2	writers	writer	NOUN	NNS	_	3	nsubj	_	_
+3	write	write	VERB	VBP	_	0	root	_	_
+4	about	about	ADP	IN	_	3	prep	_	_
+5	Shakespeare	Shakespeare	PROPN	NNP	_	4	pobj	_	_
+6	,	,	PUNCT	,	_	3	punct	_	_
+7	but	but	CONJ	CC	_	3	dep	_	_
+8	not	not	ADV	RB	_	7	dep	_	_
+9	in	in	ADP	IN	_	7	prep	_	_
+10	such	such	DET	PDT	_	12	predet	_	_
+11	a	a	DET	DT	_	12	det	_	_
+12	way	way	NOUN	NN	_	9	pobj	_	_
+13	that	that	DET	WDT	_	16	dobj	_	_
+14	*T*-1	*t*-1	NOUN	NN	_	16	nsubj	_	_
+15	would	would	AUX	MD	_	16	aux	_	_
+16	indicate	indicate	VERB	VB	_	12	rcmod	_	_
+17	a	a	DET	DT	_	21	det	_	_
+18	direct	direct	ADJ	JJ	_	21	amod	_	_
+19	and	and	CONJ	CC	_	18	cc	_	_
+20	personal	personal	ADJ	JJ	_	18	conj	_	_
+21	knowledge	knowledge	NOUN	NN	_	16	dobj	_	_
+22	.	.	PUNCT	.	_	3	punct	_	_
+

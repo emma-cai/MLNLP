@@ -1,0 +1,9 @@
+1	I	I	PRON	PRP	_	3	nsubj	_	_
+2	'd	would	AUX	MD	_	3	aux	_	_
+3	call	call	VERB	VB	_	0	root	_	_
+4	that	that	DET	DT	_	3	dobj	_	_
+5	*PRO*-1	*pro*-1	NOUN	NN	_	7	nsubj	_	_
+6	double	double	ADV	RB	_	7	advmod	_	_
+7	lucky	lucky	ADJ	JJ	_	3	xcomp	_	_
+8	.	.	PUNCT	.	_	3	punct	_	_
+

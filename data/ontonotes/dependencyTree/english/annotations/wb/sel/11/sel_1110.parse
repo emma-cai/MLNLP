@@ -1,0 +1,21 @@
+1	you	you	PRON	PRP	_	3	nsubj	_	_
+2	can	can	AUX	MD	_	3	aux	_	_
+3	see	see	VERB	VB	_	0	root	_	_
+4	them	they	PRON	PRP	_	5	nsubj	_	_
+5	injecting	inject	VERB	VBG	_	3	ccomp	_	_
+6	and	and	CONJ	CC	_	5	cc	_	_
+7	reacting	react	VERB	VBG	_	5	conj	_	_
+8	to	to	ADP	IN	_	7	prep	_	_
+9	what	what	PRON	WP	_	12	dobj	_	_
+10	they	they	PRON	PRP	_	12	nsubj	_	_
+11	are	be	VERB	VBP	_	12	aux	_	_
+12	injecting	inject	VERB	VBG	_	8	pcomp	_	_
+13	*T*-1	*t*-1	NOUN	NN	_	12	dobj	_	_
+14	while	while	ADP	IN	_	16	mark	_	_
+15	they	they	PRON	PRP	_	16	nsubj	_	_
+16	make	make	VERB	VBP	_	3	advcl	_	_
+17	me	I	PRON	PRP	_	18	nsubj	_	_
+18	type	type	VERB	VB	_	16	ccomp	_	_
+19	wrong	wrong	ADV	RB	_	18	advmod	_	_
+20	.	.	PUNCT	.	_	3	punct	_	_
+

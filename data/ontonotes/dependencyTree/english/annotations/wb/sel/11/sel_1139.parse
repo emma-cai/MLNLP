@@ -1,0 +1,17 @@
+1	*PRO*-1	*pro*-1	NOUN	NN	_	2	nsubj	_	_
+2	Cut	cut	VERB	VBN	_	7	dep	_	_
+3	and	and	CONJ	CC	_	2	cc	_	_
+4	dried	dry	VERB	VBN	_	2	conj	_	_
+5	*-2	*-2	NOUN	NN	_	2	dobj	_	_
+6	they	they	PRON	PRP	_	7	nsubj	_	_
+7	make	make	VERB	VBP	_	0	root	_	_
+8	fairly	fairly	ADV	RB	_	9	advmod	_	_
+9	decent	decent	ADJ	JJ	_	10	amod	_	_
+10	firewood	firewood	NOUN	NN	_	7	dobj	_	_
+11	and	and	CONJ	CC	_	7	cc	_	_
+12	they	they	PRON	PRP	_	13	nsubj	_	_
+13	are	be	VERB	VBP	_	7	conj	_	_
+14	fast	fast	ADJ	JJ	_	15	amod	_	_
+15	growers	grower	NOUN	NNS	_	13	xcomp	_	_
+16	.	.	PUNCT	.	_	7	punct	_	_
+

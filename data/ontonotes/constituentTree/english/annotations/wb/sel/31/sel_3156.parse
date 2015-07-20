@@ -1,0 +1,9 @@
+(SBAR (IN because)
+               (S (NP (DT the)
+                          (NN urine))
+                  (VP (VBZ soaks)
+                      (PP (IN into)
+                              (NP (DT the)
+                                  (NN slab)))))
+               (. .))
+

@@ -1,0 +1,26 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	need	need	VERB	VBP	_	0	root	_	_
+3	always	always	ADV	RB	_	2	advmod	_	_
+4	*-1	*-1	NOUN	NN	_	2	dobj	_	_
+5	to	to	ADP	TO	_	6	aux	_	_
+6	recognize	recognize	VERB	VB	_	2	xcomp	_	_
+7	God	God	PROPN	NNP	_	9	poss	_	_
+8	's	's	PART	POS	_	7	possessive	_	_
+9	mercy	mercy	NOUN	NN	_	6	dobj	_	_
+10	and	and	CONJ	CC	_	9	cc	_	_
+11	blessings	blessing	NOUN	NNS	_	9	conj	_	_
+12	that	that	DET	WDT	_	14	dobj	_	_
+13	*T*-2	*t*-2	NOUN	NN	_	14	nsubj	_	_
+14	shine	shine	VERB	VBP	_	9	rcmod	_	_
+15	through	through	ADP	IN	_	14	prep	_	_
+16	any	any	DET	DT	_	17	det	_	_
+17	problem	problem	NOUN	NN	_	15	pobj	_	_
+18	0	0	X	X	_	20	dobj	_	_
+19	I	I	PRON	PRP	_	20	nsubj	_	_
+20	have	have	VERB	VBP	_	17	rcmod	_	_
+21	*-3	*-3	NOUN	NN	_	20	dobj	_	_
+22	to	to	ADP	TO	_	23	aux	_	_
+23	face	face	VERB	VB	_	20	ccomp	_	_
+24	*T*-4	*t*-4	NOUN	NN	_	23	dobj	_	_
+25	.	.	PUNCT	.	_	2	punct	_	_
+

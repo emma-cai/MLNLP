@@ -1,0 +1,10 @@
+(NP (NP (NN Psalm)
+             (CD 2))
+         (SBAR (WHNP (X 0))
+               (S (NP (NN *T*-1))
+                  (VP (TO to)
+                      (VP (VB ground)
+                          (NP (PRP$ our)
+                              (NN teaching))))))
+         (. .))
+

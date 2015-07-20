@@ -1,0 +1,17 @@
+1	For	for	CONJ	CC	_	9	cc	_	_
+2	often	often	ADV	RB	_	9	advmod	_	_
+3	hearts	heart	NOUN	NNS	_	9	nsubj	_	_
+4	not	not	ADV	RB	_	5	neg	_	_
+5	touched	touch	VERB	VBN	_	3	vmod	_	_
+6	*	*	NOUN	NN	_	5	dobj	_	_
+7	at	at	ADP	IN	_	5	advmod	_	_
+8	all	all	DET	DT	_	7	pobj	_	_
+9	start	start	VERB	VBP	_	0	root	_	_
+10	*-1	*-1	NOUN	NN	_	11	nsubj	_	_
+11	hardening	harden	VERB	VBG	_	9	ccomp	_	_
+12	and	and	CONJ	CC	_	11	cc	_	_
+13	shrinking	shrink	VERB	VBG	_	11	conj	_	_
+14	*PRO*-2	*pro*-2	NOUN	NN	_	15	nsubj	_	_
+15	small	small	ADJ	JJ	_	13	xcomp	_	_
+16	.	.	PUNCT	.	_	9	punct	_	_
+

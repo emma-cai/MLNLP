@@ -1,0 +1,24 @@
+1	As	as	ADV	RB	_	2	advmod	_	_
+2	far	far	ADV	RB	_	9	advmod	_	_
+3	as	as	ADP	IN	_	6	mark	_	_
+4	I	I	PRON	PRP	_	6	nsubjpass	_	_
+5	'm	be	VERB	VBP	_	6	auxpass	_	_
+6	concerned	concern	VERB	VBN	_	2	advcl	_	_
+7	*-1	*-1	NOUN	NN	_	6	dobj	_	_
+8	Dell	Dell	PROPN	NNP	_	9	nsubj	_	_
+9	make	make	VERB	VBP	_	0	root	_	_
+10	good	good	ADJ	JJ	_	11	amod	_	_
+11	laptops	laptop	NOUN	NNS	_	9	dobj	_	_
+12	,	,	PUNCT	,	_	9	punct	_	_
+13	but	but	CONJ	CC	_	9	cc	_	_
+14	I	I	PRON	PRP	_	15	nsubj	_	_
+15	agree	agree	VERB	VBP	_	9	conj	_	_
+16	that	that	ADP	IN	_	19	mark	_	_
+17	thier	thier	PRON	PRP$	_	18	poss	_	_
+18	desktops	desktop	NOUN	NNS	_	19	nsubj	_	_
+19	are	be	VERB	VBP	_	15	ccomp	_	_
+20	a	a	DET	DT	_	21	det	_	_
+21	bit	bit	NOUN	NN	_	22	dep	_	_
+22	nasty	nasty	ADJ	JJ	_	19	acomp	_	_
+23	.	.	PUNCT	.	_	9	punct	_	_
+

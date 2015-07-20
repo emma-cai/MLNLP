@@ -1,0 +1,10 @@
+(S (NP (NN *PRO*))
+            (VP (VB bring)
+                (NP (PRP$ your)
+                    (NN Jersey))
+                (PP (IN to)
+                        (NP (DT the)
+                            (NN ride)))
+                (NP (NN tomorrow)))
+            (. .))
+

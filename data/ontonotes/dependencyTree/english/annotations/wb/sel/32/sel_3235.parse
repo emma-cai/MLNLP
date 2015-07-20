@@ -1,0 +1,26 @@
+1	Further	further	ADV	RB	_	5	advmod	_	_
+2	the	the	DET	DT	_	3	det	_	_
+3	constitution	constitution	NOUN	NN	_	5	nsubj	_	_
+4	*ICH*-2	*ich*-2	X	X	_	3	dep	_	_
+5	is	be	VERB	VBZ	_	0	root	_	_
+6	a	a	DET	DT	_	7	det	_	_
+7	limit	limit	NOUN	NN	_	5	xcomp	_	_
+8	on	on	ADP	IN	_	7	prep	_	_
+9	government	government	NOUN	NN	_	10	nn	_	_
+10	power	power	NOUN	NN	_	8	pobj	_	_
+11	which	which	DET	WDT	_	13	dobj	_	_
+12	*T*-1	*t*-1	NOUN	NN	_	13	nsubj	_	_
+13	spells	spell	VERB	VBZ	_	5	dep	_	_
+14	out	out	PART	RP	_	13	prt	_	_
+15	what	what	PRON	WP	_	19	dobj	_	_
+16	the	the	DET	DT	_	17	det	_	_
+17	government	government	NOUN	NN	_	19	nsubjpass	_	_
+18	is	be	VERB	VBZ	_	19	auxpass	_	_
+19	empowered	empower	VERB	VBN	_	13	ccomp	_	_
+20	*-3	*-3	NOUN	NN	_	19	dobj	_	_
+21	*PRO*-4	*pro*-4	NOUN	NN	_	19	dobj	_	_
+22	to	to	ADP	TO	_	23	aux	_	_
+23	do	do	VERB	VB	_	19	vmod	_	_
+24	*T*-5	*t*-5	NOUN	NN	_	23	dobj	_	_
+25	.	.	PUNCT	.	_	5	punct	_	_
+

@@ -1,0 +1,19 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	suppose	suppose	VERB	VBP	_	0	root	_	_
+3	0	0	X	X	_	5	dep	_	_
+4	backtracking	backtracking	NOUN	NN	_	5	nsubj	_	_
+5	creates	create	VERB	VBZ	_	2	ccomp	_	_
+6	predicates	predicate	NOUN	NNS	_	5	dobj	_	_
+7	in	in	ADP	IN	_	6	prep	_	_
+8	the	the	DET	DT	_	9	det	_	_
+9	code	code	NOUN	NN	_	7	pobj	_	_
+10	,	,	PUNCT	,	_	6	punct	_	_
+11	which	which	DET	WDT	_	16	dobj	_	_
+12	the	the	DET	DT	_	13	det	_	_
+13	interpreter	interpreter	NOUN	NN	_	16	nsubj	_	_
+14	does	do	VERB	VBZ	_	16	aux	_	_
+15	n't	not	ADV	RB	_	16	neg	_	_
+16	understand	understand	VERB	VB	_	6	rcmod	_	_
+17	*T*-1	*t*-1	NOUN	NN	_	16	dobj	_	_
+18	.	.	PUNCT	.	_	2	punct	_	_
+

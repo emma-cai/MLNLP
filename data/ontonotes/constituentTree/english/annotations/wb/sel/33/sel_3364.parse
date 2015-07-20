@@ -1,0 +1,12 @@
+(S (-RRB- -RRB-)
+        (-LRB- -LRB-)
+        (NP (PRP I))
+        (VP (VBP wish)
+            (SBAR (X 0)
+                  (S (NP (PRP they))
+                     (VP (VBD thrashed)
+                         (NP (DT a)
+                             (NNP BMW))
+                         (ADVP (RB instead))))))
+        (. ...))
+

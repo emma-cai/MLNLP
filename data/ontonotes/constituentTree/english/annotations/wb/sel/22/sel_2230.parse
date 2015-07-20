@@ -1,0 +1,11 @@
+(SBARQ (WHADVP (WRB Why))
+            (SQ (VBZ does)
+                (NP (PRP he))
+                (RB not)
+                (VP (VB capitalize)
+                    (NP (PRP$ his)
+                        (JJ last)
+                        (NN name))
+                    (ADVP (X *T*-1))))
+            (. ?))
+

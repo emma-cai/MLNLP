@@ -1,0 +1,10 @@
+(S (NP (NP (PRP It))
+                (S (X *EXP*-1)))
+        (VP (MD must)
+            (VP (VB suck)
+                (S (NP (NN *PRO*))
+                     (VP (TO to)
+                         (VP (VB be)
+                             (NP (PRP you)))))))
+        (. .))
+

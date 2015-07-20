@@ -1,0 +1,16 @@
+1	I	I	PRON	PRP	_	2	nsubj	_	_
+2	was	be	VERB	VBD	_	0	root	_	_
+3	on	on	ADP	IN	_	2	prep	_	_
+4	pace	pace	NOUN	NN	_	3	pobj	_	_
+5	*PRO*	*pro*	NOUN	NN	_	7	nsubj	_	_
+6	to	to	ADP	TO	_	7	aux	_	_
+7	smash	smash	VERB	VB	_	4	vmod	_	_
+8	the	the	DET	DT	_	11	det	_	_
+9	record	record	ADJ	JJ	_	11	amod	_	_
+10	high	high	ADJ	JJ	_	11	amod	_	_
+11	score	score	NOUN	NN	_	7	dobj	_	_
+12	until	until	ADP	IN	_	14	mark	_	_
+13	UNC	UNC	PROPN	NNP	_	14	nsubj	_	_
+14	lost	lose	VERB	VBD	_	2	advcl	_	_
+15	.	.	PUNCT	.	_	2	punct	_	_
+
