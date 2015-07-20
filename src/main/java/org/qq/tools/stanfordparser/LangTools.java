@@ -1,6 +1,7 @@
 package org.qq.tools.stanfordparser;
 
-import org.qq.datastructure.*;
+import org.maochen.nlp.datastructure.LangLib;
+
 /**
  * Created by qingqingcai on 7/20/15.
  */

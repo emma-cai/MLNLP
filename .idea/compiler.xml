@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="mlnlp" />
+        <module name="MLNLP" />
       </profile>
     </annotationProcessing>
   </component>

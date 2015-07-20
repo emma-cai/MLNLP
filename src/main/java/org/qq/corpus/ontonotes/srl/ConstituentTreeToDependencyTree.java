@@ -1,60 +1,78 @@
 package org.qq.corpus.ontonotes.srl;
 
+import com.google.common.collect.HashBasedTable;
+import com.google.common.collect.Table;
 import edu.stanford.nlp.io.ExtensionFileFilter;
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;
-import edu.stanford.nlp.trees.*;
+import edu.stanford.nlp.trees.Treebank;
+import edu.stanford.nlp.trees.TypedDependency;
 import org.qq.tools.stanfordparser.LangTools;
 import org.qq.tools.stanfordparser.StanfordNNDepParser;
 
 import java.io.File;
 import java.io.FileFilter;
-import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
 /**
  * Created by qingqingcai on 7/20/15.
  */
 public class ConstituentTreeToDependencyTree {
 
-    public static void convertTreebankToCoNLLX(String trainDirPath, FileFilter trainTreeBankFilter, boolean makeCopulaVerbHead, String outputFileName) {
-        int counter = 0;
-        DiskTreebank trainTreeBank = new DiskTreebank();
-        trainTreeBank.loadPath(trainDirPath, trainTreeBankFilter);
+    private static final String splitString = " ----- ";
 
-        SemanticHeadFinder headFinder = new SemanticHeadFinder(!makeCopulaVerbHead); // keep copula verbs as head
-
-        try {
-            File theFile = new File(outputFileName);
-            if (!theFile.exists()) {
-                File theDirectory = new File(outputFileName.substring(0, outputFileName.lastIndexOf(File.separator)));
-                theDirectory.mkdirs();
-                theFile.createNewFile();
-            }
-
-            FileWriter fw = new FileWriter(theFile);
-
-            trainTreeBank.stream().forEachOrdered(tree -> {
-                count(counter, trainTreeBank);
-                Collection<TypedDependency> tdep = new EnglishGrammaticalStructure(tree, string -> true, headFinder, true).typedDependencies();
-                String conllxString = getCoNLLXString(tdep, tree.taggedLabeledYield());
-                try {
-                    fw.write(conllxString);
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            });
-
-            fw.flush();
-            fw.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
+//    public static void convertTreebankToCoNLLX(String trainDirPath, FileFilter trainTreeBankFilter,
+//                                               boolean makeCopulaVerbHead, String outputFileName,
+//                                               Table<Integer, Integer, Map<String, String>> prop) {
+//        int counter = 0;
+//        DiskTreebank trainTreeBank = new DiskTreebank();
+//        trainTreeBank.loadPath(trainDirPath, trainTreeBankFilter);
+//
+//        SemanticHeadFinder headFinder = new SemanticHeadFinder(!makeCopulaVerbHead); // keep copula verbs as head
+//
+//        try {
+//            File theFile = new File(outputFileName);
+//            if (!theFile.exists()) {
+//                File theDirectory = new File(outputFileName.substring(0, outputFileName.lastIndexOf(File.separator)));
+//                theDirectory.mkdirs();
+//                theFile.createNewFile();
+//            }
+//
+//            FileWriter fw = new FileWriter(theFile);
+//
+//            trainTreeBank.stream().forEachOrdered(tree -> {
+//                count(counter, trainTreeBank);
+//                Collection<TypedDependency> tdep = new EnglishGrammaticalStructure(tree, string -> true, headFinder, true).typedDependencies();
+//                String conllxString = getCoNLLXString(tdep, tree.taggedLabeledYield());
+//                DTree dtree = buildDTreeFromConllx(conllxString);
+//                addPropToDTree(dtree, prop.row(counter));
+//                try {
+//                    fw.write(dtree.toString()); // TODO: This might be wrong because of the number of columns
+//                } catch (IOException e) {
+//                    e.printStackTrace();
+//                }
+//
+//            });
+//
+//            fw.flush();
+//            fw.close();
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//    }
+//
+//    private static void addPropToDTree(DTree dtree, Map<Integer, Map<String, String>> prop) {
+//        prop.entrySet().stream().forEach(e -> {
+//            dtree.get(e.getKey()).addFeature(e.getValue().get("???????"));
+//            dtree.get(e.getKey()).addSemanticHead("??????");
+//
+//        });
+//    }
 
     private static void count(int counter, Treebank trainTreeBank) {
         counter++;
@@ -95,36 +113,83 @@ public class ConstituentTreeToDependencyTree {
 
     /**
      * run convertTreebankToCoNLLX for each file in the given directory
-     * @param inputDirectory
+     * @param inputTreebankDirectory
+     * @param inputPropDirectory
      * @param outputDirectory
      * @param filter
      */
-    public static void forEachFile(String inputDirectory, String outputDirectory, FileFilter filter) {
-        File theDir = new File(inputDirectory);
+    public static void forEachFile(String inputTreebankDirectory, String inputPropDirectory, String outputDirectory, FileFilter filter) {
+        File theDir = new File(inputTreebankDirectory);
         File[] fList = theDir.listFiles();
         for (File file : fList) {
             String absolutePath = file.getAbsolutePath();
             if (file.isFile()) {
-                String inputFilePath = file.getPath();
-                String outputFilePath = outputDirectory + inputFilePath.substring(inputFilePath.indexOf("constituentTree") + "constituentTree".length());
+                String inputTreebankFilePath = file.getPath();
+                String inputPropFilePath = inputPropDirectory
+                        + inputTreebankFilePath.substring(inputTreebankFilePath.indexOf("constituentTree") + "constituentTree".length(), inputTreebankFilePath.lastIndexOf(File.separator))
+                        + File.separator + file.getName().substring(0, file.getName().lastIndexOf("."))  + ".prop";
+                String outputFilePath = outputDirectory + inputTreebankFilePath.substring(inputTreebankFilePath.indexOf("constituentTree") + "constituentTree".length());
 
                 if (file.getName().endsWith(".parse")) {
-                    System.out.println("path = " + inputFilePath);
-                    System.out.println("outputpath = " + outputFilePath);
+                    System.out.println("inputTreebankFilePath = " + inputTreebankFilePath);
+                    System.out.println("inputPropFilePath = " + inputPropFilePath);
+                    System.out.println("outputFilePath = " + outputFilePath);
                     System.out.println();
-                    convertTreebankToCoNLLX(inputFilePath, filter, true, outputFilePath);
+//                    readTrees(inputConllxFilePath);
+//                    convertTreebankToCoNLLX(input);
+                    Table<Integer, Integer, Map<String, String>> info = readPropFile(inputPropFilePath);
+//                    convertTreebankToCoNLLX(inputTreebankFilePath, filter, true, outputFilePath, prop);
                 }
+
+//                String inputFilePath = file.getPath();
+//                String outputFilePath = outputDirectory + inputFilePath.substring(inputFilePath.indexOf("constituentTree") + "constituentTree".length());
+//
+//                if (file.getName().endsWith(".parse")) {
+//                    System.out.println("path = " + inputFilePath);
+//                    System.out.println("outputpath = " + outputFilePath);
+//                    System.out.println();
+//                    convertTreebankToCoNLLX(inputFilePath, filter, true, outputFilePath);
+//                }
             } else if (file.isDirectory()) {
-                forEachFile(absolutePath, outputDirectory, filter);
+                forEachFile(absolutePath, inputPropDirectory, outputDirectory, filter);
             }
         }
     }
 
+    private static Table<Integer, Integer, Map<String, String>> readPropFile(String inputPropFilePath) {
+        Table<Integer, Integer, Map<String, String>> infoTable = HashBasedTable.create();
+        try {
+            Files.lines(Paths.get(inputPropFilePath)).forEach(l -> {
+                String[] cols = l.split(" ");
+                Integer treeID = Integer.parseInt(cols[1]);
+                Integer nodeID = Integer.parseInt(cols[2]);
+                String propString = cols[5];
+                String srlString = l.substring(l.indexOf(splitString) + splitString.length()).replaceAll("\\s", "|");
+                Map<String, String> info = new HashMap<>();
+                info.put("prop", propString);
+                info.put("srl", srlString);
+                infoTable.put(treeID, nodeID, info);
+
+
+            });
+            System.out.println("\n-----------------------------------" );
+            infoTable.cellSet().stream().forEach(e -> {
+                System.out.println(e.getRowKey() + "\t" + e.getColumnKey() + "\t" + e.getValue());
+            });
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
     public static void main(String[] args) {
-        String inputDirectory = "data/ontonotes/constituentTree";
-        String outputFileName = "data/ontonotes/dependencyTree";
+        String inputConllxDirectory = "data/ontonotes/constituentTree";
+        String inputPropDirectory = "/Users/qingqingcai/Documents/ontonotes-release-5.0/data/files/data";
+        String outputDirectory = "data/ontonotes/dependencySRLTree";
         FileFilter filter = new ExtensionFileFilter(".parse", true);
+        forEachFile(inputConllxDirectory, inputPropDirectory, outputDirectory, filter);
+
 //        convertTreebankToCoNLLX(inputDirectory, filter, true, outputFileName);
-        forEachFile(inputDirectory, outputFileName, filter);
+//        forEachFile(inputDirectory, outputFileName, filter);
     }
 }

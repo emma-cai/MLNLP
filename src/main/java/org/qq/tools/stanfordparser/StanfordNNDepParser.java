@@ -3,7 +3,7 @@ package org.qq.tools.stanfordparser;
 import com.google.common.collect.ImmutableSet;
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.process.Morphology;
-import org.qq.datastructure.LangLib;
+import org.maochen.nlp.datastructure.LangLib;
 
 import java.util.List;
 import java.util.Set;

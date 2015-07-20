@@ -30,6 +30,21 @@
             <artifactId>google-collections</artifactId>
             <version>1.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>17.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.3.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.maochen.nlp</groupId>
+            <artifactId>nlp</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
 </project>
