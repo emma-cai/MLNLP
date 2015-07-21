@@ -1,4 +1,8 @@
+*.class
+
+*.xml
 .idea/libraries/*
 .idea/*
 target/*
+
 .DS_Store
