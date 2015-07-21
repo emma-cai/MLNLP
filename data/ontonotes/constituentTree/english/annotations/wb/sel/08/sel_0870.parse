@@ -1,8 +1,0 @@
-(S (NP (PRP You))
-        (VP (MD can)
-            (ADVP (RB even))
-            (VP (VB make)
-                (S (NP (NNS pigs))
-                   (VP (VB fly)))))
-        (. .))
-

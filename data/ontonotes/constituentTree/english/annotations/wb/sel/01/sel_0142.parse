@@ -1,9 +1,0 @@
-(S (NP (NNP Johnson))
-        (VP (VBD wanted)
-            (S (NP (NN *PRO*-1))
-               (VP (TO to)
-                   (VP (VB become)
-                       (ADJP (RB decisively)
-                                 (JJ engaged))))))
-        (. .))
-

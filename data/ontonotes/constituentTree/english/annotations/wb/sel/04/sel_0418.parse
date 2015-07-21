@@ -1,9 +1,0 @@
-(S (NP (DT These))
-        (VP (VBP cost)
-            (NP ($ $)
-                (CD 14.99)
-                (X *U*))
-            (PP (IN at)
-                    (NP (NNP Target))))
-        (. .))
-

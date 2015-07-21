@@ -1,7 +1,0 @@
-1	I	I	PRON	PRP	_	2	nsubj	_	_
-2	read	read	VERB	VBD	_	0	root	_	_
-3	Crisis	Crisis	PROPN	NNP	_	2	dobj	_	_
-4	In	in	ADP	IN	_	3	prep	_	_
-5	Cons	Cons	PROPN	NNPS	_	4	pobj	_	_
-6	.	.	PUNCT	.	_	2	punct	_	_
-

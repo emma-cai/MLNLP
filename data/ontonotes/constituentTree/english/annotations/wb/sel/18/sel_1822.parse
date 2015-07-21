@@ -1,7 +1,0 @@
-(S (NP (NN *PRO*))
-            (ADVP (RB Never))
-            (VP (VB serve)
-                (NP (DT a)
-                    (NN captain)))
-            (. !))
-

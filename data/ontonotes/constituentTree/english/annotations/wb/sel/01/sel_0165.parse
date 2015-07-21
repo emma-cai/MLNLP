@@ -1,7 +1,0 @@
-(S (CC So)
-            (NP (NN *PRO*))
-            (VP (VB bring)
-                (NP (DT a)
-                    (NN towel)))
-            (. !))
-

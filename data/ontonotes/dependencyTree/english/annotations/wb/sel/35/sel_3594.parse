@@ -1,9 +1,0 @@
-1	Boil	Boil	PROPN	NNP	_	3	nsubj	_	_
-2	the	the	DET	DT	_	3	det	_	_
-3	lentils	lentil	NOUN	NNS	_	0	root	_	_
-4	for	for	ADP	IN	_	3	prep	_	_
-5	about	about	ADP	IN	_	6	quantmod	_	_
-6	20	20	NUM	CD	_	7	num	_	_
-7	minutes	minute	NOUN	NNS	_	4	pobj	_	_
-8	.	.	PUNCT	.	_	3	punct	_	_
-

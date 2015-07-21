@@ -1,8 +1,0 @@
-(SQ (`` ")
-         (VBP Do)
-         (NP (PRP you))
-         (ADVP (RB often))
-         (VP (VB write)
-             (ADVP (RB backwards)))
-         (. ?))
-

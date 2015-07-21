@@ -1,9 +1,0 @@
-(S (NP (PRP I))
-        (VP (VBP remember)
-            (NP (NP (NNP Jan)
-                    (POS 's))
-                (NN site))
-            (ADVP (RB very)
-                      (RB well)))
-        (. .))
-

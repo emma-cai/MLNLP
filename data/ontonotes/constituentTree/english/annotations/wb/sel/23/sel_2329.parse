@@ -1,9 +1,0 @@
-(SQ (MD Can)
-         (NP (NNS snails))
-         (VP (VB be)
-             (ADVP (RB quickly))
-             (VP (VBN edged)
-                 (NP (NN *-1))
-                 (PRT (RP out))))
-         (. ?))
-

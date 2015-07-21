@@ -1,9 +1,0 @@
-(S (NP (DT This))
-        (VP (MD could)
-            (VP (VB support)
-                (NP (CC either)
-                    (NN nurture)
-                    (CC or)
-                    (NN nature))))
-        (. .))
-

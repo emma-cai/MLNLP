@@ -1,7 +1,0 @@
-(S (NP (NN *PRO*))
-            (VP (VB support)
-                (NP (PRP$ your)
-                    (JJ local)
-                    (NN artist)))
-            (. ...))
-

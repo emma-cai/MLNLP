@@ -1,7 +1,0 @@
-(S (NP (NN *PRO*))
-        (VP (MD can)
-            (VP (VB punch)
-                (PP (IN through)
-                        (NP (NN insulation)))))
-        (. .))
-

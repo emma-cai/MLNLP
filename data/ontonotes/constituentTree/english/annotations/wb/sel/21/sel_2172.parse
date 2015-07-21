@@ -1,9 +1,0 @@
-(S (NP (NN *PRO*))
-            (VP (VB write)
-                (PP (IN for)
-                        (NP (NP (NNS photos))
-                            (CC or)
-                            (NP (JJR more)
-                                (NN info)))))
-            (. .))
-

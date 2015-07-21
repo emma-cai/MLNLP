@@ -1,8 +1,0 @@
-(S (NP (NP (NNP Ana)
-                    (POS 's))
-                (NN voice))
-        (ADVP (RB rarely))
-        (VP (VBZ punches)
-            (PRT (RP through)))
-        (. .))
-

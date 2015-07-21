@@ -1,9 +1,0 @@
-(S (NP (NNP LP))
-        (NP (PRP I))
-        (ADVP (RB definitely))
-        (VP (VBP fall)
-            (PP (IN into)
-                    (NP (DT this)
-                        (NN category))))
-        (. .))
-

@@ -1,9 +1,0 @@
-1	Holidaymakers	holidaymaker	NOUN	NNS	_	2	nsubj	_	_
-2	stuck	stick	VERB	VBN	_	0	root	_	_
-3	*-1	*-1	NOUN	NN	_	2	dobj	_	_
-4	as	as	ADP	IN	_	6	mark	_	_
-5	aircraft	aircraft	NOUN	NN	_	6	nsubj	_	_
-6	grounded	ground	VERB	VBN	_	2	advcl	_	_
-7	*-2	*-2	NOUN	NN	_	6	dobj	_	_
-8	.	.	PUNCT	.	_	2	punct	_	_
-

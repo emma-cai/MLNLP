@@ -1,8 +1,0 @@
-(S (NP (DT That))
-        (VP (MD will)
-            (VP (VB kill)
-                (NP (DT any)
-                    (JJ live)
-                    (NNS organisms))))
-        (. .))
-

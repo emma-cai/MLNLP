@@ -1,8 +1,0 @@
-(S (CC So)
-        (NP (PRP I))
-        (VP (MD 'd)
-            (VP (VB agree)
-                (NFP ...)
-                (ADVP (RB partially))))
-        (. .))
-

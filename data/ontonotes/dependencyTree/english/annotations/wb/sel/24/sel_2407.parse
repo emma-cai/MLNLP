@@ -1,7 +1,0 @@
-1	Is	be	VERB	VBZ	_	3	auxpass	_	_
-2	it	it	PRON	PRP	_	3	nsubjpass	_	_
-3	grounded	ground	VERB	VBN	_	0	root	_	_
-4	*-1	*-1	NOUN	NN	_	3	dobj	_	_
-5	correctly	correctly	ADV	RB	_	3	advmod	_	_
-6	?	?	PUNCT	.	_	3	punct	_	_
-

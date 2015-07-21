@@ -1,9 +1,0 @@
-(S (NP (PRP It))
-        (ADVP (RB Automatically))
-        (VP (VBZ Rakes)
-            (PRT (RP In))
-            (NP (NP (NNS Hundreds))
-                (PP (IN Of)
-                    (NP (NNS Pips)))))
-        (. ...))
-

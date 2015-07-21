@@ -1,8 +1,0 @@
-(S (NP (NP (PRP They))
-                (NP (DT both)))
-        (VP (VBP suck)
-            (PP (IN in)
-                    (NP (PRP$ our)
-                        (NNS cars))))
-        (. .))
-

@@ -1,9 +1,0 @@
-(S (CC And)
-        (NP (JJ dead)
-                (NNS men))
-        (VP (VBP fall)
-            (PP (IN like)
-                    (NP (NNS stones))))
-        (. !)
-        (. "))
-

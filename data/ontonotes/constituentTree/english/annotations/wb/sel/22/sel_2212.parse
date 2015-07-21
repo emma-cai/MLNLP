@@ -1,9 +1,0 @@
-(S (NP (PRP It))
-        (VP (VBZ does)
-            (VP (VB capitalize)
-                (NP (NP (JJS most)
-                        (NNS words))
-                    (PP (IN in)
-                            (NP (NNS headlines))))))
-        (. .))
-

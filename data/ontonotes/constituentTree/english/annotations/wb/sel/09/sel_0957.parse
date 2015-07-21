@@ -1,7 +1,0 @@
-(S (NP (DT These)
-                (NNS cats))
-        (VP (VBP give)
-            (NP (DT no)
-                (NN warning)))
-        (. .))
-

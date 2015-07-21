@@ -1,7 +1,0 @@
-(SBARQ (WHNP (WP What))
-            (SQ (MD will)
-                (NP (CD 2007))
-                (VP (VB bring)
-                    (NP (NN *T*-1))))
-            (. ?))
-

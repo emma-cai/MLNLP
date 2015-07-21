@@ -1,9 +1,0 @@
-(S (CC And)
-            (NP (NN *PRO*))
-            (VP (VB capitalize)
-                (NP (JJ big)
-                        (NN time))
-                (PP (IN on)
-                        (NP (PRP it))))
-            (. .))
-

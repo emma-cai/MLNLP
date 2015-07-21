@@ -1,9 +1,0 @@
-(S (NP (NN *PRO*))
-            (VP (VB Help)
-                (S (NP (PRP me))
-                   (VP (VB choose)
-                       (NP (PRP$ my)
-                           (JJ new)
-                           (NN toy)))))
-            (. !))
-

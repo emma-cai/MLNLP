@@ -1,9 +1,0 @@
-1	Better	better	ADJ	JJ	_	0	root	_	_
-2	*PRO*	*pro*	NOUN	NN	_	4	nsubj	_	_
-3	to	to	ADP	TO	_	4	aux	_	_
-4	try	try	VERB	VB	_	1	dep	_	_
-5	a	a	DET	DT	_	7	det	_	_
-6	mac	mac	NOUN	NN	_	7	nn	_	_
-7	solution	solution	NOUN	NN	_	4	dobj	_	_
-8	.	.	PUNCT	.	_	1	punct	_	_
-

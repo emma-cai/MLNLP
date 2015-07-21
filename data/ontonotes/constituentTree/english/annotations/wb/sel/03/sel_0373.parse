@@ -1,8 +1,0 @@
-(SBARQ (WHNP (WDT What)
-                    (NNS professions))
-            (SQ (VBD did)
-                (NP (PRP you))
-                (VP (VB choose)
-                    (NP (NN *T*-1))))
-            (. ?))
-

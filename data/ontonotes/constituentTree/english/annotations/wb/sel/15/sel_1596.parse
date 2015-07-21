@@ -1,7 +1,0 @@
-(S (NP (PRP We))
-        (VP (VBP remember)
-            (NP (DT the)
-                (JJ safe)
-                (NN delivery)))
-        (. .))
-

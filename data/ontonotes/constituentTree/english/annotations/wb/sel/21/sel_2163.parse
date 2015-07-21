@@ -1,7 +1,0 @@
-(S (NP (JJ Other)
-                  (NNS books))
-        (NP (NN Anyone))
-        (VP (MD can)
-            (VP (VB write)
-                (NP (NN *T*-1)))))
-

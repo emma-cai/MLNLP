@@ -1,8 +1,0 @@
-(S (NP (PRP I))
-        (VP (VBP suppose)
-            (SBAR (X 0)
-                  (S (NP (PRP I))
-                     (VP (MD can)
-                         (VP (VB try))))))
-        (. ...))
-

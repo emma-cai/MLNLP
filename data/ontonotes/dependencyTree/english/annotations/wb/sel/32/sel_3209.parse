@@ -1,7 +1,0 @@
-1	Serial	serial	ADJ	JJ	_	2	amod	_	_
-2	killers	killer	NOUN	NNS	_	5	nsubj	_	_
-3	ca	can	AUX	MD	_	5	aux	_	_
-4	n't	not	ADV	RB	_	5	neg	_	_
-5	spell	spell	VERB	VB	_	0	root	_	_
-6	.	.	PUNCT	.	_	5	punct	_	_
-

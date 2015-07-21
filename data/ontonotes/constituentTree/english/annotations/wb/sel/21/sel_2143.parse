@@ -1,7 +1,0 @@
-(S (NP (PRP One))
-        (VP (MD can)
-            (VP (VB try)
-                (S (NP (NN *PRO*-1))
-                   (VP (VBG cleaning)))))
-        (. .))
-

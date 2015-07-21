@@ -1,7 +1,0 @@
-(SQ (VBZ Is)
-         (NP (PRP it))
-         (VP (VBN grounded)
-             (NP (NN *-1))
-             (ADVP (RB correctly)))
-         (. ?))
-

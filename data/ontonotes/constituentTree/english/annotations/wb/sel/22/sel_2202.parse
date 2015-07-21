@@ -1,8 +1,0 @@
-(S (NP (NN *PRO*))
-            (ADVP (RB Just))
-            (VP (VB write)
-                (NP (PRP$ your)
-                    (JJ own)
-                    (NN function)))
-            (. .))
-

@@ -1,9 +1,0 @@
-(SQ (MD Ca)
-         (RB nt)
-         (NP (PRP you))
-         (VP (VB support)
-             (NP (PRP$ your)
-                 (JJ own)
-                 (NNS allegations)))
-         (. ?))
-

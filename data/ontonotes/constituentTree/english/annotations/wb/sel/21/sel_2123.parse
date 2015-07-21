@@ -1,7 +1,0 @@
-(S (NP (NN *PRO*))
-            (VP (VB try)
-                (NP (DT a)
-                    (NN movie)))
-            (NFP ...)
-            (. .))
-

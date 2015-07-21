@@ -1,9 +1,0 @@
-(S (NP (NNP Boil))
-        (VP (NP (DT the)
-                (NNS lentils))
-            (PP (IN for)
-                    (NP (QP (IN about)
-                            (CD 20))
-                        (NNS minutes))))
-        (. .))
-

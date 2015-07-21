@@ -1,7 +1,0 @@
-(S (NP (NN Sprinting))
-        (VP (VBZ helps)
-            (S (NP (NN *PRO*))
-               (VP (VB develop)
-                   (NP (DT this)))))
-        (. .))
-

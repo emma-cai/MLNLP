@@ -1,9 +1,0 @@
-1	would	would	AUX	MD	_	3	aux	_	_
-2	that	that	DET	DT	_	3	nsubj	_	_
-3	apply	apply	VERB	VB	_	0	root	_	_
-4	to	to	ADP	IN	_	3	prep	_	_
-5	car	car	NOUN	NN	_	6	nn	_	_
-6	tent	tent	NOUN	NN	_	7	nn	_	_
-7	sales	sale	NOUN	NNS	_	4	pobj	_	_
-8	?	?	PUNCT	.	_	3	punct	_	_
-

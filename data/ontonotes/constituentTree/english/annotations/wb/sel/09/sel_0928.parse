@@ -1,9 +1,0 @@
-(S (NP (NNP Bush))
-        (VP (VBD used)
-            (NP (CD 911))
-            (S (NP (NN *PRO*-1))
-                   (VP (TO to)
-                       (VP (VB get)
-                           (NP (NNP Saddam))))))
-        (. .))
-

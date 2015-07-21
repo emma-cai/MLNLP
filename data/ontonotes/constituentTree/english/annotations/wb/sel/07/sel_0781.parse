@@ -1,9 +1,0 @@
-(S (NP (PRP i))
-        (VP (MD can)
-            (VP (VB face)
-                (NP (NNS things))
-                (ADVP (RBR better))
-                (S (NP (NN *PRO*-1))
-                       (ADJP (JJ sober)))))
-        (. .))
-

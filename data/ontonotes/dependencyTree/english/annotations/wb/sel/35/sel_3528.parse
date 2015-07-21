@@ -1,9 +1,0 @@
-1	He	he	PRON	PRP	_	2	nsubj	_	_
-2	tripped	trip	VERB	VBD	_	0	root	_	_
-3	and	and	CONJ	CC	_	2	cc	_	_
-4	fell	fall	VERB	VBD	_	2	conj	_	_
-5	onto	onto	ADP	IN	_	4	prep	_	_
-6	the	the	DET	DT	_	7	det	_	_
-7	photographer	photographer	NOUN	NN	_	5	pobj	_	_
-8	.	.	PUNCT	.	_	2	punct	_	_
-

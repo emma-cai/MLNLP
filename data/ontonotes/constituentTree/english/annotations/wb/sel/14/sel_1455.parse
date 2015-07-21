@@ -1,8 +1,0 @@
-(SQ (VBZ Has)
-         (NP (PRP she))
-         (ADVP (RB ever))
-         (ADVP (RB even))
-         (VP (VBD read)
-             (NP (NNP Hamlet)))
-         (. ?))
-

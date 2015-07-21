@@ -1,9 +1,0 @@
-(SQ (MD Can)
-         (NP (PRP you))
-         (VP (VB spell)
-             (NP (NNP Antonov))
-             (PP (IN by)
-                 (NP (DT any)
-                     (NN chance))))
-         (. ?))
-

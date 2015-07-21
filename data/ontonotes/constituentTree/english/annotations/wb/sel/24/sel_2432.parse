@@ -1,5 +1,0 @@
-(S (NP (NN Plane))
-            (VP (VBN grounded)
-                (NP (NN *-1)))
-            (. .))
-

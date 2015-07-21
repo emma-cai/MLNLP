@@ -1,8 +1,0 @@
-(S (NP (JJ True)
-                (NNS pairs))
-        (VP (VBP bring)
-            (NP (DT the)
-                (JJ major)
-                (NN money)))
-        (. .))
-

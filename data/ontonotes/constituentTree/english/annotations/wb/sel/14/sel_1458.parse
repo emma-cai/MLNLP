@@ -1,8 +1,0 @@
-(S (PP (IN For)
-                (NP (JJ detailed)
-                    (NN information)))
-            (NP (NN *PRO*))
-            (VP (VB read)
-                (ADVP (RB further)))
-            (. ...))
-

@@ -1,7 +1,0 @@
-(S (ADVP (RB Now))
-            (NP (NN *PRO*))
-            (VP (VB try)
-                (NP (DT that))
-                (ADVP (RB backwards)))
-            (. .))
-

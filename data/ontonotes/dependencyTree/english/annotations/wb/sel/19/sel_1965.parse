@@ -1,8 +1,0 @@
-1	--	--	PUNCT	:	_	5	punct	_	_
-2	All	all	DET	DT	_	4	det	_	_
-3	Iraqi	iraqi	ADJ	JJ	_	4	amod	_	_
-4	leaders	leader	NOUN	NNS	_	5	nsubj	_	_
-5	support	support	VERB	VBP	_	0	root	_	_
-6	reconciliation	reconciliation	NOUN	NN	_	5	dobj	_	_
-7	.	.	PUNCT	.	_	5	punct	_	_
-

@@ -1,8 +1,0 @@
-(S (NP (NNP Disco))
-        (VP (VBP make)
-            (NP (DT a)
-                (ADJP (RB very)
-                      (JJ valid))
-                (NN point)))
-        (. !))
-

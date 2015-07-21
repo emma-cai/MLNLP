@@ -1,9 +1,0 @@
-(S (NP (NNS Holidaymakers))
-            (VP (VBN stuck)
-                (NP (NN *-1))
-                (SBAR (IN as)
-                          (S (NP (NN aircraft))
-                             (VP (VBN grounded)
-                                 (NP (NN *-2))))))
-            (. .))
-

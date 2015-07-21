@@ -1,8 +1,0 @@
-1	Two	two	NUM	CD	_	3	num	_	_
-2	similar	similar	ADJ	JJ	_	3	amod	_	_
-3	names	name	NOUN	NNS	_	4	nsubj	_	_
-4	tripped	trip	VERB	VBD	_	0	root	_	_
-5	me	I	PRON	PRP	_	4	dobj	_	_
-6	up	up	PART	RP	_	4	prt	_	_
-7	.	.	PUNCT	.	_	4	punct	_	_
-

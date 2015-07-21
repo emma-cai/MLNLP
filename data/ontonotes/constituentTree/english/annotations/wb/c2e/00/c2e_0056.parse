@@ -1,8 +1,0 @@
-(S (ADVP (RB So))
-        (NP (PRP I))
-        (ADVP (RB never))
-        (VP (VBD paid)
-            (NP (DT any)
-                (NN attention)))
-        (. .))
-

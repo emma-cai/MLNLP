@@ -1,7 +1,0 @@
-(S (NP (PRP We))
-        (VP (VBP become)
-            (NP (DT the)
-                    (VBG corresponding)
-                    (NN forest)))
-        (. .))
-

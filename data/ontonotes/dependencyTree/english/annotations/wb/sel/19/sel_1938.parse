@@ -1,8 +1,0 @@
-1	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
-2	Just	just	ADV	RB	_	3	advmod	_	_
-3	stop	stop	VERB	VB	_	0	root	_	_
-4	*PRO*-1	*pro*-1	NOUN	NN	_	5	nsubj	_	_
-5	wanting	want	VERB	VBG	_	3	dep	_	_
-6	that	that	DET	DT	_	5	dobj	_	_
-7	.	.	PUNCT	.	_	3	punct	_	_
-

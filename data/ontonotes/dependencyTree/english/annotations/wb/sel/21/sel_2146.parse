@@ -1,7 +1,0 @@
-1	Now	now	ADV	RB	_	3	advmod	_	_
-2	*PRO*	*pro*	NOUN	NN	_	3	nsubj	_	_
-3	try	try	VERB	VB	_	0	root	_	_
-4	that	that	DET	DT	_	3	dobj	_	_
-5	backwards	backwards	ADV	RB	_	3	advmod	_	_
-6	.	.	PUNCT	.	_	3	punct	_	_
-

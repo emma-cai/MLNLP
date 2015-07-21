@@ -1,7 +1,0 @@
-(SQ (VBD Did)
-         (NP (NNP God))
-         (ADVP (RB really))
-         (VP (VB create)
-             (NP (DT that)))
-         (. ?))
-

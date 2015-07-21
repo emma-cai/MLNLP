@@ -1,8 +1,0 @@
-(S (NP (NN *PRO*))
-            (VP (VB Seal)
-                (NP (DT the)
-                    (NN case))
-                (PRT (RP up))
-                (ADVP (RBR better)))
-            (. .))
-

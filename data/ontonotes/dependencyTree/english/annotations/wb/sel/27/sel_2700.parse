@@ -1,8 +1,0 @@
-1	Ana	Ana	PROPN	NNP	_	3	poss	_	_
-2	's	's	PART	POS	_	1	possessive	_	_
-3	voice	voice	NOUN	NN	_	5	nsubj	_	_
-4	rarely	rarely	ADV	RB	_	5	advmod	_	_
-5	punches	punch	VERB	VBZ	_	0	root	_	_
-6	through	through	PART	RP	_	5	prt	_	_
-7	.	.	PUNCT	.	_	5	punct	_	_
-

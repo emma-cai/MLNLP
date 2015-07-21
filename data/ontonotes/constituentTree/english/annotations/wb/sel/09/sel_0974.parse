@@ -1,8 +1,0 @@
-(SQ (VBZ Does)
-         (NP (PRP it))
-         (VP (VB give)
-             (NP (NN anger))
-             (NP (JJR more)
-                 (NN emphasis)))
-         (. ?))
-

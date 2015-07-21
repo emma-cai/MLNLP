@@ -1,9 +1,0 @@
-1	You	you	PRON	PRP	_	2	nsubj	_	_
-2	notice	notice	VERB	VBP	_	0	root	_	_
-3	0	0	X	X	_	5	dep	_	_
-4	supplements	supplement	NOUN	NNS	_	5	nsubj	_	_
-5	are	be	VERB	VBP	_	2	ccomp	_	_
-6	BIG	big	ADJ	JJ	_	7	amod	_	_
-7	pills	pill	NOUN	NNS	_	5	xcomp	_	_
-8	?	?	PUNCT	.	_	2	punct	_	_
-

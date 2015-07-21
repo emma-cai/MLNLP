@@ -1,8 +1,0 @@
-(S (NP (PRP They))
-        (VP (VBD swept)
-            (NP (NNP Atlanta))
-            (PP (IN at)
-                    (NP (NNP Turner)
-                        (NNP Field))))
-        (. .))
-

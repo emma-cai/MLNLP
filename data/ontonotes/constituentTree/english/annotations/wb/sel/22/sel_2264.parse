@@ -1,6 +1,0 @@
-(S (NP (NN *PRO*))
-        (VP (VBP Have)
-            (ADVP (RB never))
-            (VP (VBN drummed)))
-        (. ?))
-

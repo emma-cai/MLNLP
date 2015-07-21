@@ -1,6 +1,0 @@
-1	Only	only	ADV	RB	_	3	advmod	_	_
-2	experienced	experienced	ADJ	JJ	_	3	amod	_	_
-3	candidates	candidate	NOUN	NNS	_	4	nsubj	_	_
-4	apply	apply	VERB	VBP	_	0	root	_	_
-5	.	.	PUNCT	.	_	4	punct	_	_
-

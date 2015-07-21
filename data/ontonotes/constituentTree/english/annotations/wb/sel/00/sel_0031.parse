@@ -1,9 +1,0 @@
-(S (NP (NNP David))
-        (: -)
-        (NP (PRP I))
-        (VP (VBP agree)
-            (ADVP (RB as)
-                  (RB well)))
-        (NFP ...)
-        (. ...))
-

@@ -1,7 +1,0 @@
-(S (NP (NN *PRO*))
-            (VP (VB Punch)
-                (PRT (RP down))
-                (NP (DT the)
-                    (NN dough)))
-            (. .))
-

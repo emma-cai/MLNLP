@@ -1,7 +1,0 @@
-(S (NP (NN Everything))
-        (VP (VBZ boils)
-            (PRT (RP down))
-            (PP (IN to)
-                    (NP (NN opportunity))))
-        (. .))
-
