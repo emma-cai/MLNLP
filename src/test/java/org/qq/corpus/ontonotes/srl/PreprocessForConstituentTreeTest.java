@@ -3,7 +3,7 @@ package org.qq.corpus.ontonotes.srl;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
-import static org.qq.corpus.ontonotes.srl.ConstituentTreeToDependencyTreeUtils.preprocessForConstituentTree;
+import static org.qq.corpus.ontonotes.srl.PennPreprocessor.preprocessForConstituentTree;
 
 /**
  * Created by qingqingcai on 7/20/15.

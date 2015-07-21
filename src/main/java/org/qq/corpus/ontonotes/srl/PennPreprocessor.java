@@ -14,7 +14,7 @@ import java.util.regex.Pattern;
 /**
  * Created by qingqingcai on 7/21/15.
  */
-public class ConstituentTreeToDependencyTreeUtils {
+public class PennPreprocessor {
 
     /**
      * Convert preprocessed constituent tree to dependency tree
