@@ -1,0 +1,138 @@
+<!--Feature template for dependency parsing in English -->
+<feature_template>
+    <!-- basic features -->
+    <feature f0="i:m"/>
+    <feature f0="j:m"/>
+    <feature f0="i:p"/>
+    <feature f0="j:p"/>
+
+    <feature f0="i:p" f1="i:m"/>
+    <feature f0="j:p" f1="j:m"/>
+
+    <feature f0="i:p" f1="j:p"/>
+    <feature f0="i:p" f1="j:m"/>
+    <feature f0="i:m" f1="j:p"/>
+    <feature f0="i:m" f1="j:m"/>
+
+    <!-- 1-gram features -->
+    <feature f0="k-1:m"/>
+    <feature f0="i-1:m"/>
+    <feature f0="i+1:m"/>
+    <feature f0="j-2:m"/>
+    <feature f0="j-1:m"/>
+    <feature f0="j+1:m"/>
+    <feature f0="j+2:m"/>
+
+    <feature f0="i-2:p"/>
+    <feature f0="i-1:p"/>
+    <feature f0="i+1:p"/>
+    <feature f0="i+2:p"/>
+    <feature f0="j-1:p"/>
+    <feature f0="j+1:p"/>
+
+    <!-- 2-gram features -->
+    <feature f0="j+1:p" f1="i:p"/>
+    <feature f0="k-1:p" f1="i:p"/>
+    <feature f0="k-1:p" f1="j:p"/>
+
+    <feature f0="j-1:p" f1="i:m"/>
+    <feature f0="j+1:p" f1="i:m"/>
+    <feature f0="j+1:p" f1="j:m"/>
+    <feature f0="j+1:m" f1="i:p"/>
+    <feature f0="j+1:m" f1="j:p"/>
+
+    <feature f0="i+1:m" f1="i:m"/>
+    <feature f0="i+1:m" f1="j:m"/>
+
+    <!-- 3-gram features -->
+    <feature f0="i-2:p" f1="i-1:p" f2="i:p"/>
+    <feature f0="i-1:p" f1="i:p"   f2="i+1:p"/>
+    <feature f0="j-1:p" f1="j:p"   f2="j+1:p"/>
+    <feature f0="j:p"   f1="j+1:p" f2="j+2:p"/>
+
+    <feature f0="k-2:p" f1="i:p" f2="j:p"/>
+    <feature f0="i-1:p" f1="i:p" f2="j:p"/>
+    <feature f0="i+1:p" f1="i:p" f2="j:p"/>
+    <feature f0="j-2:p" f1="i:p" f2="j:p"/>
+    <feature f0="j-1:p" f1="i:p" f2="j:p"/>
+    <feature f0="j+1:p" f1="i:p" f2="j:p"/>
+    <feature f0="j+2:p" f1="i:p" f2="j:p"/>
+    <feature f0="j+3:p" f1="i:p" f2="j:p"/>
+
+    <!-- valency features -->
+    <feature f0="i:va" f1="i:m"/>
+    <feature f0="j:va" f1="j:m"/>
+
+    <!-- 2nd-order features -->
+    <feature f0="i:d"/>
+    <feature f0="j:d"/>
+    <feature f0="i_lmd:d"/>
+
+    <feature f0="i_h:m"/>
+    <feature f0="i_rmd:m"/>
+    <feature f0="j_lmd:m"/>
+
+    <feature f0="i_h:p"/>
+    <feature f0="i_rmd:p"/>
+    <feature f0="j_lmd:p"/>
+
+    <feature f0="i:d" f1="i:p"/>
+    <feature f0="i:d" f1="j:p"/>
+    <feature f0="i:d" f1="i:m"/>
+    <feature f0="i:d" f1="j:m"/>
+
+    <feature f0="i:d"     f1="i:p" f2="j:p"/>
+    <feature f0="i_lmd:d" f1="i:p" f2="j:p"/>
+    <feature f0="j_lmd:d" f1="i:p" f2="j:p"/>
+    <feature f0="i_lns:d" f1="i:p" f2="j:p"/>
+
+    <feature f0="i_lmd:p" f1="i:p" f2="j:p"/>
+    <feature f0="i_rmd:p" f1="i:p" f2="j:p"/>
+    <feature f0="j_lmd:p" f1="i:p" f2="j:p"/>
+
+    <feature f0="i:d"     f1="j:p"/>
+    <feature f0="i_lmd:d" f1="j:p"/>
+    <feature f0="i_rmd:d" f1="j:p"/>
+
+    <feature f0="i_h:p"   f1="j:p"/>
+    <feature f0="i_lmd:p" f1="j:p"/>
+    <feature f0="i_rmd:p" f1="j:p"/>
+
+    <!-- 3rd-order features -->
+    <feature f0="i_h:d"/>
+    <feature f0="j_h:d"/>
+    <feature f0="i_lmd2:d"/>
+
+    <feature f0="i_h2:m"/>
+    <feature f0="i_rmd2:m"/>
+    <feature f0="j_lmd2:m"/>
+
+    <feature f0="i_h2:p"/>
+    <feature f0="i_rmd2:p"/>
+    <feature f0="j_lmd2:p"/>
+
+    <feature f0="i_h:d" f1="i:p"/>
+    <feature f0="i_h:d" f1="j:p"/>
+    <feature f0="i_h:d" f1="j:m"/>
+
+    <feature f0="i_h:d"    f1="i:p" f2="j:p"/>
+    <feature f0="i_lmd2:d" f1="i:p" f2="j:p"/>
+    <feature f0="j_lmd2:d" f1="i:p" f2="j:p"/>
+    <feature f0="i_lns2:d" f1="i:p" f2="j:p"/>
+
+    <feature f0="i_lmd2:p" f1="i:p" f2="j:p"/>
+    <feature f0="j_lmd2:p" f1="i:p" f2="j:p"/>
+    <feature f0="i_rmd2:p" f1="i:p" f2="j:p"/>
+
+    <feature f0="i_lmd2:p" f1="i_lmd:p" f2="i:p"/>
+
+    <!-- distributional semantics features -->
+    <feature f0="i:ds"/>
+    <feature f0="j:ds"/>
+    <feature f0="i+1:ds"/>
+    <feature f0="j+1:ds"/>
+
+    <!-- binary features -->
+    <feature f0="i:b0" note="stack is the first token"/>
+    <feature f0="j:b1" note="input is the last  token"/>
+</feature_template>
