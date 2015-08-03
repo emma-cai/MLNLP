@@ -1,12 +1,13 @@
 package org.mlnlp.corpus.ontonotes.srl;
 
-import edu.emory.clir.clearnlp.bin.C2DConvert;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.filefilter.DirectoryFileFilter;
 import org.apache.commons.io.filefilter.NotFileFilter;
 import org.apache.commons.io.filefilter.TrueFileFilter;
 
 import java.io.File;
+
+import edu.emory.clir.clearnlp.bin.C2DConvert;
 
 /**
  * Created by qingqingcai on 7/21/15.

@@ -1,12 +1,14 @@
 package org.mlnlp.tools.stanfordparser;
 
 import com.google.common.collect.ImmutableSet;
-import edu.stanford.nlp.ling.CoreLabel;
-import edu.stanford.nlp.process.Morphology;
+
 import org.maochen.nlp.datastructure.LangLib;
 
 import java.util.List;
 import java.util.Set;
+
+import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.process.Morphology;
 
 /**
  * Created by qingqingcai on 7/20/15.
