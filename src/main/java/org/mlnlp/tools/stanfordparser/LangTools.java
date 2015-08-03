@@ -1,4 +1,4 @@
-package org.qq.tools.stanfordparser;
+package org.mlnlp.tools.stanfordparser;
 
 import org.maochen.nlp.datastructure.DNode;
 import org.maochen.nlp.datastructure.LangLib;

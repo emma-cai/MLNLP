@@ -1,4 +1,4 @@
-package org.qq.tools.stanfordparser;
+package org.mlnlp.tools.stanfordparser;
 
 import com.google.common.collect.ImmutableSet;
 import edu.stanford.nlp.ling.CoreLabel;

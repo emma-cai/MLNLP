@@ -1,4 +1,4 @@
-package org.qq.corpus.ontonotes.srl;
+package org.mlnlp.corpus.ontonotes.srl;
 
 import edu.emory.clir.clearnlp.bin.C2DConvert;
 import org.apache.commons.io.FileUtils;

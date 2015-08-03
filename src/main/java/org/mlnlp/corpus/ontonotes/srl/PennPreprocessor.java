@@ -1,9 +1,9 @@
-package org.qq.corpus.ontonotes.srl;
+package org.mlnlp.corpus.ontonotes.srl;
 
 import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.trees.*;
 import org.maochen.nlp.datastructure.DTree;
-import org.qq.tools.stanfordparser.StanfordTreeBuilder;
+import org.mlnlp.tools.stanfordparser.StanfordTreeBuilder;
 
 import java.util.Collection;
 import java.util.List;

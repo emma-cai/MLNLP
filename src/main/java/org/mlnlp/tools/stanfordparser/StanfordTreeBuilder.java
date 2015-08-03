@@ -1,4 +1,4 @@
-package org.qq.tools.stanfordparser;
+package org.mlnlp.tools.stanfordparser;
 
 import edu.stanford.nlp.ling.CoreAnnotations;
 import edu.stanford.nlp.ling.CoreLabel;

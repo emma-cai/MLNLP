@@ -1,4 +1,4 @@
-package org.qq.ml.topics;
+package org.mlnlp.ml.topics;
 
 import java.io.Serializable;
 

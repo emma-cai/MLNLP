@@ -1,4 +1,4 @@
-package org.qq.ml.types;
+package org.mlnlp.ml.types;
 
 import java.io.Serializable;
 import java.util.ArrayList;
