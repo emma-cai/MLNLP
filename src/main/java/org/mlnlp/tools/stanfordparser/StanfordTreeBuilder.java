@@ -1,10 +1,5 @@
 package org.mlnlp.tools.stanfordparser;
 
-import edu.stanford.nlp.ling.CoreAnnotations;
-import edu.stanford.nlp.ling.CoreLabel;
-import edu.stanford.nlp.ling.Label;
-import edu.stanford.nlp.trees.TypedDependency;
-import org.apache.commons.lang3.StringUtils;
 import org.maochen.nlp.datastructure.DNode;
 import org.maochen.nlp.datastructure.DTree;
 import org.maochen.nlp.datastructure.LangLib;
@@ -14,6 +9,11 @@ import org.slf4j.LoggerFactory;
 import java.util.Collection;
 import java.util.List;
 import java.util.function.Predicate;
+
+import edu.stanford.nlp.ling.CoreAnnotations;
+import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.ling.Label;
+import edu.stanford.nlp.trees.TypedDependency;
 
 /**
  * For the Stanford parse tree.
@@ -89,7 +89,7 @@ public class StanfordTreeBuilder {
             String form = token.originalText() == null || token.originalText().trim().isEmpty() ? token.get(CoreAnnotations.TextAnnotation.class) : token.originalText();
             String lemma = token.lemma() == null || token.lemma().trim().isEmpty() ? token.get(CoreAnnotations.TextAnnotation.class) : token.lemma();
 
-            DNode node = new DNode(i + 1, form, lemma, cPOSTagValue, token.tag(), StringUtils.EMPTY);
+            DNode node = new DNode(i + 1, form, lemma, cPOSTagValue, token.tag(), "");
             depTree.add(node);
             setNamedEntity(node, token);
         }
