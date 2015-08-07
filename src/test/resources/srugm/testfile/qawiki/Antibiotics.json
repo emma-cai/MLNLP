@@ -1,0 +1,107 @@
+[
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What are antibiotics?",
+    "answer" :"Antibiotics or antibacterials are a type of antimicrobial used in the treatment and prevention of bacterial infection\\.",
+    "optimal_answer" : "Antimicrobial"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What is used in the treatment and prevention of bacterial infection?",
+    "answer" :"Antibiotics or antibacterials are a type of antimicrobial used in the treatment and prevention of bacterial infection\\.",
+    "optimal_answer" : "Antibiotics or antibacterials"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What is effective against fungi and protozoans?",
+    "answer" :"Several antibiotics are also effective against fungi and protozoans, and some are toxic to humans and animals, even when given in therapeutic dosage\\.",
+    "optimal_answer" : "Several antibiotics"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What are antibiotics not effective against?",
+    "answer" :"Antibiotics are not effective against viruses such as the common cold or influenza, and may be harmful when taken inappropriately\\.",
+    "optimal_answer" : "Viruses"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "When did antibiotics revolutionize medicine?",
+    "answer" :"Antibiotics revolutionized medicine in the 20th century, and have together with vaccination led to the near eradication of diseases such as tuberculosis in the developed world\\.",
+    "optimal_answer" : "In the 20th century"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What has led to widespread problems with antimicrobial and antibiotic resistance?",
+    "answer" :"Antibiotics' effectiveness and easy access has led to widespread problems with antimicrobial and antibiotic resistance",
+    "optimal_answer" : "Antibiotics' effectiveness and easy access"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What discovery led to the beginning of the era of antibacterial chemotherapy?",
+    "answer" :"The era of antibacterial chemotherapy began with the discovery of arsphenamine, first synthesized by Alfred Bertheim and Paul Ehrlich in 1907, used to treat syphilis\\.",
+    "optimal_answer" : "(the discovery of )?arsphenamine"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "When was arsphenamine first synthesized?",
+    "answer" :"The era of antibacterial chemotherapy began with the discovery of arsphenamine, first synthesized by Alfred Bertheim and Paul Ehrlich in 1907, used to treat syphilis\\.",
+    "optimal_answer" : "1907"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "Who first synthesized arsphenamine?",
+    "answer" :"The era of antibacterial chemotherapy began with the discovery of arsphenamine, first synthesized by Alfred Bertheim and Paul Ehrlich in 1907, used to treat syphilis\\.",
+    "optimal_answer" : "Alfred Bertheim and Paul Ehrlich"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What was used to treat syphilis?",
+    "answer" :"The era of antibacterial chemotherapy began with the discovery of arsphenamine, first synthesized by Alfred Bertheim and Paul Ehrlich in 1907, used to treat syphilis\\.",
+    "optimal_answer" : "Arsphenamine"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "Who was awarded the Nobel Prize in 1939?",
+    "answer" :"The first systemically active antibiotic, prontosil was discovered in 1933 by Gerhard Domagk, for which he was awarded the 1939 Nobel Prize\\.",
+    "optimal_answer" : "Gerhard Domagk"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What was the first systemically active antibiotic?",
+    "answer" :"The first systemically active antibiotic, prontosil was discovered in 1933 by Gerhard Domagk, for which he was awarded the 1939 Nobel Prize\\.",
+    "optimal_answer" : "Prontosil"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "Who discovered prontosil?",
+    "answer" :"The first systemically active antibiotic, prontosil was discovered in 1933 by Gerhard Domagk, for which he was awarded the 1939 Nobel Prize\\.",
+    "optimal_answer" : "Gerhard Domagk"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "What is prontosil?",
+    "answer" :"The first systemically active antibiotic, prontosil was discovered in 1933 by Gerhard Domagk, for which he was awarded the 1939 Nobel Prize\\.",
+    "optimal_answer" : "The first systemically active antibiotic"
+  },
+  {
+    "source": "",
+    "file": "Antibiotics.txt",
+    "query": "When was prontosil discovered?",
+    "answer" :"The first systemically active antibiotic, prontosil was discovered in 1933 by Gerhard Domagk, for which he was awarded the 1939 Nobel Prize\\.",
+    "optimal_answer" : "1933"
+  }
+]

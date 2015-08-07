@@ -1,0 +1,1232 @@
+[
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia Mary Earhart, by profession?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(American aviation pioneer).*)&(.*(author).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What did Amelia do ?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(American aviation pioneer).*)&(.*(author).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What career did Amelia choose?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(American aviation pioneer).*)&(.*(author).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell me who was Amelia?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(American aviation pioneer).*)&(.*(author).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who Amelia was?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(American aviation pioneer).*)&(.*(author).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia Mary Earhart an author?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(Yes|true).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Amelia Author anything?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(Yes|true).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was an author. Isn't it?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(Yes|true).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "I wonder if Amelia was an author too.",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(Yes|true).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Could you tell me if Amelia was an author?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(Yes|true).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "When was Amelia born?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(July 24, 1897).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "When Amelia came to this world?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(July 24, 1897).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia took birth on what date?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(July 24, 1897).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "When was it that Amelia born?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(July 24, 1897).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Please tell me Amelia's date of birth.",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(July 24, 1897).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "I wonder if you know when was Amelia born?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(July 24, 1897).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How old was Amelia when she disappeared?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(39).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's age when she disappeared?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(39).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How old Amelia had been when she disappeared?",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": ".*(39).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Why did Amelia receive the Distinguished Flying Cross?",
+    "answer": "Earhart was the first female aviator to fly solo across the Atlantic Ocean\\.\\[3\\]\\[N 2\\] |She received the U\\.S\\. Distinguished Flying Cross for this record\\.\\[5\\] ",
+    "optimal_answer": ".*(first female aviator).*(fly solo).*(Atlantic Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What made Amelia get the Distinguished Flying Cross?",
+    "answer": "Earhart was the first female aviator to fly solo across the Atlantic Ocean\\.\\[3\\]\\[N 2\\] |She received the U\\.S\\. Distinguished Flying Cross for this record\\.\\[5\\] ",
+    "optimal_answer": ".*(first female aviator).*(fly solo).*(Atlantic Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia got the Distinguished Flying Cross for what?",
+    "answer": "Earhart was the first female aviator to fly solo across the Atlantic Ocean\\.\\[3\\]\\[N 2\\] |She received the U\\.S\\. Distinguished Flying Cross for this record\\.\\[5\\] ",
+    "optimal_answer": ".*(first female aviator).*(fly solo).*(Atlantic Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell me the reason for Amelia getting the Distinguished Flying Cross award.",
+    "answer": "Earhart was the first female aviator to fly solo across the Atlantic Ocean\\.\\[3\\]\\[N 2\\] |She received the U\\.S\\. Distinguished Flying Cross for this record\\.\\[5\\] ",
+    "optimal_answer": ".*(first female aviator).*(fly solo).*(Atlantic Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Let me know the reason for Amelia getting The Distinguished Flying Cross award.",
+    "answer": "Earhart was the first female aviator to fly solo across the Atlantic Ocean\\.\\[3\\]\\[N 2\\] |She received the U\\.S\\. Distinguished Flying Cross for this record\\.\\[5\\] ",
+    "optimal_answer": ".*(first female aviator).*(fly solo).*(Atlantic Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was the name of the organization for female pilots which Amelia had helped to form?",
+    "answer": "She set many other records,\\[2\\] wrote best-selling books about her flying experiences and was instrumental in the formation of The Ninety-Nines, an organization for female pilots\\.\\[6\\] ",
+    "optimal_answer": ".*(The Ninety-Nines).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Name the organization for female pilots which Amelia had helped to form.",
+    "answer": "She set many other records,\\[2\\] wrote best-selling books about her flying experiences and was instrumental in the formation of The Ninety-Nines, an organization for female pilots\\.\\[6\\] ",
+    "optimal_answer": ".*(The Ninety-Nines).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell me the organization for female pilots that is formed with Amelia's help.",
+    "answer": "She set many other records,\\[2\\] wrote best-selling books about her flying experiences and was instrumental in the formation of The Ninety-Nines, an organization for female pilots\\.\\[6\\] ",
+    "optimal_answer": ".*(The Ninety-Nines).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "The organization for female pilots that is formed with Amelia's help is?",
+    "answer": "She set many other records,\\[2\\] wrote best-selling books about her flying experiences and was instrumental in the formation of The Ninety-Nines, an organization for female pilots\\.\\[6\\] ",
+    "optimal_answer": ".*(The Ninety-Nines).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who funded the Lockheed Model 10 Electra?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": "Purdue"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Lockheed Model 10 Electra was funded by whom?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": "Purdue"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who do you think managed funding for Lockheed Model 10 Electra?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": "Purdue"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Give me the name of the person who funded the Lockheed Model 10 Electra.",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": "Purdue"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where is Howland Island situated?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What is location of Howland Island?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where does Howland Island lie?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What did Amelia endevour to do in 1937?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(circumnavigational flight).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia wanted to achieve what in 1937?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(circumnavigational flight).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell about plans of Amelia in 1937.",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(circumnavigational flight).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "In 1937, Amelia aimed to achieve what?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(circumnavigational flight).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Why did Amelia join Purdue University as a visiting faculty?",
+    "answer": "Earhart joined the faculty of the Purdue University aviation department in 1935 as a visiting faculty member to counsel women on careers and help inspire others with her love for aviation\\.",
+    "optimal_answer": "(.*(counsel women on careers).*) & (.*(help inspire others with her love for aviation).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "By what means did Amelia attempt to circumnavigate the globe when she disappeared?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Aircraft|Flight).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How did Amelia attempt to roam around the world when she disappeared?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Aircraft|Flight).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia disappeared while trying to circumnavigate around the globe by what means?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Aircraft|Flight).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where did Amelia disappear?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Howland Island | Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia disappeared at what location?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Howland Island | Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What do you think was the place where Amelia disappeared?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Howland Island | Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell me the location of Amelia when she disappeared.",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Howland Island | Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Can I know Amelia's location when she disappeared?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Howland Island | Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Disappearance of Amelia happened at what place?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Howland Island | Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where did Amelia go missing?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Howland Island | Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia vanished at what place?",
+    "answer": "During an attempt to make a circumnavigational flight of the globe in 1937 in a Purdue-funded Lockheed Model 10 Electra,Earhart disappeared over the central Pacific Ocean near Howland Island\\.",
+    "optimal_answer": ".*(Howland Island | Pacific Ocean).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Name an organization that Amelia was a member of.",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(National Woman's Party).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Let me know the organization that Amelia was a member of.",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(National Woman's Party).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was member of which organization?",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(National Woman's Party).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Name the organization what Amelia had membership of.",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(National Woman's Party).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell me the name of organization to which Amelia belonged.",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(National Woman's Party).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Will you please tell me the organization's name with what Amelia was associated?",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(National Woman's Party).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's stand on the Equal Rights Amendment?",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(support).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia in favor of Equal Rights Amendment?",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(support).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Equal Rights Amendment supported by Amelia?",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(support).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Equal Rights Amendment get Amelia's consent?",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(support).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What did Amelia think about Equal Rights Amendment?",
+    "answer": "She was also a member of the National Woman's Party, and an early supporter of the Equal Rights Amendment\\.\\[7\\]\\[8\\]",
+    "optimal_answer": ".*(support).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was amelia's father?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Samuel  | Edwin | Stanton | Lawyer).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was profession of Amelia's father?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.",
+    "optimal_answer": ".*(Lawyer).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Introduce father of Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Samuel  | Edwin | Stanton).*&.*(Lawyer).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's father was?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Samuel  | Edwin | Stanton | Lawyer).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell about biological father of Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Samuel  | Edwin | Stanton | Lawyer).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was born to whom?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Samuel  | Edwin | Stanton).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was full name of Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Amelia Mary Earhart).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was named as?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Amelia Mary Earhart).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How was Amelia named?",
+    "answer": "Earhart was named, according to family custom, after her two grandmothers \\(Amelia Josephine Harres and Mary Wells Patton\\)\\.\\[12\\] ",
+    "optimal_answer": ".*((Amelia Mary Earhart) | grandmother).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was official name of Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Amelia Mary Earhart).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was mother of Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Amelia | Amy | Otis).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who gave birth to Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Amelia | Amy | Otis).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was name of Amelia's mother?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Amelia | Amy | Otis).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's mother was?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Amelia | Amy | Otis).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who were parents of Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": "(.*(Amelia | Amy | Otis).*) & (.*(Samuel  | Edwin | Stanton | Lawyer).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Introduce Amelia's parents?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": "(.*(Amelia | Amy | Otis).*) & (.*(Samuel  | Edwin | Stanton | Lawyer).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was born to whom?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": "(.*(Amelia | Amy | Otis).*) & (.*(Samuel  | Edwin | Stanton | Lawyer).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who gave birth to Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": "(.*(Amelia | Amy | Otis).*) & (.*(Samuel  | Edwin | Stanton | Lawyer).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What is birth place of Amelia?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was born at?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia took birth at?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where was amelia born?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was her parents' age when Amelia was born?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. |Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(30).*) & (.*(28).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell us about Amelia's parents' age when she born.",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. |Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(30).*) & (.*(28).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "On the birth of Amelia what her parents' age had been?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. |Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(30).*) & (.*(28).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How old were Amelia's parents at the time of her birth?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. |Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(30).*) & (.*(28).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Come up with the age of Amelia's parents when she was born.",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. |Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] ",
+    "optimal_answer": "(.*(30).*) & (.*(28).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where was Amelia's mom when Amelia was born?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where was Amelia's mom putting up when she was born?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's mom was residing where when Amelia was born?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where was mom of Amelia staying when Amelia took birth?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was born when her mother was at?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(Atchison|Kansas|home|maternal grandfather).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's grandfather?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(federal judge|president|Atchison Savings Bank|leading citizen).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What Amelia's grandfather used to do?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(federal judge|president|Atchison Savings Bank|leading citizen).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was Amelia's grandfather?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(federal judge|president|Atchison Savings Bank|leading citizen).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was profession of Amelia's grandfather?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(federal judge|president|Atchison Savings Bank|leading citizen).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What grandfather of Amelia used to do?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(federal judge|president|Atchison Savings Bank|leading citizen).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's grandfather's profession?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\. ",
+    "optimal_answer": ".*(federal judge|president|Atchison Savings Bank|leading citizen).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was partly German?",
+    "answer": "She was of part German descent\\.",
+    "optimal_answer": ".*(Amelia|mary).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Amelia's maternal grandfather like her parents' marriage?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.\\[13\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Do you think Amelia's maternal grandfather favor her parents' marriage?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.\\[13\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia's parents' marriage supported by her maternal grandfather?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.\\[13\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was it acceptable for Amelia's maternal grandfather to get her parents married?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.\\[13\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was the first child of Amelia's parents' marriage?",
+    "answer": "Amelia was the second child of the marriage, after an infant stillborn in August 1896\\.\\[12\\] ",
+    "optimal_answer": ".*(infant|stillborn).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia first child of her parents?",
+    "answer": "Amelia was the second child of the marriage, after an infant stillborn in August 1896\\.\\[12\\] ",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell me if Amelia was the first child to her parents?",
+    "answer": "Amelia was the second child of the marriage, after an infant stillborn in August 1896\\.\\[12\\] ",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What Alfred did not like in Edwin?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.\\[13\\]",
+    "optimal_answer": "(.*(progress).*) & (.*(lawyer).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Why Alfred was not willing to get Amelia's parents married?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.\\[13\\]",
+    "optimal_answer": "(.*(progress).*) & (.*(lawyer).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Alfred was reluctant to Amelia's parents' marriage, why?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.\\[13\\]",
+    "optimal_answer": "(.*(progress).*) & (.*(lawyer).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's parents' marriage was not supported by Alfred. Was it?",
+    "answer": "Alfred Otis had not initially favored the marriage and was not satisfied with Edwin's progress as a lawyer\\.\\[13\\]",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was nick name of Amelia's father?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Edwin).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's father was fondly known as?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Edwin).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's dad's pet name?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Edwin).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Nick name of AMelia's dad was?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Edwin).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's father's pen name?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Edwin).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's father fondly addressed as?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Edwin).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was nick for Amelia's mother?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Amy).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's mother was fondly known as?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Amy).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's mom's pet name?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Amy).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Nick name of AMelia's mom was?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Amy).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's mother's pen name?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Amy).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's mother fondly addressed as?",
+    "answer": "Amelia Mary Earhart, daughter of Samuel \\\"Edwin\\\" Stanton Earhart \\(1867-1930\\)\\[10\\] and Amelia \\\"Amy\\\" Otis Earhart \\(1869–1962\\),\\[11\\] was born in Atchison, Kansas, in the home of her maternal grandfather, Alfred Gideon Otis \\(1827–1912\\), a former federal judge, president of the Atchison Savings Bank and a leading citizen in the town\\.",
+    "optimal_answer": ".*(Amy).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What were the names of Amelia's grandmother's?",
+    "answer": "Earhart was named, according to family custom, after her two grandmothers \\(Amelia Josephine Harres and Mary Wells Patton\\)\\.\\[12\\]",
+    "optimal_answer": "(.*(Amelia Josephine Harres).*) & (.*(Mary Wells Patton).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How were Amelia's grannys addressed?",
+    "answer": "Earhart was named, according to family custom, after her two grandmothers \\(Amelia Josephine Harres and Mary Wells Patton\\)\\.\\[12\\]",
+    "optimal_answer": "(.*(Amelia Josephine Harres).*) & (.*(Mary Wells Patton).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's grannys were?",
+    "answer": "Earhart was named, according to family custom, after her two grandmothers \\(Amelia Josephine Harres and Mary Wells Patton\\)\\.\\[12\\]",
+    "optimal_answer": "(.*(Amelia Josephine Harres).*) & (.*(Mary Wells Patton).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who were Amelia's grandmas?",
+    "answer": "Earhart was named, according to family custom, after her two grandmothers \\(Amelia Josephine Harres and Mary Wells Patton\\)\\.\\[12\\]",
+    "optimal_answer": "(.*(Amelia Josephine Harres).*) & (.*(Mary Wells Patton).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's nick name?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Meeley|Millie).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was fondly known as?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Meeley|Millie).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's pet name?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Meeley|Millie).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Nick name of Amelia was?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Meeley|Millie).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's pen name?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Meeley|Millie).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia fondly addressed as?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Meeley|Millie).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was ringleader?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Amelia|Meeley|Millie).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Ringleader is the word for whom?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Grace Muriel Earhart|Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was Amelia's sister?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Grace Muriel Earhart|Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell the name of sister of Amelia.",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Grace Muriel Earhart|Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who Amelia had, as a sister?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Grace Muriel Earhart|Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's sister was younger or elder to Amelia?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(younger).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How much senior Amelia was to her sister?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(2|two).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How many years younger Amelia's sister was to her?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(2|two).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How many months younger Amelia's sister was to her?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(24|twenty four).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was more obidient, Amelia or her sister?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(sister|Grace Muriel Earhart|Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia or her sister, who was more obidient?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(sister|Grace Muriel Earhart|Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who out of Amelia and her sister was more obidient?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(sister|Grace Muriel Earhart|Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was nick name of Amelia's sister?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's sister was fondly known as?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's sister's pet name?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Nick name of Amelia's sister was?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's sister's pen name?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's sister fondly addressed as?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(Pidge).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who was Pidge?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(sister|Grace Muriel Earhart).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What do you know about Pidge?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(sister|Grace Muriel Earhart).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Introduce Pidge.",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(sister|Grace Muriel Earhart).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Can I know about Pidge?",
+    "answer": "From an early age Earhart, nicknamed \\\"Meeley\\\" \\(sometimes \\\"Millie\\\"\\) was the ringleader while her younger sister \\(two years her junior\\), Grace Muriel Earhart \\(1899–1998\\), nicknamed \\\"Pidge\\\", acted the dutiful follower\\.\\[14\\] ",
+    "optimal_answer": ".*(sister|Grace Muriel Earhart).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Earhart sisters carry their nick names to their adulthood?",
+    "answer": "Both girls continued to answer to their childhood nicknames well into adulthood\\.\\[12\\] ",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Amelia sisters' adulthood have their nick names?",
+    "answer": "Both girls continued to answer to their childhood nicknames well into adulthood\\.\\[12\\] ",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Amelia sisters use their nick names in their adulthood?",
+    "answer": "Both girls continued to answer to their childhood nicknames well into adulthood\\.\\[12\\] ",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Why were Amelia and her sister not brought up in conventional way?",
+    "answer": "Their upbringing was unconventional since Amy Earhart did not believe in molding her children into \\\"nice little girls\\.\\\"\\[15\\] ",
+    "optimal_answer": "(.*(Amy|mother).*)&(.*(believe).*)"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Were Amelia and her sister not brought up in an unconventional way?",
+    "answer": "Their upbringing was unconventional since Amy Earhart did not believe in molding her children into \\\"nice little girls\\.\\\"\\[15\\] ",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia's maternal granny happy with her upbringing?",
+    "answer": "Their upbringing was unconventional since Amy Earhart did not believe in molding her children into \\\"nice little girls\\.\\\"\\[15\\] |Meanwhile their maternal grandmother disapproved of the \\\"bloomers\\\" worn by Amy's children and although Earhart liked the freedom they provided, she was aware other girls in the neighborhood did not wear them\\.",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia's upbringing in accordance with her granny's expectation?",
+    "answer": "Their upbringing was unconventional since Amy Earhart did not believe in molding her children into \\\"nice little girls\\.\\\"\\[15\\] |Meanwhile their maternal grandmother disapproved of the \\\"bloomers\\\" worn by Amy's children and although Earhart liked the freedom they provided, she was aware other girls in the neighborhood did not wear them\\.",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Amelia know about disparity in their and neighbouhood kids' upbringing?",
+    "answer": "Meanwhile their maternal grandmother disapproved of the \\\"bloomers\\\" worn by Amy's children and although Earhart liked the freedom they provided, she was aware other girls in the neighborhood did not wear them\\.",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia aware that Amelia sisters were privileged in their upbringing?",
+    "answer": "Meanwhile their maternal grandmother disapproved of the \\\"bloomers\\\" worn by Amy's children and although Earhart liked the freedom they provided, she was aware other girls in the neighborhood did not wear them\\.",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "The difference in bringing up of amelia sisters' and neighborhood kids was realised by Amelai or not?",
+    "answer": "Meanwhile their maternal grandmother disapproved of the \\\"bloomers\\\" worn by Amy's children and although Earhart liked the freedom they provided, she was aware other girls in the neighborhood did not wear them\\.",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How Amelia sisters used to feel while exploring the neighborhood?",
+    "answer": "A spirit of adventure seemed to abide in the Earhart children with the pair setting off daily to explore their neighborhood\\.\\[N 4\\] ",
+    "optimal_answer": ".*(happy|adventure).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia sisters' feeling while they used to visit their neighborhood?",
+    "answer": "A spirit of adventure seemed to abide in the Earhart children with the pair setting off daily to explore their neighborhood\\.\\[N 4\\] ",
+    "optimal_answer": ".*(happy|adventure).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Express Amelia sisters's feeling about visiting their neighborhood.",
+    "answer": "A spirit of adventure seemed to abide in the Earhart children with the pair setting off daily to explore their neighborhood\\.\\[N 4\\] ",
+    "optimal_answer": ".*(happy|adventure).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What activities included as a part of Amelia's play?",
+    "answer": "As a child, Earhart spent long hours playing with Pidge, climbing trees, hunting rats with a rifle and \\\"belly-slamming\\\" her sled downhill\\. ",
+    "optimal_answer": ".*(Pidge|climbing trees|hunting rats).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What were Amelia's pastimes?",
+    "answer": "As a child, Earhart spent long hours playing with Pidge, climbing trees, hunting rats with a rifle and \\\"belly-slamming\\\" her sled downhill\\. ",
+    "optimal_answer": ".*(Pidge|climbing trees|hunting rats).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia a tomboy?",
+    "answer": "Although this love of the outdoors and \\\"rough-and-tumble\\\" play was common to many youngsters, some biographers have characterized the young Earhart as a tomboy\\.",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia was a Tomboy. Wasn't she?",
+    "answer": "Although this love of the outdoors and \\\"rough-and-tumble\\\" play was common to many youngsters, some biographers have characterized the young Earhart as a tomboy\\.",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Amelia used to play with her sister?",
+    "answer": "As a child, Earhart spent long hours playing with Pidge, climbing trees, hunting rats with a rifle and \\\"belly-slamming\\\" her sled downhill\\. ",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia pally with her sister?",
+    "answer": "As a child, Earhart spent long hours playing with Pidge, climbing trees, hunting rats with a rifle and \\\"belly-slamming\\\" her sled downhill\\. ",
+    "optimal_answer": ".*(yes|true|correct).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What all, did Amelia and her sister gather?",
+    "answer": "The girls kept \\\"worms, moths, katydids and a tree toad\\\"\\[18\\] in a growing collection gathered in their outings\\. ",
+    "optimal_answer": ".*(worms|moths|katydids|tree toad).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What constituted Amelia and her sister's collection?",
+    "answer": "The girls kept \\\"worms, moths, katydids and a tree toad\\\"\\[18\\] in a growing collection gathered in their outings\\. ",
+    "optimal_answer": ".*(worms|moths|katydids|tree toad).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia and her sister's collection included what?",
+    "answer": "The girls kept \\\"worms, moths, katydids and a tree toad\\\"\\[18\\] in a growing collection gathered in their outings\\. ",
+    "optimal_answer": ".*(worms|moths|katydids|tree toad).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where was Edwin working in 1907?",
+    "answer": "Although there had been some missteps in his career up to that point, in 1907 Edwin Earhart's job as a claims officer for the Rock Island Railroad led to a transfer to Des Moines, Iowa\\. ",
+    "optimal_answer": ".*(Rock Island Railroad).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where was Edwin living in 1907?",
+    "answer": "Although there had been some missteps in his career up to that point, in 1907 Edwin Earhart's job as a claims officer for the Rock Island Railroad led to a transfer to Des Moines, Iowa\\. ",
+    "optimal_answer": " .*(Des Moines).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Tell us about Amelia's age when her father got tranferred to Des Moines.",
+    "answer": "Amelia Mary Earhart \\(\\\/ˈɛərhɑrt\\\/; July 24, 1897 – disappeared July 2, 1937\\) was an American aviation pioneer and author\\.\\[1\\]\\[N 1\\] |Although there had been some missteps in his career up to that point, in 1907 Edwin Earhart's job as a claims officer for the Rock Island Railroad led to a transfer to Des Moines, Iowa\\. |The next year, at the age of 10,\\[19\\] Earhart saw her first aircraft at the Iowa State Fair in Des Moines\\.\\[20\\]\\[21\\] ",
+    "optimal_answer": ".*(10).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Where did Amelia see her first aircraft?",
+    "answer": "The next year, at the age of 10,\\[19\\] Earhart saw her first aircraft at the Iowa State Fair in Des Moines\\.\\[20\\]\\[21\\] ",
+    "optimal_answer": ".*(Iowa State Fair).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was the place where Amelia saw her first aircraft?",
+    "answer": "The next year, at the age of 10,\\[19\\] Earhart saw her first aircraft at the Iowa State Fair in Des Moines\\.\\[20\\]\\[21\\] ",
+    "optimal_answer": ".*(Iowa State Fair).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who lured Amelia and her sister for a flight?",
+    "answer": "Her father tried to interest her and her sister in taking a flight\\. ",
+    "optimal_answer": ".*(Father|Samuel|Edwin|Stanton).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "It was who that tried to take Amelia and her sister's interest for flying.",
+    "answer": "Her father tried to interest her and her sister in taking a flight\\. ",
+    "optimal_answer": ".*(Father|Samuel|Edwin|Stanton).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Who took Amelia and her siter to Iowa State fair??",
+    "answer": "The next year, at the age of 10,\\[19\\] Earhart saw her first aircraft at the Iowa State Fair in Des Moines\\.\\[20\\]\\[21\\] |Her father tried to interest her and her sister in taking a flight\\. ",
+    "optimal_answer": ".*(Father|Samuel|Edwin|Stanton).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "With whom, Amelia and her siter visited Iowa State fair?",
+    "answer": "The next year, at the age of 10,\\[19\\] Earhart saw her first aircraft at the Iowa State Fair in Des Moines\\.\\[20\\]\\[21\\] |Her father tried to interest her and her sister in taking a flight\\. ",
+    "optimal_answer": ".*(Father|Samuel|Edwin|Stanton).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Amelia like the aircraft?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]|She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was the aircraft liked by Amelia?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]|She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Was Amelia attracted to the aircraft?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]|She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Aircraft didnot lure Amelia. Did it?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]|She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia liked what, aircraft or merry-go-round?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]",
+    "optimal_answer": ".*(merry-go-round).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What did Amelia like more aircraft or merry-go-round?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]",
+    "optimal_answer": ".*(merry-go-round).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What was Amelia's preference, aircraft or merry-go-round?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]",
+    "optimal_answer": ".*(merry-go-round).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Aircraft or merry-go-round, what was Amelia inclined to?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]",
+    "optimal_answer": ".*(merry-go-round).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How was the plane at Iowa State fair?",
+    "answer": "She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(rusty wire|not at all interesting|rickety|flivver|biplane).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Describe the plane at Iowa State fair?",
+    "answer": "She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(rusty wire|not at all interesting|rickety|flivver|biplane).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Plane at Iowa State fair was?",
+    "answer": "She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(rusty wire|not at all interesting|rickety|flivver|biplane).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "In author's view how was the plane?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]",
+    "optimal_answer": ".*(rickety|flivver|biplane).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "How did Amelia describe the plane?",
+    "answer": "She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(rusty wire|not at all interesting|biplane).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Describe the plane in Amelia's words?",
+    "answer": "She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(rusty wire|not at all interesting|biplane).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Did Amelia like the Plane?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]|She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia liked the plane. Didn't she?",
+    "answer": "One look at the rickety \\\"flivver\\\" was enough for Earhart, who promptly asked if they could go back to the merry-go-round\\.\\[22\\]|She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "What were Amelia's thought about the plane?",
+    "answer": "She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  },
+  {
+    "file": "AmeliaWiki.txt",
+    "query": "Amelia's view about the plane was?",
+    "answer": "She later described the biplane as \\\"a thing of rusty wire and wood and not at all interesting\\.\\\"\\[23\\]",
+    "optimal_answer": ".*(no|false|incorrect).*"
+  }
+]

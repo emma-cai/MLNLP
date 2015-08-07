@@ -1,0 +1,135 @@
+[
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What is two centimeters in length?",
+    "answer" :"The adult House Cricket is about two centimeters in length\\.",
+    "optimal_answer":"The adult House Cricket"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What is usually light brown with black markings about the head and thorax?",
+    "answer" :"The body is usually light brown with black markings about the head and thorax\\.",
+    "optimal_answer":"The body"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What is ovipositor?",
+    "answer" :"The female is told from the male by the presence of an ovipositor, a long extension attached to the end of the abdomen, used for depositing eggs in the soil\\.",
+    "optimal_answer":"a long extension attached to the end of the abdomen, used for depositing eggs in the soil"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What is told from the male?",
+    "answer" :"The female is told from the male by the presence of an ovipositor, a long extension attached to the end of the abdomen, used for depositing eggs in the soil\\.",
+    "optimal_answer":"The female"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What is attached to the end of the abdomen?",
+    "answer" :"The female is told from the male by the presence of an ovipositor, a long extension attached to the end of the abdomen, used for depositing eggs in the soil\\.",
+    "optimal_answer":"ovipositor"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What is used for depositing eggs in the soil?",
+    "answer" :"The female is told from the male by the presence of an ovipositor, a long extension attached to the end of the abdomen, used for depositing eggs in the soil\\.",
+    "optimal_answer":"ovipositor"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What has conspicuous jumping legs?",
+    "answer" :"House crickets have conspicuous jumping legs and have two pairs of wings, of which, only the back pair are used for flight\\.",
+    "optimal_answer":"House crickets"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What has pairs of wings?",
+    "answer" :"House crickets have conspicuous jumping legs and have two pairs of wings, of which, only the back pair are used for flight\\.",
+    "optimal_answer":"House crickets"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What is used for flying?",
+    "answer" :"House crickets have conspicuous jumping legs and have two pairs of wings, of which, only the back pair are used for flight\\.",
+    "optimal_answer":"wings"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"Where are house crickets found?",
+    "answer" :"House Crickets can be found in a variety of habitats including woodlands, suburbs, urban areas, buildings, ducts, siding, restaurants and anywhere else there happens to be a food supply and warm air\\.",
+    "optimal_answer":"a variety of habitats|woodlands, suburbs, urban areas, buildings, ducts, siding, restaurants and anywhere else there happens to be a food supply and warm air"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What are the variety of habitats?",
+    "answer" :"House Crickets can be found in a variety of habitats including woodlands, suburbs, urban areas, buildings, ducts, siding, restaurants and anywhere else there happens to be a food supply and warm air\\.",
+    "optimal_answer":"woodlands, suburbs, urban areas, buildings, ducts, siding, restaurants and anywhere else there happens to be a food supply and warm air"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What can stay alive year round?",
+    "answer" :"Although many crickets die off in the colder months, those that manage to find their way indoors can stay alive year round\\.",
+    "optimal_answer":"((many )?crickets)|(those that manage to find their way indoors)"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"When do the crickets reach sexual maturity?",
+    "answer" :"Crickets reach sexual maturity between eight and twelve weeks after birth\\.",
+    "optimal_answer":"eight and twelve weeks after birth"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What happens between eight and twelve weeks after birth?",
+    "answer" :"Crickets reach sexual maturity between eight and twelve weeks after birth\\.",
+    "optimal_answer":"Crickets reach sexual maturity"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"What attracts mates by rubbing their wings together?",
+    "answer" :"Males attract mates by rubbing their wings together to produce a noise sometimes referred to as chirping\\.",
+    "optimal_answer":"Males"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"Where does the female lay her eggs?",
+    "answer" :"After the male mates with female, the female will lay between 50 and 100 eggs in the ground or another soft surface\\.",
+    "optimal_answer":"((in )? the ground( or another soft surface)?)"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"Where are the black markings on a house cricket?",
+    "answer" :"The body is usually light brown with black markings about the head and thorax\\.",
+    "optimal_answer":"(about )?the head and thorax"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"Where is the ovipositor attached?",
+    "answer" :"The female is told from the male by the presence of an ovipositor, a long extension attached to the end of the abdomen, used for depositing eggs in the soil\\.",
+    "optimal_answer":"(to )?the end of the abdomen"
+  },
+  {
+    "source":"",
+    "file":"AdultHouseCricket.txt",
+    "query":"Where does the female deposit her eggs?",
+    "answer" :"The female is told from the male by the presence of an ovipositor, a long extension attached to the end of the abdomen, used for depositing eggs in the soil\\.",
+    "optimal_answer":"(in )?the soil"
+  }
+]

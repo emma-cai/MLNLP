@@ -1,0 +1,191 @@
+[
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is Hydrogen?",
+    "answer" :"Hydrogen is a chemical element with chemical symbol H and atomic number 1\\.|With an atomic weight of 1\\.00794 u, hydrogen is the lightest element on the periodic table\\.",
+    "optimal_answer" : "a chemical element with chemical symbol H and atomic number 1"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which chemical element has a chemical symbol H?",
+    "answer" :"Hydrogen is a chemical element with chemical symbol H and atomic number 1\\.",
+    "optimal_answer" : "Hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is the chemical symbol of Hydrogen?",
+    "answer" :"Hydrogen is a chemical element with chemical symbol H and atomic number 1\\.",
+    "optimal_answer" : "H"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is the atomic number of hydrogen?",
+    "answer" :"Hydrogen is a chemical element with chemical symbol H and atomic number 1\\.",
+    "optimal_answer" : "1"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which chemical element has an atomic number 1?",
+    "answer" :"Hydrogen is a chemical element with chemical symbol H and atomic number 1\\.",
+    "optimal_answer" : "Hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is the atomic weight of H?",
+    "answer" :"With an atomic weight of 1\\.00794 u, hydrogen is the lightest element on the periodic table\\.|With an atomic weight of 1\\.00794 u, hydrogen is the lightest element on the periodic table\\.",
+    "optimal_answer" : "1.00794 u"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is the atomic weight of hydrogen?",
+    "answer" :"With an atomic weight of 1\\.00794 u, hydrogen is the lightest element on the periodic table\\.",
+    "optimal_answer" : "1.00794 u"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which is the lightest element on the periodic table?",
+    "answer" :"With an atomic weight of 1\\.00794 u, hydrogen is the lightest element on the periodic table\\.",
+    "optimal_answer" : "Hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which element is known as the lightest element?",
+    "answer" :"With an atomic weight of 1\\.00794 u, hydrogen is the lightest element on the periodic table\\.",
+    "optimal_answer" : "Hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which is the most abundant chemical substance in the universe?",
+    "answer" :"Its monatomic form \\(H\\) is the most abundant chemical substance in the universe, constituting roughly 75% of all baryonic mass\\.",
+    "optimal_answer" : "Its monatomic form (H)|its monatomic form( H)"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is the composition of Non-remnant stars?",
+    "answer" :"Non-remnant stars are mainly composed of hydrogen in its plasma state\\.",
+    "optimal_answer" : "((of )?hydrogen( in its plasma state)?)"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is the most common isotope of hydrogen?",
+    "answer" :"The most common isotope of hydrogen, termed protium \\(name rarely used, symbol 1H\\), has a single proton and zero neutrons\\.",
+    "optimal_answer" : "termed protium (name rarely used, symbol 1H)"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which chemical element is colorless?",
+    "answer" :"At standard temperature and pressure, hydrogen is a colorless, odorless, tasteless, non-toxic, nonmetallic, highly combustible diatomic gas with the molecular formula H2\\.",
+    "optimal_answer" : "hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which chemical element is odorless?",
+    "answer" :"At standard temperature and pressure, hydrogen is a colorless, odorless, tasteless, non-toxic, nonmetallic, highly combustible diatomic gas with the molecular formula H2\\.",
+    "optimal_answer" : "hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which chemical element is tasteless, non-toxic and nonmetallic?",
+    "answer" :"At standard temperature and pressure, hydrogen is a colorless, odorless, tasteless, non-toxic, nonmetallic, highly combustible diatomic gas with the molecular formula H2\\.",
+    "optimal_answer" : "hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which chemical element is highly combustible diatomic gas?",
+    "answer" :"At standard temperature and pressure, hydrogen is a colorless, odorless, tasteless, non-toxic, nonmetallic, highly combustible diatomic gas with the molecular formula H2\\.",
+    "optimal_answer" : "hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is the molecular formula of hydrogen?",
+    "answer" :"At standard temperature and pressure, hydrogen is a colorless, odorless, tasteless, non-toxic, nonmetallic, highly combustible diatomic gas with the molecular formula H2\\.",
+    "optimal_answer" : "H2"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is the molecular formula of H?",
+    "answer" :"At standard temperature and pressure, hydrogen is a colorless, odorless, tasteless, non-toxic, nonmetallic, highly combustible diatomic gas with the molecular formula H2\\.",
+    "optimal_answer" : "H2"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which chemical element has a molecular formula of H2?",
+    "answer" :"At standard temperature and pressure, hydrogen is a colorless, odorless, tasteless, non-toxic, nonmetallic, highly combustible diatomic gas with the molecular formula H2\\.",
+    "optimal_answer" : "hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which chemical element readily forms covalent compounds?",
+    "answer" :"Since hydrogen readily forms covalent compounds with most non-metallic elements, most of the hydrogen on Earth exists in molecular forms such as in the form of water or organic compounds\\.",
+    "optimal_answer" : "Hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What plays an important role in acid-base reactions?",
+    "answer" :"Hydrogen plays a particularly important role in acid–base reactions as many acid-base reactions involve the exchange of protons between soluble molecules\\.",
+    "optimal_answer" : "hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What takes the form of negative charge in ionic compounds?",
+    "answer" :"In ionic compounds, hydrogen can take the form of a negative charge \\(i\\.e\\., anion\\) known as a hydride, or as a positively charged \\(i\\.e\\., cation\\) species denoted by the symbol H\\+\\.",
+    "optimal_answer" : "hydrogen"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is hydride?",
+    "answer" :"In ionic compounds, hydrogen can take the form of a negative charge \\(i\\.e\\., anion\\) known as a hydride, or as a positively charged \\(i\\.e\\., cation\\) species denoted by the symbol H\\+\\.",
+    "optimal_answer" : "hydrogen can take the form of a negative charge"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is anion?",
+    "answer" :"In ionic compounds, hydrogen can take the form of a negative charge \\(i\\.e\\., anion\\) known as a hydride, or as a positively charged \\(i\\.e\\., cation\\) species denoted by the symbol H\\+\\.",
+    "optimal_answer" : "A negative charge"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "What is cation?",
+    "answer" :"The hydrogen cation is written as though composed of a bare proton, but in reality, hydrogen cations in ionic compounds are always more complex species than that would suggest\\.",
+    "optimal_answer" : "a positively charged"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which atom plays a key role in the development of quantum mechanics?",
+    "answer" :"As the only neutral atom for which the Schrödinger equation can be solved analytically, study of the energetics and bonding of the hydrogen atom has played a key role in the development of quantum mechanics\\.",
+    "optimal_answer" : "hydrogen atom"
+  },
+  {
+    "source":"",
+    "file": "Hydrogen.txt",
+    "query": "Which equation can be solved analytically by the neutral atom?",
+    "answer" :"As the only neutral atom for which the Schrödinger equation can be solved analytically, study of the energetics and bonding of the hydrogen atom has played a key role in the development of quantum mechanics\\.",
+    "optimal_answer" : "Schrödinger"
+  }
+]

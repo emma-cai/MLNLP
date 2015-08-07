@@ -1,0 +1,37 @@
+[
+  {
+    "source":"",
+    "file":"NarwhalWhale.txt",
+    "query":"What swim toward their prey and suck it into their mouths?",
+    "answer" :"Because Narwhals lack teeth, it is thought that they swim toward their prey and suck it into their mouths\\.",
+    "optimal_answer":"Narwhals"
+  },
+  {
+    "source":"",
+    "file":"NarwhalWhale.txt",
+    "query":"What can dive to depths of over 2,500 feet?",
+    "answer" :"Narwhals can dive to depths of over 2,500 feet and can stay under water for 25 minutes or more\\.",
+    "optimal_answer":"Narwhals"
+  },
+  {
+    "source":"",
+    "file":"NarwhalWhale.txt",
+    "query":"What can stay under water for 25 minutes or more?",
+    "answer" :"Narwhals can dive to depths of over 2,500 feet and can stay under water for 25 minutes or more\\.",
+    "optimal_answer":"Narwhals"
+  },
+  {
+    "source":"",
+    "file":"NarwhalWhale.txt",
+    "query":"Who believed that 75,000 Narwhals living in the Arctic waters?",
+    "answer" :"Scientists believe there are about 75,000 Narwhals living in the Arctic waters\\.",
+    "optimal_answer":"Scientists"
+  },
+  {
+    "source":"",
+    "file":"NarwhalWhale.txt",
+    "query":"What can live up to 50 years?",
+    "answer" :"Individuals in the wild can live up to 50 years\\.",
+    "optimal_answer":"Individuals in the wild"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Who is known as the Blessed Teresa of Calcutta, MC?",
+    "answer" :"Blessed Teresa of Calcutta, MC, commonly known as Mother Teresa \\(26 August 1910 - 5 September 1997\\), was a Roman Catholic religious sister and missionary who lived most of her life in India\\.",
+    "optimal_answer": "Mother Teresa"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "What is a  Roman Catholic religious congregation?",
+    "answer" :"Mother Teresa founded the Missionaries of Charity, a Roman Catholic religious congregation, which in 2012 consisted of over 4,500 sisters and is active in 133 countries\\.",
+    "optimal_answer": "the Missionaries of Charity"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": " When was Mother Teresa beatified as \"Blessed Teresa of Calcutta\"?",
+    "answer" :"In 2003, Mother Teresa was beatified as \\\"Blessed Teresa of Calcutta\\\"\\.",
+    "optimal_answer": ".*(2003).*"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Who was a Roman Catholic religious sister and missionary?",
+    "answer" :"Blessed Teresa of Calcutta, MC, commonly known as Mother Teresa \\(26 August 1910 - 5 September 1997\\), was a Roman Catholic religious sister and missionary who lived most of her life in India\\.",
+    "optimal_answer": "Mother Teresa"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Who was Mother Teresa?",
+    "answer" :"Blessed Teresa of Calcutta, MC, commonly known as Mother Teresa \\(26 August 1910 - 5 September 1997\\), was a Roman Catholic religious sister and missionary who lived most of her life in India\\.",
+    "optimal_answer": "Blessed Teresa of Calcutta, MC|A Roman Catholic religious sister and missionary who lived most of her life in India"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": " Who was a Roman Catholic religious sister and missionary?",
+    "answer" :"Blessed Teresa of Calcutta, MC, commonly known as Mother Teresa \\(26 August 1910 - 5 September 1997\\), was a Roman Catholic religious sister and missionary who lived most of her life in India\\.",
+    "optimal_answer": "Mother Teresa"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Who was a Roman Catholic religious sister and missionary?",
+    "answer" :"Blessed Teresa of Calcutta, MC, commonly known as Mother Teresa \\(26 August 1910 - 5 September 1997\\), was a Roman Catholic religious sister and missionary who lived most of her life in India\\.",
+    "optimal_answer": "Mother Teresa"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": " Is Mother Teresa a Roman Catholic religious sister and missionary?",
+    "answer" :"Blessed Teresa of Calcutta, MC, commonly known as Mother Teresa \\(26 August 1910 - 5 September 1997\\), was a Roman Catholic religious sister and missionary who lived most of her life in India\\.",
+    "optimal_answer": "Yes"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Where was Mother Teresa born?",
+    "answer" :"Mother Teresa was born in today's Macedonia, with her family being of Albanian descent originating in Kosovo\\.",
+    "optimal_answer": "Macedonia"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Tell me something about Mother Teresa family?",
+    "answer" :"Mother Teresa was born in today's Macedonia, with her family being of Albanian descent originating in Kosovo\\.",
+    "optimal_answer": "She was born in today's Macedonia, with her family being of Albanian descent originating in Kosovo"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Who founded the Missionaries of Charity?",
+    "answer" :"Mother Teresa founded the Missionaries of Charity, a Roman Catholic religious congregation, which in 2012 consisted of over 4,500 sisters and is active in 133 countries\\.",
+    "optimal_answer": "Mother Teresa"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Who received the Nobel Peace Prize in 1979 ?",
+    "answer" :"Mother Teresa was the recipient of numerous honours including the 1979 Nobel Peace Prize\\.",
+    "optimal_answer": "Mother Teresa"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "What prize Mother Teresa received in 1979?",
+    "answer" :"Mother Teresa was the recipient of numerous honours including the 1979 Nobel Peace Prize\\.",
+    "optimal_answer": "Nobel Peace Prize"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "When did Mother Teresa received Nobel Peace Prize?",
+    "answer" :"Mother Teresa was the recipient of numerous honours including the 1979 Nobel Peace Prize\\.",
+    "optimal_answer": "1979"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "Who was beatified as \"Blessed Teresa of Calcutta\"?",
+    "answer" :"In 2003, Mother Teresa was beatified as \\\"Blessed Teresa of Calcutta\\\"\\.",
+    "optimal_answer": "Mother Teresa"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMotherTeresa.txt",
+    "query": "When was Mother Teresa beatified as \"Blessed Teresa of Calcutta\"?",
+    "answer" :"In 2003, Mother Teresa was beatified as \\\"Blessed Teresa of Calcutta\\\"\\.",
+    "optimal_answer": "2003"
+  }
+]

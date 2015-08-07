@@ -4,11 +4,16 @@ import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
 import com.google.common.collect.ImmutableMap;
 
+import org.springframework.core.io.ClassPathResource;
+
 import org.apache.commons.io.FileUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.sql.Connection;
@@ -52,6 +57,37 @@ public class CachingService {
     private static final String TEMP_DIR_PREFIX = "corpusCache";
 
     private Connection conn = null;
+
+    /**
+     * Take the given resources, copy them to a temp directory whose contents will be deleted at shut down.
+     * Useful for unit tests, among other things.
+     * @param dbs
+     */
+    public void init(ClassPathResource... dbs) {
+        try {
+            // Extract to temporary directory
+            final Path tempDir = getTempDir(TEMP_DIR_PREFIX);
+
+            String pathOnDisk = tempDir.toAbsolutePath().toString();
+
+            for (ClassPathResource resource : dbs) {
+                InputStream inputStream = resource.getInputStream();
+                OutputStream out = new FileOutputStream(pathOnDisk + "/" + resource.getFilename());
+                byte[] buffer = new byte[1024];
+                int length;
+                //copy the file content in bytes
+                while ((length = inputStream.read(buffer)) > 0) {
+                    out.write(buffer, 0, length);
+                }
+                inputStream.close();
+                out.close();
+            }
+
+            init(tempDir + "/" + TABLE_NAME);
+        } catch (IOException e) {
+            LOG.error("Error: Database init error.", e);
+        }
+    }
 
     public void init(String dir) {
         try {

@@ -1,0 +1,93 @@
+[
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "How many provinces does Canada consist of?",
+    "answer" :"Canada is a country in North America consisting of ten provinces and three territories\\.",
+    "optimal_answer" : "ten"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "How many territories does Canada consist of?",
+    "answer" :"Canada is a country in North America consisting of ten provinces and three territories\\.",
+    "optimal_answer" : "three"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "How many provinces and territories does Canada consist of?",
+    "answer" :"Canada is a country in North America consisting of ten provinces and three territories\\.",
+    "optimal_answer" : "thirteen"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "Which country is located in the most northern part of North America?",
+    "answer" :"Located in the northern part of the continent, Canada extends from the Atlantic to the Pacific and northward into the Arctic Ocean\\.",
+    "optimal_answer" : "Canada"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "Where is Canada located?",
+    "answer" :"Located in the northern part of the continent, Canada extends from the Atlantic to the Pacific and northward into the Arctic Ocean\\.",
+    "optimal_answer" : "((in )?the northern part of the continent|(in )?North America|from the Atlantic to the Pacific and northward into the Arctic Ocean)"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "Which country extends from the Atlantic to the Pacific and northward into the Arctic Ocean?",
+    "answer" :"Located in the northern part of the continent, Canada extends from the Atlantic to the Pacific and northward into the Arctic Ocean\\.",
+    "optimal_answer" : "Canada"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "What is the world's second-largest country by total area?",
+    "answer" :"Covering 9\\.98 million square kilometres in total, Canada is the world's second-largest country by total area and the fourth-largest country by land area\\.",
+    "optimal_answer" : "Canada"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "What is the World's fourth-largest country by land area?",
+    "answer" :"Covering 9\\.98 million square kilometres in total, Canada is the world's second-largest country by total area and the fourth-largest country by land area\\.",
+    "optimal_answer" : "Canada"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "What joined to form the autonomous federal Dominion of Canada?",
+    "answer" :"Pursuant to the British North America Act, on July 1, 1867, three colonies joined to form the autonomous federal Dominion of Canada\\.",
+    "optimal_answer" : "Three colonies"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "Which country is a federal parliamentary democracy and a constitutional monarchy?",
+    "answer" :"Canada is a federal parliamentary democracy and a constitutional monarchy, Queen Elizabeth II being the current head of state\\.",
+    "optimal_answer" : "Canada"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "Who is the current head of state of Canada?",
+    "answer" :"Canada is a federal parliamentary democracy and a constitutional monarchy, Queen Elizabeth II being the current head of state\\.",
+    "optimal_answer" : "Queen Elizabeth II"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "Which country is officially bilingual at the federal level?",
+    "answer" :"The country is officially bilingual at the federal level\\.",
+    "optimal_answer" : "Canada"
+  },
+  {
+    "source": "",
+    "file": "Canada.txt",
+    "query": "What is the approximate population of Canada?",
+    "answer" :"Canada is one of the world's most ethnically diverse and multicultural nations, the product of large-scale immigration from many countries, with a population of approximately 35 million as of 2015\\.",
+    "optimal_answer" : "35 million"
+  }
+]

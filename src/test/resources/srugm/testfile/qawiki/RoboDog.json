@@ -1,0 +1,107 @@
+[
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "What is the latest creation revealed by Boston Dynamics?",
+    "answer" :"Robo-dog Spot is the latest creation to be revealed by Google-owned robotics company, Boston Dynamics\\.",
+    "optimal_answer" : "Robo-dog Spot"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "What is the latest creation revealed by Google-owned robotics company?",
+    "answer" :"Robo-dog Spot is the latest creation to be revealed by Google-owned robotics company, Boston Dynamics\\.",
+    "optimal_answer" : "Robo-dog Spot"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "Which is the latest creation?",
+    "answer" :"Robo-dog Spot is the latest creation to be revealed by Google-owned robotics company, Boston Dynamics\\.",
+    "optimal_answer" : "Robo-dog Spot"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "What is the name of the latest creation revealed by Google-owned robotics company?",
+    "answer" :"Robo-dog Spot is the latest creation to be revealed by Google-owned robotics company, Boston Dynamics\\.",
+    "optimal_answer" : "Robo-dog Spot"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "Who revealed the Robo Dog Spot?",
+    "answer" :"Robo-dog Spot is the latest creation to be revealed by Google-owned robotics company, Boston Dynamics\\.",
+    "optimal_answer" : "Boston Dynamics"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "How many legged creation was announced?",
+    "answer" :"The latest four-legged creation announced via YouTube on Monday, is a sequel to cinder block-hurling automaton Big Dog\\.",
+    "optimal_answer" : "Two"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "Whose sequel is the latest four legged creation?",
+    "answer" :"The latest four-legged creation announced via YouTube on Monday, is a sequel to cinder block-hurling automaton Big Dog\\.",
+    "optimal_answer" : "Robo-dog Spot"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "What did the Boston Dynamic employee do against spot?",
+    "answer" :"In one revealing scene, a Boston Dynamics employee directs a forceful kick against Spot, but only causes the self-balancing automaton to stagger briefly, before regaining composure\\.",
+    "optimal_answer" : "directs a forceful kick against Spot"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "Which state Ashoka waged a bitterly destructive war against?",
+    "answer" :"In about 260 BCE Ashoka waged a bitterly destructive war against the state of Kalinga \\(modern Odisha\\)\\.",
+    "optimal_answer" : "Kalinga"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "What did Ashoka address in the Kalinga edicts for his people?",
+    "answer" :"In the Kalinga edicts, he addresses his people as his \\\"children\\\", and mentions that as a father he desires their good",
+    "optimal_answer" : "his children"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "Who embraced Buddhism?",
+    "answer" :"He embraced Buddhism after witnessing the mass deaths of the Kalinga War, which he himself had waged out of a desire for conquest\\.",
+    "optimal_answer" : "Ashoka|He"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "Who is remembered as a philanthropic administrator?",
+    "answer" :"Ashoka is now remembered as a philanthropic administrator\\.",
+    "optimal_answer" : "Ashoka"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "Who conquered Kalinga?",
+    "answer" :"He conquered Kalinga, which none of his ancestors had done\\.",
+    "optimal_answer" : "Ashoka|He"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "What happened in 263 BCE?",
+    "answer" :"\\\"Ashoka reflected on the war in Kalinga, which reportedly had resulted in more than 100,000 deaths and 150,000 deportations\\.\\\" Ashoka converted gradually to Buddhism beginning about 263 BCE\\.",
+    "optimal_answer" : "Ashoka converted gradually to Buddhism"
+  },
+  {
+    "source":"",
+    "file": "RoboDog.txt",
+    "query": "Who was the Indian emperor of the Maurya Dynasty?",
+    "answer" :"Ashoka Maurya  commonly known as Ashoka and also as Ashoka the Great, was an Indian emperor of the Maurya Dynasty who ruled almost all of the Indian subcontinent from circa 269 BCE to 232 BCE\\.",
+    "optimal_answer" : "Ashoka"
+  }
+]

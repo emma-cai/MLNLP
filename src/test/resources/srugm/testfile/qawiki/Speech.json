@@ -1,0 +1,44 @@
+[
+  {
+    "source":"",
+    "file": "Speech.txt",
+    "query": "What is a great blessing but can also be a great curse?",
+    "answer" :"Speech is great blessings but it can also be great curse, for while it helps us to make our intentions and desires known to our fellows, it can also if we use it carelessly, make our attitude completely misunderstood\\.",
+    "optimal_answer" : "Speech"
+  },
+  {
+    "source":"",
+    "file": "Speech.txt",
+    "query": "What is a great blessing as well as a curse?",
+    "answer" :"Speech is great blessings but it can also be great curse, for while it helps us to make our intentions and desires known to our fellows, it can also if we use it carelessly, make our attitude completely misunderstood\\.",
+    "optimal_answer" : "Speech"
+  },
+  {
+    "source":"",
+    "file": "Speech.txt",
+    "query": "What helps us to make our intentions and desires known to our fellows?",
+    "answer" :"Speech is great blessings but it can also be great curse, for while it helps us to make our intentions and desires known to our fellows, it can also if we use it carelessly, make our attitude completely misunderstood\\.",
+    "optimal_answer" : "Speech"
+  },
+  {
+    "source":"",
+    "file": "Speech.txt",
+    "query": "What happens if we use our speech carelessly?",
+    "answer" :"Speech is great blessings but it can also be great curse, for while it helps us to make our intentions and desires known to our fellows, it can also if we use it carelessly, make our attitude completely misunderstood\\.",
+    "optimal_answer" : "Misunderstood"
+  },
+  {
+    "source":"",
+    "file": "Speech.txt",
+    "query": "What makes our attitude misunderstood?",
+    "answer" :"Speech is great blessings but it can also be great curse, for while it helps us to make our intentions and desires known to our fellows, it can also if we use it carelessly, make our attitude completely misunderstood\\.",
+    "optimal_answer" : "Speech carelessly"
+  },
+  {
+    "source":"",
+    "file": "Speech.txt",
+    "query": "What demands to be carefully handled?",
+    "answer" :"Thus speech is not a gift to use lightly without thought, but one which demands careful handling\\.",
+    "optimal_answer" : "Speech"
+  }
+]

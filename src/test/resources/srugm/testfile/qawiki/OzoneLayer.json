@@ -1,0 +1,184 @@
+[
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What is Ozone layer?",
+    "answer" :"The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet \\(UV\\) radiation\\.",
+    "optimal_answer" : "(to )?a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet\\( UV\\) radiation"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What is Ozone Shield?",
+    "answer" :"The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet \\(UV\\) radiation\\.",
+    "optimal_answer" : "a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet\\( UV\\) radiation"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Which region of Earth's stratosphere absorbs most of the Sun's ultraviolet radiation?",
+    "answer" :"The ozone layer or ozone shield refers to a region of Earth's stratosphere that absorbs most of the Sun's ultraviolet \\(UV\\) radiation\\.",
+    "optimal_answer" : "the ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Which region contains high concentrations of ozone?",
+    "answer" :"It contains high concentrations of ozone \\(O3\\) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere\\.",
+    "optimal_answer" : "The ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What is O3?",
+    "answer" :"It contains high concentrations of ozone \\(O3\\) relative to other parts of the atmosphere, although still very small relative to other gases in the stratosphere\\.",
+    "optimal_answer" : "ozone"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What is the average concentration of ozone in Earth’s atmosphere?",
+    "answer" :"The ozone layer contains less than 10 parts per million of ozone, while the average ozone concentration in Earth's atmosphere as a whole is only about 0\\.3 parts per million\\.",
+    "optimal_answer" : "about 0.3 parts per million"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Where can we find ozone layer?",
+    "answer" :"The ozone layer is mainly found in the lower portion of the stratosphere, from approximately 20 to 30 kilometres \\(12 to 19 mi\\) above Earth, though the thickness varies seasonally and geographically\\.",
+    "optimal_answer" : "((in )?the lower portion of the stratosphere(, from approximately 20 to 30 kilometres (12 to 19mi) above Earth)?|approximately 20 to 30 kilometres \(12 to 19mi\) above Earth)"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "In which portion ozone layer is found?",
+    "answer" :"The ozone layer is mainly found in the lower portion of the stratosphere, from approximately 20 to 30 kilometres \\(12 to 19 mi\\) above Earth, though the thickness varies seasonally and geographically\\.",
+    "optimal_answer" : "lower"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "In which portion of stratosphere ozone layer is found?",
+    "answer" :"The ozone layer is mainly found in the lower portion of the stratosphere, from approximately 20 to 30 kilometres \\(12 to 19 mi\\) above Earth, though the thickness varies seasonally and geographically\\.",
+    "optimal_answer" : "lower"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "When was ozone layer discovered?",
+    "answer" :"The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson\\.",
+    "optimal_answer" : "1913"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Who discovered ozone layer?",
+    "answer" :"The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson\\.",
+    "optimal_answer" : "Charles Fabry and Henri Buisson"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What did Charles Fabry discovered?",
+    "answer" :"The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson\\.",
+    "optimal_answer" : "the ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What did Henri Buisson discovered?",
+    "answer" :"The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson\\.",
+    "optimal_answer" : "the ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What did Charles Fabry and Henri Buisson discovered?",
+    "answer" :"The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson\\.",
+    "optimal_answer" : "the ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What was discovered in 1913?",
+    "answer" :"The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson\\.",
+    "optimal_answer" : "The ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What was discovered in 1913 by Charles Fabry and Henri Buisson?",
+    "answer" :"The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson\\.",
+    "optimal_answer" : "the ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Whose properties were explored in detail by the British meteorologist G. M. B. Dobson?",
+    "answer" :"The ozone layer's properties were explored in detail by the British meteorologist G\\. M\\. B\\. Dobson, who developed a simple spectrophotometer \\(the Dobsonmeter\\) that could be used to measure stratospheric ozone from the ground\\.",
+    "optimal_answer" : "the ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What did G. M. B. Dobson discovered?",
+    "answer" :"The ozone layer's properties were explored in detail by the British meteorologist G\\. M\\. B\\. Dobson, who developed a simple spectrophotometer \\(the Dobsonmeter\\) that could be used to measure stratospheric ozone from the ground\\.",
+    "optimal_answer" : "the properties of the ozone layer"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Who discovered the detailed properties of ozone layer?",
+    "answer" :"The ozone layer's properties were explored in detail by the British meteorologist G\\. M\\. B\\. Dobson, who developed a simple spectrophotometer \\(the Dobsonmeter\\) that could be used to measure stratospheric ozone from the ground\\.",
+    "optimal_answer" : "Dobson"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Who developed spectrophotometer?",
+    "answer" :"The ozone layer's properties were explored in detail by the British meteorologist G\\. M\\. B\\. Dobson, who developed a simple spectrophotometer \\(the Dobsonmeter\\) that could be used to measure stratospheric ozone from the ground\\.",
+    "optimal_answer" : "Dobson"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Which instrument is used to measure stratospheric ozone from the ground?",
+    "answer" :"The ozone layer's properties were explored in detail by the British meteorologist G\\. M\\. B\\. Dobson, who developed a simple spectrophotometer \\(the Dobsonmeter\\) that could be used to measure stratospheric ozone from the ground\\.",
+    "optimal_answer" : "spectrophotometer (the Dobsonmeter)"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Who established a worldwide network of ozone monitoring stations?",
+    "answer" :"Between 1928 and 1958, Dobson established a worldwide network of ozone monitoring stations, which continue to operate to this day\\.",
+    "optimal_answer" : "Dobson"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What did Dobson established?",
+    "answer" :"Between 1928 and 1958, Dobson established a worldwide network of ozone monitoring stations, which continue to operate to this day\\.",
+    "optimal_answer" : "A worldwide network of ozone monitoring stations"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "What is \"Dobson unit\"?",
+    "answer" :"The \\\"Dobson unit\\\", a convenient measure of the amount of ozone overhead, is named in his honor\\.",
+    "optimal_answer" : "a convenient measure of the amount of ozone overhead"
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Which day is designated as the International Day for the Preservation of the Ozone Layer?",
+    "answer" :"The United Nations General Assembly has designated September 16 as the International Day for the Preservation of the Ozone Layer\\.",
+    "optimal_answer" : "September 16."
+  },
+  {
+    "source":"",
+    "file": "OzoneLayer.txt",
+    "query": "Who designated International Day for the Preservation of the Ozone Layer?",
+    "answer" :"The United Nations General Assembly has designated September 16 as the International Day for the Preservation of the Ozone Layer\\.",
+    "optimal_answer" : "The United Nations General Assembly"
+  }
+]

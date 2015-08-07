@@ -1,0 +1,173 @@
+[
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What is the brain ?",
+    "answer" :"The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals—only a few invertebrates such as sponges, jellyfish, adult sea squirts and starfish do not have a brain, even if diffuse neural tissue is present\\.|The brain is the most complex organ in a vertebrate's body\\.",
+    "optimal_answer":"an organ that serves as the center of the nervous system"
+  
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What serves as the center of nervous system in many animals?",
+    "answer" :"The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals—only a few invertebrates such as sponges, jellyfish, adult sea squirts and starfish do not have a brain, even if diffuse neural tissue is present\\.",
+    "optimal_answer":"Brain"
+  
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"Which are the invertebrates that do not have a brain?",
+    "answer" :"The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals—only a few invertebrates such as sponges, jellyfish, adult sea squirts and starfish do not have a brain, even if diffuse neural tissue is present\\.",
+    "optimal_answer":"sponges, jellyfish, adult sea squirts and starfish"
+  
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"Where is the brain located?",
+    "answer" :"The brain is located in the head, usually close to the primary sensory organs for such senses as vision, hearing, balance, taste, and smell\\.",
+    "optimal_answer":"in the head"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What are some of the primary senses?",
+    "answer" :"The brain is located in the head, usually close to the primary sensory organs for such senses as vision, hearing, balance, taste, and smell\\.",
+    "optimal_answer":"vision, hearing, balance, taste, and smell"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What is the most complex organ in a vertebrate's body?",
+    "answer":"The brain is the most complex organ in a vertebrate's body\\.",
+    "optimal_answer":"Brain"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"How many neurons are contained in a typical human's brain?",
+    "answer" :"In a typical human, the cerebral cortex is estimated to contain 15 to 33 billion neurons, each connected by synapses to several thousand other neurons\\.",
+    "optimal_answer":"15 to 33 billion"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"How are the neurons connected to each other?",
+    "answer" :"In a typical human, the cerebral cortex is estimated to contain 15 to 33 billion neurons, each connected by synapses to several thousand other neurons\\.",
+    "optimal_answer":"by synapses"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"How do the neurons communicate with one another?",
+    "answer" :"These neurons communicate with one another by means of long protoplasmic fibers called axons, which carry trains of signal pulses called action potentials to distant parts of the brain or body targeting specific recipient cells\\. ",
+    "optimal_answer":"by means of long protoplasmic fibers"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"In the brain, what are long protoplasmic fibers called?",
+    "answer" :"These neurons communicate with one another by means of long protoplasmic fibers called axons, which carry trains of signal pulses called action potentials to distant parts of the brain or body targeting specific recipient cells\\. ",
+    "optimal_answer":"axons"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What are action potentials?",
+    "answer" :"These neurons communicate with one another by means of long protoplasmic fibers called axons, which carry trains of signal pulses called action potentials to distant parts of the brain or body targeting specific recipient cells\\. ",
+    "optimal_answer":"Trains of signal pulses"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What is the function of the brain physiologically?",
+    "answer" :"Physiologically, the function of the brain is to exert centralized control over the other organs of the body\\.",
+    "optimal_answer":"to exert centralized control over the other organs of the body"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"How does the brain act on the rest of the body?",
+    "answer" :"The brain acts on the rest of the body both by generating patterns of muscle activity and by driving the secretion of chemicals called hormones\\.",
+    "optimal_answer":"by generating patterns of muscle activity and by driving the secretion of chemicals called hormones"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"Where are reflexes mediated?",
+    "answer" :"Some basic types of responsiveness such as reflexes can be mediated by the spinal cord or peripheral ganglia, but sophisticated purposeful control of behavior based on complex sensory input requires the information integrating capabilities of a centralized brain\\.",
+    "optimal_answer":"the spinal cord or peripheral ganglia"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"Is the operation of individual brain cells understood?",
+    "answer" :"The operations of individual brain cells are now understood in considerable detail but the way they cooperate in ensembles of millions has yet to be solved\\.",
+    "optimal_answer":"yes"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What is treated as a biological computer in recent models in modern neuroscience?",
+    "answer" :"Recent models in modern neuroscience treat the brain as a biological computer, very different in mechanism from an electronic computer, but similar in the sense that it acquires information from the surrounding world, stores it, and processes it in a variety of ways, analogous to the central processing unit \\(CPU\\) in a computer\\.",
+    "optimal_answer":"brain"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"How do recent models in modern neuroscience treat the brain?",
+    "answer" :"Recent models in modern neuroscience treat the brain as a biological computer, very different in mechanism from an electronic computer, but similar in the sense that it acquires information from the surrounding world, stores it, and processes it in a variety of ways, analogous to the central processing unit \\(CPU\\) in a computer\\.",
+    "optimal_answer":"as a computer"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"How is the brain similar to the CPU in a computer?",
+    "answer" :"Recent models in modern neuroscience treat the brain as a biological computer, very different in mechanism from an electronic computer, but similar in the sense that it acquires information from the surrounding world, stores it, and processes it in a variety of ways, analogous to the central processing unit \\(CPU\\) in a computer\\.",
+    "optimal_answer":"it acquires information from the surrounding world, stores it, and processes it in a variety of ways"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What does \"CPU\" stand for?",
+    "answer" :"Recent models in modern neuroscience treat the brain as a biological computer, very different in mechanism from an electronic computer, but similar in the sense that it acquires information from the surrounding world, stores it, and processes it in a variety of ways, analogous to the central processing unit \\(CPU\\) in a computer\\.",
+    "optimal_answer":"central processing unit"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"Do the shape and size of the brains of different species vary greatly?",
+    "answer" :"The shape and size of the brains of different species vary greatly, and identifying common features is often difficult\\.",
+    "optimal_answer":"Yes"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What is the simplest way to gain information about brain anatomy?",
+    "answer" :"The simplest way to gain information about brain anatomy is by visual inspection, but many more sophisticated techniques have been developed\\.",
+    "optimal_answer":"visual inspection"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"Is it possible to work with brain tissue in its natural state?",
+    "answer" :"Brain tissue in its natural state is too soft to work with, but it can be hardened by immersion in alcohol or other fixatives, and then sliced apart for examination of the interior\\.",
+    "optimal_answer":"no"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"How is brain tissue hardened?",
+    "answer" :"Brain tissue in its natural state is too soft to work with, but it can be hardened by immersion in alcohol or other fixatives, and then sliced apart for examination of the interior\\.",
+    "optimal_answer":"by immersion in alcohol or other fixatives"
+  },
+  {
+    "source": "",
+    "file":"Brain.txt",
+    "query":"What does the interior of the brain look like?",
+    "answer" :"Visually, the interior of the brain consists of areas of so-called grey matter, with a dark color, separated by areas of white matter, with a lighter color\\.",
+    "optimal_answer":"areas of so-called grey matter with a dark color separated by areas of white matter with a lighter color"
+  }
+]

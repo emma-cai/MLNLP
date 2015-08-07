@@ -1,0 +1,58 @@
+[
+  {
+    "source":"",
+    "file": "RabindranathTagore.txt",
+    "query": "When was the Indian art with Contextual Modernism reshaped?",
+    "answer" :"Rabindranath Tagore also written Rabīndranātha Thākura \\(7 May 1861 – 7 August 1941\\), sobriquet Gurudev, was a Bengali polymath who reshaped Bengali literature and music, as well as Indian art with Contextual Modernism in the late 19th and early 20th centuries\\.",
+    "optimal_answer" : "in the late 19th and early 20th centuries"
+  },
+  {
+    "source":"",
+    "file": "RabindranathTagore.txt",
+    "query": "Who reshaped Bengali literature and music?",
+    "answer" :"Rabindranath Tagore also written Rabīndranātha Thākura \\(7 May 1861 – 7 August 1941\\), sobriquet Gurudev, was a Bengali polymath who reshaped Bengali literature and music, as well as Indian art with Contextual Modernism in the late 19th and early 20th centuries\\.",
+    "optimal_answer" : "Rabindranath Tagore"
+  },
+  {
+    "source":"",
+    "file": "RabindranathTagore.txt",
+    "query": "Who was the author of Gitanjali?",
+    "answer" :"Author of Gitanjali and its \\\"profoundly sensitive, fresh and beautiful verse\\\", he became the first non-European to win the Nobel Prize in Literature in 1913\\.",
+    "optimal_answer" : "Rabindranath Tagore"
+  },
+  {
+    "source":"",
+    "file": "RabindranathTagore.txt",
+    "query": "Who became the first non-European to win the Nobel Prize in Literature in 1913?",
+    "answer" :"Author of Gitanjali and its \\\"profoundly sensitive, fresh and beautiful verse\\\", he became the first non-European to win the Nobel Prize in Literature in 1913\\.",
+    "optimal_answer" : "Rabindranath Tagore"
+  },
+  {
+    "source":"",
+    "file": "RabindranathTagore.txt",
+    "query": "Whose poetry was viewed as spiritual and mercurial?",
+    "answer" :"In translation his poetry was viewed as spiritual and mercurial\\. ",
+    "optimal_answer" : "Rabindranath Tagore"
+  },
+  {
+    "source":"",
+    "file": "RabindranathTagore.txt",
+    "query": "Who introduced new prose and verse forms and the use of colloquial language into Bengali literature?",
+    "answer" :"Tagore introduced new prose and verse forms and the use of colloquial language into Bengali literature, thereby freeing it from traditional models based on classical Sanskrit\\.",
+    "optimal_answer" : "Tagore."
+  },
+  {
+    "source":"",
+    "file": "RabindranathTagore.txt",
+    "query": "What did Rabindranath Tagore introduced in Bengali Literature?",
+    "answer" :"Tagore introduced new prose and verse forms and the use of colloquial language into Bengali literature, thereby freeing it from traditional models based on classical Sanskrit\\.",
+    "optimal_answer" : "new prose and verse forms and the use of colloquial language"
+  },
+  {
+    "source":"",
+    "file": "RabindranathTagore.txt",
+    "query": "Who was regarded as the outstanding creative artist of the modern Indian subcontinent?",
+    "answer" :"He was highly influential in introducing the best of Indian culture to the West and vice versa, and he is generally regarded as the outstanding creative artist of the modern Indian subcontinent\\.",
+    "optimal_answer" : "Rabindranath Tagore"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Which is the northwestern region of South Asia?",
+    "answer" :"Kashmir archaically spelt Cashmere, is the northwestern region of South Asia\\.",
+    "optimal_answer" : "Kashmir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "What happened until the mid-19th century?",
+    "answer" :"Until the mid-19th century, the term Kashmir geographically denoted only the valley between the Great Himalayas and the Pir Panjal mountain range\\.",
+    "optimal_answer" : "the term Kashmir geographically denoted only the valley between the Great Himalayas and the Pir Panjal mountain range"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "What does Kashmir include today?",
+    "answer" :"Today, Kashmir denotes a larger area that includes the Indian-administered state of Jammu and Kashmir \\(which consists of Jammu, the Kashmir Valley, and Ladakh\\), the Pakistan-administered autonomous territories of Azad Kashmir and Gilgit–Baltistan, and the Chinese-administered regions of Aksai Chin and the Trans-Karakoram Tract\\.",
+    "optimal_answer" : "the Indian-administered state of Jammu and Kashmir (which consists of Jammu, the Kashmir Valley, and Ladakh), the Pakistan-administered autonomous territories of Azad Kashmir and Gilgit–Baltistan, and the Chinese-administered regions of Aksai Chin and the Trans-Karakoram Tract"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Which region became an important centre of Hinduism in the first half of the 1st millennium?",
+    "answer" :"In the first half of the 1st millennium, the Kashmir region became an important centre of Hinduism and later of Buddhism\\.",
+    "optimal_answer" : "Kashmir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "When did the Muslim monarchs rule Kashmir?",
+    "answer" :"In 1349, Shah Mir became the first Muslim ruler of Kashmir, inaugurating the Salatin-i-Kashmir or Swati dynasty\\.|For the next five centuries, Muslim monarchs ruled Kashmir, including the Mughals, who ruled from 1526 until 1751, and the Afghan Durrani Empire, which ruled from 1747 until 1820\\.",
+    "optimal_answer" : "For the next five centuries of 1349"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "When did the Sikhs annex Kashmir?",
+    "answer" :"For the next five centuries, Muslim monarchs ruled Kashmir, including the Mughals, who ruled from 1526 until 1751, and the Afghan Durrani Empire, which ruled from 1747 until 1820\\.|That year, the Sikhs, under Ranjit Singh, annexed Kashmir\\.",
+    "optimal_answer" : "1820"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who was defeated in the First Anglo-Sikh War in 1846?",
+    "answer" :"In 1846, after the Sikh defeat in the First Anglo-Sikh War, and upon the purchase of the region from the British under the Treaty of Amritsar, the Raja of Jammu, Gulab Singh, became the new ruler of Kashmir\\.",
+    "optimal_answer" : "Sikh"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Under which treaty was the purchase of Kashmir from the British done?",
+    "answer" :"In 1846, after the Sikh defeat in the First Anglo-Sikh War, and upon the purchase of the region from the British under the Treaty of Amritsar, the Raja of Jammu, Gulab Singh, became the new ruler of Kashmir\\.",
+    "optimal_answer" : "Amritsar"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "When did the former princely state of British India become a disputed territory?",
+    "answer" :"The rule of his descendants, under the paramountcy \\(or tutelage\\) of the British Crown, lasted until 1947, when the former princely state of British India became a disputed territory, now administered by three countries: India, Pakistan, and the People's Republic of China\\.",
+    "optimal_answer" : "1947"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Which countries administered the former princely state of British India in 1947?",
+    "answer" :"The rule of his descendants, under the paramountcy \\(or tutelage\\) of the British Crown, lasted until 1947, when the former princely state of British India became a disputed territory, now administered by three countries: India, Pakistan, and the People's Republic of China\\.",
+    "optimal_answer" : "India, Pakistan, and the People's Republic of China"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Where is Kashmir located?",
+    "answer" :"Kashmir archaically spelt Cashmere, is the northwestern region of South Asia\\.",
+    "optimal_answer" : "the northwestern region of South Asia"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Which state is archaically spelt as Cashmere?",
+    "answer" :"Kashmir archaically spelt Cashmere, is the northwestern region of South Asia\\.",
+    "optimal_answer" : "Kashmir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Which state is located in the northwestern region of South Asia?",
+    "answer" :"Kashmir archaically spelt Cashmere, is the northwestern region of South Asia\\.",
+    "optimal_answer" : "Kashmir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Which state consist of Jammu, the Kashmir Valley and Ladakh?",
+    "answer" :"Today, Kashmir denotes a larger area that includes the Indian-administered state of Jammu and Kashmir \\(which consists of Jammu, the Kashmir Valley, and Ladakh\\), the Pakistan-administered autonomous territories of Azad Kashmir and Gilgit–Baltistan, and the Chinese-administered regions of Aksai Chin and the Trans-Karakoram Tract\\.",
+    "optimal_answer" : "Kashmir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "When did the Kashmir region became an important centre of Hinduism ?",
+    "answer" :"In the first half of the 1st millennium, the Kashmir region became an important centre of Hinduism and later of Buddhism\\.",
+    "optimal_answer" : "In the first half of the 1st millennium"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "When did Kashmir Shaivism arise?",
+    "answer" :"Later still, in the ninth century, Kashmir Shaivism arose\\.",
+    "optimal_answer" : "in the ninth century"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who became the first Muslim ruler of Kashmir?",
+    "answer" :"In 1349, Shah Mir became the first Muslim ruler of Kashmir, inaugurating the Salatin-i-Kashmir or Swati dynasty\\.",
+    "optimal_answer" : "Shah Mir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who was Shah Mir?",
+    "answer" :"In 1349, Shah Mir became the first Muslim ruler of Kashmir, inaugurating the Salatin-i-Kashmir or Swati dynasty\\.",
+    "optimal_answer" : "first Muslim ruler of Kashmir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who inaugurated the Salatin-i-Kashmir ?",
+    "answer" :"In 1349, Shah Mir became the first Muslim ruler of Kashmir, inaugurating the Salatin-i-Kashmir or Swati dynasty\\.",
+    "optimal_answer" : "Shah Mir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who inaugurated the Swati dynasty?",
+    "answer" :"In 1349, Shah Mir became the first Muslim ruler of Kashmir, inaugurating the Salatin-i-Kashmir or Swati dynasty\\.",
+    "optimal_answer" : "Shah Mir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who ruled Kashmir from 1526 to 1751?",
+    "answer" :"For the next five centuries, Muslim monarchs ruled Kashmir, including the Mughals, who ruled from 1526 until 1751, and the Afghan Durrani Empire, which ruled from 1747 until 1820\\.",
+    "optimal_answer" : "Mughals"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who ruled Kashmir from 1747 to 1820?",
+    "answer" :"For the next five centuries, Muslim monarchs ruled Kashmir, including the Mughals, who ruled from 1526 until 1751, and the Afghan Durrani Empire, which ruled from 1747 until 1820\\.",
+    "optimal_answer" : "Afghan Durrani Empire"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who annexed Kashmir in 1820?",
+    "answer" :"That year, the Sikhs, under Ranjit Singh, annexed Kashmir\\.",
+    "optimal_answer" : "Sikhs"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who was the Raja of Jammu?",
+    "answer" :"In 1846, after the Sikh defeat in the First Anglo-Sikh War, and upon the purchase of the region from the British under the Treaty of Amritsar, the Raja of Jammu, Gulab Singh, became the new ruler of Kashmir\\.",
+    "optimal_answer" : "ruler of Kashmir"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who became the new ruler of Kashmir in 1846?",
+    "answer" :"In 1846, after the Sikh defeat in the First Anglo-Sikh War, and upon the purchase of the region from the British under the Treaty of Amritsar, the Raja of Jammu, Gulab Singh, became the new ruler of Kashmir\\.",
+    "optimal_answer" : "The Raja of Jammu, Gulab Singh"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "When did the former princely state of British India become a disputed territory?",
+    "answer" :"In 1846, after the Sikh defeat in the First Anglo-Sikh War, and upon the purchase of the region from the British under the Treaty of Amritsar, the Raja of Jammu, Gulab Singh, became the new ruler of Kashmir\\.",
+    "optimal_answer" : "1846"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "What are the three disputed countries?",
+    "answer" :"The rule of his descendants, under the paramountcy \\(or tutelage\\) of the British Crown, lasted until 1947, when the former princely state of British India became a disputed territory, now administered by three countries: India, Pakistan, and the People's Republic of China\\.",
+    "optimal_answer" : "India, Pakistan, and the People's Republic of China"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who was Ashoka?",
+    "answer" :"The Buddhist Mauryan emperor Ashoka is often credited with having founded the old capital of Kashmir, Shrinagari, now ruins on the outskirts of modern Srinagar\\.",
+    "optimal_answer" : "The Buddhist Mauryan emperor Ashoka is often credited with having founded the old capital of Kashmir, Shrinagari"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who was the Buddhist Mauryan emperor ?",
+    "answer" :"The Buddhist Mauryan emperor Ashoka is often credited with having founded the old capital of Kashmir, Shrinagari, now ruins on the outskirts of modern Srinagar\\.",
+    "optimal_answer" : "Ashoka"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "What was the old capital of Kashmir?",
+    "answer" :"The Buddhist Mauryan emperor Ashoka is often credited with having founded the old capital of Kashmir, Shrinagari, now ruins on the outskirts of modern Srinagar\\.",
+    "optimal_answer" : "Shrinagari"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who is credited with the foundation of the old capital of Kashmir?",
+    "answer" :"The Buddhist Mauryan emperor Ashoka is often credited with having founded the old capital of Kashmir, Shrinagari, now ruins on the outskirts of modern Srinagar\\.",
+    "optimal_answer" : "Ashoka"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Which school strongly influenced Kashmir?",
+    "answer" :"As a Buddhist seat of learning, the Sarvāstivādan school strongly influenced Kashmir\\.",
+    "optimal_answer" : "The Sarvāstivādan school"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Which monk was born to an Indian noble family?",
+    "answer" :"In the late 4th century CE, the famous Kuchanese monk Kumarajiva, born to an Indian noble family, studied Dirghagama and Madhyagama in Kashmir under Bandhudatta\\.",
+    "optimal_answer" : "The famous Kuchanese monk Kumarajiva"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "What did Kumarajiva study in Kashmir under Bandhudatta?",
+    "answer" :"In the late 4th century CE, the famous Kuchanese monk Kumarajiva, born to an Indian noble family, studied Dirghagama and Madhyagama in Kashmir under Bandhudatta\\.",
+    "optimal_answer" : "Dirghagama and Madhyagama"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who became a prolific translator who took Buddhism to China?",
+    "answer" :"He later became a prolific translator who helped take Buddhism to China\\.",
+    "optimal_answer" : "Kumarajiva"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who thought to have retired to Kashmir?",
+    "answer" :"His mother Jīva is thought to have retired to Kashmir\\.",
+    "optimal_answer" : "Jīva"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Whose mother is Jiva?",
+    "answer" :"His mother Jīva is thought to have retired to Kashmir\\.",
+    "optimal_answer" : "Kumārajīva"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who travelled from Kashmir to Kucha?",
+    "answer" :"Vimalaksa, a Sarvastivadan Buddhist monk, travelled from Kashmir to Kucha and there instructed Kumarajiva in the Vinayapitaka\\.",
+    "optimal_answer" : "Vimalaksa, a Sarvastivadan Buddhist monk"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who instructed Kumarajiva in the Vinayapitaka?",
+    "answer" :"Vimalaksa, a Sarvastivadan Buddhist monk, travelled from Kashmir to Kucha and there instructed Kumarajiva in the Vinayapitaka\\.",
+    "optimal_answer" : "Vimalaksa, a Sarvastivadan Buddhist monk"
+  },
+  {
+    "source":"",
+    "file": "Kashmir.txt",
+    "query": "Who visited the pre-existing Sarvajnapitha in Kashmir?",
+    "answer" :"Adi Shankara visited the pre-existing Sarvajnapitha \\(Sharada Peeth\\) in Kashmir in late 8th century or early 9th century CE",
+    "optimal_answer" : "Adi Shankara"
+  }
+]

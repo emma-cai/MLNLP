@@ -1,0 +1,128 @@
+[
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "What is Mangalyaan?",
+    "answer" :"The Mars Orbiter Mission \\(MOM\\), also called Mangalyaan  is a spacecraft orbiting Mars since 24 September 2014\\.",
+    "optimal_answer" : "A spacecraft orbiting Mars since 24 September 2014"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "Which spacecraft is orbiting mars since 24th september 2014?",
+    "answer" :"The Mars Orbiter Mission \\(MOM\\), also called Mangalyaan  is a spacecraft orbiting Mars since 24 September 2014\\.",
+    "optimal_answer" : "Mangalyaan"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "Which spacecraft is orbiting mars since 24th september 2014?",
+    "answer" :"The Mars Orbiter Mission \\(MOM\\), also called Mangalyaan  is a spacecraft orbiting Mars since 24 September 2014\\.",
+    "optimal_answer" : "Mangalyaan"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "When was the MOM launched?",
+    "answer" :"The MOM was launched on 5 November 2013 by the Indian Space Research Organisation \\(ISRO\\)\\. ",
+    "optimal_answer" : "5 November 2013"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "What was launched on 5th November 2013?",
+    "answer" :"The MOM was launched on 5 November 2013 by the Indian Space Research Organisation \\(ISRO\\)\\. ",
+    "optimal_answer" : "MOM"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "What is ISRO?",
+    "answer" :"The MOM was launched on 5 November 2013 by the Indian Space Research Organisation \\(ISRO\\)\\. ",
+    "optimal_answer" : "Indian Space Research Organisation"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "Which nation reached Mars orbit in the first attempt?",
+    "answer" :"It is the first Asian nation to reach Mars orbit, and the first nation to do so on its first attempt\\.",
+    "optimal_answer" : "India"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "What happened on 5th November 2013?",
+    "answer" :"The MOM was launched on 5 November 2013 by the Indian Space Research Organisation \\(ISRO\\)\\.|The Mars Orbiter Mission probe lifted-off from the First Launch Pad at Satish Dhawan Space Centre \\(Sriharikota Range SHAR\\), Andhra Pradesh, using a Polar Satellite Launch Vehicle \\(PSLV\\) rocket C25 at 09:08 UTC \\(14:38 IST\\) on 5 November 2013\\. ",
+    "optimal_answer" : "The MOM was launched on 5 November 2013 by the Indian Space Research Organisation\\( ISRO\\)"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "Where did MOM spent about a month?",
+    "answer" :"The MOM probe spent about a month in Earth orbit, where it made a series of seven apogee-raising orbital manoeuvres before trans-Mars injection on 30 November 2013 \\(UTC\\)\\. ",
+    "optimal_answer" : "in Earth orbit"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "What was the mission?",
+    "answer" :"The mission is a \\\"technology demonstrator\\\" project to develop the technologies for design, planning, management, and operations of an interplanetary mission\\. ",
+    "optimal_answer" : "a \"technology demonstrator\" project to develop the technologies for design, planning, management, and operations of an interplanetary mission"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "Who is the primary foreign intelligence agency of India?",
+    "answer" :"The Research and Analysis Wing \\(R&AW or RAW\\) is the primary foreign intelligence agency of India\\.",
+    "optimal_answer" : "The Research and Analysis Wing|R&AW|RAW"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "After which war RAW was created?",
+    "answer" :"It was created after the Sino-Indian War 1962 and Indo-Pakistani War of 1965 which exposed gaps in intelligence gathering undertaken by the Intelligence Bureau \\(which until then handled both domestic and foreign intelligence\\)\\.",
+    "optimal_answer" : "the Sino-Indian War 1962 and Indo-Pakistani War of 1965"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "What convinced the Government of India that a specialized, independent agency was required for foreign intelligence gathering?",
+    "answer" :"It was created after the Sino-Indian War 1962 and Indo-Pakistani War of 1965 which exposed gaps in intelligence gathering undertaken by the Intelligence Bureau \\(which until then handled both domestic and foreign intelligence\\)\\.|This convinced the Government of India that a specialised, independent agency was required for foreign intelligence gathering\\.\\[1\\]",
+    "optimal_answer" : "gaps in intelligence gathering undertaken by the Intelligence Bureau"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "Who was the first Director of Raw?",
+    "answer" :"Thus R&AW was formed in September 1968 under the guidance of its first Director, Rameshwar Nath Kao\\.",
+    "optimal_answer" : "Rameshwar Nath Kao"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "What is the primary function of RAW?",
+    "answer" :"The primary function of R&AW is gathering foreign intelligence and counter-terrorism\\.",
+    "optimal_answer" : "gathering foreign intelligence and counter-terrorism"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "Who is involved in the security of India's nuclear programme?",
+    "answer" :"It is also involved in the security of India's nuclear programme\\.\\[5\\]\\[6\\]",
+    "optimal_answer" : "RAW"
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "What is R&AW ?",
+    "answer" :"The Research and Analysis Wing \\(R&AW or RAW\\) is the primary foreign intelligence agency of India\\.",
+    "optimal_answer" : "The Research and Analysis Wing|the primary foreign intelligence agency of India\\."
+  },
+  {
+    "source":"",
+    "file": "MarsOrbiterMission.txt",
+    "query": "Who is regarded as the primary instruments of India's national power?",
+    "answer" :"Foreign analysts have often referred to R&AW as an effective organisation and one of the primary instruments of India's national power\\[7\\] and as one of the most fearsome intelligence agencies operating in the region\\.\\[8\\]",
+    "optimal_answer" : "R&AW|Foreign analysts"
+  }
+]

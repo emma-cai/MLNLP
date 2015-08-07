@@ -1,0 +1,128 @@
+[
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What has attracted a great deal of attention in the information industry?",
+    "answer" :"Data mining has attracted a great deal of attention in the information industry and in society as a whole in recent years, due to the wide availability of huge amounts of data and the imminent need for turning such data into useful information and knowledge\\.",
+    "optimal_answer":"data mining"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"Why has data mining attracted a great deal of attention in the information industry?",
+    "answer" :"Data mining has attracted a great deal of attention in the information industry and in society as a whole in recent years, due to the wide availability of huge amounts of data and the imminent need for turning such data into useful information and knowledge\\.",
+    "optimal_answer":"the wide availability of huge amounts of data and the imminent need for turning such data into useful information and knowledge"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What is the information and knowledge gained used for?",
+    "answer" :"The information and knowledge gained can be used for applications ranging from market analysis, fraud detection, and customer retention, to production control and science exploration\\.",
+    "optimal_answer":"applications ranging from market analysis, fraud detection, and customer retention, to production control and science exploration\\."
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What can be viewed as a result of the natural evolution of information technology?",
+    "answer" :"Data mining can be viewed as a result of the natural evolution of information technology\\.",
+    "optimal_answer":"Data mining"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What does data management include?",
+    "answer" :"The database system industry has witnessed an evolutionary path in the development of the following functionalities: data collection and database creation, data management \\(including data storage and retrieval, and database transaction processing\\), and advanced data analysis \\(involving data warehousing and data mining\\)\\.",
+    "optimal_answer":"data storage and retrieval, and database transaction processing"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What does advanced data analysis involve?",
+    "answer" :"The database system industry has witnessed an evolutionary path in the development of the following functionalities: data collection and database creation, data management \\(including data storage and retrieval, and database transaction processing\\), and advanced data analysis \\(involving data warehousing and data mining\\)\\.",
+    "optimal_answer":"(data warehousing and data mining)|(data mining tools perform data analysis and may uncover important data patterns, contributing greatly to business strategies, knowledge bases, and scientific and medical research)"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"How has database and information technology evolved systematically since the 1960’s?",
+    "answer" :"Since the 1960s, database and information technology has been evolving systematically from primitive file processing systems to sophisticated and powerful database systems\\.",
+    "optimal_answer":"from primitive file processing systems to sophisticated and powerful database systems"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"How has database and information technology evolved systematically?",
+    "answer" :"Since the 1960s, database and information technology has been evolving systematically from primitive file processing systems to sophisticated and powerful database systems\\.",
+    "optimal_answer":"from primitive file processing systems to sophisticated and powerful database systems"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"How did the users gain convenient and flexible data access?",
+    "answer" :"In addition, users gained convenient and flexible data access through query languages, user interfaces, optimized query processing, and transaction management\\.",
+    "optimal_answer":"through query languages, user interfaces, optimized query processing, and transaction management"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What are some of the application-oriented database systems which have flourished?",
+    "answer" :"Application-oriented database systems, including spatial, temporal, multimedia, active, stream, and sensor, and scientific and engineering databases, knowledge bases, and office information bases, have flourished\\.",
+    "optimal_answer":"spatial, temporal, multimedia, active, stream, and sensor"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"How is data stored?",
+    "answer" :"Data can now be stored in many different kinds of databases and information repositories\\.",
+    "optimal_answer":"in many different kinds of databases and information repositories"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What is a data warehouse?",
+    "answer" :"One data repository architecture that has emerged is the data warehouse, a repository of multiple heterogeneous data sources organized under a unified schema at a single site in order to facilitate management decision making\\.",
+    "optimal_answer":"(One data repository architecture that has emerged)|(a repository of multiple heterogeneous data sources organized under a unified schema at a single site in order to facilitate management decision making)"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What are some of the Data warehouse technologies?",
+    "answer" :"Data warehouse technology includes data cleaning, data integration, and on-line analytical processing \\(OLAP\\), that is, analysis techniques with functionalities such as summarization, consolidation, and aggregation as well as the ability to view information from different angles\\.",
+    "optimal_answer":"data cleaning, data integration, and on-line analytical processing"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What is described as a data rich but information poor situation?",
+    "answer" :"The abundance of data, coupled with the need for powerful data analysis tools, has been described as a data rich but information poor situation\\.",
+    "optimal_answer":"The abundance of data, coupled with the need for powerful data analysis tools"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What are data tombs?",
+    "answer" :"As a result, data collected in large data repositories become “data tombs”—data archives that are seldom visited\\.",
+    "optimal_answer":"As a result, data collected in large data repositories become \\\"data tombs\\\""
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"How can data tombs be turned into golden nuggets of knowledge?",
+    "answer" :"The widening gap between data and information calls for a systematic development of data mining tools that will turn data tombs into “golden nuggets” of knowledge\\.",
+    "optimal_answer":"the widening gap between data and information calls for a systematic development of data mining tools that will turn data tombs into .golden nuggets. of knowledge"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What will turn data tombs into golden nuggets of knowledge?",
+    "answer" :"The widening gap between data and information calls for a systematic development of data mining tools that will turn data tombs into “golden nuggets” of knowledge\\.",
+    "optimal_answer":"Data mining tools"
+  },
+  {
+    "source":"",
+    "file":"DataMining.txt",
+    "query":"What do data mining tools perform?",
+    "answer" :"Data mining tools perform data analysis and may uncover important data patterns, contributing greatly to business strategies, knowledge bases, and scientific and medical research\\.",
+    "optimal_answer":"data analysis"
+  }
+]

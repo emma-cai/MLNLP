@@ -1,0 +1,142 @@
+[
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What was Graham's research?",
+    "answer" :"Graham measured the rate of diffusion of gases through plaster plugs, through very fine tubes, and through small orifices\\.|Graham's research on the diffusion of gases was triggered by his reading about the observation of German chemist Johann Dobereiner that hydrogen gas diffused out of a small crack in a glass bottle faster than the surrounding air diffused in to replace it\\.",
+    "optimal_answer": "measured the rate of diffusion of gases through plaster plugs, through very fine tubes, and through small orifices"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "How did Graham's research on diffusion of gases get triggered?",
+    "answer" :"Graham's research on the diffusion of gases was triggered by his reading about the observation of German chemist Johann Dobereiner that hydrogen gas diffused out of a small crack in a glass bottle faster than the surrounding air diffused in to replace it\\.",
+    "optimal_answer": "by his reading"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "Who measured the rate of diffusion of gases?",
+    "answer" :"Graham measured the rate of diffusion of gases through plaster plugs, through very fine tubes, and through small orifices\\.",
+    "optimal_answer": "Graham"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "How did Graham measure the rate of diffusion of gases?",
+    "answer" :"Graham measured the rate of diffusion of gases through plaster plugs, through very fine tubes, and through small orifices\\.",
+    "optimal_answer": "through plaster plugs, through very fine tubes, and through small orifices"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "Who was Johann Dobereiner?",
+    "answer" :"Graham's research on the diffusion of gases was triggered by his reading about the observation of German chemist Johann Dobereiner that hydrogen gas diffused out of a small crack in a glass bottle faster than the surrounding air diffused in to replace it\\.",
+    "optimal_answer": "German chemist"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "When did Graham state the law?",
+    "answer" :"He first stated the law as we know it today in 1831\\.",
+    "optimal_answer": "1831"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What are colloids?",
+    "answer" :"He termed these materials colloids, a term that has come to denote an important class of finely divided materials\\.",
+    "optimal_answer": "a term that has come to denote an important class of finely divided materials"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "Which gas got diffused out of a small crack in a glass bottle faster than the surrounding air ?",
+    "answer" :"Graham's research on the diffusion of gases was triggered by his reading about the observation of German chemist Johann Dobereiner that hydrogen gas diffused out of a small crack in a glass bottle faster than the surrounding air diffused in to replace it\\.",
+    "optimal_answer": "hydrogen"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "Who was Amedeo Avogadro?",
+    "answer" :"Italian physicist Amedeo Avogadro had suggested in 1811 that equal volumes of different gases contain equal numbers of molecules\\.",
+    "optimal_answer": "Italian physicist"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What were the suggestions of Amedo Avogadro ?",
+    "answer" :"Italian physicist Amedeo Avogadro had suggested in 1811 that equal volumes of different gases contain equal numbers of molecules\\.",
+    "optimal_answer": "equal volumes of different gases contain equal numbers of molecules"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What is the Kinetic theory of gases ?",
+    "answer" :"Perhaps the greatest success of the kinetic theory of gases, as it came to be called, was the discovery that for gases, the temperature as measured on the Kelvin \\(absolute\\) temperature scale is directly proportional to the average kinetic energy of the gas molecules\\.",
+    "optimal_answer": "equal volumes of different gases contain equal numbers of molecules"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "Who was James Clerk Maxwell?",
+    "answer" :"Avogadro's insight together with other studies of gas behaviour provided a basis for later theoretical work by Scottish physicist James Clerk Maxwell to explain the properties of gases as collections of small particles moving through largely empty space\\.",
+    "optimal_answer": "Scottish physicist"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What did James Clerk Maxwell explained about the properties of gases?",
+    "answer" :"Avogadro's insight together with other studies of gas behaviour provided a basis for later theoretical work by Scottish physicist James Clerk Maxwell to explain the properties of gases as collections of small particles moving through largely empty space\\.",
+    "optimal_answer": "collections of small particles moving through largely empty space"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What was the greatest success of the kinetic theory of gases?",
+    "answer" :"Perhaps the greatest success of the kinetic theory of gases, as it came to be called, was the discovery that for gases, the temperature as measured on the Kelvin \\(absolute\\) temperature scale is directly proportional to the average kinetic energy of the gas molecules\\.",
+    "optimal_answer": "the discovery that for gases, the temperature as measured on the Kelvin (absolute) temperature scale is directly proportional to the average kinetic energy of the gas molecules"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What is the kinetic energy of any object?",
+    "answer" :"The kinetic energy of any object is equal to one-half its mass times the square of its velocity\\.",
+    "optimal_answer": "Equal to one-half its mass times the square of its velocity"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "How does molecules have equal kinetic energies?",
+    "answer" :"Thus, to have equal kinetic energies, the velocities of two different molecules would have to be in inverse proportion to the square roots of their masses\\.",
+    "optimal_answer": "the velocities of two different molecules would have to be in inverse proportion to the square roots of their masses"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "How is the rate of effusion determined?",
+    "answer" :"The rate of effusion is determined by the number of molecules entering an aperture per unit time, and hence by the average molecular velocity\\.",
+    "optimal_answer": "by the number of molecules entering an aperture per unit time, and hence by the average molecular velocity"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "Can we say that the kinetic energy of any object is equal to one-half its mass times the square of its velocity ?",
+    "answer" :"The kinetic energy of any object is equal to one-half its mass times the square of its velocity\\.",
+    "optimal_answer": "Yes"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What is the Graham’s law for diffusion ?",
+    "answer" :"Graham's law for diffusion could thus be understood as a consequence of the molecular kinetic energies being equal at the same temperature\\.",
+    "optimal_answer": "a consequence of the molecular kinetic energies being equal at the same temperature"
+  },
+  {
+    "source": "",
+    "file": "GrahamResearch.txt",
+    "query": "What is the law which can be understood as consequence of the molecular kinetic energies being equal at the same temperature ?",
+    "answer" :"Graham's law for diffusion could thus be understood as a consequence of the molecular kinetic energies being equal at the same temperature\\.",
+    "optimal_answer": "Graham's law"
+  }
+]

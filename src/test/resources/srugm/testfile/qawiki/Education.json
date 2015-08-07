@@ -1,0 +1,72 @@
+[
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "How did Miss Sullivan speak to me from the beginning of my education?",
+    "answer" :"From the beginning of my education Miss Sullivan made it a practice to speak to me as she would speak to any hearing child; the only difference was that she spelled the sentences into my hand instead of speaking them\\.",
+    "optimal_answer" : "as she would speak to any hearing child"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "What was the only difference when Miss Sullivan would speak to me as opposed to a child with hearing?",
+    "answer" :"From the beginning of my education Miss Sullivan made it a practice to speak to me as she would speak to any hearing child; the only difference was that she spelled the sentences into my hand instead of speaking them\\.",
+    "optimal_answer" : "she spelled the sentences into my hand instead of speaking them"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "What did Miss Sullivan do when I didn’t know the words and idioms necessary to express my thoughts?",
+    "answer" :"If I did not know the words and idioms necessary to express my thoughts she supplied them, even suggesting conversation when I was unable to keep up my end of the dialogue\\.",
+    "optimal_answer" : "she supplied them"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "How long did the learning process continue with Miss Sullivan?",
+    "answer" :"This process was continued for several years; for the deaf child does not learn in a month, or even in two or three years, the numberless idioms and expressions used in the simplest daily intercourse\\.",
+    "optimal_answer" : "several years"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "How does the little hearing child learn?",
+    "answer" :"The little hearing child learns these from constant repetition and imitation\\.",
+    "optimal_answer" : "constant repetition and imitation"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "How did Miss Sullivan supply the stimulus I lacked as a deaf child?",
+    "answer" :"My teacher, realizing this, determined to supply the kinds of stimulus I lacked\\.|This Miss Sullivan did by repeating to me as far as possible, verbatim, what Miss Sullivan heard, and by showing me how I could take part in the conversation\\.",
+    "optimal_answer" : "by repeating to you as far as possible verbatim what she heard and by showing you how you could take part in the conversation"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "Who finds it very difficult to acquire the amenities of conversation?",
+    "answer" :"The deaf and the blind ﬁnd it very difﬁcult to acquire the amenities of conversation\\.",
+    "optimal_answer" : "the deaf and the blind"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "How long did it take for me to venture to take the initiative?",
+    "answer" :"But it was a long time before I ventured to take the initiative, and still longer before I could ﬁnd something appropriate to say at the right time\\.",
+    "optimal_answer" : "a long time"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "Is it very difficult for a deaf and blind to acquire the amenities of conversation?",
+    "answer" :"The deaf and the blind ﬁnd it very difﬁcult to acquire the amenities of conversation\\.",
+    "optimal_answer" : "yes"
+  },
+  {
+    "source": "",
+    "file": "Education.txt",
+    "query": "What can't a deaf and blind person do?",
+    "answer" :"Deaf and blind person cannot distinguish the tone of the voice or, without assistance, go up and down the gamut of tones that give signiﬁcance to words; nor can they watch the expression of the speaker’s face, and a look is often the very soul of what one says\\.",
+    "optimal_answer" : "distinguish the tone of the voice or without assistance go up and down the gamut of tones that give significance to words; nor can they watch the expression of the speaker’s face"
+  }
+]

@@ -1,0 +1,34 @@
+The Online Trading Log may be queried by several different fields.
+The results from your query may be extensive or very narrow depending on which fields you query.
+It is important to understand the query fields, knowing when and how to use them results in a much more effective investigation.
+This will also reduce the time required to search through the information presented after the query.
+Once the logs have been queried it is important to know how to read the data retrieved.
+The Online Trading Error Messages page outlines a variety of transactions and proves very helpful when addressing client Trading inquiries.
+Morgan Stanley Online Entitlements provides a role-based entitlements model for Morgan Stanley Online that defines Full Access or View Only access to client information.
+Access level is determined by Social Security Number (SSN) or Passport number.
+If an SSN or Passport number is not found on the account then the client will have view only access.
+If an SSN or Passport number entered by the user is recognized on the account then the user will be provided full access.
+Full access allows transactional privileges to the user for Online Bill Pay, Online Transfers, Trading, and eDelivery.
+Clients scheduling both internal and external transfers can view the available funds amount for each of their internal Morgan Stanley (MS) accounts during the transfer initiation procedure.
+The Available Funds popup box displays the selected funding account's Available Funds, or Spending Power, which is the sum of the account's Cash Available and Margin Available Credit, minus any Delayed Debit Card Transactions.
+Spending Power information is displayed to the client in real time, based on the same data displayed in the Account Summaries on MS Online and 3D.
+In order for clients to send or receive money from an external account (i.e., an account at another financial institution in the United States) that they own, they must enter details of the external account into the Online Transfers service, which is available on the Transfer tab in morganstanley.com/online.
+A trial deposit executes when two small deposits are sent to the client's external account to ensure that the client is the owner of and has access to the external account.
+All Online Transfers transactions, both internal and external, that are in an Awaiting Approval or a Scheduled status can be cancelled by the client prior to execution.
+For recurring transactions, the client has the ability to cancel the entire recurring instruction or cancel only the next transfer of a scheduled recurring payment.
+Client Service Centers (CSC) receives calls from clients with questions or concerns about their Online Transfers transactions or instructions.
+In some cases, clients may request modification or cancellation of a scheduled Online Transfers transaction.
+The Online Transfers system screens include an Estimated Arrival Date field for both internal and external transfers.
+Essentially, this field displays the first available transfer date for the transaction.
+Internal transfers will, under normal circumstances, be executed on the same day if initiated before 8:00 p.m. Eastern Time, Monday through Friday.
+In these cases, the Estimated Arrival Date is the same as the transaction's Initiation Date.
+If the client schedules an internal transfer after the cut-off time, the transfer will be executed on the next business day.
+Certain internal transfers will require bank approval, which may take up to two (2) business days.
+For external transfers, deposits will appear in the client's account on the next business day.
+Withdrawals are debited from the client's account immediately on the initiation day of the transfer, but may not arrive at the destination bank for an estimated three (3) business days.
+Financial Advisors (FAs) and Client Service Associates (CSAs) use 3D Desktop (3D) to enroll clients for Online Trading.
+This procedure outlines the steps the FA/CSA must perform to enroll a client for Online Trading.
+Familiarity with this procedure allows the service professional to assist clients and answer any questions that may arise.
+The Morgan Stanley Online Entitlements grants different user types access to different MSSB.com services.
+This document outlines the eLOA service access levels for the different user types.
+This document provides the knowledge to enable CIS Service Professionals to validate a specific user's access level to the identified services.

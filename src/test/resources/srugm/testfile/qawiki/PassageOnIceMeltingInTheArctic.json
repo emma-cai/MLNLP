@@ -1,0 +1,58 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnIceMeltingInTheArctic.txt",
+    "query": "Who were stunned at the result of scientific studies?",
+    "answer" :"Scientists and meteorologists are stunned at the result of scientific studies: warming and ice melting in the Arctic has been twice as fast as the rest of the globe over the last fifty years\\.",
+    "optimal_answer": "Scientists and meteorologists"
+  },
+  {
+    "source":"",
+    "file": "PassageOnIceMeltingInTheArctic.txt",
+    "query": "Why Scientists and meteorologists were stunned at the result of scientific studies?",
+    "answer" :"Scientists and meteorologists are stunned at the result of scientific studies: warming and ice melting in the Arctic has been twice as fast as the rest of the globe over the last fifty years\\.",
+    "optimal_answer": " warming and ice melting in the Arctic has been twice as fast as the rest of the globe over the last fifty years"
+  },
+  {
+    "source":"",
+    "file": "PassageOnIceMeltingInTheArctic.txt",
+    "query": "Is the warming in the Arctic same as in the rest of the globe?",
+    "answer" :"Scientists and meteorologists are stunned at the result of scientific studies: warming and ice melting in the Arctic has been twice as fast as the rest of the globe over the last fifty years\\.",
+    "optimal_answer": "No"
+  },
+  {
+    "source":"",
+    "file": "PassageOnIceMeltingInTheArctic.txt",
+    "query": "How many times is warming faster in the Arctic than in the rest of the globe?",
+    "answer" :"Scientists and meteorologists are stunned at the result of scientific studies: warming and ice melting in the Arctic has been twice as fast as the rest of the globe over the last fifty years\\.",
+    "optimal_answer": "twice"
+  },
+  {
+    "source":"",
+    "file": "PassageOnIceMeltingInTheArctic.txt",
+    "query": "What happens in the sea when the sea-level climbs?",
+    "answer" :"The sea-level could climb and flood low areas\\.",
+    "optimal_answer": "flood low areas"
+  },
+  {
+    "source":"",
+    "file": "PassageOnIceMeltingInTheArctic.txt",
+    "query": "What are the 2 species expected to be on the brink of extinction?",
+    "answer" :"On sea two main species are expected to be on the brink of extinction: seals and white polar bears\\.",
+    "optimal_answer": "Seals and white polar bears"
+  },
+  {
+    "source":"",
+    "file": "PassageOnIceMeltingInTheArctic.txt",
+    "query": "How much the snow on land has decreased?",
+    "answer" :"Snow on land has decreased by about 10 and temperature during the winter has risen as much as 5 to 7 degrees in Alaska and eastern Canada\\.",
+    "optimal_answer": "about 10"
+  },
+  {
+    "source":"",
+    "file": "PassageOnIceMeltingInTheArctic.txt",
+    "query": "What is the temperature in Alaska and Eastern Canada during winter?",
+    "answer" :"Snow on land has decreased by about 10 and temperature during the winter has risen as much as 5 to 7 degrees in Alaska and eastern Canada\\.",
+    "optimal_answer": "5 to 7 degrees"
+  }
+]

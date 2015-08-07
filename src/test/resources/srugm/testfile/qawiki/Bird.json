@@ -1,0 +1,135 @@
+[
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who was Sindhuka?",
+    "answer" :"A long time ago, on a big tree in the lap of the mountain, lived a bird named Sindhuka\\.",
+    "optimal_answer" : "A bird"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "What was the name of the bird?",
+    "answer" :"A long time ago, on a big tree in the lap of the mountain, lived a bird named Sindhuka\\.",
+    "optimal_answer" : "Sindhuka"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Why was Sindhuka referred to as a special bird?",
+    "answer" :"It was a rather special bird because its droppings turned into gold as soon as they hit the ground\\.",
+    "optimal_answer" : "Its droppings turned into gold"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Whose droppings turned into gold as soon as they hit the ground?",
+    "answer" :"It was a rather special bird because its droppings turned into gold as soon as they hit the ground\\.",
+    "optimal_answer" : "Sindhuka"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who came to the tree in search of the prey?",
+    "answer" :"One day, a hunter came to the tree in search of prey and he saw Sindhuka’s droppings hit the ground and turn into gold\\.",
+    "optimal_answer" : "A hunter"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "What did the hunter see?",
+    "answer" :"One day, a hunter came to the tree in search of prey and he saw Sindhuka’s droppings hit the ground and turn into gold\\.",
+    "optimal_answer" : "Sindhuka's droppings"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who was struck with wonder?",
+    "answer" :"The hunter was struck with wonder\\.",
+    "optimal_answer" : "The hunter."
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "How old was the hunter?",
+    "answer" :"The hunter thought, “I have been hunting birds and small animals since I was a boy, but in all my 80 years, I have never seen such a miraculous creature\\.“",
+    "optimal_answer" : "80"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "What did the hunter decide?",
+    "answer" :"The hunter decided that he had to catch the bird somehow\\.",
+    "optimal_answer" : "to catch the bird"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who set a trap for the bird?",
+    "answer" :"He climbed the tree and skillfully set a trap for the bird\\.",
+    "optimal_answer" : "the hunter|He"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who was caught in the hunter’s trap?",
+    "answer" :"But it was soon caught in the hunter’s trap\\.",
+    "optimal_answer" : "Sindhuka|It"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "What did the hunter do after the bird was trapped?",
+    "answer" :"The hunter immediately seized the bird and shoved the bird into a cage\\.",
+    "optimal_answer" : "shoved the bird into a cage"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who did the hunter seize and shove into the cage?",
+    "answer" :"The hunter immediately seized the bird and shoved the bird into a cage\\.",
+    "optimal_answer" : "Sindhuka|the bird"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who took the bird to the king?",
+    "answer" :"So it would be safer and more honourable if I were to go to the king and present the unique bird to him\\.|The next day, the hunter took the bird to the king and presented it to him in court with great reverence\\.",
+    "optimal_answer" : "the hunter"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "What did the hunter present to the king?",
+    "answer" :"So it would be safer and more honourable if I were to go to the king and present the unique bird to him\\.|The next day, the hunter took the bird to the king and presented it to him in court with great reverence\\.",
+    "optimal_answer" : "the bird"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who was reluctant to accept the bird?",
+    "answer" :"The king’s prime minister though, was reluctant to accept the bird\\.",
+    "optimal_answer" : "The king’s prime minister|The king's prime minister"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who said to release the bird from the cage?",
+    "answer" :"So the king ordered the bird to be released\\.",
+    "optimal_answer" : "The king"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "Who ordered the bird to be released?",
+    "answer" :"So the king ordered the bird to be released\\.",
+    "optimal_answer" : "The king"
+  },
+  {
+    "source": "",
+    "file": "Bird.txt",
+    "query": "What happened when the door of the cage was opened?",
+    "answer" :"But as soon as the door of the cage was thrown open, the bird flew out, perched itself on a nearby doorway and defecated\\.",
+    "optimal_answer" : "the bird flew out, perched itself on a nearby doorway and defecated"
+  }
+]

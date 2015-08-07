@@ -1,0 +1,114 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was Adolf Hitler?",
+    "answer" :"Adolf Hitler was an Austrian-born German politician who was the leader of the Nazi Party \\(German: National sozialistische Deutsche Arbeiter partei \\(NSDAP\\); National Socialist German Workers Party\\)\\.|Adolf Hitler was chancellor of Germany from 1933 to 1945 and Führer \\(leader\\) of Nazi Germany from 1934 to 1945\\.",
+    "optimal_answer": "Austrian-born German politician who was the leader of the Nazi Party"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was an Austrian born German politician?",
+    "answer" :"Adolf Hitler was an Austrian-born German politician who was the leader of the Nazi Party \\(German: National sozialistische Deutsche Arbeiter partei \\(NSDAP\\); National Socialist German Workers Party\\)\\.",
+    "optimal_answer": "Adolf Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was an Austrian-born German politician?",
+    "answer" :"Adolf Hitler was an Austrian-born German politician who was the leader of the Nazi Party \\(German: National sozialistische Deutsche Arbeiter partei \\(NSDAP\\); National Socialist German Workers Party\\)\\.",
+    "optimal_answer": "Adolf Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was the leader of the Nazi Party?",
+    "answer" :"Adolf Hitler was an Austrian-born German politician who was the leader of the Nazi Party \\(German: National sozialistische Deutsche Arbeiter partei \\(NSDAP\\); National Socialist German Workers Party\\)\\.",
+    "optimal_answer": "Adolf Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was the chancellor of Germany from 1933 to 1945?",
+    "answer" :"Adolf Hitler was chancellor of Germany from 1933 to 1945 and Führer \\(leader\\) of Nazi Germany from 1934 to 1945\\.",
+    "optimal_answer": "Adolf Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was the leader of Nazi Germany from 1934 to 1945?",
+    "answer" :"Adolf Hitler was chancellor of Germany from 1933 to 1945 and Führer \\(leader\\) of Nazi Germany from 1934 to 1945\\.",
+    "optimal_answer": "Adolf Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was the leader of Nazi Germany from 1934 to 1945?",
+    "answer" :"Adolf Hitler was chancellor of Germany from 1933 to 1945 and Führer \\(leader\\) of Nazi Germany from 1934 to 1945\\.",
+    "optimal_answer": "Adolf Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was the effective dictator of Nazi Germany?",
+    "answer" :"As effective dictator of Nazi Germany, Hitler was at the centre of World War II in Europe, and the Holocaust\\.",
+    "optimal_answer": "Adolf Hitler|Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was at the centre of World War II in Europe?",
+    "answer" :"As effective dictator of Nazi Germany, Hitler was at the centre of World War II in Europe, and the Holocaust\\.",
+    "optimal_answer": "Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "When did Hitler became chancellor of Germany?",
+    "answer" :"Adolf Hitler was chancellor of Germany from 1933 to 1945 and Führer \\(leader\\) of Nazi Germany from 1934 to 1945\\.",
+    "optimal_answer": "from 1933 to 1945"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "When did Hitler became leader of Nazi Germany?",
+    "answer" :"Adolf Hitler was chancellor of Germany from 1933 to 1945 and Führer \\(leader\\) of Nazi Germany from 1934 to 1945\\.",
+    "optimal_answer": "1934 "
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who was a decorated veteran of World War I?",
+    "answer" :"Hitler was a decorated veteran of World War I\\.",
+    "optimal_answer": "Hitler"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who joined the German Workers' Party in 1919?",
+    "answer" :"He joined the German Workers' Party \\(precursor of the NSDAP\\) in 1919, and became leader of the NSDAP in 1921\\.",
+    "optimal_answer": "Hitler|He"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who became leader of the NSDAP in 1921?",
+    "answer" :"He joined the German Workers' Party \\(precursor of the NSDAP\\) in 1919, and became leader of the NSDAP in 1921\\.",
+    "optimal_answer": "Adolf Hitler|He"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "What resulted in Hitler's imprisonment?",
+    "answer" :"The failed coup resulted in Hitler's imprisonment, during which time he wrote his autobiography and political manifesto Mein Kampf \\(\\\"My Struggle\\\"\\)\\.",
+    "optimal_answer": "The failed coup"
+  },
+  {
+    "source":"",
+    "file": "PassageOnAdolfHitler.txt",
+    "query": "Who wrote political manifesto Mein Kampf?",
+    "answer" :"The failed coup resulted in Hitler's imprisonment, during which time he wrote his autobiography and political manifesto Mein Kampf \\(\\\"My Struggle\\\"\\)\\.",
+    "optimal_answer": "Adolf Hitler"
+  }
+]

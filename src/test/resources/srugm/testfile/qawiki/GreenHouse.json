@@ -1,0 +1,121 @@
+[
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What is Greenhouse effect?",
+    "answer" :"The greenhouse effect is the process by which absorption and emission of infrared radiation by gases in a planet's atmosphere warm its lower atmosphere and surface\\.",
+    "optimal_answer" : "the process by which absorption and emission of infrared radiation by gases in a planet's atmosphere warm its lower atmosphere and surface"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "Who proposed the greenhouse effect?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "Joseph Fourier"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What did Joseph Fourier proposed?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "The greenhouse effect"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "When was greenhouse effect proposed?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "In 1824"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "Who discovered greenhouse effect?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "John Tyndall"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What did John Tyndall discovered?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "greenhouse effect"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "When was greenhouse effect discovered?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "1860"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "Who first investigated greenhouse effect quantitatively?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "Svante Arrhenius"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "When was greenhouse effect investigated quantitatively?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "1896"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "Who developed the greenhouse effect?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "Guy Stewart Callendar"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What did Svante Arrhenius investigated?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "The greenhouse effect"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What did Guy Stewart Callendar developed?",
+    "answer" :"The greenhouse effect was proposed by Joseph Fourier in 1824, discovered in 1860 by John Tyndall, was first investigated quantitatively by Svante Arrhenius in 1896, and was developed in the 1930s through 1960s by Guy Stewart Callendar\\.",
+    "optimal_answer" : "the greenhouse effect"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What is the mean warming effect of the greenhouse gases?",
+    "answer" :"On Earth, naturally occurring amounts of greenhouse gases have a mean warming effect of about 33 °C \\(59 °F\\)\\.",
+    "optimal_answer" : "about 33 ° C"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What is the Earth’s average temperature?",
+    "answer" :"Without the Earth's atmosphere, the Earth's average temperature would be well below the freezing temperature of water\\.",
+    "optimal_answer" : "below the freezing temperature of water\\."
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What are the major greenhouse gases?",
+    "answer" :"The major greenhouse gases are water vapor, which causes about 36–70% of the greenhouse effect; carbon dioxide \\(CO2\\), which causes 9–26%; methane \\(CH4\\), which causes 4–9%; and ozone \\(O3\\), which causes 3–7%\\.",
+    "optimal_answer" : "water vapor"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What leads to the increase in the amount of greenhouse gases in the atmosphere?",
+    "answer" :"Human activity since the Industrial Revolution has increased the amount of greenhouse gases in the atmosphere, leading to increased radiative forcing from CO2, methane, tropospheric ozone, CFCs and nitrous oxide\\.",
+    "optimal_answer" : "human activity"
+  },
+  {
+    "source":"",
+    "file": "GreenHouse.txt",
+    "query": "What is the increased percentage of CO2 and methane?",
+    "answer" :"According to work published in 2007, the concentrations of CO2 and methane have increased by 36% and 148% respectively since 1750\\.",
+    "optimal_answer" : "36% and 148%"
+  }
+]

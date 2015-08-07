@@ -1,0 +1,30 @@
+[
+  {
+    "source":"",
+    "file":"Youth.txt",
+    "query":"Who was born in 1460 ?",
+    "answer" :"Juan Ponce de Leon was born in 1460 in Santeveras, Spain\\.",
+    "optimal_answer":"Juan Ponce de Leon"
+  },
+  {
+    "source":"",
+    "file":"Youth.txt",
+    "query":"What happened in the early 1490's?",
+    "answer" :"He helped fight the Muslims in southern Spain in the early 1490's\\.",
+    "optimal_answer":"(de Leon)|(He) helped fight the Muslims in southern Spain"
+  },
+  {
+    "source":"",
+    "file":"Youth.txt",
+    "query":"Who was on board Christopher Columbus' second expedition to the Americas?",
+    "answer" :"He was on board Christopher Columbus' second expedition to the Americas in 1493\\.",
+    "optimal_answer":"de Leon|He"
+  },
+  {
+    "source":"",
+    "file":"Youth.txt",
+    "query":"How were the spanish explorers?",
+    "answer" :"Like many Spanish explorers, he was blood thirsty for gold\\.",
+    "optimal_answer":"blood thirsty for gold"
+  }
+]

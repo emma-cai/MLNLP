@@ -1,0 +1,44 @@
+[
+  {
+    "file": "Galaxy.txt",
+    "query": "What is a Galaxy?",
+    "answer" :"A galaxy is a gravitationally bound system consisting of stars, stellar remnants, interstellar gas and dust, and dark matter\\.",
+    "optimal_answer" : "A gravitationally bound system consisting of stars, stellar remnants, interstellar gas and dust, and dark matter"
+  },
+  {
+    "file": "Galaxy.txt",
+    "query": "What do the Galaxy consists of?",
+    "answer" :"A galaxy is a gravitationally bound system consisting of stars, stellar remnants, interstellar gas and dust, and dark matter\\.",
+    "optimal_answer" : "stars, stellar remnants, interstellar gas and dust, and dark matter"
+  },
+  {
+    "file": "Galaxy.txt",
+    "query": "Where was the word galaxy derived from?",
+    "answer" : "The word galaxy is derived from the Greek galaxias, literally milky, a reference to the Milky Way\\.",
+    "optimal_answer" : "from the Greek galaxias"
+  },
+  {
+    "file": "Galaxy.txt",
+    "query": "How does galaxy word derived?",
+    "answer" : "The word galaxy is derived from the Greek galaxias, literally milky, a reference to the Milky Way\\.",
+    "optimal_answer" : "from the Greek galaxias"
+  },
+  {
+    "file": "Galaxy.txt",
+    "query": "What can be categorized according to the visual morphology?",
+    "answer" :"Galaxies can be categorized according to their visual morphology, including elliptical, spiral, and irregular\\.",
+    "optimal_answer" : "Galaxies"
+  },
+  {
+    "file": "Galaxy.txt",
+    "query": "How galaxies can be categorized?",
+    "answer" :"Galaxies can be categorized according to their visual morphology, including elliptical, spiral, and irregular\\.",
+    "optimal_answer" : "according to their visual morphology"
+  },
+  {
+    "file": "Galaxy.txt",
+    "query": "What can we find at the active center of the galaxies?",
+    "answer" :"Many galaxies are believed to have black holes at their active center\\.",
+    "optimal_answer" : "black holes"
+  }
+]

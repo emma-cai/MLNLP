@@ -1,0 +1,44 @@
+[
+  {
+    "source":"",
+    "file":"Tausche.txt",
+    "query":"Where was Tausche born?",
+    "answer" :"Tausche was born in Minneapolis, Minnesota\\.",
+    "optimal_answer":"Minneapolis, Minnesota"
+  },
+  {
+    "source":"",
+    "file":"Tausche.txt",
+    "query":"Where did Tausche graduate from?",
+    "answer" :"Tausche graduated from Greater Atlanta Christian School in 2004\\.",
+    "optimal_answer":"Greater Atlanta Christian School"
+  },
+  {
+    "source":"",
+    "file":"Tausche.txt",
+    "query":"Where did Tausche attend university?",
+    "answer" :"Tausche then attended University of North Carolina at Chapel Hill, earning a bachelor's degree in 2008 in business journalism and international politics\\.",
+    "optimal_answer":"Chapel Hill"
+  },
+  {
+    "source":"",
+    "file":"Tausche.txt",
+    "query":"What did Tausche earn a bachelor's degree in?",
+    "answer" :"Tausche then attended University of North Carolina at Chapel Hill, earning a bachelor's degree in 2008 in business journalism and international politics\\.",
+    "optimal_answer":"business journalism and international politics"
+  },
+  {
+    "source":"",
+    "file":"Tausche.txt",
+    "query":"What did Tausche receive honors for?",
+    "answer" :"She received honors for in-depth research for analyzing the way international newspapers covered the handover of Hong Kong from British to Chinese rule\\.",
+    "optimal_answer":"in-depth research for analyzing the way international newspapers covered the handover of Hong Kong from British to Chinese rule"
+  },
+  {
+    "source":"",
+    "file":"Tausche.txt",
+    "query":"Is Tausche an avid marathon runner?",
+    "answer" :"According to her Twitter profile, she is now an avid marathon runner\\.",
+    "optimal_answer":"yes"
+  }
+]

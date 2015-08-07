@@ -1,0 +1,163 @@
+[
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What is Hooke’s law ?",
+    "answer" :"Hooke's law is a principle of physics that states that the force F needed to extend or compress a spring by some distance X is proportional to that distance\\.",
+    "optimal_answer" : "a principle of physics( that states that the force F needed to extend or compress a spring by some distance X is proportional to that distance)?"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "In what kind of situations does the Hooke’s equation hold?",
+    "answer" :"Hooke's equation in fact holds \\(to some extent\\) in many other situations where an elastic body is deformed, such as wind blowing on a tall building, a musician plucking a string of a guitar, or the filling of a party balloon\\.",
+    "optimal_answer" : "an elastic body is deformed"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "For what kind of material or body is the Hooke’s equation assumed ?",
+    "answer" :"An elastic body or material for which Hooke's law can be assumed is said to be linear-elastic or Hookean\\.",
+    "optimal_answer" : "an elastic body or material"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What is the material for which the Hooke’s law can be assumed?",
+    "answer" :"An elastic body or material for which Hooke's law can be assumed is said to be linear-elastic or Hookean\\.",
+    "optimal_answer" : "an elastic body or material"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What are linear-elastic or Hookean materials?",
+    "answer" :"An elastic body or material for which Hooke's law can be assumed is said to be linear-elastic or Hookean\\.",
+    "optimal_answer" : "an elastic body or material for which Hooke's law can be assumed"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What is a first order linear approximation to the real response of springs and other elastic bodies to applied forces?",
+    "answer" :"Hooke's law is only a first order linear approximation to the real response of springs and other elastic bodies to applied forces\\.",
+    "optimal_answer" : "Hooke's law"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "Which law is a first order linear approximation to the real response of springs and other elastic bodies to applied forces?",
+    "answer" :"Hooke's law is only a first order linear approximation to the real response of springs and other elastic bodies to applied forces\\.",
+    "optimal_answer" : "Hooke's law"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What are the situations where Hooke’s equation holds?",
+    "answer" :"Hooke's equation in fact holds \\(to some extent\\) in many other situations where an elastic body is deformed, such as wind blowing on a tall building, a musician plucking a string of a guitar, or the filling of a party balloon\\.",
+    "optimal_answer" : "an elastic body is deformed"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "How is the Hooke’s law a first order linear approximation?",
+    "answer" :"Hooke's law is only a first order linear approximation to the real response of springs and other elastic bodies to applied forces\\.",
+    "optimal_answer" : "Hooke's law is only a first order linear approximation to the real response of springs and other elastic bodies to applied forces"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "When does the Hooke’s law fail?",
+    "answer" :"The Hooke's law must eventually fail once the forces exceed some limit, since no material can be compressed beyond a certain minimum size, or stretched beyond a maximum size, without some permanent deformation or change of state\\.",
+    "optimal_answer" : "once the forces exceed some limit"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "Who was Robert Hooke?",
+    "answer" :"Hooke's law is named after the 17th century British physicist Robert Hooke\\.",
+    "optimal_answer" : "the 17th century British physicist"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "How was Hooke's law named?",
+    "answer" :"Hooke's law is named after the 17th century British physicist Robert Hooke\\.",
+    "optimal_answer" : "after the 17th century British physicist Robert Hooke"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "Is the Hooke’s law an accurate approximation for solid bodies ?",
+    "answer" :"On the other hand, Hooke's law is an accurate approximation for most solid bodies, as long as the forces and deformations are small enough\\.",
+    "optimal_answer" : "Yes"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "Which law is extensively used in the field of science and engineering ?",
+    "answer" :"For this reason, Hooke's law is extensively used in all branches of science and engineering, and is the foundation of many disciplines such as seismology, molecular mechanics and acoustics\\.",
+    "optimal_answer" : "Hooke's law"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What is the fundamental principle behind the spring scale, the manometer, and the balance wheel of the mechanical clock?",
+    "answer" :"Hooke's law is also the fundamental principle behind the spring scale, the manometer, and the balance wheel of the mechanical clock\\.",
+    "optimal_answer" : "Hooke's law"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What is the fundamental principle behind the spring scale?",
+    "answer" :"Hooke's law is also the fundamental principle behind the spring scale, the manometer, and the balance wheel of the mechanical clock\\.",
+    "optimal_answer" : "Hooke's law"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What is the fundamental principle behind the manometer?",
+    "answer" :"Hooke's law is also the fundamental principle behind the spring scale, the manometer, and the balance wheel of the mechanical clock\\.",
+    "optimal_answer" : "Hooke's law"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What is the fundamental principle behind the balance wheel of the mechanical clock?",
+    "answer" :"Hooke's law is also the fundamental principle behind the spring scale, the manometer, and the balance wheel of the mechanical clock\\.",
+    "optimal_answer" : "Hooke's law"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "How does the modern theory of elasticity generalize Hooke's law?",
+    "answer" :"The modern theory of elasticity generalizes Hooke's law to say that the strain \\(deformation\\) of an elastic object or material is proportional to the stress applied to it\\.",
+    "optimal_answer" : "the strain deformation of an elastic object or material is proportional to the stress applied to strain deformation"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "What are the laws which can deduce the relationship between strain and stress for complex objects in terms of intrinsic properties of the materials ?",
+    "answer" :"In this general form, Hooke's law and Newton's laws of static equilibrium make it possible to deduce the relation between strain and stress for complex objects in terms of intrinsic properties of the materials it is made of\\.",
+    "optimal_answer" : "Hooke's law and Newton's laws of static equilibrium"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "Who was the British physicist from 17th century after whom the Hooke’s law was named after?",
+    "answer" :"Hooke's law is named after the 17th century British physicist Robert Hooke\\.",
+    "optimal_answer" : "Robert Hooke"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "When was Hooke’s law stated?",
+    "answer" :"Robert Hooke first stated Hooke's law in 1660 as a Latin anagram, whose solution he published in 1678 as Ut tensio, literally translated as: \\\"As the extension, so the force\\\" or a more common meaning is \\\"The extension is proportional to the force\\\"\\.",
+    "optimal_answer" : "1660"
+  },
+  {
+    "source":"",
+    "file": "HookeLaw.txt",
+    "query": "When did Robert Hooke publish the solution for the Hooke’s law?",
+    "answer" :"Robert Hooke first stated Hooke's law in 1660 as a Latin anagram, whose solution he published in 1678 as Ut tensio, literally translated as: \\\"As the extension, so the force\\\" or a more common meaning is \\\"The extension is proportional to the force\\\"\\.",
+    "optimal_answer" : "1678"
+  }
+]

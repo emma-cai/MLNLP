@@ -1,0 +1,121 @@
+[
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "What is Romeo Robot?",
+    "answer" :"Romeo is a research robot created from the collaboration of laboratories and companies like Aldebaran\\.",
+    "optimal_answer" : "Robot"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "Which company created the Romeo Robot?",
+    "answer" :"Romeo is a research robot created from the collaboration of laboratories and companies like Aldebaran\\.",
+    "optimal_answer" : "Aldebaran"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "What is the height of the Romeo Robot?",
+    "answer" :"This 140-cm humanoid robot is intended to deepen research on assistance for the elderly and those who have lost autonomy\\.|In four years, Romeo has gone from an ambitious vision of robotic assistance to a robot of measuring 1\\.4 m, known around the world\\.",
+    "optimal_answer" : "140-cm"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "How tall is the Romeo robot?",
+    "answer" :"This 140-cm humanoid robot is intended to deepen research on assistance for the elderly and those who have lost autonomy\\.|In four years, Romeo has gone from an ambitious vision of robotic assistance to a robot of measuring 1\\.4 m, known around the world\\.",
+    "optimal_answer" : "140-cm"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "Which Robot is intended to deepen research on assistance for the elderly and those who have lost autonomy?",
+    "answer" :"This 140-cm humanoid robot is intended to deepen research on assistance for the elderly and those who have lost autonomy\\.",
+    "optimal_answer" : "Romeo|This 140-cm humanoid robot"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "Who is intended to deepen research on assistance for the elderly and those who have lost autonomy?",
+    "answer" :"This 140-cm humanoid robot is intended to deepen research on assistance for the elderly and those who have lost autonomy\\.",
+    "optimal_answer" : "Romeo|This 140-cm humanoid robot"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "What does Romeo do?",
+    "answer" :"This 140-cm humanoid robot is intended to deepen research on assistance for the elderly and those who have lost autonomy\\.",
+    "optimal_answer" : "to deepen research on assistance for the elderly and those who have lost autonomy"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "What does Romeo robot do?",
+    "answer" :"This 140-cm humanoid robot is intended to deepen research on assistance for the elderly and those who have lost autonomy\\.",
+    "optimal_answer" : "to deepen research on assistance for the elderly and those who have lost autonomy"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "What happened in January 2009?",
+    "answer" :"Started in January 2009, the ROMEO Project has four main complementary goals\\.",
+    "optimal_answer" : "the ROMEO Project has four main complementary goals"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "Who initiated the Romeo Project?",
+    "answer" :"The Romeo project was initiated by Aldebaran Robotics\\.",
+    "optimal_answer" : "Aldebaran Robotics"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "When was the first project got completed?",
+    "answer" :"This first project was completed in December 2012\\.",
+    "optimal_answer" : "December 2012"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "What are the four main complementary goals of Romeo Project?",
+    "answer" :"Main complementary goals of Romeo Project cover several major aspects in the development of robotics in France - A mechatronic platform and interactive, open, and scalable software, Robot Staff Assistant, surveillance and HMI functions, A robust platform for research and a Platform for a commercial robotics cluster\\.",
+    "optimal_answer" : "They cover several major aspects in the development of robotics in France  A mechatronic platform and interactive open and scalable software Robot Staff Assistant surveillance and HMI functions A robust platform for research and a Platform for a commercial robotics cluster"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "Who funded the Romeo Project?",
+    "answer" :"The Romeo Project was initiated as part of a Fond unique interministeriel \\(FUI\\) \\[interdepartmental fund\\] funded by the French department of competitiveness, industry, and services \\(DGCIS\\), the government of the Ile-de-France region, and the city of Paris under the auspices of Cap Digital\\.",
+    "optimal_answer" : "the French department of competitiveness industry and services DGCIS the government of the Ile-de-France region and the city of Paris under the auspices of Cap Digital"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "Who has gone from an ambitious vision of robotic assistance to a robot of measuring 1.4 m?",
+    "answer" :"In four years, Romeo has gone from an ambitious vision of robotic assistance to a robot of measuring 1\\.4 m, known around the world\\. ",
+    "optimal_answer" : "Romeo"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "Who ordered the first units of Romeo?",
+    "answer" :"The first units have been ordered by French and European laboratories\\.",
+    "optimal_answer" : "french and european laboratories"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "Which laboratory ordered the first units?",
+    "answer" :"The first units have been ordered by French and European laboratories\\.",
+    "optimal_answer" : "french and european laboratories"
+  },
+  {
+    "source":"",
+    "file": "Romeo.txt",
+    "query": "What is FUI project?",
+    "answer" :"The dynamic founder of the robotics subsidiary for French services, created by this FUI project, is already extending into new national and European partnerships\\.",
+    "optimal_answer" : "Fond unique interministeriel|The dynamic founder of the robotics subsidiary for French services, created by this FUI project"
+  }
+]

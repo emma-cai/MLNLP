@@ -1,0 +1,112 @@
+[
+  {
+    "file":"MorganStanley.txt",
+    "query":"What do the results depend on?",
+    "answer":"which fields you query"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What does the Online Trading Error Messages page outline?",
+    "answer":"variety of transactions and proves very helpful when addressing client Trading inquiries"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What happens if the SSN or Passport number is not found on the account?",
+    "answer":"client will have view only access"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What does the role based entitlements model provide?",
+    "answer":"full access or view only access to client information"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"How are the Available Funds displayed?",
+    "answer":"available funds popup box"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"How is the Spending Power information displayed?",
+    "answer":"in real time"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What should the clients do to send or receive money from an external account that they own?",
+    "answer":"clients must enter details of the external account into the Online Transfers service"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"Where are the online transfers service available?",
+    "answer":"available on the Transfer tab in morganstanley\\.com"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"Can cancellations be done for recurring transactions?",
+    "answer":"client has the ability to cancel the entire recurring"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"Who receives calls from the clients about concerns on their online transfer transactions?",
+    "answer":"client service centers"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What does the Estimated arrival date field display?",
+    "answer":"first available transfer date"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"When will internal transfers be executed under normal circumstances?",
+    "answer":"same day"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"How is the Estimated Arrival Date in relation to the transaction's Initiation Date?",
+    "answer":"the estimated arrival date is the same as the transaction's initiation date"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What happens if the client schedules an internal transfer after the cut-off time?",
+    "answer":"the transfer will be executed on the next business day"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What is required for internal transfers?",
+    "answer":"bank approval"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"How many days is required for bank approval?",
+    "answer":"two \\(2\\) business days"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What happens with external transfers?",
+    "answer":"For external transfers, deposits will appear in the client's account on the next business day."
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"When will the withdrawals be debited from the client't account for a transfer?",
+    "answer":"the initiation day of the transfer"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What does FAs and CSAs use to enroll clients for online trading?",
+    "answer":"3D desktop"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"Why do FAs and CSAs use 3D desktop?",
+    "answer":"to enroll clients for online trading"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"How is the service professional able to answer any questions that may arise?",
+    "answer":"familiarity with this procedure"
+  },
+  {
+    "file":"MorganStanley.txt",
+    "query":"What does the Morgan Stanley Online Entitlements grant users?",
+    "answer":"types access to different mssb.com services"
+  }
+]

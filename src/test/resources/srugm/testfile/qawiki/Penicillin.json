@@ -1,0 +1,65 @@
+[
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which drug is used against bacterial infections?",
+    "answer" :"All penicillins are β-lactam antibiotics and are used in the treatment of bacterial infections caused by susceptible, usually Gram-positive, organisms\\.",
+    "optimal_answer" : "Penicillin"
+  },
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which drug is widely used?",
+    "answer" :"Penicillins are still widely used today, though misuse has now made many types of bacteria resistant\\.",
+    "optimal_answer" : "Penicillin"
+  },
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which antibiotics are used in the treatment of bacterial infections?",
+    "answer" :"All penicillins are β-lactam antibiotics and are used in the treatment of bacterial infections caused by susceptible, usually Gram-positive, organisms\\.",
+    "optimal_answer" : "Penicillin"
+  },
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which two antibiotics has the same antibacterial activity as benzylpenicillin ?",
+    "answer" :"Procaine penicillin and benzathine penicillin have the same antibacterial activity as benzylpenicillin but act for a longer period of time\\.",
+    "optimal_answer" : "Procaine penicillin and benzathine penicillin"
+  },
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which antibiotic is less active against gram-negative bacteria?",
+    "answer" :"Phenoxymethylpenicillin is less active against gram-negative bacteria than benzylpenicillin\\.",
+    "optimal_answer" : "Phenoxymethylpenicillin"
+  },
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which antibiotic is less active against benzylpenicillin?",
+    "answer" :"Phenoxymethylpenicillin is less active against gram-negative bacteria than benzylpenicillin\\.",
+    "optimal_answer" : "Phenoxymethylpenicillin"
+  },
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which antibiotics are given by injection?",
+    "answer" :"Benzylpenicillin, procaine penicillin and benzathine penicillin are given by injection \\(parenterally\\), but phenoxymethylpenicillin is given orally\\.",
+    "optimal_answer" : "Benzylpenicillin, procaine penicillin and benzathine penicillin"
+  },
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which antibiotics are given parenterally?",
+    "answer" :"Benzylpenicillin, procaine penicillin and benzathine penicillin are given by injection \\(parenterally\\), but phenoxymethylpenicillin is given orally\\.",
+    "optimal_answer" : "Benzylpenicillin, procaine penicillin and benzathine penicillin"
+  },
+  {
+    "source":"",
+    "file": "Penicillin.txt",
+    "query": "Which antibiotic is given orally?",
+    "answer" :"Benzylpenicillin, procaine penicillin and benzathine penicillin are given by injection \\(parenterally\\), but phenoxymethylpenicillin is given orally\\.",
+    "optimal_answer" : "Phenoxymethylpenicillin"
+  }
+]

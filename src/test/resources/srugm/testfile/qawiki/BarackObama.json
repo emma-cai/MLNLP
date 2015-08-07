@@ -1,0 +1,142 @@
+[
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who is Barack Hussein Obama II?",
+    "answer" :"Barack Hussein Obama II is the 44th and current President of the United States, and the first African American to hold the office\\.",
+    "optimal_answer" : "President of the United States"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who is Barack Obama?",
+    "answer" :"Barack Hussein Obama II is the 44th and current President of the United States, and the first African American to hold the office\\.",
+    "optimal_answer" : "President of the United States"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who is the current President of the United States?",
+    "answer" :"Barack Hussein Obama II is the 44th and current President of the United States, and the first African American to hold the office\\.",
+    "optimal_answer" : "Barack Hussein Obama II"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Is Barack Hussein Obama II the President of India?",
+    "answer" :"Barack Hussein Obama II is the 44th and current President of the United States, and the first African American to hold the office\\.",
+    "optimal_answer" : "No"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who is the first African American to hold the office?",
+    "answer" :"Barack Hussein Obama II is the 44th and current President of the United States, and the first African American to hold the office\\.",
+    "optimal_answer" : "Barack Hussein Obama II"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Where was Barack Obama born?",
+    "answer" :"Born in Honolulu, Hawaii, Barack Obama is a graduate of Columbia University and Harvard Law School, where he served as president of the Harvard Law Review\\.",
+    "optimal_answer" : "((In )?Honolulu Hawaii|(In )?Honolulu|(In )?Hawaii)"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "From which universities did Obama graduate?",
+    "answer" :"Born in Honolulu, Hawaii, Barack Obama is a graduate of Columbia University and Harvard Law School, where he served as president of the Harvard Law Review\\.",
+    "optimal_answer" : "Columbia University and Harvard Law School"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who served as president of the Harvard Law Review?",
+    "answer" :"Born in Honolulu, Hawaii, Barack Obama is a graduate of Columbia University and Harvard Law School, where he served as president of the Harvard Law Review\\.",
+    "optimal_answer" : "Barack Obama"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who was a community organizer in Chicago?",
+    "answer" :"He was a community organizer in Chicago before earning his law degree\\.",
+    "optimal_answer" : "Barack Hussein Obama II|He"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who worked as a civil rights attorney at the University of Chicago Law School?",
+    "answer" :"He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School from 1992 to 2004\\.",
+    "optimal_answer" : "Barack Hussein Obama II|He"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who taught constitutional law at the University of Chicago Law School?",
+    "answer" :"He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School from 1992 to 2004\\.",
+    "optimal_answer" : "Barack Hussein Obama II|He"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "When did Obama work as a civil rights attorney at the University of Chicago Law School?",
+    "answer" :"He worked as a civil rights attorney and taught constitutional law at the University of Chicago Law School from 1992 to 2004\\.",
+    "optimal_answer" : "From 1992 to 2004"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "What did he serve in the Illinois Senate?",
+    "answer" :"He served three terms representing the 13th District in the Illinois Senate from 1997 to 2004, running unsuccessfully for the United States House of Representatives in 2000\\.",
+    "optimal_answer" : "representing the 13th District"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "When did Obama receive national attention?",
+    "answer" :"In 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November\\.",
+    "optimal_answer" : "2004"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "When was Obama elected to the United States Senate?",
+    "answer" :"In 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November\\.",
+    "optimal_answer" : "2004"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "When did Obama begin his presidential campaign?",
+    "answer" :"Obama began his presidential campaign in 2007 and, after a close primary campaign against Hillary Rodham Clinton in 2008, Obama won sufficient delegates in the Democratic Party primaries to receive the presidential nomination\\.",
+    "optimal_answer" : "2007"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who campaigned against Obama in the primaries?",
+    "answer" :"Obama began his presidential campaign in 2007 and, after a close primary campaign against Hillary Rodham Clinton in 2008, Obama won sufficient delegates in the Democratic Party primaries to receive the presidential nomination\\.",
+    "optimal_answer" : "Hillary Rodham Clinton"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who did Obama defeat in the general election?",
+    "answer" :"Obama then defeated Republican nominee John McCain in the general election, and was inaugurated as president on January 20, 2009\\.",
+    "optimal_answer" : "John McCain"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "Who won the 2009 Nobel Peace Prize in 2009?",
+    "answer" :"Nine months after his election, Obama was named the 2009 Nobel Peace Prize laureate\\.",
+    "optimal_answer" : "Barack Hussein Obama II|Obama"
+  },
+  {
+    "source": "",
+    "file": "BarackObama.txt",
+    "query": "When did Obama win the Nobel Peace Prize?",
+    "answer" :"Nine months after his election, Obama was named the 2009 Nobel Peace Prize laureate\\.",
+    "optimal_answer" : "2009"
+  }
+]

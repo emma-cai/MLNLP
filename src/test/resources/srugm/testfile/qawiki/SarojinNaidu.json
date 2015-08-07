@@ -1,0 +1,100 @@
+[
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who was Sarojini Naidu?",
+    "answer" :"Sarojini Naidu \\(born as Sarojini Chattopadhyay\\), also known by the sobriquet as The Nightingale of India, was an Indian independence activist and poet\\.|She was the second woman to become the president of the Indian National Congress in 1925 and the first Indian woman to do so\\.",
+    "optimal_answer" : "Nightingale of India|Indian independence activist and poet|the second woman to become the president of the Indian National Congress in 1925|The first woman becomes the governor of an Indian state The president of the Indian National Congress"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who was also known by the sobriquet as The Nightingale of India?",
+    "answer" :"Sarojini Naidu \\(born as Sarojini Chattopadhyay\\), also known by the sobriquet as The Nightingale of India, was an Indian independence activist and poet\\.",
+    "optimal_answer" : "Sarojini Naidu"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who was also called as The Nightingale of India?",
+    "answer" :"Sarojini Naidu \\(born as Sarojini Chattopadhyay\\), also known by the sobriquet as The Nightingale of India, was an Indian independence activist and poet\\.",
+    "optimal_answer" : "Sarojini Naidu"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who served as the first governor of the United Provinces of Agra?",
+    "answer" :"Naidu served as the first governor of the United Provinces of Agra and Oudh from 1947 to 1949; the first woman to become the governor of an Indian state\\.",
+    "optimal_answer" : "Sarojin Naidu|Naidu"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who served as the first governor of the United Provinces of Oudh?",
+    "answer" :"Naidu served as the first governor of the United Provinces of Agra and Oudh from 1947 to 1949; the first woman to become the governor of an Indian state\\.",
+    "optimal_answer" : "Sarojin Naidu|Naidu"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "When did Naidu served as the first governor of the United Provinces of Agra and Oudh?",
+    "answer" :"Naidu served as the first governor of the United Provinces of Agra and Oudh from 1947 to 1949; the first woman to become the governor of an Indian state\\.",
+    "optimal_answer" : "From 1947 to 1949"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who was the first woman to become the governor of an Indian state?",
+    "answer" :"Naidu served as the first governor of the United Provinces of Agra and Oudh from 1947 to 1949; the first woman to become the governor of an Indian state\\.",
+    "optimal_answer" : "Sarojin Naidu|Naidu"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who was the second woman to become the president of the Indian National Congress in 1925?",
+    "answer" :"She was the second woman to become the president of the Indian National Congress in 1925 and the first Indian woman to do so\\.",
+    "optimal_answer" : "Sarojin Naidu|She"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Where Sarojini Naidu was born?",
+    "answer" :"Sarojini Naidu was born in Hyderabad to Aghore Nath Chattopadhyay and Barada Sundari Debi on 13 February 1879\\.",
+    "optimal_answer" : "In Hyderabad"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "When Sarojini naidu was born?",
+    "answer" :"Sarojini Naidu was born in Hyderabad to Aghore Nath Chattopadhyay and Barada Sundari Debi on 13 February 1879\\.",
+    "optimal_answer" : "13 February 1879"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who were the parents of Sarojini Naidu?",
+    "answer" :"Sarojini Naidu's father, with a doctorate of Science from Edinburgh University, settled in Hyderabad, where he founded and administered Hyderabad College, which later became the Nizam's College in Hyderabad\\.",
+    "optimal_answer" : "Aghore Nath Chattopadhyay and Barada Sundari Debi"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Whose father was a doctorate of Science from Edinburgh University?",
+    "answer" :"Sarojini Naidu's father, with a doctorate of Science from Edinburgh University, settled in Hyderabad, where he founded and administered Hyderabad College, which later became the Nizam's College in Hyderabad\\.",
+    "optimal_answer" : "Sarojin Naidu"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Who founded and administered Hyderabad College?",
+    "answer" :"Sarojini Naidu's father, with a doctorate of Science from Edinburgh University, settled in Hyderabad, where he founded and administered Hyderabad College, which later became the Nizam's College in Hyderabad\\.",
+    "optimal_answer" : "Sarojini Naidu's father"
+  },
+  {
+    "source":"",
+    "file": "SarojinNaidu.txt",
+    "query": "Which College later became the Nizam's College in Hyderabad?",
+    "answer" :"Sarojini Naidu's father, with a doctorate of Science from Edinburgh University, settled in Hyderabad, where he founded and administered Hyderabad College, which later became the Nizam's College in Hyderabad\\.",
+    "optimal_answer" : "Hyderabad College"
+  }
+]

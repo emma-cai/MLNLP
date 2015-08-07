@@ -1,0 +1,191 @@
+If I have deleted a quiz from the Workbench in Moodle or from the beginning of the design process in Moodle, a quiz cannot be restored.
+If I have deleted a quiz from the stage "1st run", "2nd run", "Master" or "Offering" in Moodle, a quiz could be restored from the course Master or from the Workbench.
+All certified Designers are able to import a quiz back from the course Master or from the Workbench.
+Moodle provides a backup tool to create archives of my courses.
+In Moodle, Backups can also be used to copy course resources and activities from one course to another.
+A VLE is a software system designed to help teachers to facilitate and manage learning events.
+A VLE provides handy course administration to learners and facilitators.
+A VLE monitors the progress of learners and facilitators.
+A VLE provides flexible access to learners and facilitators.
+A VLE provides new ways of communicating and assessing to learners and facilitators.
+JPEG, PNG, and GIF are image formats.
+In Moodle only JPEG, PNG, and GIF can be used as images formats.
+A course director in Moodle is the equivalent of the Learning Activity Owner in LMS.
+A course director in Moodle is registered in Moodle as the owner of the course.
+A course director in Moodle has editing rights in Moodle.
+A Main Learning Designer in Moodle can assign a Co-designer to a Moodle project.
+A Co-designer of a Main Learning Designer in Moodle can support the creation of a course.
+A Main Learning Facilitator in Moodle is the overall facilitator of a course in Moodle.
+An edit on course date in Moodle is a minor edit in Moodle.
+An edit on a news update in Moodle is a minor edit in Moodle.
+An edit on some logistical aspects in Moodle is a minor edit in Moodle.
+A Guest Learning Facilitator in Moodle is a supporting facilitator responsible for certain parts of an event.
+A Guest Learning Facilitator in Moodle is a supporting facilitator responsible for certain topics of an event.
+A Guest Learning Facilitator in Moodle is a supporting facilitator responsible for certain parts of a course.
+A Guest Learning Facilitator in Moodle is a supporting facilitator responsible for certain topics of a course.
+A Guest Learning Facilitator in Moodle has no write-access to a course.
+A Test Participant in Moodle is a Functional user in Moodle.
+A Test Participant in Moodle is used to test the proper setup of a course from the perspective of a learner in Moodle.
+A Guest user in Moodle has no write-access to the course at all.
+A Guest user in Moodle can only view content that is open to guest users.
+A Guest user in Moodle is a special role that can be given limited access to specific courses for communication purposes only.
+It is possible that a learner sees content defects that are not visible to the learning professional.
+A Standard Request is a form that covers recurring requests.
+Standard Request are always handled in the same way by the Support Organization.
+A Main Learning Designer in Moodle has write-access to redesign a course.
+A Main Learning Designer in Moodle has write-access to create a course from scratch.
+Write-access for a Main Learning Designer in Moodle can be set at Moodle site level.
+Write-access for a Main Learning Designer in Moodle can be set at Moodle portfolio level.
+Write-access for a Main Learning Designer in Moodle can be set at Moodle course level.
+A Main Learning Facilitator in Moodle has limited write-access to certain course content in Moodle.
+An Event Facilitator in Moodle is generally a Learning Event Manager that requires access to do minor edits in Moodle.
+A Learning Content Management System is a multi-user environment.
+In a Learning Content Management System, learning developers create digital learning content.
+In a Learning Content Management System, learning developers store digital learning content.
+In a Learning Content Management System, learning developers reuse digital learning content.
+In a Learning Content Management System, learning developers manage digital learning content.
+In a Learning Content Management System, learning developers deliver digital learning content.
+A Learning Content Management System consists of a central object repository.
+A Learning Content Management System delivers digital learning content from a central object repository.
+Shell Open University is the platform for learning and development for the entire Shell Group.
+Shell Open University is a platform for learning and development.
+Shell Open University is used by the entire Shell Group for learning and development.
+Shell Open University consists of a Learning Management system called SABA.
+Shell Open University consists of a Virtual Learning Environment called Moodle.
+Shell Open University consists of a Learning Content Management System called ForceTen.
+Multiple Choice Questions can be created directly in a Quiz in Moodle.
+Multiple Choice Questions can be created using the course Question bank in Moodle.
+A Participant in Moodle is a learner of a course in Moodle.
+A Participant in Moodle cannot alter the content of the course in Moodle.
+A Participant in Moodle only take part in accessing the content and activities.
+The Moodle Admin manages Moodle from an operational perspective.
+The password of Moodle users needs to be changed every month, because of Information Risk Management requirements.
+Correct answers can be removed from the feedback in Quiz questions in Moodle.
+In Moodle users can request a new password by clicking on "Forgotten your password".
+Upon course registration, Moodle sends the account details to new external Moodle users by e-mail.
+The recommended course formats are Topics, Weekly and OneTopic.
+A user profile in Moodle can be changed through the Moodle interface.
+A Participant can be removed form a course in Moodle by un-enrolling in Saba.
+Moodle System Admin access is required to verify if a user has an account in Moodle.
+A File can be added as a resource in Moodle with the file picker.
+Images should be resized before uploading to Moodle.
+Images can be resized with free services like http://www.picresize.com.
+An image can be inserted into a page in Moodle with the text editor in Moodle.
+An image can be inserted into a label in Moodle with the text editor in Moodle.
+A Learning Management System is software for delivering trainings.
+A Learning Management System is software for tracking trainings.
+A Learning Management System is software for managing trainings.
+ForceTen is a Learning Content Management System.
+ForceTen is used in Shell to facilitate e-learnings.
+It is possible that a learner in Moodle sees content defects in Moodle that are not visible to a Learning Professional in Moodle.
+I do assign a role in Moodle by "Following the steps: 1. Browse to your course. 2. In the Administration block, under Course Administration, Expand the Users option. 3. Click on Enrolled users. 4. Click on the Enroll users button. 5. Choose the type of role you wish to assign. 6. Find the person you want to add to your course. 7. Click on the Enroll button beside the user to add the student to the course. 8. When done, Click on Finish enrolling users done.".
+Moodle is a Course Management System.
+Moodle is a free, open source, software package.
+Moodle is designed using sound pedagogical principles.
+The goal of Moodle is to help educators to create effective online learning communities.
+By default, a Main Learning Facilitator can assign the roles of Guest Learning Facilitator and Guest.
+A Main Learning Designer in Moodle can assign the role of Co-Designer in Moodle.
+Main Learning Facilitator in Moodle, Guest Learning Facilitator and Guest in Moodle.
+A Course Owner in Moodle can assign the role of Event Facilitator in Moodle.
+Some people are listed on the course participant list of because they have general access to a few courses.
+Learning Facilitators in Moodle and Designers in Moodle can use the Switch-role-to-feature in Moodle.
+Course creators in Moodle cannot use the Switch-role-to-feature in Moodle.
+The Switch-role-to-feature in Moodle can be used to see how a course appears to students in Moodle.
+A Facilitator in Moodle can use the Teacher-Grade-View get an overview of his tests and assignments.
+The Teacher-Grade-View in Moodle is located on the grades-area in Moodle.
+The grades-area in Moodle is located under Administrator and then Grades.
+A Learner in Moodle can use the Grade-view to get an overview of tests and assignments in Moodle.
+The Grade-view in Moodle is located on the left side of the screen from the course home page.
+Learners who are internal to Shell, should access Moodle through SABA.
+Learners who are internal to Shell, can access Moodle by clicking on the green launch button in SABA.
+Shift workers should access Moodle directly.
+Learners who are external to Shell, should access Moodle directly.
+Facilitators in Moodle should access Moodle directly, using their professional account.
+Professional Users in Moodle should access Moodle directly, using their professional account.
+By default only non-empty grades are aggregated.
+The grade-aggregation setting can be changed by turning on "Editing" in the grader report.
+The summary text of a section of a course in Moodle can be changed using the text editor.
+The graphics of a section of a course in Moodle can be changed using the text editor.
+In Moodle, course activities and resources may be imported from any other course that the facilitator has editing permissions in.
+To utilize the group mode, I first need to create the student groups.
+If student-groups are created in Moodle, the group-mode can be used in Moodle.
+The course list in Moodle is populated automatically.
+The course list in Moodle is ordered by enrollment date.
+If the course list gets shortened, a link to more courses is shown at the bottom of the page.
+New files that are added to a Moodle course should not go into legacy files.
+New files can be added to Moodle by uploading a file into the site.
+New files can be added to Moodle by creating an alias to an existing file on the server.
+Course outcomes are like competencies.
+Course outcomes are used in grading instead, of standard grade scores.
+A file that is already in Moodle can be re-used by copying.
+A file that is already in Moodle can be re-used by linking to the file using the File Picker.
+There is not a central area with course files in Moodle.
+In Moodle, Files are uploaded in connection with a Resource or an Activity using the File Picker.
+Examples of a Resource in Moodle are a File and a Page.
+Examples of an Activity in Moodle are a Forum and an Assignment.
+The File Picker can be used to upload a file to Moodle from a Computer and USB Drive.
+The text editor in Moodle can be used to embed animation files, images and media into a body of text.
+A Kaltura video can be added as a resource of a course page in Moodle.
+In Moodle, A Kaltura video can also be embedded into a body of text, using the text editor.
+A user can customize in his profile what he wants to get email notifications for.
+In Moodle, email notifications are automatically sent for forums and assignments.
+A Quiz in Moodle is created by adding an activity to a course page and configuring the questions in the question bank.
+Elements can be removed from the quiz feedback page, by and unchecking all four checkboxes for "Right Answer" on the "Review options" section.
+In Moodle, a reminder can be sent to all students within a course, by adding a news item to the course news forum.
+In Moodle, a general announcement can be sent, by adding a news item to the course news forum.
+To enable Course completion there are three areas to check: Course Settings, Completion Settings and the actual Activity settings.
+The Course Settings should be checked to enable Course Completion.
+The Completion Settings should be checked to enable Course Completion.
+The actual Activity settings should be checked to enable Course Completion.
+Blended Learning is quality learning that aims at impacting the business at the workplace.
+LCMS is an acronym for Learning Content Management System.
+SOU is an acronym for Shell Open University.
+MCQ is an acronym for Multiple Choice Question.
+VLE is an acronym for Virtual Learning Environment.
+IRM is an acronym for Information Risk Management.
+D&D is an acronym for Design & Development.
+HRSD is an acronym for HR Service Desk.
+LMS is an acronym for Learning Management System.
+LCMS is an acronym for Learning Content Management System.
+CMS is an acronym for Course Management System.
+I can reset my password by clicking on the "Forgotten your password" link.
+A facilitator can reset his password by clicking on the "Forgotten your password".
+I can add a calendar into a Moodle class by clicking on "Add calendar block" with "Course editing" turned on.
+I can upload any file type into Moodle as long as it makes sense.
+A facilitator cannot upload a file on behalf of a student.
+I cannot upload a file that a student has sent me into my Moodle class.
+I can add a new activity in Moodle by clicking on "Add activity" in any section with "Course editing" turned on.
+I can set up assignment due dates in the assignment settings.
+All final grades can be transferred from Moodle to SOU automatically.
+All final grades can also be transferred from Moodle to SOU via manual intervention.
+Automated grading in Moodle can be switched on for an existing course without redesigning the course.
+Moodle and SOU are linked by the Saba interface.
+The data in Moodle is refreshed by the Saba interface every 4 hours.
+It takes a maximum of 4 hours for data from SABA to get into Moodle.
+Designers in Moodle should access Moodle directly, using their professional account.
+A course director in Moodle can be changed with a Standard request for VLE, once the course director has been changed in SABA.
+The course director in SABA can be changed via a learning administration request.
+Grades can be changed from unsuccessful to successful after they have been closed.
+Face-2-Face results can be entered into a course in Moodle by adding an assignment without submission type.
+An assignment without a submission type was formally called an off-line assignment.
+My Moodle profile is in the top right corner in Moodle.
+I can access my profile in Moodle by clicking on my name in the top right corner in Moodle.
+I can create a chat by adding a chat activity.
+I can use the glossary activity as a mandatory activity by setting course completion criteria in the activity setting.
+I can set the Forum configuration such that students can give a score to each other by adding the Participant role to "rate post" in the forum permissions.
+LEM Support can check if a GLF has already a Moodle account by searching the GLF in the "Enroll users" menu.
+A GLF can be trained in Moodle usage with the Moodle course in SABA.
+The Moodle course in SABA is called "Moodle 2.5 Certification".
+The location of the Moodle course in SABA is https://sww-lms.shell.com/sabasso/saba_sso_redirect.jsp?sabaSiteURL=/Main/goto/RegisterCatalog?offeringId=blend000000000009270&oneClickLearningON=true
+Facilitators can be trained in Moodle usage with the Moodle course in SABA.
+Facilitators can be trained in incorporating Moodle into their course with the course Virtual Facilitation Skills. Barbara Kovacs is the course owner of the Virtual Facilitation Skills course.
+Moodle certification is available through the Moodle course in SABA.
+When Guest Learning Facilitators are added to the master course, they are added to all offerings automatically.
+I can download submitted assignment in a ZIP-file, by clicking on "Download all submission" in "Grading actions".
+"Grading Actions" is located on to op the page that shows the submissions of the assignment.
+When I have "Quick grading" turned on, I can fill the "feedback comments" on the overview page.
+A forum posting can be restricted to certain date by setting "allow access from" or "allow access until".
+A Moodle participants uploads a file into an assignment by "Going to the assignment, Clicking browse, select the file on his computer, clicking on 'Upload this file' and then clicking on 'submit the assignment'".
+The person who is listed as the course owner in SABA can be assigned the Course Director role in Moodle.
+A progress bar can be added to a course by adding the relevant Block via "Add a Block".
+A forum posting cannot be added to the upcoming events.

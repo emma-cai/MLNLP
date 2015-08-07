@@ -1,0 +1,72 @@
+[
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "What is TB?",
+    "answer" :"Tuberculosis, MTB, or TB \\(short for tubercle bacillus\\), in the past also called phthisis, phthisis pulmonalis, or consumption, is a widespread, and in many cases fatal, infectious disease caused by various strains of mycobacteria, usually Mycobacterium tuberculosis\\.",
+    "optimal_answer" : "Tubercle Bacillus"
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "What is Tuberculosis?",
+    "answer" :"Tuberculosis, MTB, or TB \\(short for tubercle bacillus\\), in the past also called phthisis, phthisis pulmonalis, or consumption, is a widespread, and in many cases fatal, infectious disease caused by various strains of mycobacteria, usually Mycobacterium tuberculosis\\.",
+    "optimal_answer" : "MTB|TB|a widespread, and in many cases fatal, infectious disease caused by various strains of mycobacteria"
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "What is Tuberculosis called in the past?",
+    "answer" :"Tuberculosis, MTB, or TB \\(short for tubercle bacillus\\), in the past also called phthisis, phthisis pulmonalis, or consumption, is a widespread, and in many cases fatal, infectious disease caused by various strains of mycobacteria, usually Mycobacterium tuberculosis\\.",
+    "optimal_answer" : "Phthisis, phthisis pulmonalis, or consumption"
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "Which infectious disease is caused by various strains of mycobacteria?",
+    "answer" :"Tuberculosis, MTB, or TB \\(short for tubercle bacillus\\), in the past also called phthisis, phthisis pulmonalis, or consumption, is a widespread, and in many cases fatal, infectious disease caused by various strains of mycobacteria, usually Mycobacterium tuberculosis\\.",
+    "optimal_answer" : "Tuberculosis"
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "Which part of body Tuberculosis typically attacks ?",
+    "answer" :"Tuberculosis typically attacks the lungs, but can also affect other parts of the body\\.",
+    "optimal_answer" : "The lungs"
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "What is the mode of spread of TB?",
+    "answer" :"It is spread through the air when people who have an active TB infection cough, sneeze, or otherwise transmit respiratory fluids through the air\\.",
+    "optimal_answer" : "air"
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "What is latent tuberculosis?",
+    "answer" :"Most infections do not have symptoms, known as latent tuberculosis\\.",
+    "optimal_answer" : "Infections that don't have symptoms"
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "What are the classic symptoms of active TB infection?",
+    "answer" :"The classic symptoms of active TB infection are a chronic cough with blood-tinged sputum, fever, night sweats, and weight loss \\(the latter giving rise to the formerly common term for the disease, \\\"consumption\\\"\\)\\.",
+    "optimal_answer" : "A chronic cough with blood-tinged sputum, fever, night sweats, and weight loss"
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "What dose diagnosis of latent TB rely on?",
+    "answer" :"Diagnosis of latent TB relies on the tuberculin skin test \\(TST\\) and/or blood tests\\.",
+    "optimal_answer" : "The tuberculin skin test TST and or blood tests|the tuberculin skin test( TST) and/or blood tests."
+  },
+  {
+    "source":"",
+    "file": "Tuberculosis.txt",
+    "query": "What does diagnosis of active TB rely on?",
+    "answer" :"Diagnosis of active TB relies on radiology \\(commonly chest X-rays\\), as well as microscopic examination and microbiological culture of body fluids\\.",
+    "optimal_answer" : "radiology commonly chest X-rays as well as microscopic examination and microbiological culture of body fluids"
+  }
+]

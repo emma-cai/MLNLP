@@ -1,0 +1,121 @@
+[
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What is malnutrition?",
+    "answer" :"Malnutrition or malnourishment is a condition that results from eating a diet in which nutrients are either not enough or are too much such that the diet causes health problems\\.|Malnutrition is often used specifically to refer to undernutrition where there is not enough calories, protein or micronutrients\\.",
+    "optimal_answer" : "A condition that results from eating a diet in which nutrients are either not enough or are too much such that the diet causes health problems"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "In which condition nutrients are either not enough or are too much such that the diet causes health problems?",
+    "answer" :"Malnutrition or malnourishment is a condition that results from eating a diet in which nutrients are either not enough or are too much such that the diet causes health problems\\.",
+    "optimal_answer" : "malnutrition or malnourishment"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What is undernutrition?",
+    "answer" :"Not enough nutrients is called under nutrition while too much is called overnutrition\\.",
+    "optimal_answer" : "Not enough nutrients"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What is overnutrition?",
+    "answer" :"Not enough nutrients is called under nutrition while too much is called overnutrition\\.",
+    "optimal_answer" : "too much"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "Which nutrition is often referred as undernutrition?",
+    "answer" :"Malnutrition is often used specifically to refer to undernutrition where there is not enough calories, protein or micronutrients\\.",
+    "optimal_answer" : "malnutrition"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What results in Malnutrition?",
+    "answer" :"Malnutrition or malnourishment is a condition that results from eating a diet in which nutrients are either not enough or are too much such that the diet causes health problems\\.",
+    "optimal_answer" : "eating a diet in which nutrients are either not enough or are too much"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What happens if undernutrition occurs during pregnancy?",
+    "answer" :"If undernutrition occurs during either pregnancy or before the age of two years of age it may result in permanent problems with physical and mental development\\.",
+    "optimal_answer" : "permanent problems with physical and mental development"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What happens if undernutrition occurs before the age of two years of age?",
+    "answer" :"If undernutrition occurs during either pregnancy or before the age of two years of age it may result in permanent problems with physical and mental development\\.",
+    "optimal_answer" : "permanent problems with physical and mental development"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What results in permanent problems with physical and mental development?",
+    "answer" :"If undernutrition occurs during either pregnancy or before the age of two years of age it may result in permanent problems with physical and mental development\\.",
+    "optimal_answer" : "undernutrition occurs during either pregnancy or before the age of two years of age"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What do you mean by extreme undernourishment?",
+    "answer" :"Extreme undernourishment, known as starvation, may have symptoms that include: a short height, thin body, very poor energy levels, and swollen legs and abdomen\\.",
+    "optimal_answer" : "starvation"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What are the symptoms included in extreme undernourishment?",
+    "answer" :"Extreme undernourishment, known as starvation, may have symptoms that include: a short height, thin body, very poor energy levels, and swollen legs and abdomen\\.",
+    "optimal_answer" : "a short height, thin body, very poor energy levels, and swollen legs and abdomen"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What are the two main types of undernutrition?",
+    "answer" :"There are two main types of undernutrition: protein-energy malnutrition and dietary deficiencies\\.",
+    "optimal_answer" : "protein-energy malnutrition and dietary deficiencies"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What is marasmus?",
+    "answer" :"Protein-energy malnutrition has two severe forms: marasmus \\(a lack of protein and calories\\) and kwashiorkor \\(a lack of just protein\\)\\.\\[3\\]",
+    "optimal_answer" : "a lack of protein and calories"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What is kwashiorkor?",
+    "answer" :"Protein-energy malnutrition has two severe forms: marasmus \\(a lack of protein and calories\\) and kwashiorkor \\(a lack of just protein\\)\\.\\[3\\]",
+    "optimal_answer" : "a lack of just protein"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What are the two forms of protein-energy malnutrition?",
+    "answer" :"Protein-energy malnutrition has two severe forms: marasmus \\(a lack of protein and calories\\) and kwashiorkor \\(a lack of just protein\\)\\.\\[3\\]",
+    "optimal_answer" : "marasmus and kwashiorkor"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What leads to common micronutrient deficiencies?",
+    "answer" :"Common micronutrient deficiencies include: a lack of iron, iodine and vitamin A\\. ",
+    "optimal_answer" : "a lack of iron, iodine and vitamin A"
+  },
+  {
+    "source":"",
+    "file": "Malnutrition.txt",
+    "query": "What are the other causes of malnutrition?",
+    "answer" :"Other causes of malnutrition include anorexia nervosa and bariatric surgery\\.",
+    "optimal_answer" : "anorexia nervosa and bariatric surgery"
+  }
+]

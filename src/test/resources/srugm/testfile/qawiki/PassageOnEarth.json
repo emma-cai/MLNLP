@@ -1,0 +1,79 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "Which planet is also called the World?",
+    "answer" :"Earth, also called the world and, less frequently, Gaia \\(and Terra in some works of science fiction\\) is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life\\.",
+    "optimal_answer": "Earth"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "Which planet is less frequently called as Gaia?",
+    "answer" :"Earth, also called the world and, less frequently, Gaia \\(and Terra in some works of science fiction\\) is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life\\.",
+    "optimal_answer": "Earth"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "Which is the third planet from the Sun?",
+    "answer" :"Earth, also called the world and, less frequently, Gaia \\(and Terra in some works of science fiction\\) is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life\\.",
+    "optimal_answer": "Earth"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "Which is the densest planet in the Solar System?",
+    "answer" :"Earth, also called the world and, less frequently, Gaia \\(and Terra in some works of science fiction\\) is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life\\.",
+    "optimal_answer": "Earth"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "What is the position of Earth from the Sun?",
+    "answer" :"Earth, also called the world and, less frequently, Gaia \\(and Terra in some works of science fiction\\) is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life\\.",
+    "optimal_answer": "third from the Sun"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "Where is Earth located in the Solar System?",
+    "answer" :"Earth, also called the world and, less frequently, Gaia \\(and Terra in some works of science fiction\\) is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life\\.",
+    "optimal_answer": "third planet from the Sun"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "Where is Earth situated in the Solar System?",
+    "answer" :"Earth, also called the world and, less frequently, Gaia \\(and Terra in some works of science fiction\\) is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life\\.",
+    "optimal_answer": "third planet from the Sun"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "Which is the only astronomical object known to accommodate life?",
+    "answer" :"Earth, also called the world and, less frequently, Gaia \\(and Terra in some works of science fiction\\) is the third planet from the Sun, the densest planet in the Solar System, the largest of the Solar System's four terrestrial planets, and the only astronomical object known to accommodate life\\.",
+    "optimal_answer": "Earth"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "When was Earth formed?",
+    "answer" :"According to evidence from radiometric dating and other sources, Earth was formed around four and a half billion years ago\\.",
+    "optimal_answer": "around four and a half billion years ago"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "Which planet was formed around four and a half billion years ago?",
+    "answer" :"According to evidence from radiometric dating and other sources, Earth was formed around four and a half billion years ago\\.",
+    "optimal_answer": "Earth"
+  },
+  {
+    "source":"",
+    "file": "PassageOnEarth.txt",
+    "query": "When did the earliest life on Earth arise?",
+    "answer" :"Within its first billion years, life appeared in its oceans and began to affect its atmosphere and surface, promoting the proliferation of aerobic as well as anaerobic organisms and causing the formation of the atmosphere's ozone layer\\.|The earliest life on Earth arose at least 3\\.5 billion years ago\\.",
+    "optimal_answer": "at least 3.5 billion years ago"
+  }
+]

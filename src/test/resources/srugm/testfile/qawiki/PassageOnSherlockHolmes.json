@@ -1,0 +1,135 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Who was Sherlock Holmes ?",
+    "answer" :"Sherlock Holmes is a fictional character created by Scottish author and physician Sir Arthur Conan Doyle, a graduate of the University of Edinburgh Medical School\\.",
+    "optimal_answer": "Sherlock Holmes is a fictional character created by Scottish author and physician Sir Arthur Conan Doyle, a graduate of the University of Edinburgh Medical School"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Which fictional character created by Scottish author and physician Sir Arthur Conan Doyle?",
+    "answer" :"Sherlock Holmes is a fictional character created by Scottish author and physician Sir Arthur Conan Doyle, a graduate of the University of Edinburgh Medical School\\.",
+    "optimal_answer": "Sherlock Holmes"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Who was Sir Arthur Conan Doyle?",
+    "answer" :"Sherlock Holmes is a fictional character created by Scottish author and physician Sir Arthur Conan Doyle, a graduate of the University of Edinburgh Medical School\\.",
+    "optimal_answer": "created Sherlock Holmes|a graduate of the University of Edinburgh Medical School"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Who created Sherlock Holmes?",
+    "answer" :"Sherlock Holmes is a fictional character created by Scottish author and physician Sir Arthur Conan Doyle, a graduate of the University of Edinburgh Medical School\\.",
+    "optimal_answer": "Sir Arthur Conan Doyle"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Who was a graduate of the University of Edinburgh Medical School?",
+    "answer" :"Sherlock Holmes is a fictional character created by Scottish author and physician Sir Arthur Conan Doyle, a graduate of the University of Edinburgh Medical School\\.",
+    "optimal_answer": "Sir Arthur Conan Doyle"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Who graduated from the University of Edinburgh Medical School?",
+    "answer" :"Sherlock Holmes is a fictional character created by Scottish author and physician Sir Arthur Conan Doyle, a graduate of the University of Edinburgh Medical School\\.",
+    "optimal_answer": "Sir Arthur Conan Doyle"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": " Who was a London-based \"consulting detective\"?",
+    "answer" :"A London-based \\\"consulting detective\\\" whose abilities border on the fantastic, Holmes is known for his astute logical reasoning, his ability to adopt almost any disguise and his use of forensic science to solve difficult cases\\.",
+    "optimal_answer": "Sherlock Holmes"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Who was known for his astute logical reasoning? ",
+    "answer" :"A London-based \\\"consulting detective\\\" whose abilities border on the fantastic, Holmes is known for his astute logical reasoning, his ability to adopt almost any disguise and his use of forensic science to solve difficult cases\\.",
+    "optimal_answer": "Sherlock Holmes|Holmes"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "When did Holmes first appeared in print?",
+    "answer" :"Holmes, who first appeared in print in 1887, was featured in four novels and 56 short stories\\.",
+    "optimal_answer": "In 1887"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Who first appeared in print in 1887?",
+    "answer" :"Holmes, who first appeared in print in 1887, was featured in four novels and 56 short stories\\.",
+    "optimal_answer": "Sherlock Holmes|Holmes"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "Who was featured in four novels and 56 short stories?",
+    "answer" :"Holmes, who first appeared in print in 1887, was featured in four novels and 56 short stories\\.",
+    "optimal_answer": "Sherlock Holmes|Holmes"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "In how many novels Holmes was featured?",
+    "answer" :"Holmes, who first appeared in print in 1887, was featured in four novels and 56 short stories\\.",
+    "optimal_answer": "Four"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "In how many short stories Holmes was featured?",
+    "answer" :"Holmes, who first appeared in print in 1887, was featured in four novels and 56 short stories\\.",
+    "optimal_answer": "56"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "What was the first novel which appeared in Beeton's Christmas Annual in 1887?",
+    "answer" :"The first novel, A Study in Scarlet, appeared in Beeton's Christmas Annual in 1887 and the second, The Sign of the Four, in Lippincott's Monthly Magazine in 1890\\.",
+    "optimal_answer": "A Study in Scarlet"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "What was the second novel which appeared in Lippincott's Monthly Magazine in 1890?",
+    "answer" :"The first novel, A Study in Scarlet, appeared in Beeton's Christmas Annual in 1887 and the second, The Sign of the Four, in Lippincott's Monthly Magazine in 1890\\.",
+    "optimal_answer": "The Sign of the Four"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "In which year did the first novel appear in Beeton's Christmas Annual?",
+    "answer" :"The first novel, A Study in Scarlet, appeared in Beeton's Christmas Annual in 1887 and the second, The Sign of the Four, in Lippincott's Monthly Magazine in 1890\\.",
+    "optimal_answer": "1887"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "In which year did the second novel appear in Lippincott's Monthly Magazine?",
+    "answer" :"The first novel, A Study in Scarlet, appeared in Beeton's Christmas Annual in 1887 and the second, The Sign of the Four, in Lippincott's Monthly Magazine in 1890\\.",
+    "optimal_answer": "1890"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "When did the character's popularity grow?",
+    "answer" :"The character's popularity grew with the first series of short stories in The Strand Magazine, beginning with \\\"A Scandal in Bohemia\\\" in 1891; additional short-story series and two novels \\(published in serial form\\) appeared from then to 1927\\.",
+    "optimal_answer": "1891"
+  },
+  {
+    "source":"",
+    "file": "PassageOnSherlockHolmes.txt",
+    "query": "In which magazine did the character's popularity grow with the first series of short stories?",
+    "answer" :"The character's popularity grew with the first series of short stories in The Strand Magazine, beginning with \\\"A Scandal in Bohemia\\\" in 1891; additional short-story series and two novels \\(published in serial form\\) appeared from then to 1927\\.",
+    "optimal_answer": "Strand Magazine"
+  }
+]

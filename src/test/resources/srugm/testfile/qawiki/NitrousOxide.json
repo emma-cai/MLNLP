@@ -1,0 +1,128 @@
+[
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is known as laughing gas?",
+    "answer" :"Nitrous oxide, commonly known as laughing gas, nitrous, nitro, or NOS is a chemical compound with the formula N2O\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "What is the chemical formula of nitrous ?",
+    "answer" :"Nitrous oxide, commonly known as laughing gas, nitrous, nitro, or NOS is a chemical compound with the formula N2O\\.",
+    "optimal_answer" : "N2O"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is colorless at room temperature?",
+    "answer" :"At room temperature, Nitrous oxide is a colourless, non-flammable gas, with a slightly sweet odour and taste\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is non- flammable gas at room temperature?",
+    "answer" :"At room temperature, Nitrous oxide is a colourless, non-flammable gas, with a slightly sweet odour and taste\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound has a slight sweet odour and taste at room temperature?",
+    "answer" :"At room temperature, Nitrous oxide is a colourless, non-flammable gas, with a slightly sweet odour and taste\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "What are the uses of nitrous oxide?",
+    "answer" :"Nitrous oxide is used in surgery and dentistry for its anaesthetic and analgesic effects\\.",
+    "optimal_answer" : "in surgery and dentistry"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is used in surgery?",
+    "answer" :"Nitrous oxide is used in surgery and dentistry for its anaesthetic and analgesic effects\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is used in the dentistry?",
+    "answer" :"Nitrous oxide is used in surgery and dentistry for its anaesthetic and analgesic effects\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "For what purpose nitrous oxide is used in surgery and dentistry?",
+    "answer" :"Nitrous oxide is used in surgery and dentistry for its anaesthetic and analgesic effects\\.",
+    "optimal_answer" : "anaesthetic and analgesic effects"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Why nitrous oxide is known as laughing gas?",
+    "answer" :"Nitrous oxide is known as \\\"laughing gas\\\" due to the euphoric effects of inhaling it, a property that has led to its recreational use as a dissociative anaesthetic\\.",
+    "optimal_answer" : "the euphoric effects of inhaling it"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is used as an oxidizer?",
+    "answer" :"Nitrous oxide is also used as an oxidizer in the launching of rockets and in motor racing to increase the power output of engines\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is used in launching of rockets and in motor racing?",
+    "answer" :"Nitrous oxide is also used as an oxidizer in the launching of rockets and in motor racing to increase the power output of engines\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Why nitrous oxide is used in launching of rockets and in motor racing?",
+    "answer" :"Nitrous oxide is also used as an oxidizer in the launching of rockets and in motor racing to increase the power output of engines\\.",
+    "optimal_answer" : "to increase the power output of engines"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is a powerful oxidizer at elevated temperatures?",
+    "answer" :"At elevated temperatures, nitrous oxide is a powerful oxidizer similar to molecular oxygen\\.",
+    "optimal_answer" : "nitrous oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "What happens when nitrous oxide reacts with oxygen atoms?",
+    "answer" :"Nitrous oxide gives rise to nitric oxide \\(NO\\) on reaction with oxygen atoms, and this NO in turn reacts with ozone\\.",
+    "optimal_answer" : "Nitrous oxide gives rise to nitric oxide\\( NO\\) on reaction with oxygen atoms, and this NO in turn reacts with ozone"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound reacts with ozone?",
+    "answer" :"Nitrous oxide gives rise to nitric oxide \\(NO\\) on reaction with oxygen atoms, and this NO in turn reacts with ozone\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is a major greenhouse gas and air pollutant?",
+    "answer" :"It is also a major greenhouse gas and air pollutant\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  },
+  {
+    "source":"",
+    "file": "NitrousOxide.txt",
+    "query": "Which chemical compound is on the WHO Model List of Essential Medicines?",
+    "answer" :"It is on the WHO Model List of Essential Medicines, the most important medications needed in a health system\\.",
+    "optimal_answer" : "Nitrous Oxide"
+  }
+]

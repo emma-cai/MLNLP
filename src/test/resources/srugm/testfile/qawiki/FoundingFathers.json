@@ -1,0 +1,62 @@
+[
+  {
+    "file": "FoundingFathers.txt",
+    "query": "Who are the founding fathers?",
+    "answer" :"Not everyone agrees on who should be given this title, but generally speaking, our Founding Fathers were the statesmen who worked to secure our independence from Great Britain in 1776\\.",
+    "optimal_answer" : "who worked to secure our independence from Great Britain in 1776"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "Who founded our nation and designed the democratic form of government?",
+    "answer" :"Our Founding Fathers founded our nation and designed our democratic form of government that still exists today, over 200 years later\\.",
+    "optimal_answer" : "our Founding Fathers"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "What did the founding fathers write?",
+    "answer" :"The Founding Fathers wrote two very important documents from our history\\.",
+    "optimal_answer" : "two very important documents"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "What were the 2 documents written by the founding fathers?",
+    "answer" :"The first was the Declaration of Independence, which declared our independence from Great Britain\\.|The other was the United States Constitution, including the Bill of Rights, which formed our new government\\.",
+    "optimal_answer" : "(the Declaration of Independence|the United States Constitution)"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "Who are some of the well-known Founding Fathers?",
+    "answer" :"Some of the more well-known Founding Fathers include George Washington, Thomas Jefferson, Benjamin Franklin and John Adams\\.",
+    "optimal_answer" : "George Washington, Thomas Jefferson, Benjamin Franklin and John Adams"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "How was the United States of America founded?",
+    "answer" :"The United States of America was founded because these men, along with others, believed that individuals had the right, as the Declaration of Independence states, to “Life, Liberty and the pursuit of Happiness\\.”",
+    "optimal_answer" : "because these men"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "Who were the statesmen who worked to secure our independence from Great Britain in 1776?",
+    "answer" :"Not everyone agrees on who should be given this title, but generally speaking, our Founding Fathers were the statesmen who worked to secure our independence from Great Britain in 1776\\.",
+    "optimal_answer" : "Our Founding Fathers"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "Who founded our nation?",
+    "answer" :"Our Founding Fathers founded our nation and designed our democratic form of government that still exists today, over 200 years later\\.",
+    "optimal_answer" : "Our Founding Fathers"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "Who designed our democratic form of government that still exists today?",
+    "answer" :"Our Founding Fathers founded our nation and designed our democratic form of government that still exists today, over 200 years later\\.",
+    "optimal_answer" : "Our Founding Fathers"
+  },
+  {
+    "file": "FoundingFathers.txt",
+    "query": "What does the Declaration of Independence states?",
+    "answer" :"The first was the Declaration of Independence, which declared our independence from Great Britain\\.",
+    "optimal_answer" : "our independence from Great Britain"
+  }
+]

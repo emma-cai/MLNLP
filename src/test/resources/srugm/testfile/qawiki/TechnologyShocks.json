@@ -1,0 +1,162 @@
+[
+  {"source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What are technology shocks?",
+    "answer" :"Technology shocks are events in a macroeconomic model, that change the production function\\.|A technology shock is when there is a sudden change in technology to either benefit or worsen economic activity\\.",
+    "optimal_answer":"events in a macroeconomic model, that change the production function"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What changes the production function?",
+    "answer" :"Technology shocks are events in a macroeconomic model, that change the production function\\.",
+    "optimal_answer":"Technology shocks"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"How is the term shock defined?",
+    "answer" :"The term shock is defined as a sudden change in economic terms\\.",
+    "optimal_answer":"A sudden change in economic terms"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"How is shock modeled?",
+    "answer" :"Usually shock is modeled with an aggregate production function that has a scaling factor\\.",
+    "optimal_answer":"An aggregate production function that has a scaling factor"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What happens when there is a sudden change in technology to either benefit or worsen economic activity?",
+    "answer" :"A technology shock is when there is a sudden change in technology to either benefit or worsen economic activity\\.",
+    "optimal_answer":"A technology shock"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"Where does technology shock have a big effect?",
+    "answer" :"This type of shock has big effects on companies that are solely dependent on technology as their main source of labor or production, such as manufacturing plants or oil/energy extraction\\.",
+    "optimal_answer":"(This type of shock has big effects on companies that are solely dependent on technology as their main source of labor or production , such as manufacturing plants or oil/energy extraction)|(industry or firm's productivity)"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is a positive technology shock?",
+    "answer" :"A technology shock affects an industry or firm's productivity, this may be a positive shock—increasing the output for a given set of inputs, or a negative shock—decreasing the output for a given set of inputs\\.",
+    "optimal_answer":"increasing the output for a given set of inputs"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"Are positive shocks more common than negative technology shocks?",
+    "answer" :"Negative shocks are much less common than positive shocks as technology rarely moves backwards\\.",
+    "optimal_answer":"Yes"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"Are negative shocks more common than positive technology shocks?",
+    "answer" :"Negative shocks are much less common than positive shocks as technology rarely moves backwards\\.",
+    "optimal_answer":"No"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is the example of a positive technology shock?",
+    "answer" :"The Industrial Revolution is an example of a positive technology shock\\.|This is an example of a positive technology shock, where it increases national and disposable income, and also increases the labor force\\.",
+    "optimal_answer":"The Industrial Revolution"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"How did the Industrial revolution impact people?",
+    "answer" :"The Industrial Revolution increased wages steadily over the period of time and it also increased population because people had the wages for standard living\\.",
+    "optimal_answer":"It increased wages steadily over the period of time and it also increased population because people had the wages for standard living"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is a negative technology shock?",
+    "answer" :"A technology shock affects an industry or firm's productivity, this may be a positive shock—increasing the output for a given set of inputs, or a negative shock—decreasing the output for a given set of inputs\\.",
+    "optimal_answer":"decreasing the output for a given set of inputs"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What happened with the oil shock?",
+    "answer" :"When the oil shocks occurred, the energy that was used to extract to oil became more expensive, the energy was the technology in this case\\.",
+    "optimal_answer":"the energy that was used to extract to oil became more expensive, the energy was the technology in this case"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is RBCT?",
+    "answer" :"Real business cycle theory \\(RBCT\\) is the theory where any type of shock has a ripple effect into many other shocks\\.",
+    "optimal_answer":"Real business cycle theory|the theory where any type of shock has a ripple effect into many other shocks\\."
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is Real business cycle theory?",
+    "answer" :"Real business cycle theory \\(RBCT\\) is the theory where any type of shock has a ripple effect into many other shocks\\.",
+    "optimal_answer":"the theory where any type of shock has a ripple effect into many other shocks"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What does a RBCT start with?",
+    "answer" :"Typically, a RBCT starts with a negative type of shock, which is why the RBCT is becoming less and less relevant in today's economics\\.",
+    "optimal_answer":"a negative type of shock"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is a supply shock?",
+    "answer" :"A supply shock is an event that suddenly changes the price of a commodity or service\\.",
+    "optimal_answer":"an event that suddenly changes the price of a commodity or service"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is a negative supply shock?",
+    "answer" :"A supply shock is an event that suddenly changes the price of a commodity or service\\.|It may be caused by a sudden increase or decrease in the supply of a particular good\\.",
+    "optimal_answer":"sudden.*supply.*decrease|an event that suddenly changes the price of a commodity or service"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is a positive supply shock?",
+    "answer" :"A supply shock is an event that suddenly changes the price of a commodity or service\\.|It may be caused by a sudden increase or decrease in the supply of a particular good\\.",
+    "optimal_answer":"increase.*supply|an event that suddenly changes the price of a commodity or service"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What are the results of a negative supply shock?",
+    "answer" :"A negative supply shock \\(sudden supply decrease\\) will raise prices and shift the aggregate supply curve to the left\\.|A negative supply shock can cause stagflation due to a combination of raising prices and falling output\\.",
+    "optimal_answer":"Stagflation|raise prices and shift the aggregate supply curve to the left"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What are the results of a positive supply shock?",
+    "answer" :"A positive supply shock \\(an increase in supply\\) will lower the price of said good and shift the aggregate supply curve to the right\\.|A positive supply shock could be an advance in technology \\(a technology shock\\) which makes production more efficient, thus increasing output\\.",
+    "optimal_answer":"Lower the price"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"What is demand shock?",
+    "answer" :"In economics, a demand shock is a sudden event that increases or decreases demand for goods or services temporarily\\.",
+    "optimal_answer":"a sudden event that increases or decreases demand for goods or services temporarily"
+  },
+  {
+    "source":"",
+    "file":"TechnologyShocks.txt",
+    "query":"How is demand shock defined in economics?",
+    "answer" :"In economics, a demand shock is a sudden event that increases or decreases demand for goods or services temporarily\\.",
+    "optimal_answer":"A sudden event that increases or decreases demand for goods or services temporarily"
+  }
+]

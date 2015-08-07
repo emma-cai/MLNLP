@@ -1,0 +1,100 @@
+[
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "What is corruption?",
+    "answer" :"In philosophical, theological, or moral discussions, corruption is the abuse of bestowed power or position to acquire a personal benefit\\.",
+    "optimal_answer" : "The abuse of bestowed power or position to acquire a personal benefit"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "What are the activities involved in corruption?",
+    "answer" :"Corruption may include many activities including bribery and embezzlement\\. ",
+    "optimal_answer" : "bribery and embezzlement"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "What does the word corrupt mean when used as an adjective?",
+    "answer" :"The word corrupt when used as an adjective literally means \\\"utterly broken\\\"\\. ",
+    "optimal_answer" : "Utterly broken"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "Which word was first used by Aristotle?",
+    "answer" :"The word was first used by Aristotle and later by Cicero who added the terms bribe and abandonment of good habits\\.  ",
+    "optimal_answer" : "corruption|The word"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "Who was Morris?",
+    "answer" :"Morris,  a professor of politics, writes that \\[political\\] corruption is the illegitimate use of public power to benefit a private interest\\.",
+    "optimal_answer" : "A professor of politics"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "Who has written \"corruption is the illegitimate use of public power to benefit a private interest\"?",
+    "answer" :"Morris,  a professor of politics, writes that \\[political\\] corruption is the illegitimate use of public power to benefit a private interest\\.",
+    "optimal_answer" : "Morris"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "How did Economist I. Senior define corruption?",
+    "answer" :"Economist I\\. Senior defines corruption as an action to \\(a\\) secretly provide \\(b\\) a good or a service to a third party \\(c\\) so that he or she can influence certain actions which \\(d\\) benefit the corrupt, a third party, or both \\(e\\) in which the corrupt agent has authority\\.",
+    "optimal_answer" : "An action to (a) secretly provide (b) a good or a service to a third party (c) so that he or she can influence certain actions which (d) benefit the corrupt, a third party, or both (e) in which the corrupt agent has authority"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "What is petty corruption?",
+    "answer" :"There is corruption that occurs as small favors between a small number of people \\(petty corruption\\), corruption that affects the government on a large scale \\(grand corruption\\), and corruption that is so prevalent that it is part of the every day structure of society, including corruption as one of the symptoms of organized crime \\(systemic corruption\\)\\.",
+    "optimal_answer" : "small favors between a small number of people"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "What is grand corruption?",
+    "answer" :"Grand corruption is defined as corruption occurring at the highest levels of government in a way that requires significant subversion of the political, legal and economic systems\\.",
+    "optimal_answer" : "(as )?corruption occurring at the highest levels of government in a way that requires significant subversion of the political, legal and economic systems"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "What is the main reason of corruption in elections today?",
+    "answer" :"One of the main reasons of corruption in elections today is the lure of power which haunts the politicians so much that they feel no qualms of conscience in adopting any underhand method to come out successful\\.",
+    "optimal_answer" : "lure of power"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "Which example of the U.S.A. testifies to the fact that even the top level people can stoop very low in order to maintain themselves in power?",
+    "answer" :"The Watergate Scandal in the U\\.S\\.A\\. is an eloquent example to testify to the fact how even the top level politicians can stoop to the lowest level in order to maintain themselves in power\\.",
+    "optimal_answer" : "The Watergate Scandal"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "What according to the writer are voters swayed by?",
+    "answer" :"The voters are swayed by the tall promises of the candidates to whose machinations they fall an easy prey\\.",
+    "optimal_answer" : "tall promises"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "Why according to the writer, do voters fall an easy prey to the adulations of the politicians?",
+    "answer" :"They are also susceptible to fall an easy prey to the adulations of the politicians due to their illiteracy\\.",
+    "optimal_answer" : "their illiteracy"
+  },
+  {
+    "source": "",
+    "file": "Corruption.txt",
+    "query": "Where are constituencies quite extensive?",
+    "answer" :"Besides, in the representative democracies today and particularly in big countries the constituencies are quite extensive obviating the possibility of corrupt practices being discovered\\.",
+    "optimal_answer" : "in the representative democracies today and particularly in big countries"
+  }
+]

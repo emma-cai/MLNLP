@@ -1,0 +1,121 @@
+[
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "Who is the Finance Minister of India?",
+    "answer" :"Finance Minister Arun Jaitley on Saturday announced a budget aimed at high growth, saying the pace of cutting the fiscal deficit would slow as he seeks to boost investment and ensure that ordinary people benefit\\.",
+    "optimal_answer": "Arun Jaitley"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "Who is Arun Jaitley?",
+    "answer" :"Finance Minister Arun Jaitley on Saturday announced a budget aimed at high growth, saying the pace of cutting the fiscal deficit would slow as he seeks to boost investment and ensure that ordinary people benefit\\.",
+    "optimal_answer": "the finance minister of India"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What did Mr Jaitley say about the growth?",
+    "answer" :"Mr Jaitley said growth will accelerate to between 8 and 8\\.5 percent in the fiscal year starting in April\\.",
+    "optimal_answer": "growth will accelerate to between 8 and 8.5 percent in the fiscal year starting in April"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What percent is expected for the current year?",
+    "answer" :"A pace of 7\\.4 per cent is expected for the current year\\.",
+    "optimal_answer": "A pace of 7.4 percent is expected for the current year"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "Who forecasted inflation at 5 percent by the end of the fiscal year ending March 2016?",
+    "answer" :"He forecast inflation at 5 per cent by the end of the fiscal year ending March 2016, undershooting the Reserve Bank of India's 6 per cent target and creating room to cut interest rates\\.",
+    "optimal_answer": "Arun Jaitley|He"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What percent of tax has the Reserve Bank of India targeted?",
+    "answer" :"He forecast inflation at 5 per cent by the end of the fiscal year ending March 2016, undershooting the Reserve Bank of India's 6 per cent target and creating room to cut interest rates\\.",
+    "optimal_answer": "6 percent"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "How much was the annual inflation in January?",
+    "answer" :"Annual inflation was 5\\.1 per cent in January\\.",
+    "optimal_answer": "5.1 per cent"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "How much % of tax will India reduce on business?",
+    "answer" :"India will reduce tax on businesses to 25 per cent over four years from a current 30 per cent, with a view to boosting spending and job creation, the minister said\\.",
+    "optimal_answer": "25 per cent over four years"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "Which tax is abolished by the government ?",
+    "answer" :"The government will abolish the wealth tax and replace it with an additional 2 per cent surcharge on the country's super rich\\.",
+    "optimal_answer": "the wealth tax"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What amount has the government added to boost the efficiency of MNREGA?",
+    "answer" :"The government has added 5,000 crores boost the efficiency of MNREGA, the rural job creation scheme that is India's costliest welfare programme\\.",
+    "optimal_answer": "5,000 crores"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What is MNREGA?",
+    "answer" :"The government has added 5,000 crores boost the efficiency of MNREGA, the rural job creation scheme that is India's costliest welfare programme\\.",
+    "optimal_answer": "The rural job creation scheme|India's costliest welfare programme"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What is the rural job creation scheme?",
+    "answer" :"The government has added 5,000 crores boost the efficiency of MNREGA, the rural job creation scheme that is India's costliest welfare programme\\.",
+    "optimal_answer": "MNREGA|India's costliest welfare programme"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What is India's costliest welfare programme?",
+    "answer" :"The government has added 5,000 crores boost the efficiency of MNREGA, the rural job creation scheme that is India's costliest welfare programme\\.",
+    "optimal_answer": "MNREGA"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "To which scheme has the government added 5000 crores?",
+    "answer" :"The government has added 5,000 crores boost the efficiency of MNREGA, the rural job creation scheme that is India's costliest welfare programme\\.",
+    "optimal_answer": "MNREGA"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What has the minister proposed regarding increasing the service tax ?",
+    "answer" :"The Minister has proposed increasing the service tax rate and education cess to 14 per cent from the current 12\\.36 per cent\\.",
+    "optimal_answer": "increasing the service tax rate and education cess to 14 per cent from the current 12.36 percent"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What has the minister proposed regarding increasing the education cess?",
+    "answer" :"The Minister has proposed increasing the service tax rate and education cess to 14 per cent from the current 12\\.36 per cent\\.",
+    "optimal_answer": "increasing the service tax rate and education cess to 14 per cent from the current 12.36 per cent"
+  },
+  {
+    "source":"",
+    "file": "FinanceMinister.txt",
+    "query": "What did the local companies hope for ?",
+    "answer" :"Some local companies had hoped that the budget would reduce their tax liabilities to help them kickstart investments badly hit by the Indian economic slowdown in the last couple of years\\.",
+    "optimal_answer": "the budget would reduce their tax liabilities to help them kickstart investments badly hit by the Indian economic slowdown in the last couple of years"
+  }
+]

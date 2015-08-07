@@ -1,0 +1,93 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "What is the position of Jupiter from the Sun?",
+    "answer" :"Jupiter is the fifth planet from the Sun and the largest planet in the Solar System\\.",
+    "optimal_answer": "fifth planet from the Sun"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "What is the location of Jupiter in the Solar System?",
+    "answer" :"Jupiter is the fifth planet from the Sun and the largest planet in the Solar System\\.",
+    "optimal_answer": "fifth planet"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "Where is Jupiter located in the Solar System?",
+    "answer" :"Jupiter is the fifth planet from the Sun and the largest planet in the Solar System\\.",
+    "optimal_answer": "fifth planet from the Sun"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "Which is the fifth planet from the Sun?",
+    "answer" :"Jupiter is the fifth planet from the Sun and the largest planet in the Solar System\\.",
+    "optimal_answer": "Jupiter"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "Which is the largest planet in the Solar System?",
+    "answer" :"Jupiter is the fifth planet from the Sun and the largest planet in the Solar System\\.",
+    "optimal_answer": "Jupiter"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "What is the mass of the Jupiter?",
+    "answer" :"Jupiter is a giant planet with a mass one-thousandth of that of the Sun, but is two and a half times that of all the other planets in the Solar System combined\\.",
+    "optimal_answer": "one-thousandth of that of the Sun"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "Which planet is called as a giant planet?",
+    "answer" :"Jupiter is a giant planet with a mass one-thousandth of that of the Sun, but is two and a half times that of all the other planets in the Solar System combined\\.",
+    "optimal_answer": "Jupiter"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "Which planets are referred as gas giant?",
+    "answer" :"Jupiter is a gas giant, along with Saturn \\(Uranus and Neptune are ice giants\\)\\.",
+    "optimal_answer": "Jupiter.*Saturn"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "Which planets are referred as ice giants?",
+    "answer" :"Jupiter is a gas giant, along with Saturn \\(Uranus and Neptune are ice giants\\)\\.",
+    "optimal_answer": "Uranus and Neptune"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "What is the primary composition of Jupiter?",
+    "answer" :"Jupiter is primarily composed of hydrogen with a quarter of its mass being helium, although helium only comprises about a tenth of the number of molecules\\.",
+    "optimal_answer": "hydrogen"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "Why Jupiter lacks a well-defined solid surface?",
+    "answer" :"It may also have a rocky core of heavier elements,\\[14\\] but like the other giant planets, Jupiter lacks a well-defined solid surface\\.",
+    "optimal_answer": "giant"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "What is the shape of the planet Jupiter?",
+    "answer" :"Because of its rapid rotation, the planet's shape is that of an oblate spheroid \\(it has a slight but noticeable bulge around the equator\\)\\.",
+    "optimal_answer": "((that of an )?an oblate spheroid( \\(it has a slight but noticeable bulge around the equator\\))?)"
+  },
+  {
+    "source":"",
+    "file": "PassageOnJupiter.txt",
+    "query": "Which planet's shape is of an oblate spheroid?",
+    "answer" :"Because of its rapid rotation, the planet's shape is that of an oblate spheroid \\(it has a slight but noticeable bulge around the equator\\)\\.",
+    "optimal_answer": "Jupiter"
+  }
+]

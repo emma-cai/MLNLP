@@ -1,0 +1,387 @@
+[
+   {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "When was Hamlet written?",
+    "answer" :"The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet , is a tragedy written by William Shakespeare at an uncertain date between 1599 and 1602\\.",
+    "optimal_answer" : "between 1599 and 1602"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What does the play dramatise?",
+    "answer" :"Set in the Kingdom of Denmark, the play dramatises the revenge Prince Hamlet is instructed to enact on his uncle Claudius\\.",
+    "optimal_answer" : "the revenge Prince Hamlet is instructed to enact on his uncle Claudius"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who murdered his own brother?",
+    "answer" :"Claudius had murdered his own brother, Hamlet's father King Hamlet, and subsequently seized the throne, marrying his deceased brother's widow, Hamlet's mother Gertrude\\.",
+    "optimal_answer" : "Claudius"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was Gertrude?",
+    "answer" :"Claudius had murdered his own brother, Hamlet's father King Hamlet, and subsequently seized the throne, marrying his deceased brother's widow, Hamlet's mother Gertrude\\.",
+    "optimal_answer" : "Hamlet's mother"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was Hamlet¹s mother?",
+    "answer" :"Claudius had murdered his own brother, Hamlet's father King Hamlet, and subsequently seized the throne, marrying his deceased brother's widow, Hamlet's mother Gertrude\\.|Claudius hastily married King Hamlet's widow, Gertrude, Hamlet's mother\\.",
+    "optimal_answer" : "Gertrude"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who got married to Hamlet¹s mother?",
+    "answer" :"Claudius had murdered his own brother, Hamlet's father King Hamlet, and subsequently seized the throne, marrying his deceased brother's widow, Hamlet's mother Gertrude\\.|Claudius hastily married King Hamlet's widow, Gertrude, Hamlet's mother\\.",
+    "optimal_answer" : "Claudius"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was Hamlet?",
+    "answer" :"The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet , is a tragedy written by William Shakespeare at an uncertain date between 1599 and 1602\\.",
+    "optimal_answer" : "Prince of Denmark|A tragedy written by William Shakespeare at an uncertain date between 1599 and 1602"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was the Prince of Denmark?",
+    "answer" :"The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet , is a tragedy written by William Shakespeare at an uncertain date between 1599 and 1602\\.",
+    "optimal_answer" : "Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which tragedy was written by William Shakespeare ?",
+    "answer" :"The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet , is a tragedy written by William Shakespeare at an uncertain date between 1599 and 1602\\.",
+    "optimal_answer" : "Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "When was the tragedy written?",
+    "answer" :"The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet , is a tragedy written by William Shakespeare at an uncertain date between 1599 and 1602\\.",
+    "optimal_answer" : "between 1599 and 1602"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was Claudius?",
+    "answer" :"Set in the Kingdom of Denmark, the play dramatises the revenge Prince Hamlet is instructed to enact on his uncle Claudius\\.",
+    "optimal_answer" : "Hamlet's uncle|his uncle"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who murdered King Hamlet?",
+    "answer" :"Claudius had murdered his own brother, Hamlet's father King Hamlet, and subsequently seized the throne, marrying his deceased brother's widow, Hamlet's mother Gertrude\\.",
+    "optimal_answer" : "Claudius"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who seized the throne of King Hamlet?",
+    "answer" :"Claudius had murdered his own brother, Hamlet's father King Hamlet, and subsequently seized the throne, marrying his deceased brother's widow, Hamlet's mother Gertrude\\.",
+    "optimal_answer" : "Claudius"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which is Shakespeare¹s longest play?",
+    "answer" :"Hamlet is Shakespeare's longest play and among the most powerful and influential tragedies in English literature, with a story capable of \\\"seemingly endless retelling and adaptation by others\\.\\\"",
+    "optimal_answer" : "Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which play is among the most powerful and influential tragedies in English literature?",
+    "answer" :"Hamlet is Shakespeare's longest play and among the most powerful and influential tragedies in English literature, with a story capable of \\\"seemingly endless retelling and adaptation by others\\.\\\"",
+    "optimal_answer" : "Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which was the most popular play of Shakespeare during his lifetime ?",
+    "answer" :"The play seems to have been one of Shakespeare's most popular works during his lifetime and still ranks among his most-performed, topping the performance list of the Royal Shakespeare Company and its predecessors in Stratford-upon-Avon since 1879\\.",
+    "optimal_answer" : "Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which play of Shakespeare ranks among his most-performed, topping the performance list of the Royal Shakespeare Company and its predecessors in Stratford-upon-Avon since 1879?",
+    "answer" :"The play seems to have been one of Shakespeare's most popular works during his lifetime and still ranks among his most-performed, topping the performance list of the Royal Shakespeare Company and its predecessors in Stratford-upon-Avon since 1879\\.",
+    "optimal_answer" : "Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who were Goethe and Dickens ?",
+    "answer" :"It has inspired writers from Goethe and Dickens to Joyce and Murdoch, and has been described as \\\"the world's most filmed story after Cinderella\\\"\\.",
+    "optimal_answer" : "writers"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which was the world's most filmed story after Cinderella?",
+    "answer" :"It has inspired writers from Goethe and Dickens to Joyce and Murdoch, and has been described as \\\"the world's most filmed story after Cinderella\\\"\\.",
+    "optimal_answer" : "Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which play has been described as \"the world's most filmed story after Cinderella\"?",
+    "answer" :"It has inspired writers from Goethe and Dickens to Joyce and Murdoch, and has been described as \\\"the world's most filmed story after Cinderella\\\"\\.",
+    "optimal_answer" : "Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "From which legend was the story of Hamlet derived?",
+    "answer" :"The story of Hamlet ultimately derives from the legend of Amleth, preserved by 13th-century chronicler Saxo Grammaticus in his Gesta Danorum as subsequently retold by 16th-century scholar François de Belleforest\\.",
+    "optimal_answer" : "Amleth"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What was Ur-Hamlet ?",
+    "answer" :"Shakespeare may also have drawn on an earlier \\(hypothetical\\) Elizabethan play known today as the Ur-Hamlet, though some scholars believe he himself wrote the Ur-Hamlet, later revising it to create the version of Hamlet we now have\\.",
+    "optimal_answer" : "an earlier \\(hypothetical\\) Elizabethan play"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which play is known today as the Ur-Hamlet?",
+    "answer" :"Shakespeare may also have drawn on an earlier \\(hypothetical\\) Elizabethan play known today as the Ur-Hamlet, though some scholars believe he himself wrote the Ur-Hamlet, later revising it to create the version of Hamlet we now have\\.",
+    "optimal_answer" : "an earlier \\(hypothetical\\) Elizabethan play"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did some scholars believe about Ur-Hamlet?",
+    "answer" :"Shakespeare may also have drawn on an earlier \\(hypothetical\\) Elizabethan play known today as the Ur-Hamlet, though some scholars believe he himself wrote the Ur-Hamlet, later revising it to create the version of Hamlet we now have\\.",
+    "optimal_answer" : "William Shakespeare himself wrote the Ur-Hamlet, later revising the Ur-Hamlet to create the version of Hamlet we now have"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was the leading tragedian of Shakespeare's time?",
+    "answer" :"He almost certainly created the title role for Richard Burbage, the leading tragedian of Shakespeare's time\\.",
+    "optimal_answer" : "Richard Burbage"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was Richard Burbage?",
+    "answer" :"He almost certainly created the title role for Richard Burbage, the leading tragedian of Shakespeare's time\\.",
+    "optimal_answer" : "the leading tragedian of Shakespeare's time"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What are the three different early versions of the play?",
+    "answer" :"Three different early versions of the play are extant, the First Quarto \\(Q1, 1603\\), the Second Quarto \\(Q2, 1604\\), and the First Folio \\(F1, 1623\\)\\.",
+    "optimal_answer" : "the First Quarto (Q1, 1603), the Second Quarto (Q2, 1604), and the First Folio (F1, 1623)"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Which two characters were re-evaluated and rehabilitated by the feminist critics?",
+    "answer" :"More recently, psychoanalytic critics have examined Hamlet's unconscious desires, and feminist critics have re-evaluated and rehabilitated the often maligned characters of Ophelia and Gertrude\\.",
+    "optimal_answer" : "Ophelia and Gertrude"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was the protagonist of Hamlet ?",
+    "answer" :"The protagonist of Hamlet is Prince Hamlet of Denmark, son of the recently deceased King Hamlet, and nephew of King Claudius, his father's brother and successor\\.",
+    "optimal_answer" : "Prince Hamlet of Denmark"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was the son of the deceased King Hamlet?",
+    "answer" :"The protagonist of Hamlet is Prince Hamlet of Denmark, son of the recently deceased King Hamlet, and nephew of King Claudius, his father's brother and successor\\.",
+    "optimal_answer" : "Prince Hamlet of Denmark|The protagonist of Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was the son of the deceased King Hamlet?",
+    "answer" :"The protagonist of Hamlet is Prince Hamlet of Denmark, son of the recently deceased King Hamlet, and nephew of King Claudius, his father's brother and successor\\.",
+    "optimal_answer" : "Prince Hamlet of Denmark|The protagonist of Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was the nephew of King Claudius?",
+    "answer" :"The protagonist of Hamlet is Prince Hamlet of Denmark, son of the recently deceased King Hamlet, and nephew of King Claudius, his father's brother and successor\\.",
+    "optimal_answer" : "Prince Hamlet of Denmark"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was Hamlet¹s father¹s brother and successor?",
+    "answer" :"The protagonist of Hamlet is Prince Hamlet of Denmark, son of the recently deceased King Hamlet, and nephew of King Claudius, his father's brother and successor\\.",
+    "optimal_answer" : "King Claudius"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who married King Hamlet's widow?",
+    "answer" :"Claudius hastily married King Hamlet's widow, Gertrude, Hamlet's mother\\.",
+    "optimal_answer" : "Claudius"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who has a long-standing feud with Norway?",
+    "answer" :"Denmark has a long-standing feud with neighbouring Norway, and an invasion led by the Norwegian prince, Fortinbras, is expected\\.",
+    "optimal_answer" : "Denmark"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who has a long-standing feud with Denmark?",
+    "answer" :"Denmark has a long-standing feud with neighbouring Norway, and an invasion led by the Norwegian prince, Fortinbras, is expected\\.",
+    "optimal_answer" : "Norway"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Where did the play open?",
+    "answer" :"The play opens on a cold winter midnight on \\\"a platform before the castle\\\" of Elsinore, the Danish royal castle\\.",
+    "optimal_answer" : "(on )?a platform before the castle( of Elsinore, the Danish royal castle)?"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "When did the play open?",
+    "answer" :"The play opens on a cold winter midnight on \\\"a platform before the castle\\\" of Elsinore, the Danish royal castle\\.",
+    "optimal_answer" : "a cold winter midnight"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who encountered the ghost?",
+    "answer" :"The sentries Bernardo and Marcellus and Hamlet's friend Horatio encounter a ghost that looks like the late King Hamlet\\.",
+    "optimal_answer" : "the sentries Bernardo and Marcellus and Hamlet's friend Horatio"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who does the ghost look like ?",
+    "answer" :"The sentries Bernardo and Marcellus and Hamlet's friend Horatio encounter a ghost that looks like the late King Hamlet\\.",
+    "optimal_answer" : "Like the late King Hamlet"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was attacked with daggers?",
+    "answer" :"When it declines to talk to them they attack it with daggers, but it escapes\\. Marcellus admits: \\\"We do it wrong\\.\\.\\. to offer it the show of violence / For it is\\.\\.\\. invulnerable\\.\\\"",
+    "optimal_answer" : "ghost"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did Marcellus admit?",
+    "answer" :"When it declines to talk to them they attack it with daggers, but it escapes\\. Marcellus admits: \\\"We do it wrong\\.\\.\\. to offer it the show of violence / For it is\\.\\.\\. invulnerable\\.\\\"",
+    "optimal_answer" : "We do it wrong to offer it the show of violence  For it is invulnerable"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did Bernardo and Marcellus and Horatio vow?",
+    "answer" :"Bernardo and Marcellus and Horatio vow to tell Prince Hamlet that his father's ghost has been seen\\.",
+    "optimal_answer" : "his father's ghost has been seen"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did Bernando and Marcellus and Horatio vow to tell the Prince?",
+    "answer" :"Bernardo and Marcellus and Horatio vow to tell Prince Hamlet that his father's ghost has been seen\\.",
+    "optimal_answer" : "his father's ghost has been seen"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Where did the scene shift?",
+    "answer" :"The scene shifts to a \\\"room of state in the castle\\.\\\"",
+    "optimal_answer" : "(a room (of state)? in the castle)"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who was Laertes's father?",
+    "answer" :"Laertes's father Polonius admits that he has agreed to his son's trip\\.",
+    "optimal_answer" : "Polonius"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did Polonius admit?",
+    "answer" :"Laertes's father Polonius admits that he has agreed to his son's trip\\.",
+    "optimal_answer" : "he has agreed to his son's trip"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did Laertes's father admit?",
+    "answer" :"Laertes's father Polonius admits that he has agreed to his son's trip\\.",
+    "optimal_answer" : "he has agreed to his son's trip"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who persuaded Hamlet to be more cheerful?",
+    "answer" :"Perturbed by Hamlet's continuing deep mourning for his father and his increasingly erratic behaviour, Claudius and Gertrude try to persuade him to be more cheerful\\.",
+    "optimal_answer" : "Claudius and Gertrude"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did Hamlet complain?",
+    "answer" :"When they leave, Hamlet complains in his first soliloquy \\(\\\"O that this too too solid flesh would melt\\\"\\) that his mother has jumped into \\\"incestuous sheets\\\" with her brother-in-law too quickly after the death of Hamlet's father\\.",
+    "optimal_answer" : "his mother has jumped into \\\"incestuous sheets\\\" with her brother-in-law too quickly after the death of Hamlet's father"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who recently returned to court from the university at Wittenberg?",
+    "answer" :"Horatio and the sentries come in and Hamlet warmly greets his friend, who has recently returned to court from the university at Wittenberg\\.",
+    "optimal_answer" : "Horatio and the sentries"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Who were Rosencrantz and Guildenstern?",
+    "answer" :"Claudius and Gertrude send two student friends of his, Rosencrantz and Guildenstern, to discover the cause of Hamlet's mood and behavior\\.",
+    "optimal_answer" : "two student friends"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "Why were Rosencrantz and Guildenstern sent?",
+    "answer" :"Claudius and Gertrude send two student friends of his, Rosencrantz and Guildenstern, to discover the cause of Hamlet's mood and behavior\\.",
+    "optimal_answer" : "to discover the cause of Hamlet's mood and behavior"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did the Ghost say to Hamlet?",
+    "answer" :"That night, the Ghost appears to Hamlet and tells him that Claudius murdered him by pouring \\\"juice of cursed hebenon\\\" in his ear, which caused his blood to \\\"curd\\\" and his skin to be covered with a \\\"vile and loathsome crust\\.\\\"",
+    "optimal_answer" : "Claudius murdered him by pouring \\\"juice of cursed hebenon\\\" in his ear"
+  },
+  {
+    "source":"",
+    "file": "Hamlet.txt",
+    "query": "What did the Ghost demand?",
+    "answer" :"The Ghost demands that Hamlet avenge him\\.",
+    "optimal_answer" : "Hamlet avenge him"
+  }
+]

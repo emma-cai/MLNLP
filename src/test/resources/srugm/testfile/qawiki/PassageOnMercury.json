@@ -1,0 +1,79 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "What is Mercury?",
+    "answer" :"Mercury is a chemical element with symbol Hg and atomic number 80\\.",
+    "optimal_answer": "A chemical element with symbol Hg and atomic number 80"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "What is the symbol of Mercury?",
+    "answer" :"Mercury is a chemical element with symbol Hg and atomic number 80\\.",
+    "optimal_answer": "Hg."
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "Which chemical element has a symbol Hg?",
+    "answer" :"Mercury is a chemical element with symbol Hg and atomic number 80\\.",
+    "optimal_answer": "Mercury"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "What is the atomic number of Mercury?",
+    "answer" :"Mercury is a chemical element with symbol Hg and atomic number 80\\.",
+    "optimal_answer": "80"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "Which chemical element is commonly known as quicksilver?",
+    "answer" :"It is commonly known as quicksilver and was formerly named hydrargyrum\\.",
+    "optimal_answer": "Mercury"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "What is Mercury commonly known as?",
+    "answer" :"It is commonly known as quicksilver and was formerly named hydrargyrum\\.",
+    "optimal_answer": "Quicksilver"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "Which chemical element was formerly named as hydrargyrum?",
+    "answer" :"It is commonly known as quicksilver and was formerly named hydrargyrum\\.",
+    "optimal_answer": "Mercury"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "Which metallic element is liquid at standard conditions for temperature and pressure?",
+    "answer" :"A heavy, silvery d-block element, mercury is the only metallic element that is liquid at standard conditions for temperature and pressure;",
+    "optimal_answer": "Mercury"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "Which metals melts just above room temperature?",
+    "answer" :"the only other element that is liquid under these conditions is bromine, though metals such as caesium, gallium, and rubidium melt just above room temperature\\.",
+    "optimal_answer": "Metals such as caesium, gallium, and rubidium"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "What is the pure form of mercuric sulfide?",
+    "answer" :"The red pigment vermilion, a pure form of mercuric sulfide\\.",
+    "optimal_answer": "The red pigment vermilion"
+  },
+  {
+    "source":"",
+    "file": "PassageOnMercury.txt",
+    "query": "What are the uses of Mercury?",
+    "answer" :"Mercury is used in thermometers, barometers, manometers, sphygmomanometers, float valves, mercury switches, mercury relays, fluorescent lamps and other devices, though concerns about the element's toxicity have led to mercury thermometers and sphygmomanometers being largely phased out in clinical environments in favour of alternatives such as alcohol- or galinstan-filled glass thermometers and thermistor- or infrared-based electronic instruments\\.",
+    "optimal_answer": "thermometers, barometers, manometers, sphygmomanometers, float valves, mercury switches, mercury relays, fluorescent lamps and other devices"
+  }
+]

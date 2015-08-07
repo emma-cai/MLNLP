@@ -1,0 +1,86 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Which is the second planet from the Sun?",
+    "answer" :"Venus is the second planet from the Sun, orbiting it every 224\\.7 Earth days\\.",
+    "optimal_answer": "Venus"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Which planet is second from the Sun?",
+    "answer" :"Venus is the second planet from the Sun, orbiting it every 224\\.7 Earth days\\.",
+    "optimal_answer": "Venus"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Where is Venus located in the Solar System?",
+    "answer" :"Venus is the second planet from the Sun, orbiting it every 224\\.7 Earth days\\.",
+    "optimal_answer": "second planet from the Sun"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "What is the position of Venus from the Sun?",
+    "answer" :"Venus is the second planet from the Sun, orbiting it every 224\\.7 Earth days\\.",
+    "optimal_answer": "The second planet from the Sun"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Which planet has no natural satellite?",
+    "answer" :"It has no natural satellite\\.",
+    "optimal_answer": "Venus"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Which planet orbits every 224.7 Earth days?",
+    "answer" :"Venus is the second planet from the Sun, orbiting it every 224\\.7 Earth days\\.",
+    "optimal_answer": "Venus"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Which planet is named after the Roman goddess of love and beauty?",
+    "answer" :"It is named after the Roman goddess of love and beauty\\.",
+    "optimal_answer": "Venus"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Which planet is referred as a terrestrial planet ?",
+    "answer" :"Venus is a terrestrial planet and is sometimes called Earth's \\\"sister planet\\\" because of their similar size, mass, proximity to the Sun and bulk composition\\.",
+    "optimal_answer": "Venus"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Which planet is called as the Earth's \"sister planet\"?",
+    "answer" :"Venus is a terrestrial planet and is sometimes called Earth's \\\"sister planet\\\" because of their similar size, mass, proximity to the Sun and bulk composition\\.",
+    "optimal_answer": "Venus"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Why Venus is sometimes called as Earth's \"sister planet\"?",
+    "answer" :"Venus is a terrestrial planet and is sometimes called Earth's \\\"sister planet\\\" because of their similar size, mass, proximity to the Sun and bulk composition\\.",
+    "optimal_answer": "because of their similar size, mass, proximity to the Sun and bulk composition"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "What is the percent of Carbon Dioxide present in the Venus planet?",
+    "answer" :"It has the densest atmosphere of the four terrestrial planets, consisting of more than 96% carbon dioxide\\.",
+    "optimal_answer": "More than 96 percent"
+  },
+  {
+    "source":"",
+    "file": "PassageOnVenus.txt",
+    "query": "Which planet is by far the hottest planet in the Solar System?",
+    "answer" :"With a mean surface temperature of 735 K \\(462 °C; 863 °F\\), Venus is by far the hottest planet in the Solar System, even though Mercury is closer to the Sun\\.",
+    "optimal_answer": "Venus"
+  }
+]

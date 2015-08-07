@@ -1,0 +1,156 @@
+[
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "What are bees?",
+    "answer" :"Bees are insects\\.",
+    "optimal_answer" : "Insects"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Why are bees special insects?",
+    "answer" :"Bees are special insects because they can fly!",
+    "optimal_answer" : "They can fly"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Why are bees referred to as special insects?",
+    "answer" :"Bees are special insects because they can fly!",
+    "optimal_answer" : "Because they can fly"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "What are bees like when they move through the air?",
+    "answer" :"Bees can move through the air like an airplane!",
+    "optimal_answer" : "An airplane!"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Why do bees need to fly?",
+    "answer" :"Bees need to fly to get to the flowers!",
+    "optimal_answer" : "To get to the flowers"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "How many colors do bees have?",
+    "answer" :"Bees can have three colors\\.",
+    "optimal_answer" : "Three"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "How many main parts do bees have?",
+    "answer" :"Bees have three main parts\\.",
+    "optimal_answer" : "Three"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "What is the stinger used for?",
+    "answer" :"The stinger is used to defend against enemies\\.",
+    "optimal_answer" : "To defend against enemies"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "What is the stinger for?",
+    "answer" :"The stinger is used to defend against enemies\\.",
+    "optimal_answer" : "To defend against enemies"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "What is the use of stinger?",
+    "answer" :"The stinger is used to defend against enemies\\.",
+    "optimal_answer" : "To defend against enemies"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "What is the use of stinger in bees?",
+    "answer" :"The stinger is used to defend against enemies\\.",
+    "optimal_answer" : "To defend against enemies"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "How many legs do bees have?",
+    "answer" :"Bees also have six legs\\.",
+    "optimal_answer" : "Six"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "What do bees use their legs for?",
+    "answer" :"Bees use their legs to stand and climb\\.",
+    "optimal_answer" : "Standing climbing eating and collecting pollen"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Where do the bees live?",
+    "answer" :"Bees live in many places\\.|They live in Africa, Australia, Asia, Europe, North America, South America\\.",
+    "optimal_answer" : "((In )?many places|Africa Australia Asia Europe North America South America)"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "On which continent do bees not live?",
+    "answer" :"They live in Africa, Australia, Asia, Europe, North America, South America\\.|The only continent that bees do not live on is Antarctica!",
+    "optimal_answer" : "Antarctica"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Why do the bees not live in Antarctica?",
+    "answer" :"It’s too cold! ",
+    "optimal_answer" : "Too cold"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Why don’t they live in Antarctica?",
+    "answer" :"It’s too cold! ",
+    "optimal_answer" : "Too cold"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Who are nice to humans?",
+    "answer" :"Most of the time, bees are nice to humans\\.",
+    "optimal_answer" : "Bees"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Which places do bees live in?",
+    "answer" :"Bees live in many places\\.|They live in Africa, Australia, Asia, Europe, North America, South America\\.",
+    "optimal_answer" : "Africa Australia Asia Europe North America South America"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Do bees usually bother humans?",
+    "answer" :"If humans do not bother bees, bees will not bother humans\\.",
+    "optimal_answer" : "No"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Do bees sometimes bother humans?",
+    "answer" :"If humans do not bother bees, bees will not bother humans\\.",
+    "optimal_answer" : "Yes"
+  },
+  {
+    "source": "",
+    "file": "Bee.txt",
+    "query": "Are bees nice to humans?",
+    "answer" :"Most of the time, bees are nice to humans\\.",
+    "optimal_answer" : "Yes"
+  }
+]

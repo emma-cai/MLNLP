@@ -1,0 +1,93 @@
+[
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "Who is Ray Charles ?",
+    "answer" :"Ray Charles, a musician of exceptional talents - singer, songwriter, arranger and pianist - died June 10 of acute liver disease at his home in Beverly Hills, California\\.|He died in Beverly Hills, California of acute liver disease on June 10 at age 73\\.",
+    "optimal_answer" : "a musician of exceptional talents- singer, songwriter, arranger and pianist"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "When did Ray Charles die?",
+    "answer" :"Ray Charles, a musician of exceptional talents - singer, songwriter, arranger and pianist - died June 10 of acute liver disease at his home in Beverly Hills, California\\.|He died in Beverly Hills, California of acute liver disease on June 10 at age 73\\.",
+    "optimal_answer" : "June 10, age 73"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "How long was Ray’s career?",
+    "answer" :"In a career spanning more than 50 years, the extraordinarily gifted blind artist earned 12 Grammy Awards and numerous other honors, both in the United States and abroad\\.",
+    "optimal_answer" : "more than 50 years"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "Which song was Ray Charles well-known for ?",
+    "answer" :"'Georgia On My Mind' is probably the one song for which Ray Charles was best known\\.",
+    "optimal_answer" : "Georgia On My Mind"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "Which song was Ray Charles best known for ?",
+    "answer" :"'Georgia On My Mind' is probably the one song for which Ray Charles was best known\\.",
+    "optimal_answer" : "Georgia On My Mind"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "Which song was selected as a state song for the southern state of Georgia?",
+    "answer" :"He did not write the piece, but he made this arrangement of it so famous that the southern state of Georgia, in which Mr\\. Charles was born, selected it as its state song\\.",
+    "optimal_answer" : "Georgia On My Mind"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "How was Ray known as among fans?",
+    "answer" :"To his fans, Ray Charles was fondly known as 'Brother Ray,' also the title of his 1978 autobiography\\.",
+    "optimal_answer" : "Ray Charles was fondly known as 'Brother Ray'"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "What was the title of his 1978 autobiography?",
+    "answer" :"To his fans, Ray Charles was fondly known as 'Brother Ray,' also the title of his 1978 autobiography\\.",
+    "optimal_answer" : "Brother Ray"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "When was Ray’s final public appearance?",
+    "answer" :"His final public appearance was on April 30 when the city of Los Angeles designated his 40-year-old studio an historic landmark\\.",
+    "optimal_answer" : "April 30"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "Who was one of the first inductees into the Rock and Roll Hall of Fame in 1986?",
+    "answer" :"He was one of the first inductees into the Rock and Roll Hall of Fame in 1986\\.",
+    "optimal_answer" : "Ray Charles|He"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "Where did Ray die?",
+    "answer" :"Ray died in Beverly Hills, California of acute liver disease on June 10 at age 73\\.",
+    "optimal_answer" : "Beverly Hills, California"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "How did Ray die?",
+    "answer" :"Ray died in Beverly Hills, California of acute liver disease on June 10 at age 73\\.",
+    "optimal_answer" : "acute liver disease"
+  },
+  {
+    "source":"",
+    "file": "RayCharles.txt",
+    "query": "When did Ray die ?",
+    "answer" :"Ray died in Beverly Hills, California of acute liver disease on June 10 at age 73\\.",
+    "optimal_answer" : "June 10, age 73"
+  }
+]

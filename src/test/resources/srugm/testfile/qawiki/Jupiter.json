@@ -1,0 +1,44 @@
+[
+  {
+    "source":"",
+    "file":"Jupiter.txt",
+    "query":"What planet has no surface?",
+    "answer" :"It is the first of the gas giants and has no surface, though it may have a rocky core\\.",
+    "optimal_answer":"Jupiter"
+  },
+  {
+    "source":"",
+    "file":"Jupiter.txt",
+    "query":"What has a rocky core?",
+    "answer" :"It is the first of the gas giants and has no surface, though it may have a rocky core\\.",
+    "optimal_answer":"Jupiter"
+  },
+  {
+    "source":"",
+    "file":"Jupiter.txt",
+    "query":"What is 1/1000th as massive as the sun?",
+    "answer" :"Although Jupiter is only 1/1000th as massive as the sun, it is more than twice as massive as all of the other planets in the solar system combined\\.",
+    "optimal_answer":"Jupiter|it"
+  },
+  {
+    "source":"",
+    "file":"Jupiter.txt",
+    "query":"What is Jupiter's atmosphere?",
+    "answer" :"Jupiter's atmosphere is separated into different bands and gives the planet the appearance of having whitish and reddish layers with various spots, swirls and bubbles\\.",
+    "optimal_answer":"separated into different bands and gives the planet the appearance of having whitish and reddish layers with various spots, swirls and bubbles"
+  },
+  {
+    "source":"",
+    "file":"Jupiter.txt",
+    "query":"Why the spot looks red?",
+    "answer" :"Scientists still don't have an explanation for why the spot looks red\\.",
+    "optimal_answer":"Scientists still don't have an explanation for why the spot looks red"
+  },
+  {
+    "source":"",
+    "file":"Jupiter.txt",
+    "query":"What may be weakening?",
+    "answer" :"Recent studies have shown that the spot has actually shrunk and that the storm may be weakening\\.",
+    "optimal_answer":"(the( red)? spot)|(the storm)"
+  }
+]

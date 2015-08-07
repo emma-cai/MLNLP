@@ -1,0 +1,72 @@
+[
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "What are the good parts of our civilization?",
+    "answer" :"First and foremost there are order and safety\\.|Another great achievement of our civilization is that today civilized men are largely free from the fear of pain\\.",
+    "optimal_answer" : "Order and safety"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "What is another great achievement of our civilization?",
+    "answer" :"Another great achievement of our civilization is that today civilized men are largely free from the fear of pain\\.",
+    "optimal_answer" : "today civilized men are largely free from the fear of pain"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "How do disputes between man and man get settled?",
+    "answer" :"Thus in disputes between man and man, right has taken the place of might\\.",
+    "optimal_answer" : "right has taken the place of might"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "Who protects us from robbery and violence?",
+    "answer" :"Moreover, the law protects me from robbery and violence\\.",
+    "optimal_answer" : "law"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "What does the law do when it catches burglars?",
+    "answer" :"Of course, there are burglars, but they are very rare, and the law punishes them whenever it catches them\\.",
+    "optimal_answer" : "the law punishes them"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "How does our civilization compare to others that have gone before it?",
+    "answer" :"Thirdly, our civilization is more secure than any that have gone before it\\.",
+    "optimal_answer" : "it is more secure"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "Why is our civilization more secure?",
+    "answer" :"This is because our civilization is much more widely spread\\.\\.\\.\\.",
+    "optimal_answer" : "because our civilization is much more widely spread"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "Why were previous civilizations like oases in a desert?",
+    "answer" :"Previous civilizations were specialized and limited, they were like oases in a desert\\.",
+    "optimal_answer" : "They were specialized and limited"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "Which civilizations were like oases in a desert?",
+    "answer" :"Previous civilizations were specialized and limited, they were like oases in a desert\\.",
+    "optimal_answer" : "Previous civilizations|they"
+  },
+  {
+    "source": "",
+    "file": "Civilization.txt",
+    "query": "Why does safety enable?",
+    "answer" :"Without safety, these higher activities of mankind which make up civilization could not go on\\.",
+    "optimal_answer" : "higher activities of mankind"
+  }
+]

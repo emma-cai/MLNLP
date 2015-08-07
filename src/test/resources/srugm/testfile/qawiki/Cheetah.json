@@ -1,0 +1,191 @@
+[
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Which is the fastest legged robot in the World?",
+    "answer" :"The Cheetah robot is the fastest legged robot in the World, surpassing 29 mph, a new land speed record for legged robots\\.",
+    "optimal_answer" : "The Cheetah robot"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is the Cheetah Robot?",
+    "answer" :"The Cheetah robot is the fastest legged robot in the World, surpassing 29 mph, a new land speed record for legged robots\\.",
+    "optimal_answer" : "The fastest legged robot in the world"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is a Cheetah?",
+    "answer" :"The Cheetah robot is the fastest legged robot in the World, surpassing 29 mph, a new land speed record for legged robots\\.",
+    "optimal_answer" : "The fastest legged robot in the world"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "How fast can Cheetah run?",
+    "answer" :"The Cheetah robot is the fastest legged robot in the World, surpassing 29 mph, a new land speed record for legged robots\\.",
+    "optimal_answer" : "29 mph"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What was the previous record which was set in 1989 at MIT?",
+    "answer" :"The previous record was 13\\.1 mph, set in 1989 at MIT\\.",
+    "optimal_answer" : "13.1 mph"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What was set in 1989 at MIT?",
+    "answer" :"The previous record was 13\\.1 mph, set in 1989 at MIT\\.",
+    "optimal_answer" : "the previous record"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Which robot has an articulated back?",
+    "answer" :"The Cheetah robot has an articulated back that flexes back and forth on each step, increasing its stride and running speed, much like the animal does\\.",
+    "optimal_answer" : "The Cheetah robot"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What does the Cheetah Robot do on each step?",
+    "answer" :"The Cheetah robot has an articulated back that flexes back and forth on each step, increasing its stride and running speed, much like the animal does\\.",
+    "optimal_answer" : "it flexes its back"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Which robot runs on the treadmill?",
+    "answer" :"The current version of the Cheetah robot runs on a high-speed treadmill in the laboratory where it is powered by an off-board hydraulic pump and uses a boom-like device to keep it running in the center of the treadmill\\.",
+    "optimal_answer" : "The current version of the Cheetah robot"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What type of device keeps Cheetah running in the center of the treadmill?",
+    "answer" :"The current version of the Cheetah robot runs on a high-speed treadmill in the laboratory where it is powered by an off-board hydraulic pump and uses a boom-like device to keep it running in the center of the treadmill\\.",
+    "optimal_answer" : "A boom-like device"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What keeps Cheetah running in the center of the treadmill?",
+    "answer" :"The current version of the Cheetah robot runs on a high-speed treadmill in the laboratory where it is powered by an off-board hydraulic pump and uses a boom-like device to keep it running in the center of the treadmill\\.",
+    "optimal_answer" : "A boom-like device"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is the next generation of Cheetah robot?",
+    "answer" :"The next generation Cheetah robot, WildCat, is designed to operate untethered\\.",
+    "optimal_answer" : "WildCat"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is the name of the next generation of Cheetah robot?",
+    "answer" :"The next generation Cheetah robot, WildCat, is designed to operate untethered\\.",
+    "optimal_answer" : "WildCat"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is the WildCat designed to do?",
+    "answer" :"The next generation Cheetah robot, WildCat, is designed to operate untethered\\.",
+    "optimal_answer" : "To operate untethered"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Which robot recently entered initial testing?",
+    "answer" :"WildCat recently entered initial testing and is scheduled for outdoor field testing later in 2013\\.",
+    "optimal_answer" : "WildCat"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Which robot is scheduled for outdoor field testing later in 2013?",
+    "answer" :"WildCat recently entered initial testing and is scheduled for outdoor field testing later in 2013\\.",
+    "optimal_answer" : "WildCat"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Who funded the development of the Cheetah Robot?",
+    "answer" :"Cheetah robot development is funded by DARPA's Maximum Mobility and Manipulation program\\.",
+    "optimal_answer" : "DARPA's Maximum Mobility and Manipulation program"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is DARPA?",
+    "answer" :"The U\\.S\\. military's Defense Advanced Research Projects Agency\\(DARPA\\) has the unique mission of protecting national security by maintaining technological superiority\\. ",
+    "optimal_answer" : "The U.S. military's Defense Advanced Research Projects Agency"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What does \"DARPA\" stand for?",
+    "answer" :"The U\\.S\\. military's Defense Advanced Research Projects Agency\\(DARPA\\) has the unique mission of protecting national security by maintaining technological superiority\\. ",
+    "optimal_answer" : "Defense Advanced Research Projects Agency"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is the mission of DARPA?",
+    "answer" :"The U\\.S\\. military's Defense Advanced Research Projects Agency\\(DARPA\\) has the unique mission of protecting national security by maintaining technological superiority\\. ",
+    "optimal_answer" : "Protecting national security by maintaining technological superiority"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is the mission of the Defense Advanced Research Projects Agency?",
+    "answer" :"The U\\.S\\. military's Defense Advanced Research Projects Agency\\(DARPA\\) has the unique mission of protecting national security by maintaining technological superiority\\. ",
+    "optimal_answer" : "Protecting national security by maintaining technological superiority"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Which robot's movements are patterned after fast-running animals in nature?",
+    "answer" :"This robot's movements are patterned after fast-running animals in nature, and it just set the record for the fastest legged robot in the world\\. ",
+    "optimal_answer" : "Cheetah robot"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Who has set the record for the fastest legged robot in the world?",
+    "answer" :"This robot's movements are patterned after fast-running animals in nature, and it just set the record for the fastest legged robot in the world\\. |The Cheetah robot is the fastest legged robot in the World, surpassing 29 mph, a new land speed record for legged robots\\.",
+    "optimal_answer" : "Cheetah robot"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Which robot is used in military operations?",
+    "answer" :"DARPA claims the use of robots in military operations has \\\"already saves many lives and prevents thousands of other casualties\\.\\\"",
+    "optimal_answer" : "Cheetah robot"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "Which robot saved lives and prevented thousands of other casualties?",
+    "answer" :"DARPA claims the use of robots in military operations has \\\"already saves many lives and prevents thousands of other casualties\\.\\\"",
+    "optimal_answer" : "Cheetah robot"
+  },
+   {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What does M3 stand for?",
+    "answer" :"DARPA’s Maximum Mobility and Manipulation \\(M3\\) program is developing machines with many different potential military applications, but the intended uses for Cheetah have not been revealed\\. ",
+    "optimal_answer" : "Maximum Mobility and Manipulation"
+  },
+  {
+    "source": "",
+    "file": "Cheetah.txt",
+    "query": "What is DARPA’s Maximum Mobility and Manipulation program doing?",
+    "answer" :"DARPA’s Maximum Mobility and Manipulation \\(M3\\) program is developing machines with many different potential military applications, but the intended uses for Cheetah have not been revealed\\. ",
+    "optimal_answer" : "Developing machines with many different potential military applications"
+  }
+]

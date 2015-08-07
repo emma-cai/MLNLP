@@ -1,0 +1,212 @@
+[
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What fuels us through out the day?",
+    "answer" :"The food we eat not only tastes good, but helps fuel us through our day\\.",
+    "optimal_answer" : "food"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What are three main nutrients food contains?",
+    "answer" :"All foods contain three main nutrients: carbohydrates, fat, and protein\\.",
+    "optimal_answer" : "carbohydrates fat and protein"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What nutrients do foods contain?",
+    "answer" :"All foods contain three main nutrients: carbohydrates, fat, and protein\\.",
+    "optimal_answer" : "carbohydrates fat and protein"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What other remaining parts do foods contain apart from the three nutrients ?",
+    "answer" :"All foods contain three main nutrients: carbohydrates, fat, and protein\\.|The remaining parts of food and include fiber, minerals, vitamins, and water\\.",
+    "optimal_answer" : "fiber minerals vitamins and water"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What accounts for the majority of nutrients in the North American diet?",
+    "answer" :"Carbohydrates account for the majority of nutrients in the North American diet\\.",
+    "optimal_answer" : "Carbohydrates"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What are made of sugar molecules?",
+    "answer" :"Carbohydrates account for the majority of nutrients in the North American diet\\.|They are made of a series of Sugar molecules\\.",
+    "optimal_answer" : "Carbohydrates"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What do sugar molecules do?",
+    "answer" :"The sugar molecules act as an efficient form of energy for the body\\.",
+    "optimal_answer" : "(act )?as an efficient form of energy for the body"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "Where do we normally find carbohydrates?",
+    "answer" :"Carbohydrates are commonly found in breads, grains, vegetables, and various sugary foods\\.",
+    "optimal_answer" : "(In )?breads, grains, vegetables, and various sugary foods"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What is the recommended amount of carbohydrates for your daily calorie count?",
+    "answer" :"It is recommended that carbohydrates account for 60% of your daily calories\\.",
+    "optimal_answer" : "60%"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What is the recommended amount of carbohydrates for one's daily calorie count?",
+    "answer" :"It is recommended that carbohydrates account for 60% of your daily calories\\.",
+    "optimal_answer" : "60%"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What provides just over twice the energy of carbohydrates per gram?",
+    "answer" :"Fat provides just over twice the energy of carbohydrates per gram\\.",
+    "optimal_answer" : "Fat"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "Where can fat be found?",
+    "answer" :"Fat can be found in animal meat, butter, nuts, and oils\\.",
+    "optimal_answer" : "animal meat butter nuts and oils."
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What is the recommended amount of fat for your daily calorie count?",
+    "answer" :"It is recommended that fats account for 20% of your daily calories\\.",
+    "optimal_answer" : "20%"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "How many types of fats are there?",
+    "answer" :"There are two types of fats saturated and unsaturated\\.",
+    "optimal_answer" : "Two"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What types of fats are there?",
+    "answer" :"There are two types of fats saturated and unsaturated\\.",
+    "optimal_answer" : "saturated and unsaturated."
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What are unsaturated fats?",
+    "answer" :"Unsaturated fats are an essential nutrient for cell growth and development\\.|Unsaturated fats are mostly liquid at room temperature and are mostly found in plant products\\.",
+    "optimal_answer" : "an essential nutrient for cell growth and development"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "Which fats are normally found in plant products?",
+    "answer" :"Unsaturated fats are mostly liquid at room temperature and are mostly found in plant products\\.",
+    "optimal_answer" : "unsaturated fats"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "Which fats have been linked to heart disease and other health problems?",
+    "answer" :"Saturated fats have been linked to heart disease and other health problems\\.",
+    "optimal_answer" : "saturated fats"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "Where are saturated fats normally found?",
+    "answer" :"Saturated fats are mostly found in animal products and are solid at room temperature\\.",
+    "optimal_answer" : "animal products"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What is protein required for?",
+    "answer" :"Protein is required by the body's cells for growth and repair\\.",
+    "optimal_answer" : "growth and repair"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "Why is protein required for our body?",
+    "answer" :"Protein is required by the body's cells for growth and repair\\.",
+    "optimal_answer" : "growth and repair"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What accounts for a substantial portion of the body's bones, muscle, and structural tissue?",
+    "answer" :"Protein accounts for a substantial portion of the body's bones, muscle, and structural tissue\\.",
+    "optimal_answer" : "Protein"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "How can protein also be used by our body?",
+    "answer" :"Protein also can be used by the body as an energy source\\.",
+    "optimal_answer" : "as an energy source"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What contains as much energy as carbohydrates?",
+    "answer" :"Protein contains as much energy as carbohydrates\\.",
+    "optimal_answer" : "protein"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What is protein made up of?",
+    "answer" :"Protein is made up of amino acids\\.",
+    "optimal_answer" : "Amino acids"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What are amino acids used for?",
+    "answer" :"Protein is made up of amino acids\\.|Amino acids are used to maintain the bodies, bones, muscles, and various organs\\.",
+    "optimal_answer" : "To maintain the bodies bones muscles and various organs|protein"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What is the use of amino acids in our body?",
+    "answer" :"Protein is made up of amino acids\\.|Amino acids are used to maintain the bodies, bones, muscles, and various organs\\.",
+    "optimal_answer" : "To maintain the bodies, bones, muscles, and various organs|protein"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What is the use of amino acid?",
+    "answer" :"Amino acids are used to maintain the bodies, bones, muscles, and various organs\\.|Protein is made up of amino acids\\.",
+    "optimal_answer" : "To maintain the bodies bones muscles and various organs|protein"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What are the uses of amino acids?",
+    "answer" :"Amino acids are used to maintain the bodies, bones, muscles, and various organs\\.|Protein is made up of amino acids\\.",
+    "optimal_answer" : "To maintain the bodies bones muscles and various organs|protein"
+  },
+  {
+    "source": "",
+    "file": "Food.txt",
+    "query": "What is used to maintain the bodies, bones, muscles, and  various organs?",
+    "answer" :"Amino acids are used to maintain the bodies, bones, muscles, and various organs\\.",
+    "optimal_answer" : "Amino acids"
+  }
+]

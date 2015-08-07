@@ -1,0 +1,72 @@
+[
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"Where was Arnold Schwarzenegger born?",
+    "answer" :"Arnold Schwarzenegger is an Austrian-born American actor, producer, activist, businessman, investor, writer, philanthropist, former professional bodybuilder, and politician\\.",
+    "optimal_answer":"Austria"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"When did Arnold Schwarzenegger serve as Governor of California?",
+    "answer" :"Schwarzenegger served two terms as the 38th Governor of California from 2003 until 2011\\.",
+    "optimal_answer":"(Schwarzenegger was then re-elected on November 7 , 2006)|(from 2003 until 2011)"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"When did Arnold win Mr. Universe?",
+    "answer" :"He won the Mr\\. Universe title at age 20 and went on to win the Mr\\. Olympia contest seven times\\.",
+    "optimal_answer":"age 20"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"What was Arnold's breakthrough film?",
+    "answer" :"Schwarzenegger's breakthrough film was the sword-and-sorcery epic Conan the Barbarian in 1982, which was a box-office hit and resulted in a sequel\\.",
+    "optimal_answer":"Conan the Barbarian"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"What did Arnold Schwarzenegger appear in that was a massive critical and box-office success?",
+    "answer" :"In 1984, Schwarzenegger appeared in James Cameron's science-fiction thriller film The Terminator, which was a massive critical and box-office success\\.",
+    "optimal_answer":"The Terminator"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"When did Schwarzenegger appear in The Terminator?",
+    "answer" :"In 1984, Schwarzenegger appeared in James Cameron's science-fiction thriller film The Terminator, which was a massive critical and box-office success\\.",
+    "optimal_answer":"1984"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"What successful films did Arnold Schwarzenegger appear in?",
+    "answer" :"Arnold Schwarzenegger appeared in a number of successful films, such as Commando \\(1985\\), The Running Man \\(1987\\), Predator \\(1987\\), Twins \\(1988\\), Total Recall \\(1990\\), Kindergarten Cop \\(1990\\) and True Lies \\(1994\\)\\.",
+    "optimal_answer":"Commando|The Running Man|Predator|Twins|Total Recall|Kindergarten Cop|True Lies"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"What is Arnold's nicknames?",
+    "answer" :"Arnold was nicknamed the \\\"Austrian Oak\\\" and the \\\"Styrian Oak\\\" in his bodybuilding days, \\\"Arnie\\\" during his acting career, and \\\"The Governator\\\" \\(a portmanteau of \\\"Governor\\\" and \\\"The Terminator\\\" – one of his best-known movie roles\\) since the start of his political career\\.",
+    "optimal_answer":"Austrian Oak|Styrian Oak|Arnie|The Governator"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"When was Schwarzenegger elected as Govenor?",
+    "answer" :"As a Republican, Schwarzenegger was first elected on October 7, 2003, in a special recall election to replace then-Governor Gray Davis\\.",
+    "optimal_answer":"October 7, 2003"
+  },
+  {
+    "source":"",
+    "file":"ArnoldSchwarzenegger.txt",
+    "query":"When was Schwarzenegger re-elected?",
+    "answer" :"Schwarzenegger was then re-elected on November 7, 2006, in California's 2006 gubernatorial election, to serve a full term as governor, defeating Democrat Phil Angelides, who was California State Treasurer at the time\\.",
+    "optimal_answer":"(Schwarzenegger was then re-elected on November 7 , 2006)|(November 7, 2006)"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "Where is Liberty Bell located?",
+    "answer" :"The Liberty Bell, located in Pennsylvania, changed the world on July 8, 1776\\.",
+    "optimal_answer" : "Pennsylvania"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "When did the Liberty Bell change the world ?",
+    "answer" :"The Liberty Bell, located in Pennsylvania, changed the world on July 8, 1776\\.",
+    "optimal_answer" : "July 8, 1776"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "Where did the Liberty Bell ring out of ?",
+    "answer" :"The Liberty Bell rang out from the tower of Independence Hall\\.",
+    "optimal_answer" : "from the tower of Independence Hall"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "What was the Liberty Bell used for ?",
+    "answer" :"The Liberty Bell was used to summon the citizens to hear the first reading of the Declaration of Independence by Colonel John Nixon\\.",
+    "optimal_answer" : "summon the citizens to hear the first reading of the Declaration of Independence by Colonel John Nixon"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "What is the use of the Liberty Bell?",
+    "answer" :"The Liberty Bell was used to summon the citizens to hear the first reading of the Declaration of Independence by Colonel John Nixon\\.",
+    "optimal_answer" : "summon the citizens to hear the first reading of the Declaration of Independence by Colonel John Nixon"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "What did the Liberty Bell depict in the 1800’s?",
+    "answer" :"In the 1800s, the Liberty Bell became a symbol for ending slavery in America\\.",
+    "optimal_answer" : "a symbol for ending slavery in America"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "What is the Liberty Bell famous for ?",
+    "answer" :"The Liberty Bell is famous for its large crack\\.",
+    "optimal_answer" : "large crack"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "Why Liberty Bell is famous?",
+    "answer" :"The Liberty Bell is famous for its large crack\\.",
+    "optimal_answer" : "large crack"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "Do people know when the crack first appeared?",
+    "answer" :"People don't know when the crack first appeared on the bell\\.",
+    "optimal_answer" : "No"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "What happened with the crack over time?",
+    "answer" :"The crack got worse over time and people didn't want the bell to break apart\\.  ",
+    "optimal_answer" : "got worse over time"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "Why did they decide that the Liberty Bell should never again be used?",
+    "answer" :"In order to preserve it, it was decided that the Liberty Bell should never again be used\\.",
+    "optimal_answer" : "to preserve it"
+  },
+  {
+    "source":"",
+    "file": "LibertyBell.txt",
+    "query": "When was the Liberty Bell last rung?",
+    "answer" :"The bell hasn't been rung since Washington’s birthday in 1842\\.",
+    "optimal_answer" : "Washington’s birthday in 1842"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "What is LPG?",
+    "answer" :"Liquefied petroleum gas or liquid petroleum gas \\(LPG or LP gas\\), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles\\.",
+    "optimal_answer" : "liquid petroleum gas"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "What is LP gas?",
+    "answer" :"Liquefied petroleum gas or liquid petroleum gas \\(LPG or LP gas\\), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles\\.",
+    "optimal_answer" : "liquid petroleum gas|Liquefied petroleum gas"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "Which gas is also referred to as simply propane or butane?",
+    "answer" :"Liquefied petroleum gas or liquid petroleum gas \\(LPG or LP gas\\), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles\\.",
+    "optimal_answer" : "liquid petroleum gas"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "What is the flammable mixtures of hydrocarbon gases?",
+    "answer" :"Liquefied petroleum gas or liquid petroleum gas \\(LPG or LP gas\\), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles\\.",
+    "optimal_answer" : "liquid petroleum gas"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "What is used as a fuel in heating appliances?",
+    "answer" :"Liquefied petroleum gas or liquid petroleum gas \\(LPG or LP gas\\), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles\\.",
+    "optimal_answer" : "liquid petroleum gas"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "What are the usages of LPG?",
+    "answer" :"Liquefied petroleum gas or liquid petroleum gas \\(LPG or LP gas\\), also referred to as simply propane or butane, are flammable mixtures of hydrocarbon gases used as fuel in heating appliances, cooking equipment, and vehicles\\.|Liquid petroleum gas is increasingly used as an aerosol propellant and a refrigerant, replacing chlorofluorocarbons in an effort to reduce damage to the ozone layer\\.",
+    "optimal_answer" : "as fuel in heating appliances, cooking equipment, and vehicles|an aerosol propellant and a refrigerant"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "What is used as an aerosol propellant and a refrigerant?",
+    "answer" :"Liquid petroleum gas is increasingly used as an aerosol propellant and a refrigerant, replacing chlorofluorocarbons in an effort to reduce damage to the ozone layer\\.",
+    "optimal_answer" : "liquid petroleum gas"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "Why chlorofluorocarbons is replaced?",
+    "answer" :"Liquid petroleum gas is increasingly used as an aerosol propellant and a refrigerant, replacing chlorofluorocarbons in an effort to reduce damage to the ozone layer\\.",
+    "optimal_answer" : "to reduce damage to the ozone layer"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "Which two grades of LPG are sold in United States?",
+    "answer" :"In the United States, primarily two grades of LPG are sold: commercial propane and HD-5\\.",
+    "optimal_answer" : "commercial propane and HD-5"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "How is LPG prepared?",
+    "answer" :"LPG is prepared by refining petroleum or \\\"\\\"wet\\\"\\\" natural gas, and is almost entirely derived from fossil fuel sources, being manufactured during the refining of petroleum \\(crude oil\\), or extracted from petroleum or natural gas streams as they emerge from the ground\\.",
+    "optimal_answer" : "by refining petroleum or wet"
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "Who first produced LPG in 1910?",
+    "answer" :"LPG was first produced in 1910 by Dr\\. Walter Snelling, and the first commercial products appeared in 1912\\.",
+    "optimal_answer" : "Dr. Walter Snelling."
+  },
+  {
+    "source":"",
+    "file": "Petroleum.txt",
+    "query": "When was LPG produced?",
+    "answer" :"LPG was first produced in 1910 by Dr\\. Walter Snelling, and the first commercial products appeared in 1912\\.",
+    "optimal_answer" : "in 1910"
+  }
+]

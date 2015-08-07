@@ -1,0 +1,30 @@
+[
+  {
+    "source":"",
+    "file":"Gravity.txt",
+    "query":"What does Newton's law state ?",
+    "answer" :"Newton's law of universal gravitation postulates that the gravitational force of two bodies of mass is directly proportional to the product of their masses and inversely proportional to the square of the distance between them\\.",
+    "optimal_answer":"the gravitational force of two bodies of mass is directly proportional to the product of their masses and inversely proportional to the square of the distance between (them)|(the bodies)"
+  },
+  {
+    "source":"",
+    "file":"Gravity.txt",
+    "query":"What is gravitation?",
+    "answer" :"Gravity is a natural phenomenon by which all physical bodies attract each other\\.",
+    "optimal_answer":"(a natural phenomenon by which all physical bodies attract each other)|(gravitation is a force of attraction that acts between and on all physical objects with matter \\(mass\\) or energy)|(a consequence of the curvature of space time)"
+  },
+  {
+    "source":"",
+    "file":"Gravity.txt",
+    "query":"The phenomenon of gravitation is a consequence of what?",
+    "answer" :"In modern physics, gravitation is most accurately described by the general theory of relativity proposed by Einstein, which asserts that the phenomenon of gravitation is a consequence of the curvature of space time\\.",
+    "optimal_answer":"(a consequence of )?the curvature of space time"
+  },
+  {
+    "source":"",
+    "file":"Gravity.txt",
+    "query":"What is graviton?",
+    "answer" :"It is hypothesized that the gravitational force is mediated by a mass less spin-2 particle called the graviton\\.",
+    "optimal_answer":"the gravitational force is mediated by a mass less spin-2 particle"
+  }
+]

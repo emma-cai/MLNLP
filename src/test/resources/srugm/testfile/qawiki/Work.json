@@ -1,0 +1,65 @@
+[
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"Is it wrong to consider any work as high or low?",
+    "answer" :"It is absolutely wrong to consider any work as high or low\\.",
+    "optimal_answer":"Yes"
+  },
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"What is considered as dignity?",
+    "answer" :"The work itself is a dignity\\.",
+    "optimal_answer":"Work"
+  },
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"What was the curse of God upon the first man?",
+    "answer" :"“Thou shalt eat thy bread by the sweat of thy brow” was the curse of God upon the first man, Adam\\.",
+    "optimal_answer":"Thou shalt eat thy bread by the sweat of thy brow"
+  },
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"What did Mahatma Gandhi do?",
+    "answer" :"In India we have the example of Mahatma Gandhi, who used to do every kind of work in his ashram\\.",
+    "optimal_answer":"Every kind of work in his ashram"
+  },
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"What is manual labour?",
+    "answer" :"The dignity of labour does necessarily cover manual labour I\\.e\\., physical labour or work done with hands\\.",
+    "optimal_answer":"Physical labour work done with hands\\."
+  },
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"What is the wrong notion regarding manual work?",
+    "answer" :"There is a very wrong notion that labour or manual work is not meant for urban educated, rich and intellectual men ;",
+    "optimal_answer":"Labour or manual work is not meant for urban educated rich and intellectual men ;"
+  },
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"What is the poor man's means of livelihood?",
+    "answer" :"They think that manual work is the poor man’s means of livelihood\\.",
+    "optimal_answer":"Manual work"
+  },
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"What does a rich housewife do ?",
+    "answer" :" We often see that a rich housewife would sit idle and waste time, but would not like to work in her own kitchen\\.",
+    "optimal_answer":"Sit idle and waste time"
+  },
+  {
+    "source":"",
+    "file":"Work.txt",
+    "query":"What will cause false notion?",
+    "answer" :" This false notion is the result of man-made distinction between one kind of work and another\\.",
+    "optimal_answer":"Man-made distinction between one kind of work and another"
+  }
+]

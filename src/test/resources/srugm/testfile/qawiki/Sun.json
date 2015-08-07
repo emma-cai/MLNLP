@@ -1,0 +1,79 @@
+[
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "What is the Sun?",
+    "answer" :"The Sun is the star at the center of the Solar System\\.",
+    "optimal_answer" : "Star"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "Which star is the most important source of energy for life on Earth?",
+    "answer" :"It is by far the most important source of energy for life on Earth\\.",
+    "optimal_answer" : "The Sun|It"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "Which star is at the center of the Solar System?",
+    "answer" :"The Sun is the star at the center of the Solar System\\.",
+    "optimal_answer" : "The Sun"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "What is the mass of Sun as compared to Earth?",
+    "answer" :"The diameter of the Sun is about 109 times that of Earth, and it has a mass about 330,000 times that of Earth, accounting for about 99\\.86% of the total mass of the Solar System\\.",
+    "optimal_answer" : "330,000 times"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "Which star has a mass about 330,000 times that of Earth?",
+    "answer" :"The diameter of the Sun is about 109 times that of Earth, and it has a mass about 330,000 times that of Earth, accounting for about 99\\.86% of the total mass of the Solar System\\.",
+    "optimal_answer" : "The sun"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "Which star is designated as a yellow dwarf?",
+    "answer" :"The Sun is a G-type main-sequence star \\(G2V\\) based on spectral class and it is informally designated as a yellow dwarf\\.",
+    "optimal_answer" : "The Sun"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "Which star is considered as the most important source of energy for life on Earth?",
+    "answer" :"It is by far the most important source of energy for life on Earth\\.",
+    "optimal_answer" : "The Sun|It"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "What is the diameter of the Sun?",
+    "answer" :"The diameter of the Sun is about 109 times that of Earth, and it has a mass about 330,000 times that of Earth, accounting for about 99\\.86% of the total mass of the Solar System\\.",
+    "optimal_answer" : "about 109 times that of Earth\\."
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "How many times the Sun is bigger than Earth?",
+    "answer" :"The diameter of the Sun is about 109 times that of Earth, and it has a mass about 330,000 times that of Earth, accounting for about 99\\.86% of the total mass of the Solar System\\.",
+    "optimal_answer" : "109"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "Which star is a perfect spherical ball of hot plasma?",
+    "answer" :"The Sun is a nearly perfect spherical ball of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process\\.",
+    "optimal_answer" : "The Sun"
+  },
+  {
+    "source":"",
+    "file": "Sun.txt",
+    "query": "What is the chemical composition of Sun?",
+    "answer" :"Chemically, about three quarters of the Sun's mass consists of hydrogen, whereas the rest is mostly helium, and much smaller quantities of heavier elements, including oxygen, carbon, neon and iron\\.",
+    "optimal_answer" : "Hydrogen helium oxygen carbon neon and iron"
+  }
+]

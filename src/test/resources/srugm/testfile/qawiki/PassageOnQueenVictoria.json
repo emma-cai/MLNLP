@@ -1,0 +1,114 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who was Victoria?",
+    "answer" :"Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death\\.",
+    "optimal_answer": "Queen of the United Kingdom of Great Britain and Ireland|the daughter of Prince Edward, Duke of Kent and Strathearn the fourth son of King George III"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who was the Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 ?",
+    "answer" :"Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death\\.",
+    "optimal_answer": "Victoria"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who used the additional title of Empress of India?",
+    "answer" :"From 1 May 1876, she used the additional title of Empress of India\\.",
+    "optimal_answer": "Victoria|She"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "When did she use the additional title of Empress of India?",
+    "answer" :"From 1 May 1876, she used the additional title of Empress of India\\.",
+    "optimal_answer": "1 May 1876"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Whose daughter was Victoria?",
+    "answer" :"Victoria was the daughter of Prince Edward, Duke of Kent and Strathearn, the fourth son of King George III\\.",
+    "optimal_answer": "Prince Edward|Duke of Kent and Strathearn|the fourth son of King George III"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who was Prince Edward's daughter?",
+    "answer" :"Victoria was the daughter of Prince Edward, Duke of Kent and Strathearn, the fourth son of King George III\\.",
+    "optimal_answer": "Victoria"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who was the Duke of Kent and Strathearn?",
+    "answer" :"Victoria was the daughter of Prince Edward, Duke of Kent and Strathearn, the fourth son of King George III\\.",
+    "optimal_answer": "Prince Edward"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who was the fourth son of King George III?",
+    "answer" :"Victoria was the daughter of Prince Edward, Duke of Kent and Strathearn, the fourth son of King George III\\.",
+    "optimal_answer": "Prince Edward"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "When did Duke of Kent and King George III died?",
+    "answer" :"Both the Duke of Kent and King George III died in 1820, and Victoria was raised under close supervision by her German-born mother Princess Victoria of Saxe-Coburg-Saalfeld\\.",
+    "optimal_answer": "1820"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who died in 1820?",
+    "answer" :"Both the Duke of Kent and King George III died in 1820, and Victoria was raised under close supervision by her German-born mother Princess Victoria of Saxe-Coburg-Saalfeld\\.",
+    "optimal_answer": "Both the Duke of Kent and King George III"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "How Victoria was raised?",
+    "answer" :"Both the Duke of Kent and King George III died in 1820, and Victoria was raised under close supervision by her German-born mother Princess Victoria of Saxe-Coburg-Saalfeld\\.",
+    "optimal_answer": "under close supervision"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who inherited the throne at the age of 18?",
+    "answer" :"Queen Victoria inherited the throne at the age of 18, after her father's three elder brothers had all died, leaving no legitimate, surviving children\\.",
+    "optimal_answer": "Victoria"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "When did Queen Victoria inherited the throne?",
+    "answer" :"Queen Victoria inherited the throne at the age of 18, after her father's three elder brothers had all died, leaving no legitimate, surviving children\\.",
+    "optimal_answer": "At the age of 18"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who became a national icon?",
+    "answer" :"Publicly, Victoria became a national icon, and was identified with strict standards of personal morality\\.",
+    "optimal_answer": "Queen Victoria|Victoria"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "Who was identified with strict standards of personal morality?",
+    "answer" :"Publicly, Victoria became a national icon, and was identified with strict standards of personal morality\\.",
+    "optimal_answer": "Queen Victoria|Victoria"
+  },
+  {
+    "source":"",
+    "file": "PassageOnQueenVictoria.txt",
+    "query": "How was Victoria identified?",
+    "answer" :"Publicly, Victoria became a national icon, and was identified with strict standards of personal morality\\.",
+    "optimal_answer": "with strict standards of personal morality"
+  }
+]

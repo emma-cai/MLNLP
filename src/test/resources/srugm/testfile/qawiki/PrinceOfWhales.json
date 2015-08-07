@@ -1,0 +1,100 @@
+[
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "When was the Prince of Wales born?",
+    "answer" :"The Prince of Wales, the eldest son of The Queen and Prince Philip, Duke of Edinburgh, was born at Buckingham Palace at 9\\.14pm on November 14, 1948\\.",
+    "optimal_answer" : "9.14pm on November 14, 1948"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "Who was the eldest son of the Queen and Prince Philip?",
+    "answer" :"The Prince of Wales, the eldest son of The Queen and Prince Philip, Duke of Edinburgh, was born at Buckingham Palace at 9\\.14pm on November 14, 1948\\.",
+    "optimal_answer" : "The Prince of Wales"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "Where was the Prince of Wales born ?",
+    "answer" :"The Prince of Wales, the eldest son of The Queen and Prince Philip, Duke of Edinburgh, was born at Buckingham Palace at 9\\.14pm on November 14, 1948\\.",
+    "optimal_answer" : "Buckingham Palace"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "At what time the Prince Of wales was born?",
+    "answer" :"The Prince of Wales, the eldest son of The Queen and Prince Philip, Duke of Edinburgh, was born at Buckingham Palace at 9\\.14pm on November 14, 1948\\.",
+    "optimal_answer" : "9.14 pm"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "Who was proclaimed as the Queen Elizabeth II?",
+    "answer" :"The Prince's mother was proclaimed Queen Elizabeth II at the age of 25, when her father, King George VI, died aged 56 on February 6, 1952\\.",
+    "optimal_answer" : "The Prince's mother"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "When was the Prince’s mother proclaimed as Queen Elizabeth?",
+    "answer" :"The Prince's mother was proclaimed Queen Elizabeth II at the age of 25, when her father, King George VI, died aged 56 on February 6, 1952\\.",
+    "optimal_answer" : "At the age of 25|when her father, King George VI, died aged 56|on February 6, 1952"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "How old was the Prince at his mother’s coronation?",
+    "answer" :"The Prince was four at his mother's Coronation, in Westminster Abbey on June 2, 1953",
+    "optimal_answer" : "four"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "Where did the coronation happen?",
+    "answer" :"The Prince was four at his mother's Coronation, in Westminster Abbey on June 2, 1953",
+    "optimal_answer" : "Westminster Abbey"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "When was Charles proclaimed as the Prince of Wales?",
+    "answer" :"The eldest child of Queen Elizabeth II, Charles was proclaimed Prince of Wales in 1958 and he is the heir to the British throne\\.",
+    "optimal_answer" : "1958"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "Who is the heir to the British throne?",
+    "answer" :"The eldest child of Queen Elizabeth II, Charles was proclaimed Prince of Wales in 1958 and he is the heir to the British throne\\.",
+    "optimal_answer" : "Charles"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "Who did the Prince of Wales get married to ?",
+    "answer" :"The Prince of Wales served as a pilot and commander in the Royal Navy from 1971 to 1976, and in 1981 he married Lady Diana Spencer in one of biggest royal weddings of the century\\.",
+    "optimal_answer" : "Lady Diana Spencer"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "How was the marriage ?",
+    "answer" :"The match proved a bad one\\. |The couple separated in 1992 and they got divorced in 1996, the year before Diana's untimely death\\.",
+    "optimal_answer" : "Bad"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "How many children did the Prince and Princess of Wales have ?",
+    "answer" :"The Prince and Princess of Wales had two sons, Prince William who was born on June 21, 1982, and Prince Harry who was born on September 15, 1984\\.",
+    "optimal_answer" : "two"
+  },
+  {
+    "source":"",
+    "file": "PrinceOfWhales.txt",
+    "query": "What were the interests of the Prince ?",
+    "answer" :"Over these years, The Prince was developing a wide range of interests, including social and community issues, young people, the arts and natural environment, national heritage, religion and medicine\\.",
+    "optimal_answer" : "social and community issues, young people, the arts and natural environment, national heritage, religion and medicine"
+  }
+]

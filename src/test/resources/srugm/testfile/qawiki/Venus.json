@@ -1,0 +1,51 @@
+[
+  {
+    "source":"",
+    "file":"Venus.txt",
+    "query":"What is like the greenhouse effect?",
+    "answer" :"The thick layers of cloud create an extreme insulating effect \\(like the greenhouse effect\\) that radiates heat back to the surface and raises the temperature to over 800 degrees F\\.",
+    "optimal_answer":"The thick layers of cloud"
+  },
+  {
+    "source":"",
+    "file":"Venus.txt",
+    "query":"What occupies about 95% of Earth's diameter?",
+    "answer" :"Venus is very similar in size to Earth and occupies about 95% of Earth's diameter\\.",
+    "optimal_answer":"Venus"
+  },
+  {
+    "source":"",
+    "file":"Venus.txt",
+    "query":"What is the temperature on Venus's clouds?",
+    "answer" :"The temperature in the uppermost layer of Venus's clouds average a temperate 55 degree F\\.",
+    "optimal_answer":"55 degree"
+  },
+  {
+    "source":"",
+    "file":"Venus.txt",
+    "query":"What can be easily observed with the naked eye?",
+    "answer" :"It is easily observed with the naked eye and is sometimes called the evening star or morning star\\.",
+    "optimal_answer":"(Venus)|(Earth 's sister planet)"
+  },
+  {
+    "source":"",
+    "file":"Venus.txt",
+    "query":"What is covered by thick, noxious clouds of sulfuric acid?",
+    "answer" :"Venus is covered by thick, noxious clouds of sulfuric acid that obscure its surface\\.",
+    "optimal_answer":"Venus"
+  },
+  {
+    "source":"",
+    "file":"Venus.txt",
+    "query":"What is Venus covered with?",
+    "answer" :"Venus is covered by thick, noxious clouds of sulfuric acid that obscure its surface\\.",
+    "optimal_answer":"thick, noxious clouds of sulfuric acid"
+  },
+  {
+    "source":"",
+    "file":"Venus.txt",
+    "query":"What is the temperature in the uppermost layer of Venus's clouds ?",
+    "answer" :"The temperature in the uppermost layer of Venus's clouds average a temperate 55 degree F\\.",
+    "optimal_answer":"55 degree"
+  }
+]

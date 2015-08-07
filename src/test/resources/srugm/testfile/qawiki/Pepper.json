@@ -1,0 +1,72 @@
+[
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "Is Pepper available yet?",
+    "answer" :"Pepper is not available yet\\.",
+    "optimal_answer" : "No"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "What does Pepper do at Softbank shops?",
+    "answer" :"At SoftBank¹s, Pepper has entertainment functionalities and corresponding apps\\.",
+    "optimal_answer" : "Pepper has entertainment functionalities and corresponding apps"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "What is referred to as a sparkling personality?",
+    "answer" :"Pepper refers to a sparkling personality\\.",
+    "optimal_answer" : "Pepper"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "Who is regarded as an artificial species?",
+    "answer" :"But they are much more than a ³it², much more than just a product : they are an artificial species\\.",
+    "optimal_answer" : "Robots|They"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "Who is an emotional roboot?",
+    "answer" :"He's an emotional robot, not a functional robot for domestic use with dish washer or vacuum cleaner functionalities\\.",
+    "optimal_answer" : "Pepper|He"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "What is an emotional Robot?",
+    "answer" :"He's an emotional robot, not a functional robot for domestic use with dish washer or vacuum cleaner functionalities\\.",
+    "optimal_answer" : "not a functional robot for domestic use with dish washer or vacuum cleaner functionalities"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "Why is this robot created?",
+    "answer" :"This robot has been created to make people happy to interact with\\.",
+    "optimal_answer" : "happy to interact with"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "Is Pepper male or a female?",
+    "answer" :"But we noticed that depending on where you come from, people project Pepper to be a male of a female!|In SoftBank shop Pepper can be considered as male\\.",
+    "optimal_answer" : "Male"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "Why is Pepper delivered with a tablet?",
+    "answer" :"Today, the tablet is a way to display images, content or to express Pepper's inner life\\.",
+    "optimal_answer" : "to display images, content or to express Pepper's inner life"
+  },
+  {
+    "source":"",
+    "file": "Pepper.txt",
+    "query": "Who is regarded as an emotional robot?",
+    "answer" :"He's an emotional robot, not a functional robot for domestic use with dish washer or vacuum cleaner functionalities\\.",
+    "optimal_answer" : "Pepper|He"
+  }
+]

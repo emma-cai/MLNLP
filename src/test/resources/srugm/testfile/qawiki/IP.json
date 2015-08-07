@@ -1,0 +1,51 @@
+[
+  {
+    "source":"",
+    "file":"IP.txt",
+    "query":"What is used to relay datagrams across networks?",
+    "answer" :"The Internet Protocol \\(IP\\) is the principal communications protocol in the Internet protocol suite for relaying datagrams across network boundaries\\.",
+    "optimal_answer":"Internet Protocol"
+  },
+  {
+    "source":"",
+    "file":"IP.txt",
+    "query":"What does IP define?",
+    "answer" :"For this purpose, IP defines packet structures that encapsulate the data to be delivered\\.",
+    "optimal_answer":"(packet structures that encapsulate the data to be delivered)|(addressing methods that are used to label the datagram with source and destination information)"
+  },
+  {
+    "source":"",
+    "file":"IP.txt",
+    "query":"What are packet structures defined by?",
+    "answer" :"For this purpose, IP defines packet structures that encapsulate the data to be delivered\\.",
+    "optimal_answer":"(IP)|(Internet Protocol)"
+  },
+  {
+    "source":"",
+    "file":"IP.txt",
+    "query":"What was IP historically?",
+    "answer" :"Historically, IP was the connectionless datagram service in the original Transmission Control Program introduced by Vint Cerf and Bob Kahn in 1974; the other being the connection-oriented Transmission Control Protocol \\(TCP\\)\\.",
+    "optimal_answer":"(connectionless datagram service)|(primary protocol in the Internet)"
+  },
+  {
+    "source":"",
+    "file":"IP.txt",
+    "query":"What is the Internet protocol suite often referred to as?",
+    "answer" :"The Internet protocol suite is therefore often referred to as TCP/IP\\.",
+    "optimal_answer":"TCP/IP"
+  },
+  {
+    "source":"",
+    "file":"IP.txt",
+    "query":"What was the first major version of IP?",
+    "answer" :"The first major version of IP, Internet Protocol Version 4 \\(IPv4\\), is the dominant protocol of the Internet\\.",
+    "optimal_answer":"(Internet Protocol Version 4)|(IPv4)"
+  },
+  {
+    "source":"",
+    "file":"IP.txt",
+    "query":"What is the successor of IPv4?",
+    "answer" :"Its successor is Internet Protocol Version 6 \\(IPv6\\)\\.",
+    "optimal_answer":"(Internet Protocol Version 6)|(IPv6)"
+  }
+]

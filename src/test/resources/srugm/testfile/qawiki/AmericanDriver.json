@@ -1,0 +1,114 @@
+[
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "On average how far does a North American driver travel per year?",
+    "answer" :"The average North American driver travels 12,000 miles per year\\.",
+    "optimal_answer" : "12,000 miles"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "How can you get the maximum life out of an automobile?",
+    "answer" :"In order to get the maximum life out of an automobile, you must provide it with proper maintenance\\.",
+    "optimal_answer" : "proper maintenance"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "How does proper maintenance help?",
+    "answer" :"Proper maintenance can reduce air pollution, extend the value of the vehicle, save on fuel bills, prevent breakdowns, and lead to better performance\\.",
+    "optimal_answer" : "reduce air pollution, extends the value of the vehicle, saves on fuel bills, prevents breakdowns, and leads to better performance"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "How often should we change the oil in a vehicle?",
+    "answer" :"You should change the oil in all of your vehicles every 3,000 miles\\.",
+    "optimal_answer" : "Every 3,000 miles"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "What should you do when you change the oil?",
+    "answer" :"Whenever you change the oil you should also change the oil filter\\.",
+    "optimal_answer" : "Change the oil filter"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "What do oil filters do?",
+    "answer" :"Oil filters remove dirt and debris from oil\\.",
+    "optimal_answer" : "remove dirt and debris from oil"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "What happens to the oil filter as the car runs?",
+    "answer" :"As the car runs the oil filter becomes clogged with excess debris from the oil\\.",
+    "optimal_answer" : "clogged with excess debris from the oil"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "Why must the air be filtered?",
+    "answer" :"This air must be filtered to stop dirt from damaging the engine\\.",
+    "optimal_answer" : "To stop dirt from damaging the engine"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "Why do the car engines become very hot?",
+    "answer" :"Due to the sheer heat of combustion, car engines become very hot\\.",
+    "optimal_answer" : "Combustion"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "What is used as a coolant for your vehicle system?",
+    "answer" :"Antifreeze is used as a coolant in for your vehicle system\\.",
+    "optimal_answer" : "Antifreeze"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "How often should the coolant be replaced?",
+    "answer" :"This coolant should be replaced every two years\\.",
+    "optimal_answer" : "Every two years"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "How can you extend the life of the radiator?",
+    "answer" :"This coolant should be replaced every two years\\.|By doing this you extend the life of your radiator\\.",
+    "optimal_answer" : "This coolant should be replaced every two years"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "Who dictates the life expectancy of a tire?",
+    "answer" :"Tires usually have a life expectancy dictated by the manufacturer\\.",
+    "optimal_answer" : "The manufacturer"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "What is the first line of safety for a car?",
+    "answer" :"The tire that holds the car to the road is your first line of safety\\.",
+    "optimal_answer" : "The tire"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "What is the prime cause of premature life of belts, gaskets, hoses, and seals?",
+    "answer" :"Overheating is the prime cause of premature life of belts, gaskets, hoses, and seals\\.",
+    "optimal_answer" : "Overheating"
+  },
+  {
+    "source": "",
+    "file": "AmericanDriver.txt",
+    "query": "Which is better, repairing a part or replacing it?",
+    "answer" :"If any of these parts become a problem it is a much better idea to replace the part than to repair it\\.",
+    "optimal_answer" : "A much better idea to replace the part than to repair it"
+  }
+]

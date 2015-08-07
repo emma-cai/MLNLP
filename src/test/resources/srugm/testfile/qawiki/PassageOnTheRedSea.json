@@ -1,0 +1,107 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "Which sea is sometimes called as the Erythraean Sea?",
+    "answer" :"The Red Sea, or what is sometimes called the Erythraean Sea, is a seawater inlet of the Indian Ocean, lying between Africa and Asia\\.",
+    "optimal_answer": "The Red Sea"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "What is The Red Sea?",
+    "answer" :"The Red Sea, or what is sometimes called the Erythraean Sea, is a seawater inlet of the Indian Ocean, lying between Africa and Asia\\.|It is the world's northernmost tropical sea\\.|The Red Sea is a Global 200 ecoregion\\.",
+    "optimal_answer": "A seawater inlet of the Indian Ocean, lying between Africa and Asia|a Global 200 ecoregion|about 2250 km (1398 mi) long and, at its widest point, 355 km (220.6 mi) wide|the habitat of over 1,000 invertebrate species, and 200 soft and hard corals|the world's northernmost tropical sea"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "Where is The Red Sea located?",
+    "answer" :"The Red Sea, or what is sometimes called the Erythraean Sea, is a seawater inlet of the Indian Ocean, lying between Africa and Asia\\.",
+    "optimal_answer": "between Africa and Asia"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "Where is The Red Sea situated?",
+    "answer" :"The Red Sea, or what is sometimes called the Erythraean Sea, is a seawater inlet of the Indian Ocean, lying between Africa and Asia\\.",
+    "optimal_answer": "between Africa and Asia"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "What is the location of The Red Sea?",
+    "answer" :"The Red Sea, or what is sometimes called the Erythraean Sea, is a seawater inlet of the Indian Ocean, lying between Africa and Asia\\.",
+    "optimal_answer": "between Africa and Asia"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "In which two country the Red Sea lie?",
+    "answer" :"The Red Sea, or what is sometimes called the Erythraean Sea, is a seawater inlet of the Indian Ocean, lying between Africa and Asia\\.",
+    "optimal_answer": "Africa and Asia."
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "Which Gulf leads to the Suez Canal?",
+    "answer" :"In the north, there is the Sinai Peninsula, the Gulf of Aqaba, and the Gulf of Suez \\(leading to the Suez Canal\\)\\.",
+    "optimal_answer": "Suez"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "Which sea is a Global 200 ecoregion?",
+    "answer" :"The Red Sea is a Global 200 ecoregion\\.",
+    "optimal_answer": "The Red Sea"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "What is the surface area of Red Sea?",
+    "answer" :"The Red Sea has a surface area of roughly 438,000 km² \\(169,100 mi²\\)\\.",
+    "optimal_answer": "roughly 438,000 km"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "What is the length of the Red Sea?",
+    "answer" :"The Red Sea is about 2250 km \\(1398 mi\\) long and, at its widest point, 355 km \\(220\\.6 mi\\) wide\\.",
+    "optimal_answer": "2250 km (1398 mi)"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "What is the width of the Red Sea?",
+    "answer" :"The Red Sea is about 2250 km \\(1398 mi\\) long and, at its widest point, 355 km \\(220\\.6 mi\\) wide\\.",
+    "optimal_answer": "355 km (220.6 mi)"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "What is the maximum depth of the Red Sea?",
+    "answer" :"The Red Sea has a maximum depth of 2211 m \\(7254 ft\\) in the central median trench, and an average depth of 490 m \\(1,608 ft\\)\\.",
+    "optimal_answer": "2211 m (7254 ft)"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "What is the average depth of the Red Sea? ",
+    "answer" :"The Red Sea has a maximum depth of 2211 m \\(7254 ft\\) in the central median trench, and an average depth of 490 m \\(1,608 ft\\)\\.",
+    "optimal_answer": "490 m (1,608 ft)"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "Which is the world's northernmost tropical sea?",
+    "answer" :"It is the world's northernmost tropical sea\\.",
+    "optimal_answer": "Red Sea"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheRedSea.txt",
+    "query": "Tell me which is the world's northernmost tropical sea?",
+    "answer" :"It is the world's northernmost tropical sea\\.",
+    "optimal_answer": "Red Sea"
+  }
+]

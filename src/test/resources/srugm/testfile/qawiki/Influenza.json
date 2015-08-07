@@ -1,0 +1,58 @@
+[
+  {
+    "source":"",
+    "file": "Influenza.txt",
+    "query": "What is Influenza commonly known as?",
+    "answer" :"Influenza, commonly known as \\\"the flu\\\", is an infectious disease caused by the influenza virus\\.",
+    "optimal_answer" : "the flu"
+  },
+  {
+    "source":"",
+    "file": "Influenza.txt",
+    "query": "Which infectious disease is caused by the influenza virus?",
+    "answer" :"Influenza, commonly known as \\\"the flu\\\", is an infectious disease caused by the influenza virus\\.",
+    "optimal_answer" : "Influenza"
+  },
+  {
+    "source":"",
+    "file": "Influenza.txt",
+    "query": "What is the most common symptoms of influenza?",
+    "answer" :"The most common symptoms include: a high fever, runny nose, sore throat, muscle pains, headache, coughing, and feeling tired\\.",
+    "optimal_answer" : "a high fever, runny nose, sore throat, muscle pains, headache, coughing, and feeling tired"
+  },
+  {
+    "source":"",
+    "file": "Influenza.txt",
+    "query": "When does the symptoms of influenza typically begin?",
+    "answer" :"These symptoms typically begin two days after exposure to the virus and most last less than a week\\.",
+    "optimal_answer" : "two days, after exposure to the virus"
+  },
+  {
+    "source":"",
+    "file": "Influenza.txt",
+    "query": "Which symptoms are not common in adults?",
+    "answer" :"In children there may be nausea and vomiting but these are not common in adults\\.",
+    "optimal_answer" : "nausea and vomiting."
+  },
+  {
+    "source":"",
+    "file": "Influenza.txt",
+    "query": "What is stomach flu?",
+    "answer" :"Nausea and vomiting occur more commonly in the unrelated infection gastroenteritis, which is sometimes inaccurately referred to as \\\"stomach flu\\\" or \\\"24-hour flu\\\"\\.",
+    "optimal_answer" : "the unrelated infection gastroenteritis"
+  },
+  {
+    "source":"",
+    "file": "Influenza.txt",
+    "query": "What is 24-hour flu?",
+    "answer" :"Nausea and vomiting occur more commonly in the unrelated infection gastroenteritis, which is sometimes inaccurately referred to as \\\"stomach flu\\\" or \\\"24-hour flu\\\"\\.",
+    "optimal_answer" : "the unrelated infection gastroenteritis"
+  },
+  {
+    "source":"",
+    "file": "Influenza.txt",
+    "query": "What are the complications in influenza?",
+    "answer" :"Complications of influenza may include viral pneumonia, secondary bacterial pneumonia, sinus infections, and worsening of previous health problems such as asthma or heart failure\\.",
+    "optimal_answer" : "viral pneumonia, secondary bacterial pneumonia, sinus infections, and worsening of previous health problems such as asthma or heart failure"
+  }
+]

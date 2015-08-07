@@ -1,0 +1,30 @@
+[
+  {
+    "source":"",
+    "file":"Plants.txt",
+    "query":"What part of a plant is underground?",
+    "answer" :"The roots are underground\\.",
+    "optimal_answer":"The roots"
+  },
+  {
+    "source":"",
+    "file":"Plants.txt",
+    "query":"Which part of the plant takes in water and nutrients from the soil?",
+    "answer" :"This is the part of the plant that takes in water and nutrients from the soil\\.",
+    "optimal_answer":"(The roots)|(This is the part of the plant that takes in water and nutrients from the soil)"
+  },
+  {
+    "source":"",
+    "file":"Plants.txt",
+    "query":"What are the four things that plants need?",
+    "answer" :"The four things plants need are light, water, air, and soil\\.",
+    "optimal_answer":"light, water, air, and soil"
+  },
+  {
+    "source":"",
+    "file":"Plants.txt",
+    "query":"What do the leaves take in?",
+    "answer" :"The leaves take in nutrients and light\\.",
+    "optimal_answer":"nutrients and light."
+  }
+]

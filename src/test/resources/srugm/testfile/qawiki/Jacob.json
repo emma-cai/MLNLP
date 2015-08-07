@@ -1,0 +1,79 @@
+[
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Who was Jacob?",
+    "answer" :"Jacob was an excellent athlete\\.",
+    "optimal_answer" : "an excellent athlete"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Who was an excellent athlete?",
+    "answer" :"Jacob was an excellent athlete\\.",
+    "optimal_answer" : "Jacob"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "What has Jacob excelled at?",
+    "answer" :"Ever since Jacob could remember, Jacob excelled at any sport that Jacob put his mind to\\.",
+    "optimal_answer" : "any sport that Jacob put his mind to"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Who was in awe of the Javelin throwers at the High School?",
+    "answer" :"For years Jacob was in awe of the Javelin throwers at the High School\\.",
+    "optimal_answer" : "Jacob"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Who was the Javelin State record holder last year and the Captain of the High School team ?",
+    "answer" :"Matt was the Javelin State record holder last year and the Captain of the High School team\\.",
+    "optimal_answer" : "Matt"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Who was the Captain of the High School team when Jacob was in high school?",
+    "answer" :"Matt was the Javelin State record holder last year and the Captain of the High School team\\.",
+    "optimal_answer" : "Matt"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Who was the coach of the field event when Jacob was in high school?",
+    "answer" :"Coach Hilbert was assigning field events\\.",
+    "optimal_answer" : "Hilbert"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Whose duty was it to assign the field event when Jacob was in high school?",
+    "answer" :"Coach Hilbert was assigning field events\\.",
+    "optimal_answer" : "Coach Hilbert"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Who tapped the coach on the shoulder when Jacob was in high school?",
+    "answer" :"He acted quickly and tapped the coach on the shoulder\\.",
+    "optimal_answer" : "Jacob|he"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Why did Jacob tap the coach on the shoulder when Jacob was in high school?",
+    "answer" :"Jacob needed to make sure he got the coaches attention\\.",
+    "optimal_answer" : "got the coaches attention"
+  },
+  {
+    "source":"",
+    "file": "Jacob.txt",
+    "query": "Who had their hand up when the coach asked for volunteers for the javelin throw when Jacob was in high school?",
+    "answer" :"When he asked for volunteers for the Javelin, just about everyone had their hand up\\.",
+    "optimal_answer" : "everyone"
+  }
+]

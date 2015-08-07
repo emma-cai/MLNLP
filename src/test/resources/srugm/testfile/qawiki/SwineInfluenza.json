@@ -1,0 +1,261 @@
+[
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is Swine influenza?",
+    "answer" :"Swine influenza, also called pig influenza, swine flu, hog flu and pig flu, is an infection caused by any one of several types of swine influenza viruses\\. ",
+    "optimal_answer" : "An infection caused by any one of several types of swine influenza viruses"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is swine flu?",
+    "answer" :"Swine influenza, also called pig influenza, swine flu, hog flu and pig flu, is an infection caused by any one of several types of swine influenza viruses\\. ",
+    "optimal_answer" : "An infection caused by any one of several types of swine influenza viruses"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What are the other names for Swine influenza?",
+    "answer" :"Swine influenza, also called pig influenza, swine flu, hog flu and pig flu, is an infection caused by any one of several types of swine influenza viruses\\. ",
+    "optimal_answer" : "Pig flu pig Influenza"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which virus is endemic in pigs?",
+    "answer" :"Swine influenza virus \\(SIV\\) or swine-origin influenza virus  \\(S-OIV\\) is any strain of the influenza family of viruses that is endemic in pigs\\.",
+    "optimal_answer" : "Swine influenza virus|swine-origin influenza virus"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is Swine influenza virus?",
+    "answer" :"Swine influenza virus \\(SIV\\) or swine-origin influenza virus  \\(S-OIV\\) is any strain of the influenza family of viruses that is endemic in pigs\\.",
+    "optimal_answer" : "Any strain of the influenza family of viruses that is endemic in pigs"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is swine-origin influenza virus?",
+    "answer" :"Swine influenza virus \\(SIV\\) or swine-origin influenza virus  \\(S-OIV\\) is any strain of the influenza family of viruses that is endemic in pigs\\.",
+    "optimal_answer" : "Any strain of the influenza family of viruses that is endemic in pigs"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is SIV?",
+    "answer" :"Swine influenza virus \\(SIV\\) or swine-origin influenza virus  \\(S-OIV\\) is any strain of the influenza family of viruses that is endemic in pigs\\.",
+    "optimal_answer" : "Swine influenza virus"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is S-OIV?",
+    "answer" :"Swine influenza virus \\(SIV\\) or swine-origin influenza virus  \\(S-OIV\\) is any strain of the influenza family of viruses that is endemic in pigs\\.",
+    "optimal_answer" : "(Swine-origin influenza virus)|(Any strain of the influenza family of viruses that is endemic in pigs)"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which types of influenza are included in the known SIV strains?",
+    "answer" :"As of 2009, the known SIV strains include influenza C and the subtypes of influenza A known as H1N1, H1N2, H2N1, H3N1, H3N2, and H2N3\\.",
+    "optimal_answer" : "influenza C and the subtypes of influenza A known as H1N1, H1N2, H2N1, H3N1, H3N2, and H2N3"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What are the types of influenza included in SIV strains?",
+    "answer" :"As of 2009, the known SIV strains include influenza C and the subtypes of influenza A known as H1N1, H1N2, H2N1, H3N1, H3N2, and H2N3\\.",
+    "optimal_answer" : "influenza C and the subtypes of influenza A known as H1N1, H1N2, H2N1, H3N1, H3N2, and H2N3"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What causes human flu?",
+    "answer" :"If transmission does cause human flu, it is called zoonotic swine flu\\.",
+    "optimal_answer" : "zoonotic swine flu"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is zoonotic swine flu?",
+    "answer" :"If transmission does cause human flu, it is called zoonotic swine flu\\.",
+    "optimal_answer" : "Transmission does cause human flu"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What happened in the mid-20th century?",
+    "answer" :"Around the mid-20th century, identification of influenza subtypes became possible, allowing accurate diagnosis of transmission to humans\\.",
+    "optimal_answer" : "identification of influenza subtypes became possible, allowing accurate diagnosis of transmission to humans"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "How many transmissions to humans have been confirmed?",
+    "answer" :"Since then, only 50 such transmissions have been confirmed\\.",
+    "optimal_answer" : "50"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Does the stain of swine flu pass from human to human?",
+    "answer" :"These strains of swine flu rarely pass from human to human\\.",
+    "optimal_answer" : "No"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What are the symptoms of zoonotic swine flu?",
+    "answer" :"Symptoms of zoonotic swine flu in humans are similar to those of influenza and of influenza-like illness in general, namely chills, fever, sore throat, muscle pains, severe headache, coughing, weakness and general discomfort\\.",
+    "optimal_answer" : "Chills, fever, sore throat, muscle pains, severe headache, coughing, weakness and general discomfort"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which organization declared the swine flu pandemic officially?",
+    "answer" :"In August 2010, the World Health Organization declared the swine flu pandemic officially over\\.  ",
+    "optimal_answer" : "The World Health Organization"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "When was swine flu officially declared?",
+    "answer" :"In August 2010, the World Health Organization declared the swine flu pandemic officially over\\.  ",
+    "optimal_answer" : "August 2010"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which virus is common in pigs?",
+    "answer" :"Swine influenza virus is common throughout pig populations worldwide\\.",
+    "optimal_answer" : "Swine influenza virus"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which virus is common in pig populations worldwide?",
+    "answer" :"Swine influenza virus is common throughout pig populations worldwide\\.",
+    "optimal_answer" : "Swine influenza virus"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What are the symptoms of zoonotic swine flu in humans?",
+    "answer" :"Symptoms of zoonotic swine flu in humans are similar to those of influenza and of influenza-like illness in general, namely chills, fever, sore throat, muscle pains, severe headache, coughing, weakness and general discomfort\\.",
+    "optimal_answer" : "chills, fever, sore throat, muscle pains, severe headache, coughing, weakness and general discomfort"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which animal is not infected by influenza virus?",
+    "answer" :"Influenza viruses infect both humans and pigs, but do not infect birds\\. ",
+    "optimal_answer" : "Birds"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What are the subtypes of influenza A?",
+    "answer" :"As of 2009, the known SIV strains include influenza C and the subtypes of influenza A known as H1N1, H1N2, H2N1, H3N1, H3N2, and H2N3\\.|Swine influenza is caused by influenza A subtypes H1N1, H1N2, H2N3, H3N1, and H3N2\\. ",
+    "optimal_answer" : "H1N1, H1N2, H2N1, H3N1, H3N2, and H2N3"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What causes Swine Influenza?",
+    "answer" :"Swine influenza is caused by influenza A subtypes H1N1, H1N2, H2N3, H3N1, and H3N2\\. |Swine influenza, also called pig influenza, swine flu, hog flu and pig flu, is an infection caused by any one of several types of swine influenza viruses\\. ",
+    "optimal_answer" : "Virus"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which subtypes of influenza A virus are the most common strains ?",
+    "answer" :"In pigs, four influenza A virus subtypes \\(H1N1, H1N2,H3N2 and H7N9\\) are the most common strains worldwide\\. ",
+    "optimal_answer" : "H1N1 H1N2 H3N2 H7N9-RRB|H1N1, H1N2, H3N2 and H7N9"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which subtype was exclusively prevalent among swine populations in United States?",
+    "answer" :"In the United States, the H1N1 subtype was exclusively prevalent among swine populations before 1998;",
+    "optimal_answer" : "H1N1"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which subtype has been isolated from pigs from late August 1998?",
+    "answer" :"however, since late August 1998, H3N2 subtypes have been isolated from pigs\\.",
+    "optimal_answer" : "H3N2"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Who confirmed 145 human cases of H3N2v?",
+    "answer" :"In August 2012, the Center for Disease Control and Prevention confirmed 145 human cases \\(113 in Indiana, 30 in Ohio, one in Hawaii and one in Illinois\\) of H3N2v since July 2012\\. ",
+    "optimal_answer" : "The Center for Disease Control and Prevention"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Who was the first woman in the nation associated with a new swine flu strain?",
+    "answer" :"The death of a 61-year-old Madison County, Ohio woman is the first in the nation associated with a new swine flu strain\\.",
+    "optimal_answer" : "61-year-old Madison County, Ohio woman"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is the main route of transmission of Swine Flu?",
+    "answer" :"The main route of transmission is through direct contact between infected and uninfected animals\\.",
+    "optimal_answer" : "Direct contact between infected and uninfected animals"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What are the symptoms of influenza infection in pigs?",
+    "answer" :"In pigs, influenza infection produces fever, lethargy, sneezing, coughing, difficulty breathing and decreased appetite\\.|Symptoms include fever,cough, sore throat, body aches, headache, chills and fatigue\\.",
+    "optimal_answer" : "fever, cough, sore throat, body aches, headache, chills and fatigue|fever, lethargy, sneezing, coughing, difficulty breathing and decreased appetite"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What was reported outbreak in 2009?",
+    "answer" :"The 2009 outbreak has shown an increased percentage of patients reporting diarrhea and vomiting\\. ",
+    "optimal_answer" : "Diarrhea and vomiting"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What is the most common cause of death in Swine Flu?",
+    "answer" :"The most common cause of death is respiratory failure\\.",
+    "optimal_answer" : "Respiratory failure"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Who recommended the use of oseltamivir or zanamivir ?",
+    "answer" :"The U\\.S\\. Centers for Disease Control and Prevention recommends the use of oseltamivir \\(Tamiflu\\) or zanamivir \\(Relenza\\) for the treatment and/or prevention of infection with swine influenza viruses;",
+    "optimal_answer" : "The U.S. Centers for Disease Control and Prevention"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What was Oseltamivir or zanamivir used for?",
+    "answer" :"The U\\.S\\. Centers for Disease Control and Prevention recommends the use of oseltamivir \\(Tamiflu\\) or zanamivir \\(Relenza\\) for the treatment and/or prevention of infection with swine influenza viruses;",
+    "optimal_answer" : "The treatment prevention of infection with swine influenza viruses"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "What was used for the treatment and prevention of infection with swine influenza viruses?",
+    "answer" :"The U\\.S\\. Centers for Disease Control and Prevention recommends the use of oseltamivir \\(Tamiflu\\) or zanamivir \\(Relenza\\) for the treatment and/or prevention of infection with swine influenza viruses;",
+    "optimal_answer" : "Oseltamivir or zanamivir"
+  },
+  {
+    "source":"",
+    "file": "SwineInfluenza.txt",
+    "query": "Which Bollywood actress tested positive for Swine Flu?",
+    "answer" :"Cases of swine flu have been reported in India 2015, with Bollywood actress Sonam Kapoor testing positive\\.",
+    "optimal_answer" : "Sonam Kapoor"
+  }
+]

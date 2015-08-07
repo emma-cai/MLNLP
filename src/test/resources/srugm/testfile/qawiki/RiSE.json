@@ -1,0 +1,37 @@
+[
+  {
+    "source":"",
+    "file": "RiSE.txt",
+    "query": "Which robot was funded by DARPA?",
+    "answer" :"RiSE was funded by DARPA\\.",
+    "optimal_answer" : "RiSE"
+  },
+  {
+    "source":"",
+    "file": "RiSE.txt",
+    "query": "Who funded RiSE?",
+    "answer" :"RiSE was funded by DARPA\\.",
+    "optimal_answer" : "DARPA."
+  },
+  {
+    "source":"",
+    "file": "RiSE.txt",
+    "query": "Whose legs are powered by a pair of electric motors?",
+    "answer" :"Each of RiSE 's six legs is powered by a pair of electric motors\\.",
+    "optimal_answer" : "Each of RiSE's six legs."
+  },
+  {
+    "source":"",
+    "file": "RiSE.txt",
+    "query": "What does the onboard computer controls?",
+    "answer" :"An onboard computer controls leg motion, manages communications, and services a variety of sensors, including joint position sensors, leg strain sensors and foot contact sensors\\.",
+    "optimal_answer" : "leg motion, manages communications, and services a variety of sensors, including joint position sensors, leg strain sensors and foot contact sensors"
+  },
+  {
+    "source":"",
+    "file": "RiSE.txt",
+    "query": "What controls leg motion, manages communications, and services a variety of sensors, including joint position sensors, leg strain sensors and foot contact sensors?",
+    "answer" :"An onboard computer controls leg motion, manages communications, and services a variety of sensors, including joint position sensors, leg strain sensors and foot contact sensors\\.",
+    "optimal_answer" : "an onboard computer"
+  }
+]

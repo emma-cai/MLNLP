@@ -1,0 +1,968 @@
+[
+  {
+    "file":"knowledge.txt",
+    "query":"What is a course director?",
+    "answer":"(A course director is the equivalent of the Learning Activity Owner in LMS)|(A course director in Moodle is registered in Moodle as the owner of the course.)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Main Learning Designer?",
+    "answer":"(A Main Learning Designer has write access to redesign course or create a course from scratch)|(Access for a Main Learning Designer can be set at site level or portfolio level or course level)|(Co-designer\\(s\\) can be assigned to a project via the Main Designer to support the creation of a course)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is the Main Learning Facilitator?",
+    "answer":"(A Main Learning Facilitator has limited write access to certain course content)|(A Main Learning Facilitator is the overall facilitator of a course)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is the Event Facilitator?",
+    "answer":"An Event Facilitator in Moodle is generally a Learning Event Manager that requires access to do minor edits on course dates, news updates and some logistical aspects"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is the Guest Learning Facilitator?",
+    "answer":"(A Guest Learning Facilitator is a supporting facilitator responsible for certain parts/topics of an event or course)|(A Guest Learning Facilitator has no write access to a course)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is the Test Participant?",
+    "answer":"A Test Participant is a Functional user, that is used to test the proper setup of a course from a learner.s perspective"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Guest?",
+    "answer":"(A Guest user has no write access to the course at all)|(A Guest can only view content that is open to guests)|(This is a special role to give limited access to specific courses for communication purposes)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Participant?",
+    "answer":"(A Participant is a learner of a course)|(In Moodle, a Participant (can not)|(can't) alter the content of the course and only take part in accessing the content and activities)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is the Moodle Admin?",
+    "answer":"The Moodle Admin is required to manage Moodle from a technical perspective."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I change my Password?",
+    "answer":"If your account is managed in Moodle, it offers the possibility to send you a new password through requesting it"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Why is Moodle asking me to change my Password?",
+    "answer":"Due to Information Risk Management \\(IRM\\) requirements, Moodle users will need to change their password on a monthly basis"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Do users external to Shell get the email with their username and password to access Moodle?",
+    "answer":"Moodle sends an email to new external users with their Moodle account details, upon course registration"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I update my user profile?",
+    "answer":"The user profile can be changed through the Moodle interface"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I assign roles in my course?",
+    "answer":"(By default, Main Learning Facilitators can only assign the roles of Guest Learning Facilitator and Guest)|(Main Learning Designers can only assign the roles of Co-Designer, Main Learning Facilitator, Guest Learning Facilitator and Guest)|(Only Course Owners can assign the role of Event Facilitators)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Why are there so many non-SOU-registered participants in my course?",
+    "answer":"(Learning Professionals may receive access to more than just for a single course)|(Some of the people that are showing on the course participant list of have general access to a few courses)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I cancel or remove participants from a course?",
+    "answer":"Participants should be un-enrolled in Saba \\(SOU\\) to be removed from a course"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What authorizations do you need to have to be able to check if a user has an account in Moodle?",
+    "answer":"System Admin access is required to be able to check if a user has an account in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Why doesn't 'Switch role to', within a course, seem to work properly for a course creator?",
+    "answer":"(The .Switch role to. feature is intended for Learning Facilitators and Designers, so that they can see how their course appears to students)|(The .Switch role to. feature does not work for a course creator)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What are the ways of accessing Moodle?",
+    "answer":"(Learners internal to Shell should only access Moodle through SOU by clicking on the green launch button in SOU)|(Professional users \\(facilitators\\) should always access Moodle through their professional account by directly logging into Moodle)|(Shift workers and learners external to Shell should access Moodle directly)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I get an overview of the results of a test or assignment as a facilitator?",
+    "answer":"A facilitator can use the Teacher Grade View on the grades area \\(go to Administrator block and click Grades\\) to get an overview of his tests and assignments"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I get an overview of my results of a test or assignment as a learner?",
+    "answer":"A learner can use the 'grade' view in the left side of the screen from the course home page to get an overview of his tests and assignments"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"My student completed only one activity out of 5, but his course total shows 100%. How do I show a more progressive course total?",
+    "answer":"(By default only non-empty grades are aggregated)|(The grate aggregation setting can be changed by turning on 'Editing' in the grader report)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What are the recommended course formats in Moodle?",
+    "answer":"The recommended course formats are Topics, Weekly and OneTopic"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I change the summary description in a section of a course?",
+    "answer":"You can edit the summary text and graphics for a section of the course by using the text editor"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I back up a course or course environment?",
+    "answer":"(Moodle provides a backup tool to create archives of your courses)|(Backups can also be used to copy course resources and activities from one course to another)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I import course elements from one course to another?",
+    "answer":"Course activities and resources may be imported from any other course that the facilitator has editing permissions in"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I use groups with participants in a course?",
+    "answer":"To utilize the group mode, you first need to create the student groups."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I find my course?",
+    "answer":"(The courses list is populated automatically and is ordered by enrolment date)|(Sometimes the course list gets shortened and a link to more courses is shown at the bottom of the page)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What do I do with the 'Legacy files' option in the course?",
+    "answer":"(Any new files to be added into a Moodle course should not go into legacy files)|(New files should be added by uploading a file into the site, or creating an alias to an existing file on the server)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do set up Outcome items for my course?",
+    "answer":"Course outcomes are like competencies for use in grading instead of standard grade scores"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What type of images should I use in a course?",
+    "answer":"When uploading pictures you can use different formats including PNG, JPG and GIF formats"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How should I resize images?",
+    "answer":"(Images should be resized before uploading into Moodle)|(Images can resized with free services like http://www\\.picresize\\.com)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How should I upload images into a course?",
+    "answer":"Image can be inserted into a page or label by using the text editor in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I re-use a file that I have already uploaded to Moodle?",
+    "answer":"A user can re-use a file that is already in Moodle by either copying or linking to the existing file"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How are files managed in Moodle?",
+    "answer":"(Files are uploaded in connection with a Resource \\(e\\.g\\. File, Page\\) or an Activity \\(e\\.g\\. Forum, Assignment\\))|(There is no central course file area)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is the File Picker?",
+    "answer":"(The File Picker allows files to be selected and displayed in Resources or Activities)|(With the File Picker, the file is copied into Moodle from wherever you have chosen it from, e\\.g\\. your computer or USB drive)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I add a file to the Moodle course?",
+    "answer":"File can be added as a resource with the file picker"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I copy an existing file in Moodle?",
+    "answer":"An existing file can be added to a course by copying (it)|(the file) from its current location in a different course using the File Picker"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I link to a file in another course?",
+    "answer":"Files can be added to a course by creating an alias to it from its current location in a different course to the new location in the course where it needs to be added"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I embed animations within text?",
+    "answer":"The text editor can be used to embed animation files, images or media into a body of text"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I use Kaltura video resources in Moodle?",
+    "answer":"(A Kaltura video can be added as a resource to a course page)|(A Kaltura video can also be embedded into a body of text, using the text editor)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What notifications does Moodle send to users?",
+    "answer":"(A user can customize in their profile what they want to get email notifications for)|(Email notifications are either 'on' or 'off')"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Why is a user not receiving notifications or why is the user receiving unwanted automated email notifications of forum posts or submitted assignments?",
+    "answer":"Email notifications are automatically sent in a number of activities including forums and assignments"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I make a quiz in Moodle?",
+    "answer":"A Quiz in Moodle is created by adding an activity to a course page and configuring the questions in the question bank"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I create multiple choice questions?",
+    "answer":"Multiple Choice Question \\(MCQ\\) can be created either directly in a Quiz or using the course Question bank"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What types of feedback is available in a Quiz?",
+    "answer":"Moodle 2 offers a full new quiz engine, which has a lot more granular control on showing and hiding information"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"It is possible to remove the correct answer in the feedback text?",
+    "answer":"It is possible to remove the correct answer from feedback in Quiz questions"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I remove the correct answer from the question feedback?",
+    "answer":"To remove some of the elements in the quiz feedback page, open the 'Review options' section and uncheck all four checkboxes for 'Right Answer'"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I make announcements to participants?",
+    "answer":"You can make a general announcement or send a reminder to all students within a course by adding a news item to the course news forum"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I enable activity completion in the course?",
+    "answer":"To enable Course completion there are three areas to check: Course Settings, Completion Settings and the actual Activity settings"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is Blended Learning?",
+    "answer":"Blended learning is an integrated strategy for delivering on promises about learning and performance"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is HRSD?",
+    "answer":"HRSD is short for HR Service Desk"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is Moodle?",
+    "answer":"Moodle is a course management system \\(CMS\\); (Moodle)|(it) is a free, open source software package designed using sound pedagogical principles, to help educators create effective online learning communities"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is D&D?",
+    "answer":"D&D is short for Design & Development"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a LMS?",
+    "answer":"(A LMS is a Learning Management System)|(A LMS is software for delivering, tracking and managing training)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is SOU?",
+    "answer":"SOU is short for Shell Open University ?- the platform for learning and development for the entire Shell Group"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What are the issues with Moodle and IE8?",
+    "answer":"(The problem with Moodle and IE8 is that the browser was built when not many websites used JavaScript)|(As a result, Moodle can be slow in IE8)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is ForceTen?",
+    "answer":"ForceTen is the name of the Learning Content Management System in Shell"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is an LCMS?",
+    "answer":"A Learning Content Management System or LCMS is a multi-user environment where learning developers may create, store, reuse, manage, and deliver digital learning content, primarily e-learning, from a central object repository and deliver digital learning content  from a central object repository"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Standard Request?",
+    "answer":"A Standard Request covers recurring requests that are always handled in the same way by the Support Organization"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can the learner see content defects that the Learning Professional cannot see?",
+    "answer":"It is possible that a learner may see content defects that are not visible to the LP"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can a quiz that I have deleted from the Workbench be restored?",
+    "answer":"if you have deleted a quiz from the Workbench in Moodle or from the beginning of the design process in Moodle, a quiz can't be restored"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Who are able to import a quiz back from the Master?",
+    "answer":"All certified Designers"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Does Moodle provide a backup tool?",
+    "answer":"(yes)|(Moodle provides a backup tool to create archives of my courses)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can backups be used to copy activities from one course to another?",
+    "answer":"in Moodle, Backups can also be used to copy course resources and activities from one course to another"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What can be used to copy course recourses from one course to another?",
+    "answer":"backups"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What does a VLE provide?",
+    "answer":"New ways of communicating and assessing to learners and facilitators, flexible access to learners and facilitators and handy course administration."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What image formats are supported in Moodle?",
+    "answer":"in Moodle only JPEG, PNG, and GIF can be used as images formats"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What rights does the course director in Moodle have?",
+    "answer":"editing rights"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How is a course director registered ?",
+    "answer":"As the owner of the course"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a course director ?",
+    "answer":"the equivalent of the Learning Activity Owner in LMS"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Who is registered in Moodle as the owner of the course?",
+    "answer":"A course director in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Who is the equivalent of the Learning Activity Owner in LMS ?",
+    "answer":"A course director in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Who facilitates a course in Moodle ?",
+    "answer":"A Main Learning Facilitator in Moodle is the overall facilitator of a course in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a minor edit in Moodle ?",
+    "answer":"An edit on some logistical aspects in Moodle, an edit on a news update in Moodle and an edit on course date in Moodle."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is ForceTen?",
+    "answer":"A Learning Content Management System."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a guest Learning facilitator ?",
+    "answer":"(a supporting facilitator responsible for certain parts of an event)|(a supporting facilitator responsible for certain parts of a course)|(a supporting facilitator responsible for certain topics of an event)|(a supporting facilitator responsible for certain topics of a course.)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Who is responsible for certain topics in an event ?",
+    "answer":"a Guest Learning Facilitator in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a test participant in Moodle ?",
+    "answer":"a Functional user in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Functional User in Moodle ?",
+    "answer":"A Test Participant in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can the learner see content defects that the Learning Professional cannot see?",
+    "answer":"(yes)|(a learner in Moodle sees content defects in Moodle that are not visible to a Learning Professional in Moodle)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Standard Request?",
+    "answer":"A form that covers recurring requests"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is Shell Open University ?",
+    "answer":"(the platform for learning and development)|(a platform for learning and development)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Learning Content Management System ?",
+    "answer":"a multi-user environment"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Guest User in Moodle?",
+    "answer":"a special role that can be given limited access to specific courses for communication purposes only"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Learning Management System?",
+    "answer":"software for managing trainings"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Is a Learning Management System software for tracking trainings?",
+    "answer":"(yes)|(A Learning Management System is software for tracking trainings)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Is Shell Open University used by the entire Shell group?",
+    "answer":"(yes)|(Shell Open University is used by the entire Shell Group for learning and development)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is Shell Open University used for?",
+    "answer":"For learning and development"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Is ForceTen used in Shell?",
+    "answer":"(yes)|(ForceTen is used in Shell to facilitate e-learnings)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is ForceTen used for?",
+    "answer":"To facilitate e- learnings"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Do learning developers create digital learning content in a Learning Content Management System?",
+    "answer":"(yes)|(in a Learning Content Management System, learning developers create digital learning content)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I assign a role in Moodle?",
+    "answer":"By \" Following the steps: 1 | # | Browse to your course | # | 2 | # | In the Administration block, under Course Administration, Expand the Users option | # | 3 | # | Click on Enrolled users | # | 4 | # | Click on the Enroll users button | # | 5 | # | Choose the type of role you wish to assign | # | 6 | # | Find the person you want to add to your course | # | 7 | # | Click on the Enroll button beside the user to add the student to the course | # | 8 | # | When done, Click on Finish enrolling users done | # | \"."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can Multiple Choice Questions be created?",
+    "answer":"directly in a Quiz in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is a Participant?",
+    "answer":"a learner of a course in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can a participant alter the content of a course in Moodle?",
+    "answer":"(no)|(A Participant in Moodle cannot alter the content of the course in Moodle)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What does a Moodle Admin do?",
+    "answer":"manages Moodle from an operational perspective"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can correct answers can be removed from the feedback in Quiz questions in Moodle",
+    "answer":"(yes)|(Correct answers can be removed from the feedback in Quiz questions in Moodle)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Why does the password of Moodle users needs to be changed every month?",
+    "answer":"because of information risk management requirements to be changed every month"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can Moodle users request a new password?",
+    "answer":"in Moodle, users can request a new password by clicking on \"Forgotten your password\""
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"When does Moodle send the account details to new external Moodle users?",
+    "answer":"Upon course registration"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How does Moodle send the account details to new external Moodle users?",
+    "answer":"By e-mail"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What are the recommended course formats?",
+    "answer":"Topics, Weekly and OneTopic"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a user profile be changed?",
+    "answer":"through the Moodle interface"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a participant be removed from a course?",
+    "answer":"by un-enrolling in Saba."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is needed to verify if a user has an account in Moodle?",
+    "answer":"Moodle System Admin access"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can a file be added as a resource with the file picker?",
+    "answer":"(yes)|(A File can be added as a resource in Moodle with the file picker)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a file be added as a resource?",
+    "answer":"With the file picker"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Should images be resized before uploading to Moodle?",
+    "answer":"(yes)|(Images should be resized before uploading to Moodle)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can images be resized?",
+    "answer":"with free services like http://www.picresize.com."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can images be inserted into a page in Moodle?",
+    "answer":"with the text editor in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What can learning developers do in a Learning Content Management System?",
+    "answer":"(create digital learning content)|(store digital learning content)|(reuse digital learning content)|(manage digital learning content)|(deliver digital learning content)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can learning developers create digital learning content in a Learning Content Management System?",
+    "answer":"(yes)|(In a Learning Content Management System, learning developers create digital learning content)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is Moodle?",
+    "answer":"(a Course Management System)|(a free, open source, software package)|(designed using sound pedagogical principles.)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is the goal of Moodle?",
+    "answer":"to help educators to create effective online learning communities"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What roles can a Main Learning Facilitator assign in Moodle?",
+    "answer":"the roles of Guest Learning Facilitator and Guest."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Who can assign the role of Event Facilitator in Moodle?",
+    "answer":"A Course Owner"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Why are some people listed on the course participant list?",
+    "answer":"because they have general access to a few courses"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What can be used to see how a course appears to students?",
+    "answer":"The Switch-role-to-feature in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Who can use the switch-to-role-feature?",
+    "answer":"Learning Facilitators in Moodle and Designers in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What can a learner use to get an overview of assignments in Moodle?",
+    "answer":"use the Grade-view"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Where is the Grade-view located?",
+    "answer":"on the left side of the screen from the course home page"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What can a Facilitator use to get an overview of assignments in Moodle?",
+    "answer":"use the Teacher-Grade-View"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Where is the Teacher-Grade-View located?",
+    "answer":"on the grades-area in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Where is the grades-area located?",
+    "answer":"under Administrator and then Grades"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How should learners access Moodle?",
+    "answer":"(who are internal to Shell, should access Moodle through SABA)|(who are external to Shell, should access Moodle directly)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can learners access Moodle?",
+    "answer":"who are internal to Shell, can access Moodle by clicking on the green launch button in SABA"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How should shift workers access Moodle?",
+    "answer":"should access Moodle directly"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How should learners who are external to Shell access Moodle?",
+    "answer":"should access Moodle directly"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How should facilitators access Moodle?",
+    "answer":"access Moodle directly, using their professional account"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Are empty grades aggregated?",
+    "answer":"(no)|(By default only non-empty grades are aggregated)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Are non-empty grades aggregated by default?",
+    "answer":"(Yes)|(By default only non-empty grades are aggregated)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can the grade-aggregation setting by changed?",
+    "answer":"by turning on \"Editing\" in the grader report"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can the summary text of a section of a course in Moodle be changed?",
+    "answer":"using the text editor"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can the graphics text of a section of a course in Moodle be changed?",
+    "answer":"using the text editor"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"From where may course activities be imported?",
+    "answer":"any other course that the facilitator has editing permissions in"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"When can the group-mode be used?",
+    "answer":"If student-groups are created in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Is the course list in Moodle populated automatically?",
+    "answer":"(yes)|(The course list in Moodle is populated automatically)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How is the course list in Moodle ordered?",
+    "answer":"by enrolment date"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Is there a link to more courses?",
+    "answer":"If the course list gets shortened, a link to more courses is shown at the bottom of the page"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can new files be added?",
+    "answer":"(by uploading a file into the site)|(by creating an alias to an existing file on the server)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Should new files that are added to a Moodle course go into legacy files?",
+    "answer":"(no)|(New files that are added to a Moodle course should not go into legacy files)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What are course outcomes?",
+    "answer":"like competencies"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How are course outcomes used?",
+    "answer":"in grading instead, of standard grade scores"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a file that is already in Moodle be re-used?",
+    "answer":"(By copying)|(By linking to the file using the File Picker)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Is there a central area with course files in Moodle?",
+    "answer":"(no)|(There is not a central area with course files in Moodle)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How are files uploaded in Moodle?",
+    "answer":"in connection with a Resource or an Activity using the File Picker"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What are examples of an Activity?",
+    "answer":"a Forum and an Assignment."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What are examples of a Resource?",
+    "answer":"a File and a Page"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can the File Picker be used to upload a file from a USB drive?",
+    "answer":"(yes)|(The File Picker can be used to upload a file to Moodle from a Computer and USB Drive)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What can be used to embed Media into a body of text?",
+    "answer":"the text editor"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can a Kaltura video be added as a resource?",
+    "answer":"(yes)|(A Kaltura video can be added as a resource of a course page in Moodle)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can a Kaltura video be embedded into a body of text?",
+    "answer":"(yes)|(In Moodle, A Kaltura video can also be embedded into a body of text, using the text editor)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a Kaltura video be embedded into a body of text?",
+    "answer":"using the text editor"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Are email notifications automatically sent for assignments?",
+    "answer":"(yes)|(In Moodle, email notifications are automatically sent for forums and assignments)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How is a quiz in Moodle created?",
+    "answer":"by adding an activity to a course page and configuring the questions in the question bank"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can elements be removed from the quiz feedback page?",
+    "answer":"by unchecking all four checkboxes for \"Right Answer\" on the \"Review options\" section."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a reminder be sent to all students within a course?",
+    "answer":"by adding a news item to the course news forum."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a general announcement be sent?",
+    "answer":"by adding a news item to the course news forum."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What should be checked to enable course completion?",
+    "answer":"Course Settings, Completion Settings and the actual Activity settings"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What does blended learning aim?",
+    "answer":"impacting the business at the workplace"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is LCMS?",
+    "answer":"Learning Content Management System"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is SOU?",
+    "answer":"SOU is an acronym for Shell Open University"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is MCQ?",
+    "answer":"MCQ is an acronym for Multiple Choice Questions"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is VLE?",
+    "answer":"VLE is an acronym for Virtual Learning Environment"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is IRM?",
+    "answer":"IRM is an acronym for Information Risk Management"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is D&D?",
+    "answer":"Design & Development"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is HRSD?",
+    "answer":"HR Service Desk"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is LMS?",
+    "answer":"Learning Management System"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is LCMS?",
+    "answer":"Learning Content Management System"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is CMS?",
+    "answer":"Course Management System"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I reset my password?",
+    "answer":"by clicking on the \"Forgotten your password\" link"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a facilitator reset his password?",
+    "answer":"A facilitator can reset his password by clicking on the \"Forgotten your password\"."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I add a calendar into a Moodle course?",
+    "answer":"by clicking on \"Add calendar block\" with \"Course editing\" turned on"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Which types of files can I upload into Moodle?",
+    "answer":"any file type into Moodle as long as it makes sense"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can I upload a file on behalf of a student?",
+    "answer":"(no)|(A facilitator cannot upload a file on behalf of a student)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can I upload a file that a student has sent me into my Moodle class?",
+    "answer":"(no)|(I cannot upload a file that a student has sent me into my Moodle class)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I add a new activity in Moodle?",
+    "answer":"by clicking on \"Add activity\" in any section with \"Course editing\" turned on."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I set up assignment due dates?",
+    "answer":"in the assignment settings"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can final grades transfer to SOU?",
+    "answer":"(yes)|(All final grades can be transferred from Moodle to SOU automatically)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"If I want to use automated grading in Moodle for one of my existing courses, should it be redesigned from scratch?",
+    "answer":"switched on for an existing course without redesigning the course"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How often is the data in Moodle refreshed by the Saba interface ?",
+    "answer":"every 4 hours"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Is SOU linked to Moodle?",
+    "answer":"(yes)|(Moodle and SOU are linked by the Saba interface)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I access moodle as a designer?",
+    "answer":"directly, using their professional account."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How long does it take for data from SABA to get into Moodle?",
+    "answer":"a maximum of 4 hours"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can a course director be changed?",
+    "answer":"with a Standard request for VLE, once the course director has been changed in SABA."
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"What is an off-line assignment?",
+    "answer":"An assignment without a submission type"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can Face 2 Face results be entered into a course in Moodle?",
+    "answer":"by adding an assignment without submission type"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Where is my Moodle profile?",
+    "answer":"in the top right corner in Moodle"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"Can grades be changed from unsuccessful to successful when they have been closed?",
+    "answer":"(yes)|(Grades can be changed from unsuccessful to successful after they have been closed)"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How do I create a chat?",
+    "answer":"by adding a chat activity"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I use the glossary as a mandatory student activity?",
+    "answer":"as a mandatory activity by setting course completion criteria in the activity setting"
+  },
+  {
+    "file":"knowledge.txt",
+    "query":"How can I set the Forum configuration such that students can give a score to each other?",
+    "answer":"by adding the Participant role to \"rate post\" in the forum "
+  }
+]
+

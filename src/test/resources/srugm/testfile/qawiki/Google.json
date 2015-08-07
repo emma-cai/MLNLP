@@ -1,0 +1,121 @@
+[
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "What is Google?",
+    "answer" :"Google is an American multinational corporation specializing in Internet-related services and products\\.",
+    "optimal_answer" : "an American multinational corporation specializing in Internet-related services and products"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "What is the specialization of Google?",
+    "answer" :"Google is an American multinational corporation specializing in Internet-related services and products\\.",
+    "optimal_answer" : "Internet-related services and products"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "What is AdWords?",
+    "answer" :"Most of its profits are derived from AdWords, an online advertising service that places advertising near the list of search results\\.",
+    "optimal_answer" : "an online advertising service( that places advertising near the list of search results)?"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "Who founded Google?",
+    "answer" :"Google was founded by Larry Page and Sergey Brin while they were Ph\\.D\\. students at Stanford University\\.",
+    "optimal_answer" : "Larry Page and Sergey Brin"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "What was founded by Larry Page and Sergey Brin?",
+    "answer" :"Google was founded by Larry Page and Sergey Brin while they were Ph\\.D\\. students at Stanford University\\.",
+    "optimal_answer" : "Google"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "Who was Larry Page?",
+    "answer" :"Google was founded by Larry Page and Sergey Brin while they were Ph\\.D\\. students at Stanford University\\.",
+    "optimal_answer" : "Founder of Google|Google was founded by Larry Page and Sergey Brin|Ph.D. students at Stanford University"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "Who was Sergey Brin?",
+    "answer" :"Google was founded by Larry Page and Sergey Brin while they were Ph\\.D\\. students at Stanford University\\.",
+    "optimal_answer" : "Founder of google|Google was founded by Larry Page and Sergey Brin|Ph.D. students at Stanford University"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "Who were the Ph.D students at Stanford University?",
+    "answer" :"Google was founded by Larry Page and Sergey Brin while they were Ph\\.D\\. students at Stanford University\\.",
+    "optimal_answer" : "Larry Page and Sergey Brin"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "Who owned 14 % of Google shares?",
+    "answer" :"Together they own about 14 percent of its shares but control 56 percent of the stockholder voting power through supervoting stock\\.",
+    "optimal_answer" : "Larry Page and Sergey Brin"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "Who incorporated Google as a privately held company?",
+    "answer" :"They incorporated Google as a privately held company on September 4, 1998\\.",
+    "optimal_answer" : "Larry Page and Sergey Brin"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "When was  Google incorporated as a privately held company?",
+    "answer" :"They incorporated Google as a privately held company on September 4, 1998\\.",
+    "optimal_answer" : "September 4, 1998"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "What was the mission statement of Google?",
+    "answer" :"Its mission statement from the outset was \\\"to organize the world's information and make it universally accessible and useful,\\\" and its unofficial slogan was \\\"Don't be evil\\.\\\"",
+    "optimal_answer" : "To organize the world's information and make it universally accessible and useful"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "What was the unofficial slogan of Google?",
+    "answer" :"Its mission statement from the outset was \\\"to organize the world's information and make it universally accessible and useful,\\\" and its unofficial slogan was \\\"Don't be evil\\.\\\"",
+    "optimal_answer" : "Don't be evil"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "When did Google moved to its new headquarters?",
+    "answer" :"In 2004, Google moved to its new headquarters in Mountain View, California, nicknamed the Googleplex\\.",
+    "optimal_answer" : "2004"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "Where was Google's new headquarter?",
+    "answer" :"In 2004, Google moved to its new headquarters in Mountain View, California, nicknamed the Googleplex\\.",
+    "optimal_answer" : "Mountain View, California"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "What are the desktop products of Google?",
+    "answer" :"Desktop products include applications for web browsing, organizing and editing photos, and instant messaging\\.",
+    "optimal_answer" : "applications for web browsing, organizing and editing photos, and instant messaging"
+  },
+  {
+    "source":"",
+    "file": "Google.txt",
+    "query": "What are the online products offered by Google?",
+    "answer" :"It offers online productivity software including email \\(Gmail\\), a cloud storage service \\(Google Drive\\), an office suite \\(Google Docs\\) and a social networking service \\(Google\\+\\)\\.",
+    "optimal_answer" : "online productivity software including email\\( Gmail\\), a cloud storage service\\( Google Drive\\), an office suite\\( Google Docs\\) and a social networking service\\( Google\\+\\)"
+  }
+]

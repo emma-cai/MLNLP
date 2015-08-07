@@ -1,0 +1,170 @@
+[
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "Who was Benjamin Franklin?",
+    "answer" :"Benjamin Franklin was one of the Founding Fathers of the United States and in many ways was \\\"The First American\\\"\\.|Benjamin Franklin was also an inventor\\.",
+    "optimal_answer" : "One of the Founding Fathers of the United States"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What is Benjamin Franklin known for as an inventor?",
+    "answer" :"As an inventor, Benjamin Franklin is known for the lightning rod, bifocals, and the Franklin stove, among other inventions\\.",
+    "optimal_answer" : "The lightning rod, bifocals, and the Franklin stove"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "When was Benjamin Franklin born?",
+    "answer" :"Benjamin Franklin was born in 1706 in Boston, Massachusetts\\.",
+    "optimal_answer" : "1706"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "How many brothers and sisters did Benjamin Franklin have?",
+    "answer" :"Benjamin Franklin had 16 brothers and sisters\\.",
+    "optimal_answer" : "16"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "How old was Benjamin Franklin when his brother started the first Boston newspaper?",
+    "answer" :"When Benjamin was 15, his brother started the first Boston newspaper\\.",
+    "optimal_answer" : "15"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "Who started the first Boston newspaper?",
+    "answer" :"When Benjamin was 15, his brother started the first Boston newspaper\\.",
+    "optimal_answer" : "His brother"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What was the name of the first Boston newspaper?",
+    "answer" :"It was called The New England Courant\\.",
+    "optimal_answer" : "The New England Courant"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "Was Benjamin Franklin happy working with the newspaper?",
+    "answer" :"Benjamin Franklin worked for the newspaper for a short time, but Benjamin Franklin was not happy\\.",
+    "optimal_answer" : "No"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What did Benjamin Franklin do in Philadelphia?",
+    "answer" :"So, Benjamin Franklin went to Philadelphia and worked as a printer\\.",
+    "optimal_answer" : "Worked as a printer"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What was the name of the newspaper that Benjamin Franklin bought in 1729?",
+    "answer" :"In 1729, Benjamin Franklin bought a newspaper business\\.|The newspaper was the Pennsylvania Gazette\\.",
+    "optimal_answer" : "Pennsylvania Gazette"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What did Benjamin Franklin do in 1729?",
+    "answer" :"In 1729, Benjamin Franklin bought a newspaper business\\.",
+    "optimal_answer" : "Bought a newspaper business"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What did Benjamin Franklin do in 1733?",
+    "answer" :"In 1733, Benjamin Franklin started publishing Poor Richard’s Almanac\\.",
+    "optimal_answer" : "Started publishing Poor Richard’s Almanac"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What did Benjamin Franklin start publishing in 1733?",
+    "answer" :"In 1733, Benjamin Franklin started publishing Poor Richard’s Almanac\\.",
+    "optimal_answer" : "Poor Richard’s Almanac"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What was Benjamin Franklin’s pen name?",
+    "answer" :"Benjamin Franklin's pen name \\(the name he used as an author\\) was Richard Saunders\\.",
+    "optimal_answer" : "Richard Saunders"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What do Almanacs contain?",
+    "answer" :"Almanacs have information about weather and crops\\.",
+    "optimal_answer" : "Information about weather and crops"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "When did Benjamin Franklin retire from the newspaper business?",
+    "answer" :"Benjamin Franklin retired from his newspaper business in 1749\\.",
+    "optimal_answer" : "1749"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "Who wrote the Declaration of Independence?",
+    "answer" :"He helped Thomas Jefferson write the Declaration of Independence\\.",
+    "optimal_answer" : "Thomas Jefferson"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What did Franklin help write?",
+    "answer" :"He helped Thomas Jefferson write the Declaration of Independence\\.",
+    "optimal_answer" : "The Declaration of Independence"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "Was Benjamin Franklin an inventor?",
+    "answer" :"Benjamin Franklin was also an inventor\\.",
+    "optimal_answer" : "Yes"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "What did Benjamin Franklin invent?",
+    "answer" :"In 1743 Benjamin Franklin invented a very good stove called the Franklin stove\\.|He invented swim fins\\. |He invented bifocal glasses\\.|He also invented the first odometer\\.|As an inventor, Benjamin Franklin is known for the lightning rod, bifocals, and the Franklin stove, among other inventions\\.",
+    "optimal_answer" : "(the Franklin stove|swim fins|bifocal glasses|(first )?odometer|lightning rod|bifocals)"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "Who helped Thomas Jefferson write the Declaration of Independence?",
+    "answer" :"He helped Thomas Jefferson write the Declaration of Independence\\.",
+    "optimal_answer" : "Benjamin Franklin|He"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "When was the Declaration of Independence signed?",
+    "answer" :"In 1776, he and other people signed the Declaration of Independence\\.",
+    "optimal_answer" : "In 1776"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "When did Benjamin Franklin die?",
+    "answer" :"Benjamin Franklin died on April 17, 1790\\. ",
+    "optimal_answer" : "April 17, 1790"
+  },
+  {
+    "source": "",
+    "file": "BenjaminFrankin.txt",
+    "query": "How old was Benjamin Franklin when he died?",
+    "answer" :"Benjamin Franklin was 84 years old when he died\\.",
+    "optimal_answer" : "84"
+  }
+]

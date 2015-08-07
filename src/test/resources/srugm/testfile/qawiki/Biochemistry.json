@@ -1,0 +1,100 @@
+[
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What is Biochemistry?",
+    "answer" :"Biochemistry, sometimes called biological chemistry, is the study of chemical processes within and relating to living organisms\\.",
+    "optimal_answer" : "The study of chemical processes( within and relating to living organisms)?"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What gives rise to the complexity of life?",
+    "answer" :"By controlling information flow through biochemical signaling and the flow of chemical energy through metabolism, biochemical processes give rise to the complexity of life\\.",
+    "optimal_answer" : "Biochemical processes"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "Which branch of science is the study of chemical processes within and relating to living organisms?",
+    "answer" :"Biochemistry, sometimes called biological chemistry, is the study of chemical processes within and relating to living organisms\\.",
+    "optimal_answer" : "Biochemistry|biological chemistry"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What has become successful at explaining living processes?",
+    "answer" :"Over the last 40 years, biochemistry has become so successful at explaining living processes that now almost all areas of the life sciences from botany to medicine are engaged in biochemical research\\.",
+    "optimal_answer" : "Biochemistry"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What is the main focus of pure biochemistry?",
+    "answer" :"Today, the main focus of pure biochemistry is in understanding how biological molecules give rise to the processes that occur within living cells, which in turn relates greatly to the study and understanding of whole organisms\\.",
+    "optimal_answer" : "Understanding how biological molecules give rise to the processes that occur within living cells"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "Which branch of science is closely related to molecular biology?",
+    "answer" :"Biochemistry is closely related to molecular biology, the study of the molecular mechanisms by which genetic information encoded in DNA is able to result in the processes of life\\.",
+    "optimal_answer" : "Biochemistry"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "Which branch of science is the study of molecular mechanisms?",
+    "answer" :"Biochemistry is closely related to molecular biology, the study of the molecular mechanisms by which genetic information encoded in DNA is able to result in the processes of life\\.",
+    "optimal_answer" : "Molecular biology"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What is the exact definition of molecular biology?",
+    "answer" :"Biochemistry is closely related to molecular biology, the study of the molecular mechanisms by which genetic information encoded in DNA is able to result in the processes of life\\.",
+    "optimal_answer" : "The study of the molecular mechanisms by which genetic information encoded in DNA is able to result in the processes of life"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "Which branch of science is used to study and investigate molecular biology?",
+    "answer" :"Depending on the exact definition of the terms used, molecular biology can be thought of as a branch of biochemistry, or biochemistry as a tool with which to investigate and study molecular biology\\.",
+    "optimal_answer" : "Biochemistry"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What does biochemistry deal with?",
+    "answer" :"Much of biochemistry deals with the structures, functions and interactions of biological macromolecules, such as proteins, nucleic acids, carbohydrates and lipids, which provide the structure of cells and perform many of the functions associated with life\\.",
+    "optimal_answer" : "The structures, functions and interactions of biological macromolecules"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What deals with the structures, functions and interactions of biological macromolecules?",
+    "answer" :"Much of biochemistry deals with the structures, functions and interactions of biological macromolecules, such as proteins, nucleic acids, carbohydrates and lipids, which provide the structure of cells and perform many of the functions associated with life\\.",
+    "optimal_answer" : "Biochemistry"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What depends on the reactions of smaller molecules and ions?",
+    "answer" :"The chemistry of the cell also depends on the reactions of smaller molecules and ions\\.",
+    "optimal_answer" : "The chemistry of the cell"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What is metabolism?",
+    "answer" :"The mechanisms by which cells harness energy from their environment via chemical reactions are known as metabolism\\.",
+    "optimal_answer" : "The mechanisms by which cells harness energy from their environment via chemical reactions"
+  },
+  {
+    "source": "",
+    "file": "Biochemistry.txt",
+    "query": "What do biochemists investigate?",
+    "answer" :"In agriculture, biochemists investigate soil and fertilizers, and try to discover ways to improve crop cultivation, crop storage and pest control\\.",
+    "optimal_answer" : "soil and fertilizers"
+  }
+]

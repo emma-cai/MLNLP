@@ -1,0 +1,163 @@
+[
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What is bioinformatics?",
+    "answer" :"Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data\\.",
+    "optimal_answer" : "interdisciplinary field"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "Which field develops methods and software tools for understanding biological data?",
+    "answer" :"Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data\\.",
+    "optimal_answer" : "Bioinformatics"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What are some of the fields that combine to form bioinformatics?",
+    "answer" :"As an interdisciplinary field of science, bioinformatics combines computer science, statistics, mathematics, and engineering to study and process biological data\\.",
+    "optimal_answer" : "computer science, statistics, mathematics, and engineering"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "Which field of science an umbrella term for the body of biological studies that use computer programming?",
+    "answer" :"Bioinformatics is both an umbrella term for the body of biological studies that use computer programming as part of their methodology, as well as a reference to specific analysis \\\"pipelines\\\" that are repeatedly used, particularly in the fields of genetics and genomics\\.",
+    "optimal_answer" : "Bioinformatics"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What are the common uses of bioinformatics ?",
+    "answer" :"Common uses of bioinformatics include the identification of candidate genes and nucleotides \\(SNPs\\)\\.",
+    "optimal_answer" : "the identification of candidate genes and nucleotides"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What is the purpose of the identification of candidate genes and nucleotides?",
+    "answer" :"Common uses of bioinformatics include the identification of candidate genes and nucleotides \\(SNPs\\)\\.",
+    "optimal_answer" : "Better understanding the genetic basis of disease"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "Which field tries to understand the organisational principles within nucleic acid and protein sequences?",
+    "answer" :"In a less formal way, bioinformatics also tries to understand the organisational principles within nucleic acid and protein sequences\\.",
+    "optimal_answer" : "Bioinformatics"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What has become an important part of many areas of biology?",
+    "answer" :"Bioinformatics has become an important part of many areas of biology\\.",
+    "optimal_answer" : "Bioinformatics"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What are some bioinformatics techniques used in experimental molecular biology?",
+    "answer" :"In experimental molecular biology, bioinformatics techniques such as image and signal processing allow extraction of useful results from large amounts of raw data\\.",
+    "optimal_answer" : "image and signal processing"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What are the bioinformatics techniques that allow extraction of useful results from large amounts of raw data?",
+    "answer" :"In experimental molecular biology, bioinformatics techniques such as image and signal processing allow extraction of useful results from large amounts of raw data\\.",
+    "optimal_answer" : "image and signal processing"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What do the bioinformatics techniques of image and signal processing allow?",
+    "answer" :"In experimental molecular biology, bioinformatics techniques such as image and signal processing allow extraction of useful results from large amounts of raw data\\.",
+    "optimal_answer" : "extraction of useful results from large amounts of raw data"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What does bioinformatics do in the field of genetics and genomics?",
+    "answer" :"In the field of genetics and genomics, it aids in sequencing and annotating genomes and their observed mutations\\.|Bioinformatics is both an umbrella term for the body of biological studies that use computer programming as part of their methodology, as well as a reference to specific analysis \\\"pipelines\\\" that are repeatedly used, particularly in the fields of genetics and genomics\\.",
+    "optimal_answer" : "aids in sequencing and annotating genomes and their observed mutations"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What aids in sequencing and annotating genomes and their observed mutations?",
+    "answer" :"In the field of genetics and genomics, it aids in sequencing and annotating genomes and their observed mutations\\.",
+    "optimal_answer" : "Bioinformatics|It"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What plays a role in the text mining of biological literature?",
+    "answer" :"It plays a role in the text mining of biological literature and the development of biological and gene ontologies to organize and query biological data\\.",
+    "optimal_answer" : "Bioinformatics|It"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What plays a role in the development of biological and gene ontologies?",
+    "answer" :"It plays a role in the text mining of biological literature and the development of biological and gene ontologies to organize and query biological data\\.",
+    "optimal_answer" : "Bioinformatics|It"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What plays a role in the analysis of gene and protein expression and regulation?",
+    "answer" :"It also plays a role in the analysis of gene and protein expression and regulation\\.",
+    "optimal_answer" : "Bioinformatics.|It"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What do bioinformatics tools do?",
+    "answer" :"Bioinformatics tools aid in the comparison of genetic and genomic data and more generally in the understanding of evolutionary aspects of molecular biology\\.",
+    "optimal_answer" : "aid in the comparison of genetic and genomic data"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "Which field of science is helpful to analyze and catalogue the biological pathways and networks that are an important part of systems biology?",
+    "answer" :"At a more integrative level, it helps analyze and catalogue the biological pathways and networks that are an important part of systems biology\\.",
+    "optimal_answer" : "Bioinformatics|It"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What does bioinformatics aid us to simulate and model?",
+    "answer" :"In structural biology, bioinformatics aids in the simulation and modeling of DNA, RNA, and protein structures as well as molecular interactions\\.",
+    "optimal_answer" : "DNA, RNA, and protein structures as well as molecular interactions"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "Who coined the term bioinformatics ?",
+    "answer" :"Paulien Hogeweg and Ben Hesper coined the term bioinformatics in 1970 to refer to the study of information processes in biotic systems\\.  ",
+    "optimal_answer" : "Paulien Hogeweg and Ben Hesper"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "When was the term bioinformatics coined?",
+    "answer" :"Paulien Hogeweg and Ben Hesper coined the term bioinformatics in 1970 to refer to the study of information processes in biotic systems\\.  ",
+    "optimal_answer" : "1970"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What do the important sub-disciplines within bioinformatics and computational biology include?",
+    "answer" :"Important sub-disciplines within bioinformatics and computational biology include: Development and implementation of computer programs that enable efficient access to use and management of various types of information, development of new algorithms \\(mathematical formulas\\) and statistical measures that assess relationships among members of large data sets\\.",
+    "optimal_answer" : "Development and implementation of computer programs that enable efficient access to use and management of various types of information, development of new algorithms( mathematical formulas) and statistical measures that assess relationships among members of large data sets"
+  },
+  {
+    "source": "",
+    "file": "Bioinformatics.txt",
+    "query": "What is the primary goal of bioinformatics?",
+    "answer" :"The primary goal of bioinformatics is to increase the understanding of biological processes\\.",
+    "optimal_answer" : "To increase the understanding of biological processes"
+  }
+]

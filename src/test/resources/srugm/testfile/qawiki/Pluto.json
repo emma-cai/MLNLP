@@ -1,0 +1,16 @@
+[
+  {
+    "source":"",
+    "file": "Pluto.txt",
+    "query": "What is the largest object in the Kuiper belt?",
+    "answer" :"Pluto \\(minor-planet designation: 134340 Pluto\\) is the largest object in the Kuiper belt,  the tenth-most-massive known body directly orbiting the Sun, and the second-most-massive known dwarf planet, after Eris\\.",
+    "optimal_answer" : "Pluto"
+  },
+  {
+    "source":"",
+    "file": "Pluto.txt",
+    "query": "What is the tenth-most-massive known body directly orbiting the Sun?",
+    "answer" :"Pluto \\(minor-planet designation: 134340 Pluto\\) is the largest object in the Kuiper belt,  the tenth-most-massive known body directly orbiting the Sun, and the second-most-massive known dwarf planet, after Eris\\.",
+    "optimal_answer" : "Pluto"
+  }
+]

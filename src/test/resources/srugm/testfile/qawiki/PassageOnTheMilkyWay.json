@@ -1,0 +1,93 @@
+[
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "What is Milky Way?",
+    "answer" :"The Milky Way is the galaxy that contains our Solar System\\.|Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies—now known to be billions\\.",
+    "optimal_answer": "the galaxy that contains our Solar System"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "What is the Milky Way?",
+    "answer" :"The Milky Way is the galaxy that contains our Solar System\\.|Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies—now known to be billions\\.",
+    "optimal_answer": "The galaxy that contains our Solar System"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": " How the name \"milky\" is derived? ",
+    "answer" :"Its name \\\"milky\\\" is derived from its appearance as a dim glowing band arching across the night sky in which the naked eye cannot distinguish individual stars\\.",
+    "optimal_answer": "from its appearance"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "Which term is a translation of the Latin via lactea?",
+    "answer" :"The term \\\"Milky Way\\\" is a translation of the Latin via lactea, from the Greek\\.",
+    "optimal_answer": "Milky Way"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "How does the Milky Way appears from Earth?",
+    "answer" :"From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within\\.",
+    "optimal_answer": "As a band."
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "What appears as a band from Earth?",
+    "answer" :"From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within\\.",
+    "optimal_answer": "Milky Way"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "Why the Milky Way appears as a band from Earth?",
+    "answer" :"From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within\\.",
+    "optimal_answer": "its disk-shaped structure is viewed from within"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "Who first resolved the band of light into individual stars?",
+    "answer" :"Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610\\.",
+    "optimal_answer": "Galileo Galilei"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "What did Galileo Galilei first resolved?",
+    "answer" :"Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610\\.",
+    "optimal_answer": "the band of light into individual stars"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "When did Galileo Galilei first resolve the band of light into individual stars?",
+    "answer" :"Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610\\.",
+    "optimal_answer": "1610"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "With which instrument did Galileo Galilei resolve the band of light into individual stars?",
+    "answer" :"Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610\\.",
+    "optimal_answer": "((with his )?telescope)"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "What did the observations made by Edwin Hubble show?",
+    "answer" :"Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies—now known to be billions\\.",
+    "optimal_answer": "the Milky Way is just one of many galaxies - now known to be billions"
+  },
+  {
+    "source":"",
+    "file": "PassageOnTheMilkyWay.txt",
+    "query": "Who participated in the Great Debate in 1920?",
+    "answer" :"Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies—now known to be billions\\.",
+    "optimal_answer": "Harlow Shapley and Heber Curtis"
+  }
+]
