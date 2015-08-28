@@ -1,9 +1,9 @@
 package org.mlnlp.nlp.answerextraction.feature;
 
-import org.maochen.nlp.datastructure.DNode;
-import org.maochen.nlp.datastructure.DTree;
-import org.maochen.nlp.datastructure.LangLib;
-import org.maochen.nlp.ml.datastructure.Tuple;
+import org.maochen.nlp.ml.Tuple;
+import org.maochen.nlp.parser.DNode;
+import org.maochen.nlp.parser.DTree;
+import org.maochen.nlp.parser.LangLib;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

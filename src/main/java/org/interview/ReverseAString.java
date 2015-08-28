@@ -16,10 +16,17 @@ public class ReverseAString {
             throw new InvalidInputStringException();
         }
 //        return tryStringBuffer(inputStr);
-        return tryCharacterArray(inputStr);
+//        return tryCharacterArray(inputStr);
+        return tryString(inputStr);
     }
 
-    private static String try
+    private static String tryString(String inputStr) {
+        String reversed = "";
+        for (int i = inputStr.length()-1; i >= 0; i--) {
+            reversed += inputStr.charAt(i);
+        }
+        return reversed;
+    }
 
     private static String tryCharacterArray(String inputStr) {
         StringBuffer stringBuffer = new StringBuffer();
