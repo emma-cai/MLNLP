@@ -33,7 +33,7 @@
         <dependency>
             <groupId>org.maochen.nlp</groupId>
             <artifactId>CoreNLP-NLP</artifactId>
-            <version>1.0.8</version>
+            <version>1.0.10-RC2</version>
         </dependency>
 
 
@@ -98,6 +98,11 @@
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
             <version>1.2.140</version>
+        </dependency>
+        <dependency>
+            <groupId>org.codehaus.jackson</groupId>
+            <artifactId>jackson-mapper-asl</artifactId>
+            <version>1.8.5</version>
         </dependency>
     </dependencies>
 

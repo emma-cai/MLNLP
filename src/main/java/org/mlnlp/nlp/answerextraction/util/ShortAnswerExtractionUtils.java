@@ -4,20 +4,12 @@ import com.google.common.collect.HashBasedTable;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Table;
-
 import org.apache.commons.lang3.StringUtils;
-import org.maochen.nlp.datastructure.DNode;
-import org.maochen.nlp.datastructure.DTree;
-import org.maochen.nlp.datastructure.LangLib;
+import org.maochen.nlp.parser.DNode;
+import org.maochen.nlp.parser.DTree;
+import org.maochen.nlp.parser.LangLib;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
-import java.util.Queue;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 /**

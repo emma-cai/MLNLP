@@ -1,8 +1,5 @@
 package org.mlnlp.tools.stanfordparser;
 
-import org.maochen.nlp.datastructure.DNode;
-import org.maochen.nlp.datastructure.DTree;
-import org.maochen.nlp.datastructure.LangLib;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

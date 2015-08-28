@@ -1,20 +1,13 @@
 package org.mlnlp.corpus.ontonotes.srl;
 
-import org.maochen.nlp.datastructure.DTree;
-import org.mlnlp.tools.stanfordparser.StanfordTreeBuilder;
+import edu.stanford.nlp.ling.CoreLabel;
+import edu.stanford.nlp.trees.*;
 
 import java.util.Collection;
 import java.util.List;
 import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import edu.stanford.nlp.ling.CoreLabel;
-import edu.stanford.nlp.trees.EnglishGrammaticalStructure;
-import edu.stanford.nlp.trees.SemanticHeadFinder;
-import edu.stanford.nlp.trees.Tree;
-import edu.stanford.nlp.trees.Treebank;
-import edu.stanford.nlp.trees.TypedDependency;
 
 /**
  * Created by qingqingcai on 7/21/15.
