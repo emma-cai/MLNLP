@@ -19,8 +19,6 @@ public class ReverseAString {
         return tryCharacterArray(inputStr);
     }
 
-    private static String try
-
     private static String tryCharacterArray(String inputStr) {
         StringBuffer stringBuffer = new StringBuffer();
         char[] chars = inputStr.toCharArray();
