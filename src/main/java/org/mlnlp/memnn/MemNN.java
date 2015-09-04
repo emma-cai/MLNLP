@@ -1,9 +1,9 @@
 package org.mlnlp.memnn;
 
+import org.apache.commons.lang3.StringUtils;
+import org.mlnlp.memnn.data.TrainingDataMatrix;
 import org.mlnlp.memnn.tensor.Matrix;
 import org.mlnlp.memnn.tensor.Tensor;
-
-import java.util.Random;
 
 /**
  * Created by qingqingcai on 9/3/15.
@@ -15,25 +15,23 @@ public class MemNN {
 
     public static void main(String[] args) {
 
-        // PhiX
-        double[] PhiXArray = {0.74248796, 0.2937881, 0.99412735, 0.02930586, 0.02384863, 0.43375763};
-        Matrix PhiX = new Matrix(PhiXArray, D, 1);
-        System.out.println(PhiX);
 
-        // PhiY
-        double[] PhiYArray = {1, 1, 0, 0, 0, 0, 1};
-        Matrix PhiY = new Matrix(PhiYArray, D, 1);
-        System.out.println(PhiY);
+        String filename = "/Users/qingqingcai/Desktop/simpledata/en-10k/qa1_single-supporting-fact_train.txt";
 
-        // U_Ot
-        Random random = new Random(123);
-        Matrix U_Ot = new Matrix(n, D);
-        U_Ot.initRandomUniform(-0.1, 0.1, random);
-        System.out.println(U_Ot.toString());
+        TrainingDataMatrix tdm = new TrainingDataMatrix();
+        tdm.load(filename);
+
+        for (int i = 0; i < tdm.matrix.length; i++) {
+            int id = tdm.trainingSampleIndexer.inverse().get(i);
+            String sentence = tdm.trainingData.stream().filter(t -> t.id == id).map(x -> x.sentence).findFirst().orElse(null);
+            System.out.print(sentence + StringUtils.SPACE);
+            for (int j = 0; j < tdm.matrix[i].length; j++) {
+                System.out.print(tdm.matrix[i][j] + StringUtils.SPACE);
+            }
+            System.out.println(StringUtils.EMPTY);
+        }
 
 
-        double score = s_Ot(PhiX, U_Ot, PhiY);
-        System.out.println("score = " + score);
 
     }
 

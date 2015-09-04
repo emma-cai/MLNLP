@@ -18,8 +18,8 @@ public class TrainingDataMatrix {
     // trainingDataIndex, Index in matrix (row)
     public BiMap<Integer, Integer> trainingSampleIndexer = HashBiMap.create();
 
-    List<String> matrixCol;
-    double[][] matrix;
+    public List<String> matrixCol;
+    public double[][] matrix;
 
     public void load(String trainingDataFile) {
         trainingData = Utility.readFile(trainingDataFile);
