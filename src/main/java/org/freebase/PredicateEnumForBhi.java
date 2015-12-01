@@ -7,10 +7,12 @@ import java.util.EnumSet;
  */
 public enum PredicateEnumForBhi {
 
-    POSTAL_CODE("location.postal_code.postal_code"),
-    COUNTRY("location.mailing_address.country"),
-    CITYTOWN("location.mailing_address.citytown"),
-    DISPLAY_NAME("common.notable_for.display_name"),
+    type_object_type("type.object.type"),
+    type_object_name("type.object.name"),
+    location_mailing_address_postal_code("location.mailing_address.postal_code"),
+    location_mailing_address_country("location.mailing_address.country"),
+    location_mailing_address_citytown("location.mailing_address.citytown"),
+    location_mailing_address_street_address("location.mailing_address.street_address"),
     UNKNOWN("unknown predicate");
 
     private String description;
@@ -24,10 +26,22 @@ public enum PredicateEnumForBhi {
     }
 
     public static PredicateEnumForBhi fromString(String str) {
-        try {
-            return valueOf(str);
-        } catch (Exception e) {
-            return UNKNOWN;
+        switch (str) {
+            case "location.mailing_address.postal_code":
+                return location_mailing_address_postal_code;
+            case "location.mailing_address.country":
+                return location_mailing_address_country;
+            case "location.mailing_address.citytown":
+                return location_mailing_address_citytown;
+            case "location.mailing_address.street_address":
+                return location_mailing_address_street_address;
+            default: {
+                try {
+                    return valueOf(str);
+                } catch (Exception e) {
+                    return UNKNOWN;
+                }
+            }
         }
     }
 }

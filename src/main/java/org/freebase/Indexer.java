@@ -92,7 +92,7 @@ public class Indexer {
         }
     }
 
-    private static  boolean isOneOfOurInterests(String predicate, String arg2, boolean isEnglishName) {
+    private static boolean isOneOfOurInterests(String predicate, String arg2, boolean isEnglishName) {
 
         switch (predicate) {
 //            case "location.postal_code.postal_code":
@@ -107,15 +107,11 @@ public class Indexer {
                     System.out.println(arg2);
                     System.out.println(arg2MappedToFreebase.toString());
                 }
-                if (arg2MappedToFreebase.isOneOf(
+                return arg2MappedToFreebase.isOneOf(
                         TypeEnumForBhi.LOCATION_CITYTOWN,
                         TypeEnumForBhi.LOCATION_COUNTRY,
                         TypeEnumForBhi.LOCATION_POSTAL_CODE,
-                        TypeEnumForBhi.LOCATION_US_STATE)) {
-                    return true;
-                } else {
-                    return false;
-                }
+                        TypeEnumForBhi.LOCATION_US_STATE);
             case "type.object.name":
                 return isEnglishName;
             default:
